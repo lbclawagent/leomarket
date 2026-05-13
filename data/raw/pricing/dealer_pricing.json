@@ -1,0 +1,837 @@
+{
+  "daraz_submersible": {
+    "site": "daraz_submersible",
+    "url": "https://www.daraz.com.bd/submersible-pump/",
+    "products": [],
+    "errors": [],
+    "raw_price_count": 1,
+    "price_range": "2020-2020"
+  },
+  "daraz_centrifugal": {
+    "site": "daraz_centrifugal",
+    "url": "https://www.daraz.com.bd/centrifugal-pump/",
+    "products": [],
+    "errors": [],
+    "raw_price_count": 1,
+    "price_range": "2020-2020"
+  },
+  "daraz_water_pump_1hp": {
+    "site": "daraz_water_pump_1hp",
+    "url": "https://www.daraz.com.bd/water-pump-1hp/",
+    "products": [],
+    "errors": [],
+    "raw_price_count": 1,
+    "price_range": "2020-2020"
+  },
+  "bdstall": {
+    "site": "bdstall",
+    "url": "https://www.bdstall.com/water-pump/",
+    "products": [
+      {
+        "name": "Water Pump Buying in Bangladesh",
+        "price": "৳ 12,040",
+        "href": ""
+      },
+      {
+        "name": "",
+        "price": "৳ 12,040",
+        "href": ""
+      },
+      {
+        "name": "",
+        "price": "৳ 2,000",
+        "href": ""
+      },
+      {
+        "name": "",
+        "price": "৳ 3,500",
+        "href": ""
+      },
+      {
+        "name": "",
+        "price": "৳ 6,880",
+        "href": ""
+      },
+      {
+        "name": "",
+        "price": "৳ 18,000",
+        "href": ""
+      },
+      {
+        "name": "",
+        "price": "৳ 7,649",
+        "href": ""
+      },
+      {
+        "name": "",
+        "price": "৳ 9,459",
+        "href": ""
+      },
+      {
+        "name": "",
+        "price": "৳ 9,800",
+        "href": ""
+      },
+      {
+        "name": "",
+        "price": "৳ 21,250",
+        "href": ""
+      },
+      {
+        "name": "",
+        "price": "৳ 16,150",
+        "href": ""
+      },
+      {
+        "name": "",
+        "price": "৳ 19,119",
+        "href": ""
+      },
+      {
+        "name": "",
+        "price": "৳ 11,500",
+        "href": ""
+      },
+      {
+        "name": "",
+        "price": "৳ 16,200",
+        "href": ""
+      },
+      {
+        "name": "",
+        "price": "৳ 13,800",
+        "href": ""
+      },
+      {
+        "name": "",
+        "price": "৳ 13,390",
+        "href": ""
+      },
+      {
+        "name": "",
+        "price": "৳ 19,549",
+        "href": ""
+      },
+      {
+        "name": "",
+        "price": "৳ 9,270",
+        "href": ""
+      },
+      {
+        "name": "",
+        "price": "৳ 9,000",
+        "href": ""
+      },
+      {
+        "name": "",
+        "price": "৳ 9,999",
+        "href": ""
+      },
+      {
+        "name": "",
+        "price": "৳ 21,799",
+        "href": ""
+      },
+      {
+        "name": "",
+        "price": "৳ 8,399",
+        "href": ""
+      },
+      {
+        "name": "",
+        "price": "৳ 2,950",
+        "href": ""
+      },
+      {
+        "name": "",
+        "price": "৳ 7,300",
+        "href": ""
+      },
+      {
+        "name": "",
+        "price": "৳ 4,400",
+        "href": ""
+      },
+      {
+        "name": "",
+        "price": "৳ 13,699",
+        "href": ""
+      },
+      {
+        "name": "",
+        "price": "৳ 14,999",
+        "href": ""
+      },
+      {
+        "name": "",
+        "price": "৳ 7,700",
+        "href": ""
+      },
+      {
+        "name": "",
+        "price": "৳ 12,040",
+        "href": ""
+      },
+      {
+        "name": "",
+        "price": "৳ 15,299",
+        "href": ""
+      },
+      {
+        "name": "",
+        "price": "৳ 17,000",
+        "href": ""
+      },
+      {
+        "name": "",
+        "price": "৳ 21,750",
+        "href": ""
+      },
+      {
+        "name": "",
+        "price": "৳ 10,500",
+        "href": ""
+      },
+      {
+        "name": "",
+        "price": "৳ 78,000",
+        "href": ""
+      },
+      {
+        "name": "",
+        "price": "৳ 1,300",
+        "href": ""
+      },
+      {
+        "name": "",
+        "price": "৳ 2,500",
+        "href": ""
+      },
+      {
+        "name": "",
+        "price": "৳ 2,700",
+        "href": ""
+      },
+      {
+        "name": "",
+        "price": "৳ 3,990",
+        "href": ""
+      },
+      {
+        "name": "",
+        "price": "৳ 13,000",
+        "href": ""
+      },
+      {
+        "name": "",
+        "price": "৳ 12,000",
+        "href": ""
+      },
+      {
+        "name": "",
+        "price": "৳ 32,000",
+        "href": ""
+      }
+    ],
+    "errors": [],
+    "raw_price_count": 96,
+    "price_range": "520-150000"
+  },
+  "othoba": {
+    "site": "othoba",
+    "url": "https://www.othoba.com/water-pump",
+    "products": [
+      {
+        "name": "",
+        "price": "|",
+        "href": ""
+      },
+      {
+        "name": "",
+        "price": "|",
+        "href": ""
+      },
+      {
+        "name": "",
+        "price": "|",
+        "href": ""
+      },
+      {
+        "name": "",
+        "price": "|",
+        "href": ""
+      },
+      {
+        "name": "",
+        "price": "|",
+        "href": ""
+      },
+      {
+        "name": "",
+        "price": "|",
+        "href": ""
+      },
+      {
+        "name": "",
+        "price": "",
+        "href": ""
+      },
+      {
+        "name": "",
+        "price": "",
+        "href": ""
+      },
+      {
+        "name": "",
+        "price": "Tk 3,861\n                    Tk 4,290",
+        "href": ""
+      },
+      {
+        "name": "",
+        "price": "Tk 3,861",
+        "href": ""
+      },
+      {
+        "name": "",
+        "price": "",
+        "href": ""
+      },
+      {
+        "name": "",
+        "price": "Free delivery",
+        "href": ""
+      },
+      {
+        "name": "",
+        "price": "|",
+        "href": ""
+      },
+      {
+        "name": "",
+        "price": "|",
+        "href": ""
+      },
+      {
+        "name": "",
+        "price": "|",
+        "href": ""
+      },
+      {
+        "name": "",
+        "price": "",
+        "href": ""
+      },
+      {
+        "name": "",
+        "price": "",
+        "href": ""
+      },
+      {
+        "name": "",
+        "price": "",
+        "href": ""
+      },
+      {
+        "name": "",
+        "price": "",
+        "href": ""
+      },
+      {
+        "name": "",
+        "price": "Tk 39,123\n                    Tk 43,470",
+        "href": ""
+      },
+      {
+        "name": "",
+        "price": "Tk 39,123",
+        "href": ""
+      },
+      {
+        "name": "",
+        "price": "",
+        "href": ""
+      },
+      {
+        "name": "",
+        "price": "Free delivery",
+        "href": ""
+      },
+      {
+        "name": "",
+        "price": "|",
+        "href": ""
+      },
+      {
+        "name": "",
+        "price": "|",
+        "href": ""
+      },
+      {
+        "name": "",
+        "price": "|",
+        "href": ""
+      },
+      {
+        "name": "",
+        "price": "",
+        "href": ""
+      },
+      {
+        "name": "",
+        "price": "",
+        "href": ""
+      },
+      {
+        "name": "",
+        "price": "Tk 6,030\n                    Tk 6,700",
+        "href": ""
+      },
+      {
+        "name": "",
+        "price": "Tk 6,030",
+        "href": ""
+      },
+      {
+        "name": "",
+        "price": "",
+        "href": ""
+      },
+      {
+        "name": "",
+        "price": "Free delivery",
+        "href": ""
+      },
+      {
+        "name": "",
+        "price": "|",
+        "href": ""
+      },
+      {
+        "name": "",
+        "price": "|",
+        "href": ""
+      },
+      {
+        "name": "",
+        "price": "|",
+        "href": ""
+      },
+      {
+        "name": "",
+        "price": "",
+        "href": ""
+      },
+      {
+        "name": "",
+        "price": "",
+        "href": ""
+      },
+      {
+        "name": "",
+        "price": "",
+        "href": ""
+      },
+      {
+        "name": "",
+        "price": "",
+        "href": ""
+      },
+      {
+        "name": "",
+        "price": "Tk 32,607\n                    Tk 36,230",
+        "href": ""
+      },
+      {
+        "name": "",
+        "price": "Tk 32,607",
+        "href": ""
+      },
+      {
+        "name": "",
+        "price": "",
+        "href": ""
+      },
+      {
+        "name": "",
+        "price": "Free delivery",
+        "href": ""
+      },
+      {
+        "name": "",
+        "price": "|",
+        "href": ""
+      },
+      {
+        "name": "",
+        "price": "|",
+        "href": ""
+      },
+      {
+        "name": "",
+        "price": "|",
+        "href": ""
+      },
+      {
+        "name": "",
+        "price": "",
+        "href": ""
+      },
+      {
+        "name": "",
+        "price": "",
+        "href": ""
+      },
+      {
+        "name": "",
+        "price": "",
+        "href": ""
+      },
+      {
+        "name": "",
+        "price": "",
+        "href": ""
+      }
+    ],
+    "errors": [],
+    "raw_price_count": 104,
+    "price_range": "750-100220"
+  },
+  "melmart": {
+    "site": "melmart",
+    "url": "https://www.melmartbd.com/product-category/water-pump/",
+    "products": [
+      {
+        "name": "Water Pump",
+        "price": "৳ 8,500.00 Original price was: ৳ 8,500.00.৳ 8,100.",
+        "href": ""
+      },
+      {
+        "name": "Best Collection of Water Pump Prices in Bangladesh",
+        "price": "",
+        "href": ""
+      },
+      {
+        "name": "1HP MEL Irrigation Centrifugal Pump, HFM-5B",
+        "price": "৳ 8,500.00 Original price was: ৳ 8,500.00.৳ 8,100.",
+        "href": ""
+      },
+      {
+        "name": "1HP MEL Irrigation Centrifugal Pump, HFM-5B",
+        "price": "৳ 8,500.00 Original price was: ৳ 8,500.00.৳ 8,100.",
+        "href": ""
+      },
+      {
+        "name": "1HP MEL Irrigation Centrifugal Pump, HFM-5B",
+        "price": "৳ 8,500.00 Original price was: ৳ 8,500.00.৳ 8,100.",
+        "href": ""
+      },
+      {
+        "name": "1.5HP MARQUIS 3″ Borehole Submersible Pump, 3SWm 3-31",
+        "price": "৳ 19,700.00 Original price was: ৳ 19,700.00.৳ 18,7",
+        "href": ""
+      },
+      {
+        "name": "1.5HP MARQUIS 3″ Borehole Submersible Pump, 3SWm 3-31",
+        "price": "৳ 19,700.00 Original price was: ৳ 19,700.00.৳ 18,7",
+        "href": ""
+      },
+      {
+        "name": "0.5HP MARQUIS 4″ Borehole Submersible Pump, 4SWm 4-7",
+        "price": "৳ 24,000.00 Original price was: ৳ 24,000.00.৳ 22,8",
+        "href": ""
+      },
+      {
+        "name": "0.5HP MARQUIS 4″ Borehole Submersible Pump, 4SWm 4-7",
+        "price": "৳ 24,000.00 Original price was: ৳ 24,000.00.৳ 22,8",
+        "href": ""
+      },
+      {
+        "name": "2HP MARQUIS 4″ Borehole Submersible Pump, 4SWm 6-15",
+        "price": "৳ 24,000.00 Original price was: ৳ 24,000.00.৳ 22,8",
+        "href": ""
+      },
+      {
+        "name": "2HP MARQUIS 4″ Borehole Submersible Pump, 4SWm 6-15",
+        "price": "৳ 24,000.00 Original price was: ৳ 24,000.00.৳ 22,8",
+        "href": ""
+      },
+      {
+        "name": "0.75HP MARQUIS 4″ Borehole Submersible Pump, 4SWm 7-7",
+        "price": "৳ 14,000.00 Original price was: ৳ 14,000.00.৳ 13,3",
+        "href": ""
+      },
+      {
+        "name": "0.75HP MARQUIS 4″ Borehole Submersible Pump, 4SWm 7-7",
+        "price": "৳ 14,000.00 Original price was: ৳ 14,000.00.৳ 13,3",
+        "href": ""
+      },
+      {
+        "name": "3.5HP MARQUIS 4″ Borehole Submersible Pump, 4SWm 8-20",
+        "price": "৳ 33,500.00 Original price was: ৳ 33,500.00.৳ 31,8",
+        "href": ""
+      },
+      {
+        "name": "3.5HP MARQUIS 4″ Borehole Submersible Pump, 4SWm 8-20",
+        "price": "৳ 33,500.00 Original price was: ৳ 33,500.00.৳ 31,8",
+        "href": ""
+      },
+      {
+        "name": "1.5HP MARQUIS 4″ Borehole Submersible Pump, 4SWm 16-4",
+        "price": "৳ 19,800.00 Original price was: ৳ 19,800.00.৳ 18,8",
+        "href": ""
+      },
+      {
+        "name": "1.5HP MARQUIS 4″ Borehole Submersible Pump, 4SWm 16-4",
+        "price": "৳ 19,800.00 Original price was: ৳ 19,800.00.৳ 18,8",
+        "href": ""
+      },
+      {
+        "name": "3HP MARQUIS 4″ Borehole Submersible Pump, 4SWm 16-10",
+        "price": "৳ 29,500.00 Original price was: ৳ 29,500.00.৳ 28,0",
+        "href": ""
+      },
+      {
+        "name": "3HP MARQUIS 4″ Borehole Submersible Pump, 4SWm 16-10",
+        "price": "৳ 29,500.00 Original price was: ৳ 29,500.00.৳ 28,0",
+        "href": ""
+      },
+      {
+        "name": "2HP MARQUIS Drainage Submersible Pump for Sewage & Construction, MWSD40-11-1.5CA",
+        "price": "৳ 14,500.00 Original price was: ৳ 14,500.00.৳ 13,8",
+        "href": ""
+      },
+      {
+        "name": "2HP MARQUIS Drainage Submersible Pump for Sewage & Construction, MWSD40-11-1.5CA",
+        "price": "৳ 14,500.00 Original price was: ৳ 14,500.00.৳ 13,8",
+        "href": ""
+      },
+      {
+        "name": "1.5HP MARQUIS Drainage Submersible Pump for Sewage & Construction, MWSD25-12-1.1CA",
+        "price": "৳ 12,500.00 Original price was: ৳ 12,500.00.৳ 11,9",
+        "href": ""
+      },
+      {
+        "name": "1.5HP MARQUIS Drainage Submersible Pump for Sewage & Construction, MWSD25-12-1.1CA",
+        "price": "৳ 12,500.00 Original price was: ৳ 12,500.00.৳ 11,9",
+        "href": ""
+      },
+      {
+        "name": "1HP MARQUIS Drainage Submersible Pump for Sewage & Construction, MWSD20-10-0.75CA",
+        "price": "৳ 11,000.00 Original price was: ৳ 11,000.00.৳ 10,4",
+        "href": ""
+      },
+      {
+        "name": "1HP MARQUIS Drainage Submersible Pump for Sewage & Construction, MWSD20-10-0.75CA",
+        "price": "৳ 11,000.00 Original price was: ৳ 11,000.00.৳ 10,4",
+        "href": ""
+      },
+      {
+        "name": "5.5HP MARQUIS 6″ Borehole Submersible Pump, 6SWRm 45-3A",
+        "price": "৳ 55,000.00 Original price was: ৳ 55,000.00.৳ 52,2",
+        "href": ""
+      },
+      {
+        "name": "5.5HP MARQUIS 6″ Borehole Submersible Pump, 6SWRm 45-3A",
+        "price": "৳ 55,000.00 Original price was: ৳ 55,000.00.৳ 52,2",
+        "href": ""
+      },
+      {
+        "name": "10HP MARQUIS 4″ Borehole Submersible Pump, 4SW 12-31",
+        "price": "৳ 58,000.00 Original price was: ৳ 58,000.00.৳ 55,1",
+        "href": ""
+      },
+      {
+        "name": "10HP MARQUIS 4″ Borehole Submersible Pump, 4SW 12-31",
+        "price": "৳ 58,000.00 Original price was: ৳ 58,000.00.৳ 55,1",
+        "href": ""
+      },
+      {
+        "name": "3.5HP MARQUIS 4″ Borehole Submersible Pump, 4SWm 6-24",
+        "price": "৳ 34,000.00 Original price was: ৳ 34,000.00.৳ 32,3",
+        "href": ""
+      },
+      {
+        "name": "3.5HP MARQUIS 4″ Borehole Submersible Pump, 4SWm 6-24",
+        "price": "৳ 34,000.00 Original price was: ৳ 34,000.00.৳ 32,3",
+        "href": ""
+      },
+      {
+        "name": "3HP MARQUIS 4″ Borehole Submersible Pump, 4SWm 6-21",
+        "price": "৳ 28,800.00 Original price was: ৳ 28,800.00.৳ 27,4",
+        "href": ""
+      },
+      {
+        "name": "3HP MARQUIS 4″ Borehole Submersible Pump, 4SWm 6-21",
+        "price": "৳ 28,800.00 Original price was: ৳ 28,800.00.৳ 27,4",
+        "href": ""
+      },
+      {
+        "name": "3HP MARQUIS Vertical Multi-Stage Centrifugal Pump, MSV 4-120",
+        "price": "৳ 52,500.00 Original price was: ৳ 52,500.00.৳ 49,9",
+        "href": ""
+      },
+      {
+        "name": "3HP MARQUIS Vertical Multi-Stage Centrifugal Pump, MSV 4-120",
+        "price": "৳ 52,500.00 Original price was: ৳ 52,500.00.৳ 49,9",
+        "href": ""
+      },
+      {
+        "name": "2HP MARQUIS Vertical Multi-Stage Centrifugal Pump, MSV 8-40",
+        "price": "৳ 50,000.00 Original price was: ৳ 50,000.00.৳ 47,5",
+        "href": ""
+      },
+      {
+        "name": "2HP MARQUIS Vertical Multi-Stage Centrifugal Pump, MSV 8-40",
+        "price": "৳ 50,000.00 Original price was: ৳ 50,000.00.৳ 47,5",
+        "href": ""
+      },
+      {
+        "name": "0.22HP/162W MARQUIS Smart Booster Pump, ZERO/2.5-30D",
+        "price": "৳ 8,800.00 Original price was: ৳ 8,800.00.৳ 8,600.",
+        "href": ""
+      },
+      {
+        "name": "0.22HP/162W MARQUIS Smart Booster Pump, ZERO/2.5-30D",
+        "price": "৳ 8,800.00 Original price was: ৳ 8,800.00.৳ 8,600.",
+        "href": ""
+      },
+      {
+        "name": "0.13HP/96W MARQUIS Smart Booster Pump, ZERO/2-20D",
+        "price": "৳ 6,800.00 Original price was: ৳ 6,800.00.৳ 6,500.",
+        "href": ""
+      },
+      {
+        "name": "0.13HP/96W MARQUIS Smart Booster Pump, ZERO/2-20D",
+        "price": "৳ 6,800.00 Original price was: ৳ 6,800.00.৳ 6,500.",
+        "href": ""
+      },
+      {
+        "name": "1HP MARQUIS Self-Priming Jet Pump, MJm 100X",
+        "price": "৳ 8,000.00 Original price was: ৳ 8,000.00.৳ 7,600.",
+        "href": ""
+      },
+      {
+        "name": "1HP MARQUIS Self-Priming Jet Pump, MJm 100X",
+        "price": "৳ 8,000.00 Original price was: ৳ 8,000.00.৳ 7,600.",
+        "href": ""
+      },
+      {
+        "name": "1HP MARQUIS Self-Priming Jet Pump, MJm 10M",
+        "price": "৳ 8,600.00 Original price was: ৳ 8,600.00.৳ 8,250.",
+        "href": ""
+      },
+      {
+        "name": "1HP MARQUIS Self-Priming Jet Pump, MJm 10M",
+        "price": "৳ 8,600.00 Original price was: ৳ 8,600.00.৳ 8,250.",
+        "href": ""
+      },
+      {
+        "name": "1HP MARQUIS Irrigation Centrifugal Pump, MGA/1A",
+        "price": "৳ 9,500.00 Original price was: ৳ 9,500.00.৳ 9,050.",
+        "href": ""
+      },
+      {
+        "name": "1HP MARQUIS Irrigation Centrifugal Pump, MGA/1A",
+        "price": "৳ 9,500.00 Original price was: ৳ 9,500.00.৳ 9,050.",
+        "href": ""
+      },
+      {
+        "name": "0.5HP MARQUIS 4″ Borehole Submersible Pump, 4SWm 6-5",
+        "price": "৳ 12,500.00 Original price was: ৳ 12,500.00.৳ 11,9",
+        "href": ""
+      },
+      {
+        "name": "0.5HP MARQUIS 4″ Borehole Submersible Pump, 4SWm 6-5",
+        "price": "৳ 12,500.00 Original price was: ৳ 12,500.00.৳ 11,9",
+        "href": ""
+      },
+      {
+        "name": "3HP MARQUIS 5″-Borehole Submersible Pump, 5SWm 30-3",
+        "price": "৳ 39,500.00 Original price was: ৳ 39,500.00.৳ 37,5",
+        "href": ""
+      }
+    ],
+    "errors": [],
+    "raw_price_count": 100,
+    "price_range": "1208-121000"
+  },
+  "pedrollo": {
+    "site": "pedrollo",
+    "url": "https://pedrollo.com.bd/brand/pedrollo/",
+    "products": [
+      {
+        "name": "4″ SUBMERSIBLE MONOBLOCK Series – 4BLOCK Model",
+        "price": "",
+        "href": ""
+      },
+      {
+        "name": "4″ SUBMERSIBLE MONOBLOCK Series – 4BLOCK Model",
+        "price": "",
+        "href": ""
+      },
+      {
+        "name": "4″ SUBMERSIBLE MONOBLOCK Series – 4BLOCK Model",
+        "price": "",
+        "href": ""
+      },
+      {
+        "name": "4″ SUBMERSIBLE Series – 4SR Model",
+        "price": "",
+        "href": ""
+      },
+      {
+        "name": "6″ SUBMERSIBLE Series – 6SR Model",
+        "price": "",
+        "href": ""
+      },
+      {
+        "name": "CENTRIFUGAL Series – 2CP Model",
+        "price": "",
+        "href": ""
+      },
+      {
+        "name": "CENTRIFUGAL Series – AL-RED Model",
+        "price": "",
+        "href": ""
+      },
+      {
+        "name": "CENTRIFUGAL Series – CP Model",
+        "price": "",
+        "href": ""
+      },
+      {
+        "name": "CENTRIFUGAL Series – HF Model",
+        "price": "",
+        "href": ""
+      },
+      {
+        "name": "EASYPRESS Series",
+        "price": "",
+        "href": ""
+      },
+      {
+        "name": "PERIPHERAL Series – PK Model",
+        "price": "",
+        "href": ""
+      },
+      {
+        "name": "PERIPHERAL Series – PQ Model",
+        "price": "",
+        "href": ""
+      },
+      {
+        "name": "PERIPHERAL Series – PQA Model",
+        "price": "",
+        "href": ""
+      },
+      {
+        "name": "PERIPHERAL Series – PV Model",
+        "price": "",
+        "href": ""
+      }
+    ],
+    "errors": [],
+    "raw_price_count": 3,
+    "price_range": "1985-2026"
+  }
+}

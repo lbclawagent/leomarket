@@ -1,0 +1,2176 @@
+Import Statement(IM-7-Bond)
+Period: 1st January,2026 to 31st January,2026
+HSCODE Tarrif Description Net_WT (kg) Assess Value (Tk)
+04022190 786,525 362,719,831
+04059000 Fats And Oils Derived From Milk (Excl. Butter And Dairy Spreads) 1,728 4,435,216
+04069000 Cheese, Nes 328 664,122
+05051000 Raw Feathers For Stuffing; Down 93,684 861,976,884
+05059000 Skins And Parts Of Birds (Excl. Feathers For Stuffing; Down) 600 5,554,537
+08028090 Other Areca nuts, EXCL. Wrapped/canned upto 2.5 Kg 3,277,946 859,556,771
+08029919 Betelnuts 409,080 100,002,884
+11081200 Maize (Corn) Starch 86,000 5,561,957
+11081400 Manioc (Cassava) Starch 149,000 12,214,984
+14019090 Other than Areca Leaves; Sal Leaves; Siali Leaves; Polash Leaves 11,220 3,907,355
+15071000 CRUDE OIL, WHETHER OR NOT DEGUMMED 71,532,439 10,495,000,622
+15111000 Crude oil 984,200 123,278,956
+15119090 Palm Oil(Excl.Cude)&Its Fractns....Nes.Incld.Refiend Palm Oil 74,296,628 9,551,976,130
+15171090 Margarine, excl liquid margarine other than 10kg or above packing 399 545,993
+15180000 Animal Or Vegetable Fats And Oils... Chemically Modified, Nes 1,180 523,174
+15211000 Vegetable waxes (excl. triglycerides) 375 298,009
+17011400 Other cane sugar 82,154,610 3,977,921,576
+17019900 Cane Or Beet Sugar, In Solid Form, Nes Including Chemically Kue Sucoose 729,000 60,238,504
+17023090 GLUCOSE AND GLUCOSE SYRUP, NOT CONTAINING FRUCTOSE OR CONTAINING.. EXCL. LIQUID GLUCO 62,000 6,637,315
+19019011 Filled milk powder 75,375 24,855,376
+19030000 Tapioca & Substitutes Prpd.From Starch In Flakes,Grains,Pearls,Sifting Etc 112,500 8,569,737
+20081100 Ground-Nuts, Prepared On Preserved 960 2,885,734
+20091900 Unfrzn.Orange Juice,Unfermented,Not Containing Added Spirit,Sweetened/Not 18,522 3,853,142
+20097900 OTHER, APPLE JUICE EXCL. BRIX VALUE NOT EXCEEDING 20 10,080 2,093,491
+20098900 Juice of any other single fruit or vegetable other than Cranberry Juice 8,442 1,753,301
+21069090 Other food preparations not elsewhere specified or incl.(excl. beverage concentrate) 3,240 1,179,207
+22019000 OTHER WATER, EXCL.MINERAL WATERS AND AERATED WATERS 90 2,253
+22029900 Waters, including mineral waters and aerated waters...Excl. Non-alcoholic beer 1,440 841,672
+22030000 Beer Made From Malt 35,798 9,355,504
+22082000 Spirits From Distilled Grape Wine Or Grape Marc 150 79,966
+22083000 Whiskeys 76,728 54,389,723
+22084000 Rum And Tafia 36 15,160
+22085000 Gin And Geneva 1,056 674,103
+22086000 Vodka 8,052 7,244,234
+22087000 Liqueurs And Cordials 488 294,777
+24012000 Tobacco, Partly Or Wholly Stemmed/Stripped 30,494 15,748,409
+24013000 Tobacco Refuse 31,805 1,620,883
+25010010 Pure Sodium Chloride Bp/Usp Pyrogen Free 351,000 3,524,242
+25010020 Salt (other than pure sodium chlo.)...solution ..salt boulder for crushing & salt in bul 28,000 340,182
+25010099 Other Salt 4,100 96,328
+25041000 Natural Graphite In Powder Or In Flakes 2,048 394,322
+25059000 Natural Sands(Ex.Silica & Quartz Sands & Metal-Bearing Sands Of Ch.26)Nes 3,162,000 9,364,338
+25070090 Kaolin And Other Kaolinic Clays, Whether Or Not Calcined 221 294,229
+25131000 Pumice stone 5,277,121 97,827,777
+25132000 Emery, Natural Corundum, Natural Garnet And Other Natural Abrasives 102,600 25,207,620
+25171010 Flint/grinding pebbles 1 992
+25171090 Broken or crushed stone 58,026,666 152,156,186
+25199000 Magnesia And Other Magnesium Oxide 12,000 2,339,086
+25201090 Gypsum; Anhydrite 18,017,220 78,699,070
+25221000 Quicklime 148,000 2,752,796
+25232100 White Portland Cement 200 24,793
+25232900 PORTLAND CEMENT, EXCL WHITE CEMENT, WHETHER OR NOT ARTIFICIALLY COLOURED 1,640,000 15,188,567
+25262010 Natural Steatite, Talc, Crushed Or Powdered 21,000 473,270
+26050000 Cobalt Ores And Concentrates 102 21,322
+Page 1 of 35
+HSCODE Tarrif Description Net_WT (kg) Assess Value (Tk)
+26180000 Granulated Slag (Slag Sand) From The Manufacture Of Iron Or Steel 10,000,000 37,301,149
+27075090 Other Aromatic Hydrocarbon Mixtures Of Which >=65% Distils At 250oc 29,440 5,486,477
+27079910 Rubber process oil imp. by VAT reg. tyre & tube manufacturers 1,400 272,924
+27079990 Other Oils And Other Products, Of The Distil Of Coal Tar. 30,097 4,665,961
+27090000 Petroleum Oils And Oils Obtained From Bituminous Minerals, Crude TV 165,285,889 10,853,792,052
+27101211 Motor spirit of HBOC Type, TV 10,438,080 882,628,256
+27101232 Naphtha, TV 1,080 424,691
+27101241 JP1 kerosene type jet fuels, TV 20,429,950 1,874,211,786
+27101250 Other medium oils and preparations 3,120 1,191,438
+27101262 High speed diesel oils, TV 277,350,398 24,130,435,388
+27101269 Other gas oils (EXCL. Lithg diesel oil &high speed disel oils) 150 199,321
+27101911 OTHER FUEL OILS FURNACE OILS, TV 65,847,281 3,944,080,087
+27101921 Base oil 9,787,192 1,393,229,941
+27101931 LUBRICATING OIL WHICH HAS ITS FLASHING POINT .. below 220 F b..Jy Abel close test 152,677 48,196,069
+27101939 OTHER HEAVY OILS AND PREPARATIONS, NES 360 177,546
+27101959 LIQUID PARAFIN OTHER THAN DRUM 2,626 1,038,168
+27101981 Greases (mineral) wrapped/canned up to 2.5kg 13 310,152
+27101989 Greases (mineral) other than wrapped/canned 780 413,795
+27101991 MINERAL OIL WHICH HAS ITS FLASIHING POINT =>200D F USED AT JUT OF OTHER FIBER 6,242 3,193,475
+27101999 OTHER HEAVY OILS AND PREPARATION, NES 960 869,022
+27109900 OTHER WASTE OILS 1,680 454,538
+27121000 Petroleum Jelly 7,920 2,258,725
+27122000 Paraffin Wax, Containing <0.75% Oil By Weight 120,144 27,638,436
+27129090 MICROCRYSTALLINE PETROLEUM WAX, SLACK WAX,OZOKERITE..,EXCL.PETROLEUM JELLY, PARAFFIN WAX 300 135,221
+27132090 Other Petrolium bitumen 6,075,500 377,496,457
+28020000 Sulphur, Sublimed Or Precipitated; Colloidal Sulphur 200 342,807
+28030000 Carbon (Carbon Blacks And Other Forms Of Carbon, Nesoi) 44,100 6,815,159
+28046900 Silicon Containing By Weight <99.99% Silicon 10,000 5,176,488
+28061000 Hydrogen Chloride (Hydrochloric Acid) 3,480 719,043
+28070000 Sulphuric Acid; Oleum 377,080 14,213,878
+28111100 Hydrogen Fluoride (Hydrofluoric Acid) 12 1,264
+28111900 Other Inorganic Acids, Nes 288 126,818
+28112200 Silicon Dioxide 164,329 27,153,447
+28112910 Silica gel 133,758 22,130,376
+28112990 Silica gel imported by other than VAT registered motorcycle assembling and manufa 3,871 3,135,268
+28142000 Ammonia In Aqueous Solution 75 2,678
+28151100 Sodium Hydroxide (Caustic Soda), Solid 868,200 57,552,399
+28151200 Sodium Hydroxide In Aqueous Solution (Soda Lye Or Liquid Soda) 104,000 5,979,809
+28152000 Potassium Hydroxide (Caustic Potash) 231 100,791
+28170000 Zinc Oxide; Zinc Peroxide 28,029 9,728,129
+28212000 Earth Colours Containing >=70% By Weight Of Combined Iron 300 476,814
+28220000 Cobalt Oxides And Hydroxides; Commercial Cobalt Oxides 464 439,294
+28230000 Titanium Oxides 9,000 3,690,780
+28251000 Hydrazine And Hydroxylamine And Their Inorganic Salts 29,500 11,689,793
+28259000 Other Inorganic Bases; Other Metal Oxides, Hydroxides And Peroxides, Nes 5,000 122,737
+28261200 Fluorides Of Aluminium 25 2,014
+28269000 Fluorosilicates Nes;Fluoroaluminates And Other Complex Fluorine Salts,Nes 60 309,503
+28271000 Ammonium Chloride 24,225 685,583
+28272000 Calcium Chloride 8,084 5,080,013
+28273200 Aluminium Chloride 7,100 389,179
+28281000 Commercial Calcium Hypochlorite And Other Calcium Hypochlorites 1,748,644 76,208,278
+28289000 Hypochlorites (Excl. Of Calcium) And Chlorites; Hypobromites 117,370 19,684,504
+28301000 Sodium Sulphides 382,000 19,925,880
+28311000 Dithionites And Sulphoxylates Of Sodium 1,147,140 173,284,791
+28319000 Dithionites And Sulphoxylates (Excl. Of Sodium) 12,504 7,975,840
+28321000 Sodium Sulphites 674,955 46,098,833
+28322000 Other Sulphites (Excl. Sodium) 22,050 1,144,210
+28323000 Thiosulphates 42,000 1,531,204
+28331100 Disodium Sulphate 24,587,400 445,438,778
+28331900 Sodium Sulphates (Excl. Disodium Sulphate) 9,000 1,209,785
+28332200 Sulphates Of Aluminium 89,300 2,996,813
+28332500 Sulphates Of Copper 1,749 815,252
+Page 2 of 35
+HSCODE Tarrif Description Net_WT (kg) Assess Value (Tk)
+28332700 Sulphates Of Barium 2,000 590,957
+28332910 Zinc sulphate 1,500 73,642
+28332920 CHROMIUM SULPHATE 499,000 58,675,736
+28332990 Sulphates; alums; peroxosulphates (persulphates), nes 1,350 2,175,942
+28333000 Alums 112,000 2,412,381
+28334000 Peroxosulphates (Persulphates) 4,025 3,257,325
+28352400 Phosphates Of Potassium 657 155,154
+28353100 Sodium Triphosphate (Sodium Tripolyphosphates) 35 14,176
+28353900 Polyphosphates, Nes 100 584,076
+28362000 Disodium Carbonate 8,584,100 375,943,229
+28363000 Sodium Hydrogencarbonate (Sodium Bicarbonate) 111,700 3,772,795
+28365000 Calcium Carbonate 169,069 3,921,923
+28371900 Other Cyanides, Cyanide Oxides (Excl. Sodium) 4,185 1,991,710
+28391900 Other Silicates And Com. Alkali Metal Silicates,Of Sodium (Ex.Metasilicate 109,600 2,957,546
+28415000 Other Chromates And Dichromates, Peroxochromates 422 204,332
+28416100 Potassium Permanganate 11,950 4,286,872
+28419000 Other Salts Of Oxometallic And Peroxometallic Acids, Nes 785 2,649,358
+28421090 Other salt of inorganic acids .. Excluding aluminium sodium silicate 25,000 801,608
+28429090 Other Salts Of Inorganic Acids Or Peroxoacids,Excl. Azides 250 85,916
+28432100 Silver Nitrate 2 76,424
+28470000 Hydrogen Peroxide, Whether Or Not Sokidified With Urea 246,580 10,920,839
+29023000 Toluene 900 307,210
+29025000 Styrene 48,500 11,616,622
+29029090 Other Cyclic Hydrocarbons, Nes 330 93,902
+29031100 Chloromethane (Methyl Chloride) And Chloroethane (Ethyl Chloride) 15,000 3,743,095
+29031200 Dichloromethane (Methylene Chloride) 10,800 1,159,902
+29041090 Hydrocarbon Derivatives Cont.Only Sulpho Grp.Treir Slats(Ex.Methane Sulp.. 2,304 855,508
+29049900 Other 20,040 7,633,512
+29051110 Methanol (Methyl Alcohol) 72,296 5,308,093
+29051290 Propan101 (propy1 alcohol) and propan201 (isopropy1 alcohol): 12,800 3,205,215
+29053100 Ethylene glycol (ethanediol) 64 1,069,097
+29072900 Other polyphenols, nes 4,400 2,451,113
+29094300 Monobutyl Ethers Of Ethylene Glycol Or Of Diethylene Glycol 211 23,503
+29094900 Other Ether-Alcohols And Their Halogenated... Derivatives, Nes 11,924 1,994,404
+29095000 Ether-Phenols, Ether-Alcohol-Phenols And Halogenated... Derivatives, Nes 1,580 1,884,065
+29096000 Alcohol, Ether And Ketone Peroxides And Their... Derivatives, Nes 112 106,072
+29130000 Halogenated, Sulphonated, Nitrated Or Nitrosated Derivatives Of 29.12 700 517,091
+29141200 Butanone (Methyl Ethyl Ketone) 2,610 948,745
+29142200 Cyclohexanone And Methylcyclohexanones 3,210 1,271,627
+29151100 Formic Acid 524,710 40,795,231
+29151200 Salts Of Formic Acid 118,000 9,452,354
+29151300 Esters Of Formic Acid 1,000 173,550
+29152100 Acetic Acid 1,231,210 133,419,879
+29153100 Ethyl Acetate 35,280 4,041,726
+29153200 Vinyl Acetate 15,200 2,055,156
+29153900 Other Esters Of Acetic Acids, Nes 3,054 1,774,325
+29157010 Stearic Acid,Their Salts And Esters 8,500 2,451,562
+29157020 Ethyl Palmitate And Isopropyl Palmitate 400 66,669
+29159000 Other Saturated Acyclic Monocarboxylic Acids And Their... Derivatives, Nes 45,010 3,381,251
+29161100 Acrylic Acid And Its Salts 16,000 2,303,748
+29161200 ESTERS OF ACRYLIC ACID 93,005 18,801,904
+29161400 ESTERS OF METHACRYLIC ACID 22,000 8,125,517
+29163100 Benzoic Acid, Its Salts And Esters 15,000 1,998,250
+29171100 Oxalic Acid, Its Salts And Esters 10,380 1,021,959
+29171900 Acyclic polycarboxylic acids, etc, their... derivatives, nes 12,000 3,120,884
+29173990 Other Aromatic Polycarboxylic Acids, Etc, Their... Derivatives, Nes 76,000 15,485,918
+29181100 Lactic Acid, Its Salts And Esters 23 2,152
+29181400 Citric Acid 49,725 8,966,013
+29181500 Salts And Esters Of Citric Acid 6,000 1,259,097
+29201900 Thiopho. esters... nitrosated derivatives: Excl. Parathion (ISO) &para.-methyl 6 3,635
+29209090 Oth.Ester Of Oth.Inorganic Acids(Exl.Of Hdrgn.Halides),Deriv.(Ex.Erythrit. 14,500 1,288,971
+29221100 Monoethanolamine And Its Salts 210 20,826
+Page 3 of 35
+HSCODE Tarrif Description Net_WT (kg) Assess Value (Tk)
+29221500 Triethanolamine 18,400 2,534,124
+29241100 MEPROBAMATE (INN) 1,470 1,159,511
+29241900 Acyclic amides (incl. acyclic carbamates) and derivatives; salts thereof,nes 10,000 3,130,093
+29270000 Diazo-, Azo- Or Azoxy-Compounds 19,000 7,237,400
+29291000 Isocyanates 41,125 10,352,605
+29309099 Other 6,000 1,239,517
+29339900 Heterocyclic compounds with nitrogen hetero-atom(s) only,nes 110 233,102
+29362900 Other Vitamins And Their Derivatives, Unmixed 500 845,124
+29392010 Quinine and its salts 10 40,503
+30059000 Wadding, Gauze, Etc With Pharmaceutical Substances For Retail Sale, Nes 15 11,627
+30067000 GEL PREPARATIONS DESIGNED TO BE USED IN HUMAN OR VETE..MEDICAL INSTRUMENTS 1,238 1,915,617
+31022100 Ammonium Sulphate 400 65,949
+32011000 Quebracho Extract 61,000 17,668,861
+32012000 Wattle Extract 136,500 36,678,129
+32021000 Synthetic Organic Tanning Substances 597,545 130,645,666
+32029000 Inorganic Tanning Substances; Tanning Preparations..., Nes 54,225 16,309,138
+32030000 Colouring Matter Of Vege./Animal Origin,& Prepa..As Spec.In Not 3 Chp.32 100 626,017
+32041100 Disperse Dyes And Preparations Based Thereon 403,550 533,378,506
+32041200 Acid Dyes And Preparations; Mordant Dyes And Preparations 104,396 110,175,654
+32041310 AZO DYES 7,250 6,807,949
+32041390 Other basic dyes and preparation 22,767 19,719,840
+32041400 Direct Dyes And Preparations Based Thereon 25,505 33,133,714
+32041500 Vat Dyes And Preparations Based Thereon 774,260 252,980,850
+32041600 Reactive Dyes And Preparations Based Thereon 2,660,082 1,910,825,289
+32041700 Pigments And Preparations Based Thereon 118,042 93,178,817
+32041900 Other Synthetic Organic Coloring Matter(Inc.Mixtrs) Of Prods 320411-320419 620,225 152,702,036
+32042000 Synthetic Organic Products Used As Fluorescent Brightening Agents 73,938 50,681,924
+32049000 Synthetic Organic Products Used As Luminophores 15,378 15,623,771
+32050000 Colour Lakes; Preparations Based On Colour Lakes As Specified In Note 3 193 223,164
+32061100 Pigments & Preparatns Based On Titanium Dioxide,Cont.=>80%Titanium Dioxide 96,781 29,164,338
+32061910 Pigments/Preparatns Based On Titanium Dioxide, Cont.< 80% Titanium Dioxide 239,000 21,146,659
+32061920 Color master batch 73,821 27,266,700
+32061990 Pigments/Preparatns Based On Titanium Dioxide, Cont.< 80% Titanium Dioxide 40,750 15,276,223
+32064900 Other Colouring Matter; Preparations As Specified In Note 3, Nes 16,110 5,730,318
+32065000 Inorganic Products Of A Kind Used As Luminophores 430 2,691,880
+32071000 Prepared Pigments, Opacifiers & Colours... For Ceramics And Glass Ind.Etc 654 1,024,325
+32081090 Other Paints Based On Polyesters, In A Non-Aqueous Medium 9,779 10,970,343
+32082099 Other Paints Based On Acrylic Or Vinyl Polymers, In A Non-Aqueous Medium 33,575 26,210,852
+32089090 Other Paints And Varnishes, In A Non-Aqueous Medium, Nes 229,152 126,976,466
+32091000 Based on acrylic or vinyl polymers 7,937 12,002,061
+32099090 Other Paints And Varnishes, In An Aqueous Medium, Nes 93,579 59,945,058
+32100020 Prepared Water Pigments Of A Kind Used For Finishing Leather For Cleaning. 4,835 2,944,607
+32100090 Other Paints & Varnishes 21,987 16,818,806
+32121000 Stamping Foils 995 1,702,495
+32129000 PIGMENTS(INCL.METALIC..) DISPERSED IN NON AQUEOUS MEDIA..,EXCL. STAMPING FOILS 19,501 7,538,984
+32139000 Artists', Students' Or Signboard Painters' Colours In Packings, Nes 10 11,147
+32141000 GLAZIERS PUTTY,GRAFTING PUTTY, RESIN CEMENTS, CAULKING COMPOUNDS AND OTHER MASTICS... 2,602 484,958
+32149000 Non-Refractory Surfacing Preparations 5,263 1,408,733
+32151100 Black printing ink, whether or not concentrated or solid 63,094 78,253,365
+32151900 Printing ink, whether or not concentrated or solid (excl. black) 697,166 463,355,717
+32159020 Ink for ball point pen imp by VAT reg ball point pen manf. Ind. 49 438,884
+32159090 Other Ink,Wheterh Or Not Concentrated Or Solid(Ex.Ink For Ball Points Pens 150,449 85,489,010
+33021010 Of A Kind Usd.Bvg.manf.&Imp.by VAT Reg.Bev.Inds.Contn.Alchol<0.5%absolute/vlm.Free Al 2,300 6,761,901
+33029000 Mixtures/With Basis Of Odorifer'S Subst'S Inc.Alc.Sol'S For Use In Ind Nes 50 33,807
+33030000 Perfumes And Toilet Waters 1,841 4,020,999
+33051000 Shampoos 4,350 1,856,132
+33053000 Hair Lacquers 11,730 3,273,168
+33059000 Preparations For Use On The Hair, Nes 19,007 12,240,925
+33071000 Pre-Shave, Shaving Or After-Shave Preparations 775 939,373
+33074900 Preparations For Deodorizing Rooms, Nes 100 96,156
+33079000 OTH.PREPARATIONS FOR PERFUMING, EXCL.(PRE-SHAVE..,PERSONAL..,PERFUMED BATH..) 17 74,490
+34011900 Soap And Organic Surface-Active Products In Bars, Etc, Nes 13,700 2,554,178
+Page 4 of 35
+HSCODE Tarrif Description Net_WT (kg) Assess Value (Tk)
+34012000 SOAP IN OTHER FORMS 4,940 2,268,684
+34023100 Anionic organic surface-active ageLinear alkylbenzene sulphonic acids and their salts 120,000 19,081,045
+34023990 Other than Chips of Sodium Isethionate 15,600 2,554,352
+34024100 Other organic surface-active agents, whether or not put up for retail sale :, Cationi 64,830 23,609,313
+34024290 Other organic surface-active agents, whether or not put up for retail sale :, Non-ion 324,070 72,061,868
+34024910 Other organic surface-active agents, NES 23,170 10,065,067
+34024990 Other organic surface-active agents, NES 7,180 2,916,895
+34025000 Preparations put up for retail sale 4,000 1,447,354
+34029010 Detergents 623,210 192,076,190
+34029020 Cleaning preparation for steel industries 13,191 4,478,324
+34029090 Washing & Cleaning Preparations (Excl. Detergents) 2,420,610 788,136,207
+34031100 Lub.Preparations For Treatement Of Tex.Leather Etc With=<70% Petroleum Oil 151,374 59,974,714
+34031900 Other Lubricating Preparations, With =<70% Petroleum Oil, Nes 74,505 32,686,069
+34039100 Lub.Preparations For Treatement Of Tex. Leather Etc, Nes 316,474 82,704,731
+34039910 Compressor oil 166 923,206
+34039930 Synthetic lubricating Oil 3,120 1,113,311
+34039990 Other Lubricating Preparations, Nes 22,720 22,383,098
+34042000 Artificial Waxes Of Polyethylene Glycol 40,000 7,186,693
+34049010 Other Waxes 2,005 567,898
+34049090 Artificial Waxes And Prepared Waxes, Nes 83,215 17,729,998
+34051000 Polishes, Creams And Similar Preparations For Footwear Or Leather 37,984 8,769,422
+34053000 Polishes And Similar Preparations For Coachwork (Excl. Metal Polishes) 4,865 954,883
+34054000 Scouring Pastes And Powders And Other Scouring Preparations 12,680 11,172,263
+34059010 Polishes and other preparations used in the finishing (including electroplating) of met 34,655 18,925,821
+34059090 Other polishes, creams and similar preparations, nes 1,610 1,048,083
+35011000 Casein 1,440 391,237
+35051000 Dextrin and other modified starches 2,020,476 197,871,379
+35052000 Glues Based On Starches, Dextrins Or Other Modified Starches 176,757 39,202,748
+35061000 Products Put Up As Glues Or Adhesives For Retail Sale, =<1kg 4,493 4,873,493
+35069110 Adhesives Based On Rubber Or Plastic (Incl. Artificial Resins) 36,720 20,144,724
+35069190 Adhesives Based On Rubber Or Plastic (Incl. Artificial Resins) 991,235 293,756,054
+35069900 Stripping chemical 128,762 49,696,617
+35071000 Rennet And Concentrates Thereof 7,525 3,242,941
+35079010 Streptokinase 5,200 918,782
+35079090 Other than Streptokinase 684,062 258,815,811
+37012000 Instant Print Flat Film, Unexposed 36 484,307
+37013000 23,595 34,394,058
+37024400 Photo Film, In Rolls, Non-Perforated, Width >105mm But =<610mm 246 1,217,160
+37040000 PHOTOGRAPHIC PLATES, FILM, PAPER, PAPERBOARD AND TEXTILES, EXPOSED BUT NOT DEVELOPED 1 1,975
+37050000 Photographic plates and film, exposed and developed, other than cinematographic film 282 1,903,096
+37071000 Sensitising emulsions 1,829 2,157,752
+37079000 OTH.CHEMICAL PREPARATIONS FOR PHOTOGRAPHIC USES..,EXCL.SENSITISING EMULSIONS 2,935 1,782,873
+38021000 Activated Carbon 22,680 6,262,071
+38061090 Rosin And Rasin Asids 900 736,362
+38069010 Derivatives of rosin and resin acids,...Rosin size 17,240 6,030,311
+38085200 Goods specified in Subheading Note 1 to this Chapter 728 3,166,581
+38089129 Insecticides, rodenticides... and similar products, for retail sale, nes 1,200 7,736,993
+38089220 Fungicides Chromatade copper arsenate 250 216,562
+38089291 Fungicides, NES In bulk 6,460 9,034,262
+38089299 Fungicides, NES Cxcl.in bulk 168 561,908
+38091000 Finishing Agents, Etc, With A Basis Of Amylaceous Substances Nes 7,833 3,380,332
+38099100 Finishing Agents Etc. Of A Kind Used In The Textile Or Like Industries Nes 5,824,775 1,872,309,344
+38099300 Finishing Agents Etc. Of A Kind Used In The Leather Or Like Industries Nes 119,395 47,839,196
+38101000 Pickling Preparations For Metal Surfaces;Soldering..Powders&Pastes..Mater. 9,470 9,019,481
+38109090 Pickling preparations for metal surface.... Excl. Submerge welding flux for LPG 970 5,356,843
+38111900 Anti-Knock Preparations (Excl. Based On Lead) 50 78,188
+38119000 OTHER PREPARATIONS, EXCL.ANTI-KNOCK PREPARATIONS, ADDITIVES FOR LUBRICATING OILS 1,117 1,416,609
+38121000 Prepared Rubber Accelerators 30,900 13,067,347
+38122000 Compound Plasticisers For Rubber Or Plastics, Nes 27,868 5,992,636
+38123910 Other 9,200 2,144,115
+38123990 Other 11,250 4,331,860
+38140010 Organic composite solvent 42,542 17,994,847
+Page 5 of 35
+HSCODE Tarrif Description Net_WT (kg) Assess Value (Tk)
+38140090 Organic Composite Solvents And Thinners, Nes; Paint Or Varnish Removers 190,329 52,355,163
+38151100 Supportedcatalysts With Nickel Or Its Compounds 490 445,615
+38159000 Reaction Initiators, Accelerators And Catalytic Preparations, Nes 8,583 3,052,131
+38190000 Hydraulic Brake Fluids And Similar Liquids With <70% Petroleum Oil 4,879 828,002
+38221900 Dignostic or lab. reagent (Exlud For alariam, Zika, blood-grouping) 0 66,024
+38231100 Stearic Acid 96,200 14,343,893
+38241000 Prepared Binders For Foundry Moulds Or Cores 57,050 17,294,326
+38244000 Prepared Additives For Cements, Mortars Or Concretes 41,300 1,458,170
+38245000 Non-Refractory Mortars And Concretes 12,500 379,711
+38249100 Mixtures and preparations consisting mainly of (5-ethyl-2-methyl-2-....... 1,908 2,839,209
+38249910 Other 1,010 824,124
+38249920 Chlorinated paraffin wax 6,000 1,464,883
+38249950 Coated cal.car....Imp by IND.IRC.VAT reg plastic goods_cal.car filler_cable manf.ind 263,500 8,100,884
+38249960 Desiccant 63,060 59,126,383
+38249992 Master batch not containing pigments 34,000 7,237,438
+38249999 Other 1,360,499 352,907,223
+39011000 Polyethylene having a specific gravity of less than 0.94 3,777,657 550,528,992
+39012000 Polyethylene having a specific gravity of 0.94 or more 6,831,900 891,693,222
+39013000 Ethylene-Vinyl Acetate Copolymers, In Primary Forms 883,616 155,142,235
+39014000 Ethylene-alpha-olefin copolymers, having a specific gravity of less than 0.94 13,248,390 1,740,161,169
+39019000 Other Polymers Of Ethylene, In Primary Forms, Nes 89,530 15,787,963
+39021000 Polypropylene, In Primary Forms 18,473,492 2,297,351,191
+39023000 Propylene Copolymers, In Primary Forms 1,268,825 155,019,720
+39029000 Other Polymers Of Propylene Or Of Other Olefins, In Primary Forms, Nes 100,459 9,339,993
+39031900 Polystyrene (Excl. Expansible), In Primary Forms 2,083,700 287,141,174
+39032000 Styrene-Acrylonitrile (San) Copolymers, In Primary Forms 1,550 1,222,589
+39033000 Acrylonitrile-butadiena-styrene(ABS) copolymers 266,850 49,147,113
+39039000 Polymers Of Styrene, In Primary Forms, Nes 278,050 45,256,653
+39041000 Polyvinyl Chloride, Not Mixed With Other Substances, In Primary Forms 75,613 16,691,342
+39042200 Plasticised Polyvinyl Chloride, In Primary Forms 224,550 43,523,566
+39051200 Polyvinyl Acetate In Aqueous Dispersion 46,920 16,024,282
+39052100 Vinyl Acetate Copolymers In Aqueous Dispersion 19,240 4,496,478
+39053000 Polyvinyl Alcohol, Whether Or Not Containing Unhydrolysed Acetate Groups 67,700 20,215,478
+39061000 Polymethyl Methacrylate, In Primary Forms 10,250 4,756,140
+39069000 Acrylic Polymers, In Primary Forms, Nes 2,146,525 498,752,616
+39071000 Polyacetals, In Primary Forms 94,975 19,502,077
+39072100 Other polyethers : Bis (polyoxyethylene) methylphosphonate 15,123 4,563,245
+39072900 Other polyethers :EXLCUDING Bis (polyoxyethylene) methylphosphonate 313,690 48,217,971
+39073000 Epoxide Resins, In Primary Forms 39,929 27,510,252
+39074000 Polycarbonate 30,105 8,622,466
+39076100 Having a viscosity number of 78 ml/g or higher 267,300 34,968,079
+39076900 Other 3,000 609,992
+39077000 Poly (lactic acid) 48,000 7,512,222
+39079100 Unsaturated Polyesters, In Primary Forms, Nes 593,616 122,826,814
+39079900 Polysters, In Primary Forms,NES 144,782 30,716,008
+39081000 Polyamide 6,11,12,6,6,6,9,6,10 or 6,12: 22,128 6,732,432
+39089000 Other polymides, in primary forms, nes 32,338 17,125,613
+39091000 UREA RESINS; THIOUREA RESINS 2,860 1,458,163
+39092000 Melamine resins 480 372,754
+39093100 Poly(methylene phenyl isocyanate) (crude MDI, polymeric MDI) 34,170 10,476,774
+39093900 Other 240 219,857
+39094000 Phenolic Resins, In Primary Forms 25 15,649
+39095000 Polyurethanes, In Primary Forms 232,577 117,559,098
+39100000 Silicones Inprimary Forms 424,909 150,118,000
+39111000 Petroleum Resins... Other Resins And Polyterpenes, In Primary Forms 18,916 3,853,625
+39119000 Polysulphides, Polysulphones And Other Products..., In Primary Forms 19,610 7,128,837
+39121200 Plasticised Cellulose Acetates, In Primary Forms 1,100 464,803
+39131000 Alginic Acid, Its Salts And Esters, In Primary Forms 39,080 25,405,902
+39139000 Natural and modified natural polymers, in primary forms 25 15,649
+39140000 Ion-Exchangers Based On Polymers Of 39.01 To 39.13, In Primary Forms 60,035 18,791,231
+39159000 Waste, Parings And Scrap, Of Other Plastics, Nes 298,619 19,571,931
+39161000 Monofilament Dimenson>1mm,Rods..&Prof.Sha.,Polym. Of Ethylene 27 48,671
+Page 6 of 35
+HSCODE Tarrif Description Net_WT (kg) Assess Value (Tk)
+39162000 Monofil..>1mm,..Of Vinyl Chloride For door, window and photo frame 879 779,396
+39169010 Monofil.Dimension>1mm,Rods..&Profile Shapes,Of Other Plastics 83 180,237
+39169020 Fibre reinforced polymer (FRP) sticks and profile shapes 40,901 21,503,431
+39169090 Monofil.Dimension>1mm,Rods..&Profile Shapes,Of Other Plastics 14,086 9,426,159
+39172100 Tubes, Pipes And Hoses, Rigid, Of Polymers Of Ethylene 13,164 21,985,809
+39172200 Tubes, Pipes And Hoses, Rigid, Of Polymers Of Propylene 85 47,147
+39172310 Pvc Shrinkable Tube(Plain) 1,989 920,112
+39172390 Tubes,Pipes And Hoses, Rigid, Of Polymers Of Vinyl Chloride, Nes 10,225 2,583,645
+39172991 Tubes, Pipes And Hoses, Rigid, Of Other Plastics, Nes 8,496 6,408,267
+39172999 Tubes, Pipes And Hoses, Rigid, Of Other Plastics, Nes 101,189 13,536,609
+39173290 Tubes, Pipes And Hoses, Not Reinforced, Without Fittings, Nes 102 187,358
+39173390 Other Tubes,Pipes&Hoses With Fittings 44 287,076
+39173990 Other Tubes, Pipes And Hoses, Nes 1,531 1,033,258
+39174000 Fittings, For Tubes, Pipes And Hoses, Of Plastic 6,119 1,465,114
+39189000 Floor, Wall Or Ceiling Coverings Of Plastics, Nes, In Rolls Or Tiles 2,982 878,177
+39191000 Self-Adhesive Tape, Plates, Strip..., In Rolls, Width =<20cm 140,709 86,579,107
+39199010 OTHER SELF-ADHESIVE PLATES, TAPE, STRIP, FOIL... OF PLASTICS, NES 952,960 386,423,328
+39199020 Performance Tape/Closure/Side Tape 47,583 32,786,582
+39199030 Scratch off label imp. by IND_IRC_VAT reg. SIM_Smart card or Gypsum Boad manf. ind 7 14,994
+39199091 Re-seal/Self adhesive tape 6,846 6,584,020
+39199099 OTHER SELF-ADHESIVE PLATES, TAPE, STRIP, FOIL... OF PLASTICS, NES 301,428 410,234,432
+39201010 Stretch Wrapping Film 50,101 13,730,920
+39201090 Plates..,Of Polymers Of Ethylene, Laminated.. Not Reinforced,Etc.,Nes 248,459 351,244,439
+39202010 Polymers of propylene in printed form 2,014 24,743,015
+39202020 Non-printed cast polypropylene film 47,793 10,399,986
+39202090 Other polymers of propylene(excl printed form) 1,250,864 315,698,290
+39203000 Plates..., Of Polymers Of Styrene, Laminated..Not Reinforced, Etc 9,087 3,025,693
+39204300 CONTAINING BY WEIGHT NOT LESS THAN 6% OF PLASTICISERS 51,743 10,496,965
+39204910 PVC FILM & PVDC FILM FOR BLISTER PACK FOR MEDICINE 5,433 1,432,822
+39204920 Printed PVC sheet 106,211 33,154,723
+39204930 PVC film imp. by Ind. IRC_VAT compliant medicine pack. Industries 7,650 1,380,895
+39204940 Unprinted PVC sheet 101 26,909
+39204950 PVC FILM IMP. BY IND. IRC VAT COMPLI. GYPSUM BOARD MFG IND. 64,912 16,256,706
+39204990 Other plates...,of polymers of vinyl chloride other than not<6% of plasticisers 689,173 169,085,647
+39205100 Plates..., Of Polymethyl Methacrylate, Laminated Not Reinforced, Etc 1,987 723,970
+39206100 Plates..., Of Polycarbonates,Laminated Not Reinforced, Etc 81 190,308
+39206210 poly(ethylene terephthalate in printed form 56,937 24,102,827
+39206290 Other poly(ethylene terepthalate) excl printed form 715,848 200,546,462
+39206390 Plates..., Of Unsaturated Polyesters, Laminated Not Reinforced, Etc 4,980 1,262,704
+39206910 Other polyester in printed form 1 29,016
+39206920 Unprinted in roll form imported by VAT registered plastic products manufacturing indu 5,010 1,256,788
+39206999 Other polyesters, Nes (excl. printed form) 627 2,362,773
+39207100 Plates..., Of Regenerated Cellulose, Laminated Not Reinforced, Etc 927 245,181
+39207300 Plates..., Of Cellulose Acetate, Not Reinforced, Etc 64,026 58,877,377
+39207900 Plates..., Of Other Cellulose Derivatives, Not Reinforced, Etc, Nes 13,803 1,827,735
+39209100 Plates..., Of Polyvinyl Butyral, Not Reinforced, Etc 1,923 1,091,641
+39209210 Other plastics polyamides in printed form 28 18,743
+39209220 Unprinted in roll form imported by VAT registered plastic products manufacturing indu 221 95,385
+39209290 Other plastics polymides, Nes (excl. printed form) 3,385 8,710,716
+39209910 Film For Blister Packing Of Other Plastics 59 50,263
+39209990 Plates..., Of Other Plastics, Not Reinforced, Etc, Nes 115,239 156,343,975
+39211100 Cellular Plates, Strips... Of Polymers Of Styrene 41,725 18,041,348
+39211200 Cellular Plates, Strips... Of Polymers Of Vinyl Chloride 189,129 67,974,512
+39211300 Cellular Plates, Strips... Of Polymers Of Polyurethanes 873,385 333,547,695
+39211400 Cellular Plates, Strips... Of Polymers Of Regenerated Cellulose 678 1,915,764
+39211910 Microcellular PET light sheet having a power saving capacity of 20% or more 4,540 2,738,682
+39211990 Microcellular PET light sheet having a power saving capa.of 20% or more, NES 233,772 181,754,260
+39219010 Vulcanised fibre sheet imp.in preunched,cut to size shape for the mfg.of silver cans. 7,576 4,419,275
+39219020 Multilayer extruded sheet for plastic.. imported by VAT regtd. plastic tube manufactu 4,469 2,019,997
+39219091 Other cellular plates, strips in printed form..., of plastics 1,008 1,446,747
+39219093 Tarpaulin 114,880 30,632,595
+39219099 Other cellular plates, strips ..., of plastics, nes 1,284,697 405,504,388
+Page 7 of 35
+HSCODE Tarrif Description Net_WT (kg) Assess Value (Tk)
+39222000 Lavatory Seats And Covers Of Plastics 1,220 91,341
+39229000 Bidets, Lavatory Pans... And Other Sanitary Ware Of Plastics, Nes 225 49,156
+39231000 Boxes, Cases, Crates And Similar Articles Of Plastics 68,962 16,952,741
+39232100 Sacks and bags (incl. cones) of polymers of ethylene 1,444,968 426,042,309
+39232910 AIRTIGHT STORAGE BAGS WITH ZIPPER 23,089 21,598,610
+39232990 Article for the conve..of polymers of ther plastic excl.airtght storage bag with zipp 204,391 73,977,667
+39233090 Other Carboys, Bottles, Flasks And Similar Articles Of Plastics 54 48,846
+39234010 Bobbins; Sliver/spinning can 25,950 10,388,640
+39235000 Stoppers, Lids, Caps And Other Closures Of Plastics 88,244 117,796,002
+39239010 Trays For Transportation And Keeping For Chicks And Eggs, Of Plastics 2 26,253
+39239090 Articles for the packing of goods, of plastics, nes 262,391 69,670,830
+39249090 Other Household Articles And Toilet Articles, Of Plastics, NES 12,719 6,977,038
+39259000 Builders' Ware Of Plastics, Nes 230 332,450
+39261000 Office Or School Supplies Of Plastics 179 443,217
+39262010 Gloves (Surgical) Of Plastics & Materials Of Heading 39.01-39.04 382 262,477
+39262090 Art.Of App.&Clothing Accessories(Exl.Gloves)Of Plastics Hd.No.39.01-39.04 2,935,241 1,452,514,536
+39264000 Statuettes And Other Ornamental Articles Of Plastics 2,106 7,323,308
+39269010 Plastic Coil Used As Contraceptive And Coil Inserter 1,546 1,822,759
+39269030 Parts And Fittings For Infusino Set, Of Plastics 4,511 1,732,630
+39269050 Taflon tape/PTFE tape 707 55,734
+39269091 Conveyor or transmission belts of belting 3,515 2,419,823
+39269093 PLASTIC FRAME WORKS IMP. BY INDUS. IRC VAT COMPLI CABLE MFG. INDU. 93 100,364
+39269099 PVC scrn.having intrnl.dia.from 4-8 Mulch and strct.thereof used in agri.& hoti.,nes 605,392 400,013,264
+40011000 Natural Rubber Latex, In Primary Forms Or In Plates, Sheets Or Strips 33,072 8,917,136
+40012200 Technically Specified Natural Rubber, In Primary Forms Or In Plates, Etc 19,200 5,400,138
+40012900 Other Natural Rubber, In Primary Forms Or In Plates, Etc, Nes 47,472 15,284,297
+40021100 Latex Of Styrene-Butadiene Or Carboxylated Styrene-Butadiene Rubber 205,587 31,448,828
+40021900 Styrene-Butadiene Rubber; Carboxylated Styrene-Butadiene Rubber, Nes 322,794 89,215,956
+40022000 Butadiene Rubber, In Primary Forms Or In Plates, Sheets Or Strip 265,505 59,416,514
+40024900 Chloroprene (Chlorobutadiene) Rubber (Excl. Latex) 244 462,477
+40025100 Latex Of Acrylonitrile-Butadiene Rubber 59,600 12,457,790
+40025900 Acrylonitrile-Butadiene Rubber (Excl. Latex) 7,350 1,104,296
+40026000 Isoprene Rubber 28,000 6,351,919
+40029100 Latex Of Synthetic Rubber, Nes 8,225 2,158,183
+40029900 Other Synthetic Rubber (Excl. Latex), Nes 228,575 86,724,692
+40030000 Reclaimed Rubber In Primary Forms Or In Plates, Sheets Or Strip 16 94,779
+40051000 Rubber Compounded With Carbon Black Or Silica, Unvulcanized 318,570 110,457,766
+40059100 Plates, Sheets And Strip Of Unvulcanized, Compounded Rubber, Nes 22,253 26,556,975
+40059900 Compounded Rubber, Unvulcanized, In Primary Forms 57,643 23,019,120
+40069000 Other Forms And Articles Of Unvulcanized Rubber, Nes 33,516 44,224,101
+40070000 Vulcanized Rubber Thread And Cord 645,017 213,754,974
+40081100 Plates, Sheets And Strip Of Cellular Vulcanized Rubber 35,796 7,504,077
+40081900 Rods And Profile Shapes Of Cellular Vulcanized Rubber, Nes 5,700 2,205,885
+40082100 Plates, Sheets And Strip Of Non-Cellular, Vulcanized Rubber(Excl. Hard) 28,206 15,831,837
+40082900 Rods And Profile Shapes Of Non-Cellular, Vulcanized Rubber (Excl. Hard) 476 327,328
+40091200 TUBES,PIPES & HOSES ..NOT REINFORCED OR OTHERWISE COMB.WITH MAT.WITH FITT. 37 53,368
+40101200 Conveyor Belts/Belting Of Vulcanised Rubber Reinf'D Only With Textile Mats 26 77,114
+40101900 Conveyor Belts Or Belting, Of Vulcanised Rubber, Nes 1,296 2,986,581
+40103100 ENDLESS TRNSMSN.BELTS OF TRPZDL.CROSS-SEC.(V-BLT),V-RIBBED OF..>60CM,<180 2 71,882
+40103200 ENDLESS TRNSMSN.BELTS OF TRPZODL.CROS-SECTION(V-BELTS),OTHER..>60CM<180CM 2 59,797
+40103500 ENDLESS SYNCHRONOUS BELTS,OF AN OUTSIDE CIRCUMFERENCE EXCEEDING >60CM,<150 347 1,956,982
+40103600 ENDLESS SYNCHRONOUS BELTS,OF AN OUTSIDE CIRCUMFERENCE >150CM,<198CM 1 58,572
+40103990 TRANSMISSION BELTS OR BELTING,NES OTHER THAN RUBBER BELT ROUND<10" dia/Flat 0 4,084
+40112090 New pneumatic tyres, of rubber of a kind used on buses or lorries 834 626,589
+40113000 New Pneumatic Tyres, Of Rubber For Aircraft 132 192,024
+40115000 New Pneumatic Tyres, Of Rubber Of A Kind Used On Bicycles 96,205 65,407,910
+40118000 Of a kind used on construction, mining or industrial handling vehicles and machines 68 50,081
+40121300 OF A KIND USED ON AIRCRAFT 1,972 3,414,540
+40129090 Solid... tyres, interchangeable tyre treads and flaps, of rubber, nes 2,584 3,870,729
+40132000 Inner Tubes, Of Rubber Of A Kind Used On Bicycles 16,670 13,659,136
+40149000 Hygienic Or Pharmaceutical Articles Of Vulcanized Rubber, Nes 1,027 5,930,507
+40151200 Gloves, mitteens..Of a kind used for medical, surgical, dental or veterinary purposes 8 7,972
+Page 8 of 35
+HSCODE Tarrif Description Net_WT (kg) Assess Value (Tk)
+40151900 Gloves Of Vulcanized Rubber (Excl. Surgical Gloves) 500 1,364,495
+40159000 Articles Of Apparel And Clothing Accessories Of Vulcanized Rubber, Nes 296,087 355,033,479
+40161000 Articles Of Vulcanized Cellular Rubber 6,437 14,778,043
+40169100 Floor Coverings And Mats Of Vulcanized Rubber, Non-Cellular 282 8,373
+40169300 Gaskets, Washers And Other Seals, Of Vulcanized Rubber 709 10,120,892
+40169500 Inflatable Articles, Of Vulcanized Rubber, Nes 3,645 7,312,712
+40169910 ARTICLES OF VULCANIZED RUBBER, RUBBER CO /APRON 647 9,571,385
+40169920 Rubber bearing 57 67,493
+40169990 ARTICLES OF VULCANIZED RUBBER,NES EX.RUBBER COT/APRON 80,191 106,840,515
+40170000 HARD RUBBER(FOR EX.,EBONITE) IN ALL FORMS,INCL.WASTE AND SCRAP; ARTICLES OF HARD RUBBER 229 146,930
+41015000 WHOLE HIDES AND SKINS, OF A WEIGHT EXCEEDING 16KG 26,426 3,803,791
+41019000 OTHER, INCLUDING BUTTS, BENDS AND BELLIES 1,627 3,261,079
+41041110 Tanned or...,in the wet state (including wet-blue) full grains,.......Split leather 3,142 5,803,807
+41041190 Tanned or...,in the wet state (inclu wet-blue) full grains, .....excl. Split leather 663,698 219,938,053
+41041910 Tanned..wet-blue other than full grains unsplit, grain splits , split leather 128,500 16,088,745
+41041990 Tanned..wet-blue other than full grains unsplit, grain splits , excl split leather 539,452 36,406,150
+41044110 Tanned or crust hieds. in the dry state full grains..Split leather 8,064 11,743,146
+41044190 Tanned or crust hieds. in the dry state full grains..Excl Split leather 4,541 9,866,165
+41044910 Tanned or crust. in the dry state other than full grains...,Split leather 32,521 52,629,762
+41044990 Tanned or crust. in the dry state other than full grains..., Excl Split leather 58,162 101,473,637
+41071100 WHOLE HIDES AND SKINS,FULL GRAIN,UNSPLIT 29,081 89,476,255
+41071200 WHO;E HIDES AND SKINS, GRAIN SPLITS 9,115 17,846,154
+41071900 WHOLE HIDES AND SKINS, NES 204,107 349,176,864
+41079100 OTHER INCL. SIDES,FULL GRAINS,INSPLIT 406 375,562
+41079200 OTHER, INCLUDING SIDES, GRAIN SPLITS 194,256 402,704,315
+41079900 OTHER,INCLUDING SIDES,NES 358,899 677,949,658
+41120000 LEATHER FURTHER PREPARED AFTER TANNING OR CRUSTING,INC.PARCHMENT DRESSED.. 30,763 50,983,346
+41131000 OF GOATS OR KIDS 10,253 40,716,790
+41139000 LEATHR FUTHER PREPARED AFTER TUNNING OF CRUSTING,INCL PARCHMETN-DRSED..NES 1,666 6,507,635
+41142000 PATENT LEATHER & PATENT LAMINATED LEATHER;METALLISED LEATHER 13,730 13,003,427
+41151000 COMPOSITION LEATHER WITH A BASIS OF LEAHTER OR LEATHER FIBR,IN SLABS... 40,501 52,141,356
+42021100 Trunks, Suit-Cases..., Etc, With Outer Surface Of Leather,Or Of composition leather 86 67,649
+42022100 Handbags With Outer Surface Of Leather, Or Composition Leather 15 12,022
+42022200 Handbags with outer.. with outer surface of sheeting of plastics or of tex.. material 30 91,623
+42022900 Handbags, Nes 580 857,894
+42023200 Articles.... in pocket or handbag.. With outer surface of sheeting of plastics or.... 3 14,229
+42023900 Articles Normally Carried In Pocket Or Handbag, Nes 2 2,067
+42029200 With outer surface of sheeting of plastics or of textile materials 248 194,282
+42029900 Cases And Containers, Nes, With Outer Surface Of Other Materials, Nes 45 36,858
+42031000 Articles Of Apparel Of Leather Or Of Composite Leather 652 3,549,648
+42032900 Gloves, Mittens And Mitts Nes, Of Leather Excl. For Sports 6,841 3,961,178
+42033000 Belts And Bandoliers Of Leather Or Of Composition Leather 49,108 83,419,990
+42034000 OTHER CLOTHING ACCESSORIES 41,322 204,932,644
+42050090 Other articles of leather or of composition leather, NES 34,830 13,077,558
+42060090 Articles of gut (excl. silk-worm), goldbeater's skin, bladders, nes 793 2,448,451
+43021900 Tanned Or Dressed Whole Furskins, Nes, Not Assembled 2,336 5,123,164
+43039000 Articles Of Furskin, Nes 19 113,866
+43040000 Artificial Fur And Articles Thereof 3,126 3,805,914
+44012200 Non-Coniferous Wood In Chips Or Particles 2,600 110,576
+44031100 Treated with paint, stains, creosote or other preservatives :Coniferous 630 35,494
+44071100 Wood sawn or chipped length., sliced -- of a thick. exc. 6 mm Con.Of pine (Pinus spp) 20,648 1,630,501
+44072900 Other Tropical Wood not specified in Subheading Note 2 17,380 3,494,924
+44079200 Beech Wood (Fagus Spp.) Sawn/Chipped Lengthwise Sliced Or Peeled >6m Thick 66 10,949
+44079900 Wood, Nes Sawn Or Chipped Lengthwise, Sliced Or Peeled, >6mm Thick 50,625 5,209,448
+44123100 Oth plywood cons. solely of sheets of wood (not bamboo),...not exceeding 6 mm thickne 2,510 229,122
+44123300 Other, with at leat one outer ply ..... tulipwood or walnut 2,400 120,857
+44123900 Other, with both outer plies of coniferous wood 63,347 5,450,649
+44129900 Plywood, veneered panels and similar laminated wood, nes 1,514 379,137
+44130029 Treated Wood,Nes 8,839 3,286,064
+44149000 Wooden frames for paintings, photographs, mirrors or.... Excluding Of tropical wood 31,354 4,930,754
+44170000 Tools, tool bodies, tool handles, broom or brush bodies.lasts and trees, of wood. 7,021 2,309,702
+44182100 Doors and their frames and thresholds : Of tropical wood 380 157,991
+Page 9 of 35
+HSCODE Tarrif Description Net_WT (kg) Assess Value (Tk)
+44182900 Doors and their frames and thresholds : excluding Of tropical wood 630 75,778
+44191100 Bread boards, chopping boards and similar boards 5 31
+44191200 Chopsticks 20 751
+44211000 Clothes Hangers Of Wood 528 947,416
+44219100 Of bamboo 2,251 455,666
+44219990 Other 7,332 2,145,381
+45020000 Natural Cork, Debacked Or Roughly Squared..., Etc 2 25,041
+45049000 OTH, AGGLOMERATED CORK(WITH OR WITHOUT A BINDING SUB-STANCE) AND ARTICLES OF AGG. CORK 470 323,405
+46012200 Mats, matting and screens of vegetable materials Of rattan 2,870 4,302,119
+46012900 Mats, matting and screens of vegetable materials, Excl. materials of bamboo & 932 3,145,724
+46019900 OTH, PLAITS AND SIMILAR PRODUCTS OF PLAITING MATERIALS...(EXCL. OF VEGETABLES MATERIALS) 7,844 5,496,940
+48010000 Newsprint, In Rolls Or Sheets 123,030 19,739,327
+48022000 Paper And Paperboard As A Base For Photo-Sensitive... Paper 15,287 9,136,023
+48025590 Other Paper EXCL.ECG and ultrasonogram recording paper 54,389 10,253,131
+48025600 OTHER PAPER OR PAPERBOARD, NOT CONTAINING...,WEIGHING 40 G/M2 OR MORE... 1,120 294,444
+48025700 OTHER,WEIGHING 40 G/M2 OR MORE BUT NOT MORE THAN 150G/M2 49,561 9,052,934
+48025800 WEIGHING MORE THAN 150G/M2 707,920 128,628,818
+48026100 OTH.PAPER& PAPERBOARD,WEIGHT >10% BY WEIGHT OF TOTAL FIBRE CONTENT,IN ROLL 18,509 2,370,752
+48026900 OTH. PAPER & PAPER BOARD, IN ROLL, NES 107,683 10,758,720
+48030000 Toilet,Facial Tissue,Towel,Napkin Stock & Similar Paper, In Rolls Or Sheet 11,734 5,304,846
+48041100 Unbleached Kraftliner, Uncoated Paper & Paperboard In Rolls Or Sheets 6,194,320 521,285,730
+48041900 Kraftliner,Uncoated(Excl.Unbleached),Paper & Paperboard,In Rolls Or Sheets 11,831 1,957,936
+48042190 Unbleached Sack Kraft Paper,Uncoated In Rolls Or Sheets, Nes 335 395,472
+48042900 Sack Kraft Paper (Excl. Unbleached), Uncoated, In Rolls Or Sheets 17,255 4,112,402
+48043100 Unbleached Kraft Paper..., Weighing =<150g/M2 218,638 19,759,101
+48043900 Kraft Paper... (Excl. Unbleached), Weighing =<150g/M2 245,763 30,758,348
+48044100 Unbleached Kraft Paper..., Weighing >150g/M2 But <225g/M2 3,985,403 348,995,379
+48044900 Kraft Paper..., Weighing >150g/M2 But <225g/M2, Nes 686,104 59,999,797
+48045100 Unbleached Kraft Paper..., Weighing >=225g/M2 2,999,359 265,118,663
+48045900 Kraft Paper..., Weighing >=225g/M2, Nes 15,797 3,281,386
+48051100 FLUTING PAPER, SEMI-CHEMICAL FLUTING PAPER 7,278,024 600,695,141
+48051900 FLUTING PAPER,NES 2,188,118 197,878,057
+48052400 TESTLINER(RECYCLED LINER BOARD),WEIGHING 150G/M2 OR LESS 757,247 66,749,079
+48052500 TESTLINER(RECYCLED LINER BOARD)WEIGHING MORE THAN 150G/M2 225,469 23,860,245
+48053000 Sulphite Wrapping Paper, Uncoated In Rolls Or Sheets 756 927,925
+48054000 Filter Paper And Paperboard, Uncoated In Rolls Or Sheets 18,173 8,924,846
+48055000 Felt Paper And Paperboard, Uncoated In Rolls Or Sheets 26,506 3,999,123
+48059190 Fluting paper, NES, weighing 150 g/m2 or less 358,494 31,520,304
+48059290 Fluting paper, NES weighting more than 150 g/m2 but less than 225 g/m2 547,528 47,632,738
+48059390 Fluting paper, NES weighing 225 g/m2 or more 19,819 2,367,376
+48062000 Greaseproof Papers, In Rolls Or Sheets 38 91,093
+48063000 Tracing Papers, In Rolls Or Sheets 13,475 1,937,296
+48064000 Glassine And Other Glazed Transparent Or Translucent Papers, Nes 206,192 61,518,147
+48070000 CMPST.PAPER&PAPER BOARD,NOT SURFACE -COATED OR IMPREGBATED..,IN ROLL/SHEET 48,313 2,212,354
+48081000 Corrugated Paper And Paperboard, In Rolls Or Sheets 41,219 6,088,221
+48084000 Kraft paper, creped or crinkled, whether or not embossed or perforated 4,555 542,809
+48089000 Paper And Paperboard, Corrugated, Creped, Etc, In Rolls Or Sheets, Nes 45,357 6,457,646
+48099090 Carbon or similar copying papers, nes 112,292 19,886,637
+48101300 MECHANICL OR CHEMICAL-MECHANICAL, IN ROOLS 589,328 55,765,754
+48101400 IN SHEETS WITH ONE SIDE <435MM AND OTH.SIDE <297 IN THE UNFOLDED STATE 4,731 4,700,956
+48101900 PAPER&PAPERBOARD OF A KIND USED FOR WRITTING,PRINTING OR OTH.GRAPHIC..NES 786,302 106,765,518
+48102200 LIGHT-WEIGHT COATED PAPER 168,232 26,831,128
+48102900 Paper... For Writing, Etc, >10% Mechanical Fibres, Coated... 265,454 34,452,953
+48103100 Kraft Paper,Bleach By Chem.Process 95% Chem.Fibres,=<150g/M2,Coated(Ex... 1,592 276,450
+48103200 Kraft Paper, Bleach By Chem.Process >95% Chem.Fibres, >150g/M2,Coated(Ex.. 77,431 9,104,924
+48103900 Kraft Paper & P.Board,Beach By Chem.Process,Coated,Nes(Ex.Writing,Printing 583,343 75,133,155
+48109200 OTHER PAPER & P.BOARD,MULTIPLY PAPER & PAPERBOARD 20,969,509 2,524,467,033
+48109910 Single/double side coated relse. paper Imp. by VAT reg. Refrigtr. or freez manf. Ind 104,339 13,833,203
+48109990 Single/double side coated relse. paper Imp. by VAT reg. Refrigtr./freez manf. Ind,Nes 5,817,865 730,755,805
+48111000 Tarred, Bituminized Or Asphalted Paper And Paperboard 38,293 12,165,403
+48114100 Self-adhesive 330,065 151,530,174
+48114900 SELF ADHESIVE,PAPER & PAPER BOARD, NES 274,952 397,181,941
+Page 10 of 35
+HSCODE Tarrif Description Net_WT (kg) Assess Value (Tk)
+48115910 PAPER & P.BOARD,PACK/ASCEPTIC PACK 9 18,779
+48115990 PAPER,PAPERBOARD,CELLULOSE WADDING AND ...EXCL.TETRAPACK/ASCEPTIC PACK 2,709 556,876
+48116090 Paper and paperboard, coated...parafin wx, stearing oil,(excl. ultrasonograme rec.paper) 23,084 5,512,740
+48119029 Excl. Insulated paper imp. by VAT reg. electric fan/water pump motor manf. Ind. 638 199,697
+48119090 Other Paper,Paperboard,Cellulose Wadding And Webs Of Cellulose Fibres,Nes 369,259 86,066,549
+48149000 Wallpaper And Other Wall Coverings; Window Transparencies Of Paper, Nes 9,372 2,572,668
+48162000 Self-Copy Paper (Excl. Heading 48.09) 22 14,347
+48169000 Copying Or Transfer Paper, Nes; Offset Plates, Of Paper (Excl.Heading 4809 65,472 9,776,944
+48171000 Envelopes Of Paper Or Paperboard 8,215 633,861
+48172000 Letter Cards, Plain Postcards And Correspondance Cards Of Paper... 8,918 1,212,656
+48173000 Boxes, Etc, Of Paper Or Paperboard Containing Paper Stationery 2,232 237,196
+48181000 Toilet Paper 21,771 3,412,798
+48185000 Articles Of Apparel And Clothing Accssories Of Paper 153,579 20,242,580
+48189000 Household, Sanitary Or Hospital Articles Of Paper..., Etc, Nes 25,559 7,091,668
+48191000 Cartons, Boxes And Cases, Of Corrugated Paper Or Paperboard 7,773,405 1,104,110,125
+48192010 Folding Cartons, Boxes And Cases, Of Non-Corrugated Paper Or Paperboard 72,328 23,819,556
+48192090 Folding Cartons, Boxes And Cases, Of Non-Corrugated Paper Or Paperboard 137,279 50,317,722
+48193000 Sacks And Bags, Having A Base Of A Width Of >=40cm Of Paper, Paperboard 3,101 3,148,796
+48194090 Other than Fruit Bag 1,499 630,453
+48195000 Packing Containers, Including Record Sleeves, Of Paper..., Nes 9,395 3,832,722
+48201000 Registers,Acc.Books,Diaries,Similar Articles,Order & Receipt Books,Of .... 1,503 568,036
+48203000 Binders (Other Than Book Covers) Folders & File Covers Of Paper/Paperboard 24 30,048
+48209000 Blotting Pads, Book Covers And Other Articles Of Stationery Of Paper...Nes 2,007 652,819
+48211000 Printed Paper Or Paperboard Labels Of All Kinds 1,636,303 1,541,229,767
+48219010 Sticker 10,037 18,217,663
+48219090 Excl. Sticker imp. by VAT reg. electric fan or water pump motor manf. Ind. 165,451 122,957,465
+48221000 Bobbins, Spools..., Of Paper Or Paperboard For Winding Textile Yarn 187,428 136,922,750
+48229000 Bobbins, Spools,Cops And Similar Supports Of Paper Or Paperboard, Nes 31,226 5,987,829
+48232000 Filter Paper And Paperboard, Cut To Shape 55,725 12,144,538
+48234000 Rolls, sheets and dials, printed for self recording apparatus 1,113 1,513,763
+48236900 Trays, dishes, plates, cups and the like, of paper and paperboard Excl. Of bam 12,185 6,477,240
+48237090 Moduled or pressed articles of paper pulp, Excl Gasket imp by VAT reg. comp. manu. 10,427 4,969,788
+48239010 Paper And Paperboard, Cut To Size And Articls Of Paper 115,320 27,374,130
+48239091 Paper Separator 190 8,569
+48239092 Wrappers for confectionery 1,315 140,732
+48239093 Surface coloured or printed paper or paper board 6,574 3,266,362
+48239099 Paper And Paperboard, Cut To Size And Articles Of Paper, Etc, Nes 226,052 59,668,673
+49011000 Printed Books, Brochures, Leaflets, Etc, In Single Sheets 1,645 776,778
+49019930 Other books 69 21,950
+49019990 Printed Books,Brichures,Leaflets&Similar Printed Metter, Nes 5,653 2,822,879
+49060000 Plans...For Archit...Purposes;Handwitten Texts;Photogr.Of Repo.Of The .... 10,801 796,408
+49081010 Transfers(Decalcomanias) Imported By VAT Regd. Ceramic/Melamine Ind./Opal glassware 18 2,571,393
+49081090 Transfers(Decalcomanias), Vitrifiable, Nes 1,433 15,549,070
+49089000 Transfers (Decalcomanias) (Excl. Vitrifiable) 43,292 268,434,984
+49090000 Printed Or Illustrated Postcards; Printed Cards Bearing Greetings, Etc 179 3,887,148
+49100000 CALENDER OF ANY KIND, PRINTED, INCLUDING CALENDER BLOCKS 13 4,735
+49111000 Trade Advertising Material, Commercial Catalogues And The Like 74,390 12,584,956
+49119100 Pictures, Designs And Photographs 1,892 5,946,036
+49119990 Other printed matter, including printed pictures and photographs., NES 114 2,053,908
+50020000 Raw Silk (Not Thrown) 4,274 3,210,349
+50040000 Silk Yarn (Excl. Spun From Silk Waste), Not Put Up For Retail Sale 186 66,982
+50060000 Silk yarn, put up for retail sale; silk-worm gut 55 28,171
+50071000 Woven Fabrics Of Noil Silk 6 5,010
+50072000 Woven Fabrics Of Silk, Containing >=85% Silk Or Of Silk Waste 32,199 27,800,847
+50079000 Printed Woven Fabrics, Containing <85% Silk 127 819,732
+51012900 Degreased Wool (Excl. Shorn), Not Carbonised, Not Carded Or Combed 64 179,892
+51021100 FINE ANIMAL HAIR,OF KASHMIR (CASHMERE) GOATS NES 537 6,851,299
+51032000 Other Waste Of Wool Or Of Fine Animal Hair, Not Garnetted Stock, Nes 46 28,661
+51052900 Wool tops and combed wool (excl. in fragments) 24,449 15,723,103
+51061000 Yarn Of Carded Wool, Not Put Up For Retail Sale, With >=85% Wool 696 2,047,508
+51062000 Yarn Of Carded Wool, Not Put Up For Retail Sale, With <85% Wool 954 2,022,015
+51071000 Yarn Of Combed Wool, Not Put Up For Retail Sale, With >=85% Wool 297,826 820,204,893
+Page 11 of 35
+HSCODE Tarrif Description Net_WT (kg) Assess Value (Tk)
+51072000 Yarn Of Combed Wool, Not Put Up For Retail Sale, With <85% Wool 49,542 98,992,531
+51081000 Carded Yarn Of Fine Animal Hair, Not Put Up For Retail Sale 6 50,163
+51082000 Combed Yarn Of Fine Animal Hair, Not Put Up For Retail Sale 74 147,140
+51091000 Yarn, with >=85% wool or of fine animal hair, put up for retail sale 249 304,530
+51111100 Woven Fbrcs.With>=85% Carded Wool Or Of Fine Animal Hair, =<300g/M2 Weight 21,164 21,179,111
+51111900 Woven Fbrcs.With>=85%Carded Wool Or Of Fine Animal Hair, >300g/M2 Weight 641 4,858,391
+51112000 Woven Fabrics Of Carded Wool, Mixed With Man-Made Filaments 19 99,720
+51113000 Woven Fabrics Of Carded Wool, Mixed With Man-Made Staple Fibres 3,766 4,380,525
+51119000 Other Woven Fabrics Of Carded Wool Or Carded Fine Animal Hair, Nes 15 9,391
+51121100 Woven Fabrics With>=85%Combed Wool/Of Fine Animal Hair,=<200g/M2 Weight 367 2,846,737
+51121900 Woven Fabrics With >=85% Combed Wool Or Of Fine Animal Hair, >200g/M2 972 1,951,170
+51123000 Woven Fabrics Of Combed Wool, Mixed With Man-Made Staple Fibres 62,374 213,642,613
+51129000 Woven Fabrics Of Combed Wool Or Of Combed Fine Animal Hair, Nes 16,713 36,618,789
+52010000 Cotton, Not Carded Or Combed 23 15,657
+52029100 Garnetted Stock Of Cotton 125,743 12,447,193
+52029910 Cotton waste 68,120 9,726,716
+52030000 Cotton, Carded Or Combed 472,601 149,563,700
+52041100 Cotton Sewing Thread, With >=85% Cotton, Not Put Up For Retail Sale 81,529 44,178,335
+52041900 Cotton Sewing Thread, With <85% Cotton, Not Put Up For Retail Sale 7,879 12,273,704
+52042000 Cotton Sewing Thread, Put Up For Retail Sale 97 38,251
+52051100 Uncombed Sin.Cot.Yarn,With>=85%Cot.,Nprs,=>714.29 Decitex (<=14mn). 988,954 320,588,636
+52051200 Uncom.Sin.Cot.Yarn,With>=85%Cot.Nprs,<714.29de(>14mn)But(>=232.56de)<=43mn 5,235,157 1,684,758,794
+52051300 Uncom.Sin.Cot.Yarn,With>=85%Cot.,Nprs,<232.56(>43mn)But(>=192.31de)(<=52mn 2,480,989 970,872,003
+52051400 Uncombed Sin.Cot.Yarn,With>=85%Cot.Nprs,<192.31de(>52mn)But>=125de(<=80mn) 1,178,561 455,960,817
+52052100 Combed Single Cotton Yarn, With >=85% Cotton, Nprs,>=714.29 Decitex(<=14mn 1,141,208 463,399,969
+52052200 Combed Sin.Cot.Yarn,With>=85%Cot.,Nprs,<714.29(>14mn)But>=232.56de.(<=43mn 5,428,601 2,000,084,551
+52052300 Com.Sin.Cot.Yarn,With>=85%Cot.,Nprs,<232.56deci(>43mm)But>=192.31de(<=52mn 11,393,188 4,378,109,723
+52052400 Com.Sin.Cot.Yarn,With>=85%Cot.,Nprs,<192.31de.But>=125de>52mn But<=80mn 8,531,072 3,384,404,264
+52052600 Com.Sin.Cot.Yarn,With>=85%Cot.,Nprs,<125 De.But >=106.38>80mn But<=94mm 416,830 213,945,350
+52052700 Com.Sin.Cot.Yarn,With>=85%Cot.Nprs,<106.38de But>=83.33de>94mn But<=120mn 565,933 275,118,041
+52052800 Combed Single Cotton Yarn, With >=85% Cotton, Nprs,<83.33 >120mn 871,688 454,153,113
+52053200 Mul. Unco.Cabled Cotton Yarn,>=85%Cot.,Nprs,>14mn But<=43mn P.Single Yarn 1,187,718 584,120,355
+52053300 Uncombed Cabled Cotton Yarn,>=85%Cotton,Nprs,>43mn But<=52mn P.Single Yarn 30,410 24,993,401
+52053400 Uncombed Cabled Cotton Yarn,>=85%Cotton,Nprs,>52mn But<=80mn P.Single Yarn 550,660 201,607,114
+52053500 Uncombed Cabled Cotton Yarn, With>=85% Cotton, Nprs, >80mn Per Single Yarn 203 170,629
+52054100 Combed Cabled Cotton Yarn, With >=85% Cotton, Nprs, <=14mn Per Single Yarn 66,695 23,922,494
+52054200 Combed Cabled Cotton Yarn,With>=85%Cotton,Nprs,>14mn But<=43mn P.Sing.Yarn 731,733 340,528,071
+52054300 Combed Cabled Cotton Yarn,With>=85%Cotton,Nprs,>43mn But<=52mn P.Sing.Yarn 163,876 88,579,455
+52054400 Combed Cabled Cotton Yarn,>=85% Cotton,Nprs,>52mn But<=80mn Pr.Single Yarn 1,346,614 757,513,004
+52054600 Combed Cabled Cotton Yarn,>=85% Cotton,Nprs,>80mn But<=94mn Pr.Single Yarn 25,388 22,306,003
+52054700 Combed Cabled Cotton Yarn,>=85% Cotton,Nprs,>94mn But<=120mn P.Single Yarn 37,312 28,626,808
+52054800 Combed Cabled Cotton Yarn, With >=85% Cotton, Nprs, >120mn Per Single Yarn 3,186 2,256,789
+52061100 Uncombed Single Cotton Yarn, With <85% Cotton, Nprs, <=14mn 71,813 43,161,095
+52061200 Uncombed Single Cotton Yarn, With <85% Cotton, Nprs, >14mn But <=43mn 285,783 140,165,937
+52061300 Uncombed Single Cotton Yarn, With <85% Cotton, Nprs, >43mn But <=52mn 277,835 107,832,011
+52061400 Uncombed Single Cottonyarn, With <85% Cotton, Nprs, >52mn But <=80mn 140,334 54,416,321
+52061500 Uncombed Single Cotton Yarn, With <85% Cotton, Nprs, >80mn 127 124,700
+52062100 Combed Single Cotton Yarn, With <85% Cotton, Nprs, <=14mn 154,958 160,308,795
+52062200 Combed Single Cotton Yarn, With <85% Cotton, Nprs, >14mn But <=43mn 190,027 88,604,458
+52062300 Combed Single Cotton Yarn, With <85% Cotton, Nprs, >43mn But <=52mn 706,561 265,644,072
+52062400 Combed Single Cotton Yarn, With <85% Cotton, Nprs, >52mn But <=80mn 1,035,378 446,301,947
+52062500 Combed Single Cotton Yarn, With <85% Cotton, Nprs, >80mn 499 290,493
+52063200 Uncombed Cabled Cotton Yarn,<85% Cotton,Nprs,>14mn But<=43mn P.Single Yarn 98,213 52,349,144
+52063300 Uncombed Cabled Cotton Yarn,<85%Cotton,Nprs,>43mn But<=52mn Pr.Single Yarn 9,361 12,022,330
+52064100 Combed Cabled Cotton Yarn, With <85% Cotton, Nprs, <=14mn Per Single Yarn 151 100,850
+52064200 Combed Cabled Cotton Yarn,<85% Cotton,Nprs,>14mn But<=43mn Per Single Yarn 326,370 193,442,289
+52064300 Combed Cabled Cotton Yarn,<85% Cotton,Nprs,>43mn But<=52mn Per Single Yarn 97,229 58,889,048
+52064400 Combed Cabled Cotton Yarn,<85% Cotton,Nprs,>52mn But<=80mn Per Single Yarn 64,977 56,424,576
+52064500 Combed Cabled Cotton Yarn, With <85% Cotton, Nprs, >80mn Per Single Yarn 24,990 7,981,778
+52071000 Cotton Yarn (Excl. Sewing), Put Up For Retail Sale, With >=85% Cotton 26,585 9,053,473
+52079000 Cotton Yarn (Excl. Sewing), Put Up For Retail Sale, With <85% Cotton 808 696,093
+52081100 Unbleached Plain Woven Fabrics Of Cotton With>=85%Cotton, =<100g/M2 309,637 181,075,283
+Page 12 of 35
+HSCODE Tarrif Description Net_WT (kg) Assess Value (Tk)
+52081200 Unbleached Plain Woven Fabrics Of Cotton>=85%Cotton,>100g/M2 But<200g/M2 180,429 89,933,881
+52081300 Unbleached 3 Or 4-Thread Twill, With >=85% Cotton, <200g/M2 52,835 28,192,260
+52081900 Unbleached Woven Cotton Fabrics, Nes, With >=85% Cotton 34,372 15,129,687
+52082100 Bleached Plain Woven Fabrics Of Cotton With >=85% Cotton, =<100g/M2 12,567 12,040,936
+52082200 Bleached Plain Woven Fbrcs.Of Cotton With>=85%Cotton,>100g/M2 But<200g/M2 166,820 173,115,064
+52082300 Bleached 3 Or 4-Thread Twill (Incl. Cross Twill), With >=85% Cotton 105,574 104,032,217
+52082900 Bleached Woven Cotton Fabrics, Nes, With >=85% Cotton 95,133 143,059,623
+52083100 Dyed Plain Cotton Woven Fabrics With >=85% Cotton, =<100g/M2 126,164 180,947,813
+52083200 Dyed Plain Cotton Woven Fabrics With >=85% Cotton, >100g/M2 788,489 939,624,337
+52083300 Dyed 3 Or 4-Thread Twill (Incl. Cross Twill), With >=85% Cotton 376,514 349,525,693
+52083900 Dyed Woven Cotton Fabrics, With >=85% Cotton, Nes 731,846 835,431,983
+52084100 Coloured Plain Cotton Woven Fabrics With >=85% Cotton, =<100g/M2 33,604 61,712,736
+52084200 Coloured Plain Cotton Woven Fabrics With >=85% Cotton, >100g/M2 945,310 1,067,840,477
+52084300 Coloured 3 Or 4-Thread Twill (Incl. Cross Twill), With >=85% Cotton 257,422 239,318,439
+52084900 Coloured Woven Cotton Fabrics, With >=85% Cotton, Nes 690,746 776,004,895
+52085100 Printed Plain Cotton Woven Fabrics With >=85% Cotton, =<100g/M2 82,077 130,836,725
+52085200 Printed Plain Cotton Woven Fabrics With >=85% Cotton, >100g/M2 483,000 639,031,210
+52085900 Printed Woven Cotton Fabrics, With >=85% Cotton, Nes 230,712 289,883,863
+52091100 Unbleached Plain Cotton Woven Fabrics With >=85% Cotton, >=200g/M2 45,995 28,697,310
+52091200 Unbleached 3 Or 4-Thread Twill (Incl. Cross Twill), With >=85% Cotton 1,680,118 665,530,640
+52091900 Unbleached Cotton Fabrics, With >=85% Cotton, >=200g/M2, Nes 37,015 18,687,069
+52092100 Bleached Plain Cotton Woven Fabrics With >=85% Cotton, >=200g/M2 15,128 12,334,565
+52092200 Bleached 3 Or 4-Thread Twill, >=85% Cotton, >=200g/M2 370,027 279,696,421
+52092900 Bleached Woven Cotton Fabrics, With >=85% Cotton, >=200g/M2, Nes 73,341 67,216,948
+52093100 Dyed Plain Cotton Woven Fabrics With >=85% Cotton, >=200g/M2 501,631 414,031,672
+52093200 Dyed 3 Or 4-Thread Twill (Incl. Cross Twill), With >=85% Cotton 4,256,126 3,108,109,136
+52093900 Dyed Woven Cotton Fabrics, With >=85% Cotton, >=200g/M2, Nes 1,170,578 952,547,876
+52094100 Coloured Plain Cotton Woven Fabrics With >=85% Cotton, >=200g/M2 22,890 20,721,279
+52094200 Denim, With >=85% Cotton, >=200g/M2 14,502,779 8,867,377,867
+52094300 Coloured 3 Or 4-Thread Twill (Incl.Cross Twill)With>=85% Cotton,>=200g/M2 300,889 243,956,539
+52094900 Coloured Woven Cotton Fabrics, With >=85% Cotton, >200g/M2 64,877 65,543,604
+52095100 Printed Plain Cotton Woven Fabrics With >=85% Cotton, >200g/M2 15,792 11,518,469
+52095200 Printed 3 Or 4-Thread Twill (Incl.Cross Twill)With >=85% Cotton, >200g/M2 216,604 162,383,701
+52095900 Printed Woven Cotton Fabrics, With >=85% Cotton, >200g/M2 50,320 43,712,586
+52101100 Unbleached Plain Cotton Woven Fabrics With <85% Cotton, =<200g/M2 72,034 43,996,600
+52101900 Unbleached Woven Cotton Fabrics, Nes, With <85% Cotton, =<200g/M2 13,099 17,549,627
+52102100 Bleached Plain Cotton Woven Fabrics With <85% Cotton, =<200g/M2 139,464 183,708,107
+52102900 Bleached Woven Cotton Fabrics, Nes, With <85% Cotton, =<200g/M2 67,148 89,380,068
+52103100 Dyed Plain Cotton Woven Fabrics With <85% Cotton, =<200g/M2 380,392 481,401,628
+52103200 Dyed 3 Or 4-Thread Twill, With <85% Cotton, =<200g/M2 91,665 143,782,879
+52103900 Dyed Woven Cotton Fabrics, Nes, With <85% Cotton, =<200g/M2 355,349 419,382,455
+52104100 Coloured Plain Cotton Woven Fabrics With <85% Cotton, =<200g/M2 224,841 246,754,952
+52104900 Coloured Woven Cotton Fabrics, Nes, With <85% Cotton, =<200g/M2 286,382 372,449,946
+52105100 Printed Plain Cotton Woven Fabrics With <85% Cotton, =<200g/M2 94,846 133,789,357
+52105900 Printed Woven Cotton Fabrics, Nes, With <85% Cotton, =<200g/M2 37,067 51,121,109
+52111200 Unbleached 3 Or 4-Thread Twill(Incl.Cross Twill)With <85% Cotton, >200g/M2 68,453 56,080,295
+52111900 Unbleached Woven Cotton Fabrics, Nes, With <85% Cotton, >200g/M2 22,527 21,411,147
+52112000 Bleached 140,507 114,810,018
+52113100 Dyed Plain Cotton Woven Fabrics With <85% Cotton, >200g/M2 52,901 50,375,197
+52113200 Dyed 3 Or 4-Thread Twill (Incl. Cross Twill) With <85% Cotton, >200g/M2 845,712 769,656,426
+52113900 Dyed Woven Cotton Fabrics, Nes, With <85% Cotton, >200g/M2 554,468 620,807,904
+52114200 Coloured Denim, With <85% Cotton, >200g/M2 10,190,689 6,148,305,494
+52114300 Color.Fab.Of 3 Or 4-Thread Twill(Inc.Cross Twill)With<85%Cotton,>200g/M2 6,009 8,447,040
+52114900 Coloured Woven Cotton Fabrics, Nes, With <85% Cotton, >200g/M2 31,505 65,164,908
+52115100 Printed Plain Cotton Woven Fabrics With <85% Cotton, >200g/M2 1,174 2,105,408
+52115200 Printed 3 Or 4-Thread Twill,(Incl.Cross Twill) With <85% Cotton, >200g/M2 93,458 50,662,223
+52115900 Printed Woven Cotton Fabrics, Nes, With <85% Cotton, >200g/M2 1,978 1,551,393
+52121100 Unbleached Woven Fabrics Of Cotton, =<200g/M2, Nes 1,036 2,306,589
+52121200 Bleached Woven Fabrics Of Cotton, =<200g/M2, Nes 3,384 2,666,422
+52121300 Dyed Woven Fabrics Of Cotton, =<200g/M2, Nes 436,326 565,981,278
+52121400 Coloured Woven Fabrics Of Cotton, =<200g/M2, Nes 138,806 225,362,459
+52121500 Printed Woven Fabrics Of Cotton, =<200g/M2, Nes 50,460 70,719,486
+Page 13 of 35
+HSCODE Tarrif Description Net_WT (kg) Assess Value (Tk)
+52122100 Unbleached Woven Fabrics Of Cotton, >200g/M2, Nes 44 104,014
+52122200 Bleached Woven Fabrics Of Cotton, >200g/M2, Nes 31,629 32,772,507
+52122300 Dyed Woven Fabrics Of Cotton, >200g/M2, Nes 197,591 169,662,789
+52122400 Coloured Woven Fabrics Of Cotton, >200g/M2, Nes 135,944 129,743,315
+52122500 Printed Woven Fabrics Of Cotton, >200g/M2, Nes 15,983 18,427,836
+53012910 Flax, Hackled Or Otherwise Processed, But Not Spun 26,000 21,788,657
+53050090 Coconut, avaca.... Excl. Coco substrate; coco pellet; growing media 77,970 12,544,340
+53061000 Single Flax Yarn 75,334 74,058,262
+53062000 Multiple Or Cabled Flax Yarn 3,211 5,695,741
+53071000 Single yarn of jute or of other textile bast fibres of 53.03 100,000 16,456,775
+53081000 Coir Yarn 80 25,040
+53089000 Yarn Of Vegetable Textile Fibres, Nes 80 217,940
+53091100 Bleached Or Unbleached, Woven Fabrics Of Flax, With >=85% Flax 142,558 370,658,725
+53091900 Woven Fabrics Of Flax, With >=85% Flax, Printed, Dyed Or Coloured 1,116,102 3,194,577,462
+53092100 Bleached Or Unbleached, Woven Fabrics Of Flax, With <85% Flax 166,313 317,891,165
+53092900 Woven Fabrics Of Flax, With <85% Flax, Printed, Dyed Or Coloured 2,355,149 3,875,022,539
+53109000 Woven fabrics of jute or other textile bast fibres (excl. unbleached) 38,724 8,639,434
+53110000 Woven fabrics of other vegetable textile fibres; woven fabrics of paper yarn. 6,515 10,133,640
+54011000 Sewing Thread Of Synthetic Filaments 1,808,955 1,274,409,481
+54012000 Sewing Thread Of Artificial Filaments 13,724 27,307,716
+54021100 Synthetic filament yarn?High tenacity of nylon or other polyamides Of aramids 39,158 13,556,962
+54021900 Synthetic filament yarn?High tenacity of nylon or other polyamides, Excl.Of ar 1,621 1,761,086
+54022000 High tenacity yarn of polyesters, whether or not textured 38,507 14,443,665
+54023100 Textured Yarn, Of Nylon Or Other Polyamides, =<5tex, Nprs 488,923 181,064,449
+54023200 Textured Yarn, Of Nylon Or Other Polyamides, >50tex, Nprs 316,219 126,159,619
+54023300 TEXTURED YARN OF POLYESTER 10,785,969 3,584,468,872
+54023400 Textured yarn Of polypropylene 85,119 35,051,253
+54023900 Synthetic Textured Yarn, Nes, Nprs 10,280 8,044,610
+54024400 Other yarn, single, untwisted or with a twist not exceeding 50 turns per metre 1,546,510 815,583,891
+54024500 Other yarn,single,untwisted or with a twist <=50 turns per metre Othr,of nylon 184,645 76,086,848
+54024600 Other yarn,single,untwisted or with a twist <=50 turns per metre Other, of pol 428,925 56,672,285
+54024700 Other yarn,single,untwisted or with a twist <=50 turns per metre Other, of pol 3,348,415 1,062,052,037
+54024800 Other yarn,single,untwisted or with a twist <=50 turns per metre Other, of pol 34,193 10,702,540
+54024900 Single Synthetic Yarn, Nes,Untwisted With =<50turns/M, Nprs 30,519 22,634,016
+54025100 Single Yarn Of Nylon Or Other Polyamides, With >50turns/M, Nprs 254,498 138,737,296
+54025200 Single Yarn Of Polyesters, With >50turns/M, Nprs 134,265 57,686,844
+54025900 Single Synthetic Yarn, Nes, With >50turns/M, Nprs 68 110,424
+54026100 Multiple Or Cabled Yarn Of Nylon Or Other Polyamides, Nprs 728,161 342,367,147
+54026200 Synthetic Multiple Or Cabled Yarn Of Polyesters, Nprs 3,255,835 1,257,871,680
+54026300 Other yarn, multiple (folded) or cabled of polypropylene 1,500 484,721
+54026900 Synthetic Multiple Or Cabled Yarn, Nes, Nprs 40,426 33,426,239
+54031000 High Tenacity Yarn Of Viscose Rayon, Nprs Excl. Sewing Thread 46,078 22,861,934
+54033100 Single Yarn Of Viscose Rayon,Untwisted Or With =<120turns/M, Nprs 276,375 97,949,835
+54033200 Single Yarn Of Viscose Rayon, With >120turns/M, Nprs 28,047 14,833,461
+54033900 Single Artificial Yarn, Nes, Nprs 63,721 41,762,317
+54034100 Multiple Or Cabled Yarn Of Viscose Rayon, Nprs 2,195,870 914,961,098
+54034900 Multiple Or Cabled Artificial Yarn, Nes, Nprs 1,205,742 661,880,588
+54041100 Monofilament Elastomeric 15,157 3,928,280
+54041200 Monofilament Other, of polypropylene 60,558 52,019,855
+54041900 Monofilament Excl. Elastomeric & other of polypropylene 23,554 8,502,333
+54049000 OTH. SYNTHETIC MONOFILAMENT OF 67 DECITEX OR MORE... (EXCL. MONOFILAMENT) 28,344 10,516,241
+54050000 Artfcl.Monofilament Of>=67dec.Strip&The Like Of Artfcl.Txte.Mtrl.Width=<5m 160 88,644
+54071010 Rejected fabrics generated during manu.of garments or processing of fabrics 7,253 6,137,232
+54071090 Rejected fabrics generated during manu.of garments or processing of fabrics, nes 12,979 14,918,534
+54072000 Woven Fabrics Obtained From Synthetic Strip Or The Like 207 289,483
+54073000 Fabrics Of Synthetic Filament Yarn Specified In Note 9 To Section Xi 6,880 4,733,693
+54074100 Unbleached Or Bleached Woven Fabrics, >=85% Nylon... 209,666 218,462,094
+54074200 Dyed Woven Fabrics Of Synthetic Filament Yarn, >=85% Nylon... 1,463,357 2,968,603,846
+54074300 Coloured Woven Fabrics Of Synthetic Filament Yarn, >=85% Nylon... 15,332 29,220,501
+54074400 Printed Woven Fabrics Of Synthetic Filament Yarn, >=85% Nylon... 16,283 58,320,081
+54075100 Unbleached Or Bleached Woven Fabrics, >=85% Textured Polyester 89,737 59,450,827
+54075200 Dyed Woven Fabrics Of Synthetic Filament Yarn, >=85% Textured Polyester 7,925,677 5,724,952,127
+Page 14 of 35
+HSCODE Tarrif Description Net_WT (kg) Assess Value (Tk)
+54075300 Coloured Woven Fabrics Of Synthetic Yarn, >=85% Textured Polyester 276,630 173,485,247
+54075400 Printed Woven Fabrics Of Synthetic Yarn, >=85% Textured Polyester 1,221,405 932,814,338
+54076100 Other Woven Fabrics Of Synthetic Yarn>=85% Nontextured Polyester Filaments 2,037,257 1,524,707,836
+54076900 Other Woven Fabrics Of Synth'C Yarn >=85% Textrd/Non-Textrd Polystr Filmnt 1,912,722 1,602,652,814
+54077100 Unbleached Or Bleached Woven Fabrics, >=85% Synthetic Filaments, Nes 119,826 92,021,191
+54077200 Dyed Woven Fabrics, >=85% Synthetic Filaments, Nes 397,495 315,341,193
+54077300 Coloured Woven Fabrics, >=85% Synthetic Filaments, Nes 42,318 34,008,754
+54077400 Printed Woven Fabrics, >=85% Synthetic Filaments, Nes 152,881 161,554,916
+54078100 Unbleached/Bleached Woven Fbrc.,<85% Synthetic Filaments,Mixed With Cotton 28,208 20,456,492
+54078200 Dyed Woven Fabrics, <85% Synthetic Filaments, Mixed With Cotton 238,837 307,789,793
+54078300 Coloured Woven Fabrics, <85% Synthetic Filaments, Mixed With Cotton 5,348 5,400,401
+54078400 Printed Woven Fabrics, <85% Synthetic Filaments, Mixed With Cotton 9,643 13,415,244
+54079100 Unbleached Or Bleached Woven Fabrics <85% Synthetic Filament Yarn, Nes 8,420 6,555,697
+54079200 Dyed Woven Fabrics <85% Synthetic Filament Yarn, Nes 184,869 132,813,706
+54079300 Coloured Woven Fabrics <85% Synthetic Filament Yarn, Nes 13,674 12,387,588
+54079400 Printed Woven Fabrics <85% Synthetic Filament Yarn, Nes 10,669 21,292,485
+54081000 Woven Fabrics Of High Tenacity Synthetic Filament Yarn, Of Viscose Rayon 6,821 10,696,118
+54082100 Unbleached Or Bleached Woven Fabrics, >=85% Artificial Filaments Or Strip 4,219 2,249,222
+54082200 Dyed Woven Fabrics, >=85% Artificial Filaments Or Strip 21,362 19,305,648
+54082300 Coloured Woven Fabrics, >=85% Artificial Filaments Or Strip 6,724 6,561,793
+54082400 Printed Woven Fabrics, >=85% Artificial Filaments Or Strip 16,819 14,712,109
+54083100 Unbleached Or Bleached Woven Fabrics Of Artificial Filament Yarn, Nes 3 1,879
+54083200 Dyed Woven Fabrics Of Artificial Filament Yarn, Nes 120 85,310
+54083300 Coloured Woven Fabrics Of Artificial Filament Yarn, Nes 516 1,979,227
+54083400 Printed Woven Fabrics Of Artificial Filament Yarn, Nes 3,067 2,613,502
+55011900 Synthetic filament tow Of nylon or other polyamides : Excluding Of aramids 5 2,893
+55013000 540,827 129,350,420
+55019000 Synthetic Filament Tow (Excl. Nylon/Polyesters/Acrylic) 448 451,413
+55021000 Artificial filament tow of cellulose acetate 2,746 3,491,725
+55029000 Artificial filament tow, nes 7 7,137
+55031900 Syn.Sta.fibres,not carded, combed or othrwise pro.for spin.Of nylon or othr po 10,382 16,392,319
+55032000 Synthetic Staple Fibres, Of Polyesters, Not Carded, Combed Or Processed 1,269,083 278,010,932
+55034000 Synthetic Staple Fibres,Of Polypropylene,Not Carded,Combed Or Processed 328,627 63,916,465
+55039000 Syn.Staple Fibres,Not Carded,Combed Or Processed(Exl.Nyl/Polest./Acry./Pp) 2,003 489,027
+55041000 Artificial Staple Fibres,Of Viscose Rayon,Not Carded,Combed Or Processed 78,449 17,565,994
+55049000 Artificial Staple Fibres, (Excl. Viscose), Not Carded,Combed Or Processed 51,786 12,196,048
+55051000 Waste Of Synthetic Fibre, (Incl. Noils, Yarn Waste And Garnetted Stock) 265,461 3,283,591
+55061000 Synt.Staple Fibres,Of Nylon Or Other Polyamides,Carded,Combed Or Processed 10,067 3,835,157
+55062000 Synthetic Staple Fibres, Of Polyesters, Carded, Combed Or Processed 282 193,049
+55063000 Acrylic Or Modacrylic Synthetic Staple Fibres,Carded,Combed Or Processed 3,749 1,476,586
+55069000 Syn.Staple Fibres,Nes,Carded,Combed Or Processed(Exl.Nyl./Polester/Acry.) 174 157,763
+55081000 Sewing Thread Of Synthetic Staple Fibres 144,446 178,215,555
+55082000 Sewing Thread Of Artificial Staple Fibres 5,932 7,012,803
+55091100 Single Yarn, With >=85% Staple Fibres Of Nylon Or Other Polyamides, Nprs 38,009 24,166,506
+55091200 Multiple Or Cabled Yarn, >=85% Staple Fibres Of Nylon, Etc, Nprs 47,655 24,525,806
+55092100 Single Yarn, With >=85% Polyester Staple Fibres, Nprs 714,908 343,508,260
+55092200 Multiple Or Cabled Yarn, With >=85% Polyester Staple Fibres, Nprs 675,992 294,236,945
+55093100 Single Yarn, With >=85% Acrylic Or Modacrylic Staple Fibres, Nprs 166,974 85,428,687
+55093200 Multiple Or Cabled Yarn, >=85% Acrylic Or Modacrylic Staple Fibres, Nprs 1,841,882 741,198,848
+55094100 Single Yarn, With >=85% Synthetic Staple Fibres, Nes, Nprs 28,797 13,711,008
+55094200 Multiple Or Cabled Yarn, With >=85% Synthetic Staple Fibres, Nes, Nprs 9,294 12,714,915
+55095100 Yarn,<85% Polyester Staple Fibres,Mixed With Artificial Staple Fibres,Nprs 569,262 378,612,141
+55095200 Yarn,<85% Polyester Staple Fibres,Mixed With Wool Or Fine Animal Hair,Nprs 544,208 380,252,573
+55095300 Yarn, <85% Polyester Staple Fibres, Mixed With Cotton, Nprs 618,322 252,133,584
+55095900 Yarn,<85%Polyester Staple Fibres,Nes,Nprs(Exl.Arti/Wool/Cotton Staplefibre 281,502 191,892,105
+55096100 Yarn, <85% Acrylic Or Modacrylic Staple Fibres, Mixed With Wool..., Nprs 432,408 326,771,233
+55096200 Yarn, <85% Acrylic Or Modacrylic Staple Fibres, Mixed With Cotton, Nprs 498,427 236,173,775
+55096900 Yarn, <85%Acrylic Or Modacrylic Staple Fibres, Nes, Nprs(Exl. Wool/Cotton) 1,349,726 853,206,329
+55099100 Yarn, Synthetic Staple Fibres, Nes, Mixed With Wool..., Nprs 34,989 22,204,907
+55099200 Yarn, Synthetic Staple Fibres, Nes, Mixed With Cotton, Nprs 819 793,149
+55099900 Yarn, Synthetic Staple Fibres,Nes, Nprs (Exl. Wool/Cotton) 95,562 77,636,928
+55101100 Single Yarn, With >=85% Artificial Staple Fibres, Nprs 280,747 105,941,103
+Page 15 of 35
+HSCODE Tarrif Description Net_WT (kg) Assess Value (Tk)
+55101210 WATER BLOCKING YARN IMPORTED BY VAT REGISTERED OPTICAL FIBRE CABLE MANUFACTURING INDU 5 3,131
+55101290 YARN OF ARTIFICIAL STAPLE FIBRES, .. EXCL. WATER BLOCKING YARN IMP BY VAT REG. OPTICAL F 107,626 50,362,501
+55102000 Yarn, Artificial Staple Fibres, Mixed With Wool..., Nprs 1,009 841,423
+55103090 YARN OF ARTIFICIAL STAPLE FIBRES,..EXCL. W/BLOCKING TAP IMPTD. BY VAT REG. OPTICAL FIBRE 217,461 98,331,784
+55109000 Yarn, Artificial Staple Fibres, Nes, Nprs (Exl. Wool/Cotton) 505,507 249,046,009
+55111000 Yarn, With >=85% Synthetic Staple Fibres, Put Up For Retail Sale 1,000 281,700
+55113000 Yarn Of Artificial Staple Fibres, Put Up For Retail Sale 150 152,109
+55121100 Unbleached or bleached woven fabrics, >=85% polyester staple fibres 76,045 51,735,101
+55121910 Silk screen imported by VAT registered ceramic ware or tiles manufacturers 14 38,093
+55121990 Woven Fabrics, >=85% Polyester Staple Fibres, Excl.Unbleached Or Bleached 55,582 55,863,118
+55122100 Unbleached or bleached woven fabrics, >=85% acrylic... staple fibres 24,081 13,235,187
+55122900 Woven Fabrics, >=85% Acrylic... Staple Fibres, Excl.Unbleached Or Bleached 174 148,365
+55129900 Woven Fabrics, >=85% Synthetic Fibres, Nes 13,899 27,644,212
+55131100 Plain weave fabrics, <85% polyester fibres + cotton, =<170g/m2 fibres, plain weave 1,295,032 929,129,578
+55131200 3-Thread or 4-thread twill, including cross twill ,of polyester staple fibres 178,691 122,343,988
+55131300 Other woven fabrics of polyester staple fibres 44,579 21,311,029
+55131900 Other woven fabrics 41,815 27,602,645
+55132100 Dyed Plain Weave Fabrics, <85% Polyester Fibres + Cotton, =<170g/M2 798,089 656,575,998
+55132300 Dyed Woven Fabrics, Nes, <85% Polyester Fibres + Cotton, =<170g/M2 281,992 214,685,023
+55132900 Dyed Woven Fabrics, <85% Synthetic Fibres + Cotton, Nes, =<170g/M2 149,110 127,591,618
+55133100 Coloured Plain Weave Fabrics, <85% Polyester Fibres + Cotton, =<170g/M2 80,634 85,517,263
+55133900 Coloured Woven Fabrics, <85% Synthetic Fibres + Cotton, Nes, =<170g/M2 61,976 71,632,950
+55134100 Printed Plain Weave Fabrics, <85% Polyester Fibres + Cotton, =<170g/M2 24,785 33,504,891
+55134900 Printed Woven Fabrics, <85% Synthetic Fibres + Cotton, Nes, =<170g/M2 17,826 20,761,152
+55141100 Of polyester staple fibres, plain weave 36,563 26,059,396
+55141200 3-Thread for 4-thread twill, including cross twill, of polyester staple fibres 45,946 25,069,738
+55141900 Other woven fabrics 78,926 81,001,092
+55142100 Dyed Plain Weave Fabrics, <85% Polyester Fibres + Cotton, >170g/M2 41,896 41,988,664
+55142200 Dyed 3 Or 4-Thread Twill, <85% Polyester Fibres + Cotton, >170g/M2 1,251,007 786,974,911
+55142300 Dyed Woven Fabrics, Nes, <85% Polyester Fibres + Cotton, >170g/M2 162,436 153,098,884
+55142900 Dyed Woven Fabrics, <85% Synthetic Fibres + Cotton, Nes, >170g/M2 145,974 201,563,875
+55143000 Unbleached or bleached Of polyester staple fibres, plain weave: dyed Of yarns 4,878 4,971,084
+55144100 Printed Plain Weave Fabrics, <85% Polyester Fibres + Cotton, >170g/M2 2,162 3,933,129
+55144200 Printed 3 Or 4-Thread Twill, <85% Polyester Fibres + Cotton, >170g/M2 4,254 29,174,668
+55144900 Printed Woven Fabrics, <85% Synthetic Fibres + Cotton, Nes, >170g/M2 2 3,131
+55151100 Mixed mainly or solely with viscose rayon staple fibres 1,938,556 1,648,534,965
+55151200 Mixed mainly or solely with man-made filaments: 2,810 3,001,311
+55151300 Mixed mainly or solely with wool or fine animal hair: 48,915 122,815,471
+55151900 Woven fabrics of polyester staple fibres, nes 262,214 277,708,607
+55152100 Mixed mainly or solely with man-made filaments 1,543 3,662,369
+55152200 Mixed mainly or solely with wool or fine animal hair 9,693 23,035,703
+55152900 Woven fabrics of acrylic or modacrylic staple fibres, nes 43,032 98,793,804
+55159100 Mixed mainly or solely with man-made filaments: 73 63,572
+55159900 Woven fabrics of synthetic staple fibres, nes 13,929 18,247,203
+55161100 Unbleached or bleached woven fabrics, >=85% artificial staple fibres 127,776 69,896,357
+55161200 Dyed Woven Fabrics, >=85% Artificial Staple Fibres 1,331,251 1,222,807,831
+55161300 Coloured Woven Fabrics Of Yarn, >=85% Artificial Staple Fibres 167,713 154,354,444
+55161400 Printed Woven Fabrics, >=85% Artificial Staple Fibres 1,352,938 1,194,562,028
+55162100 Woven fab. <85% artificial fibres, with man-made filas, Unbleached or bleached 8,271 11,388,357
+55162200 Dyed Woven Fabrics, <85% Artificial Fibres, With Man-Made Filaments 690,621 795,592,824
+55162300 Coloured Woven Fabrics, <85% Artificial Fibres, With Man-Made Filaments 54,149 53,385,581
+55162400 Printed Woven Fabrics, <85% Artificial Fibres, With Man-Made Filaments 173,523 164,421,483
+55163300 Coloured Woven Fabrics, <85% Artificial Staple Fibres, With Wool... 31,885 20,405,449
+55164100 Woven fabrics, <85% artificial staple fibres, mixed with cotton Unblea. or bleached 15,060 16,911,835
+55164200 Dyed Woven Fabrics, <85% Artificial Staple Fibres, Mixed With Cotton 203,743 334,712,233
+55164300 Coloured Woven Fabrics, <85% Artificialstaple Fibres, Mixed With Cotton 22,866 19,417,341
+55164400 Printed Woven Fabrics, <85% Artificial Staple Fibres, Mixed With Cotton 46,630 47,435,467
+55169100 Woven fabrics, <85% artificial staple fibres, nes Unbleached or bleached 14,203 17,117,449
+55169200 Dyed Woven Fabrics, <85% Artificial Staple Fibres, Nes 721,040 990,685,136
+55169300 Coloured Woven Fabrics, <85% Artificial Staple Fibres 73,938 113,188,600
+55169400 Printed Woven Fabrics, <85% Artificial Staple Fibres, Nes 50,442 67,616,184
+56012100 Cotton Wadding And Articles Thereof 10,203 4,440,291
+Page 16 of 35
+HSCODE Tarrif Description Net_WT (kg) Assess Value (Tk)
+56012200 Wadding Of Man-Made Fibres And Articles Thereof 502,844 302,239,606
+56012900 Wadding and articles of wadding, nes 88,789 89,207,285
+56021000 8,676 4,937,637
+56022100 Felt Of Wool Or Fine Animal Hair (Excl. Impregnated, Coated, Etc) 135 23,561
+56022900 Felt of textile materials (excl. impregnated, coated, etc) Of other textile materials 4,598 6,014,442
+56029000 Felt, Nes (Exl. Needleloom, Wool, Text Material, Jute, Other Than Jute) 16,417 14,023,757
+56031110 Nonwovens, Of Man-Made Filaments, Weighing <=25g/M2 12,238 6,335,254
+56031190 Nonwovens, Of Man-Made Filaments, Weighing <=25g/M2 240,451 80,745,332
+56031210 Nonwovens, Of Man-Made Filaments, Weighing >25g/M2 But <=70g/M2 6,791 6,326,056
+56031290 Nonwovens, Of Man-Made Filaments, Weighing >25g/M2 But <=70g/M2 415,812 149,185,255
+56031310 Elastic back ear 5,879 4,483,260
+56031390 Nonwovens, Of Man-Made Filaments, Weighing >70g/M2 But <=150g/M2 10,617 8,973,389
+56031400 Nonwovens, Of Man-Made Filaments, Weighing >150g/M2 331,435 127,326,571
+56039100 Nonwovens, Not Of Man-Made Filaments, Weighing <=25g/M2 357,987 175,154,762
+56039210 Dry web, Weighing more than 25 g/m2 but not more than 70 g/m2 46,208 20,849,642
+56039290 Nonwovens, Not Of Man-Made Filaments, Weighing >25g/M2 But <=70g/M2 129,651 60,316,648
+56039300 Nonwovens, Not Of Man-Made Filaments, Weighing >70g/M2 But <=150g/M2 73,186 46,119,636
+56039400 Nonwovens, Not Of Man-Made Filaments, Weighing >150g/M2 148,038 124,097,052
+56041000 Rubber Thread And Cord, Textile Covered 201,500 206,474,863
+56049000 Textile Yarn And Strip, Etc, Impregnated Or Coated 27,664 19,151,655
+56050010 Metalized round yarn 91,520 35,480,281
+56050090 Other metalized yarn 134,704 43,749,122
+56060000 Gimped yarn, & strip & the like .... (including flock chenille yarn); loop wale-yarn. 125,671 69,173,618
+56072100 Binder Or Baler Twine Of Sisal, Etc, Of The Genus Agave 9 47,099
+56072900 Twine,Cordage,Rope & Cables,Of Sisal,Etc. Of The Genus Agave,Nes,Ex.Binder 22,405 51,149,461
+56074100 Binder Or Baler Twine Of Polyethylene Or Polypropylene 128,002 75,858,895
+56074910 Twine,Cordage,Rope&Cables,Of Polyethylene/Polypropy. For Fishing Trawlers 728 4,841,708
+56074990 Twine, Cordage,Rope & Cables, Of Polyethylene Or Polypropylene, Other 27,691 25,815,234
+56075000 Twine, Cordage, Rope And Cables, Of Synthetic Fibres, Nes 38,049 120,918,741
+56079000 Twine, cordage, ropes and cables, whether or not plaited .. with rubber or pla 94,295 201,274,227
+56090010 Twine,Cordage,Rope Or Cables For Fishing Trawler And Factory Ships, Nes 223 678,492
+56090090 Articles Of Yarn,Strip,Etc,Twine,Cordage, Rope Or Cables, Nes 22,948 28,501,645
+58012100 UNCUT WEFT PILE FABRICS 34 21,284
+58012200 Cut Corduroy Of Cotton 396,015 344,310,724
+58012300 Weft Pile Fabrics Of Cotton, Nes 10 6,887
+58012700 Warp pile fabrics 20 16,621
+58013200 Cut Corduroy Of Man-Made Fibres, Nes 17,917 16,227,884
+58013300 Weft Pile Fabrics Of Man-Made Fibres, Nes 2,495 1,002,076
+58013600 Chenille Fabrics Of Man-Made Fibres, Nes 19,343 5,456,008
+58013700 Warp pile fabrics 102 64,514
+58021000 Terry towelling and similar woven terry fabrics, of cotton 118,575 38,708,822
+58022000 Terry towelling and similar woven terry fabrics, of other textile materials 3,737 2,868,035
+58030000 Gauze, other than narrow fabrics of heading 58.06. 407,500 408,752,668
+58041000 Tulles And Other Net Fabrics 236,872 257,659,342
+58042100 Mechanically Made Of Lace Of Man-Made Fibres In Piece,In Strips/In Motifs 221,226 594,669,130
+58042900 Mechanically Made Of Lace Of Oth.Textiles In Piece,In Strips Or In Motifs 190,190 507,302,771
+58043000 Hand-Made Lace In Pieces, In Strips Or In Motifs 2,521 3,696,782
+58050000 Han.Wov.Tapestr.Of The Ty.Gobelins,Flandres,Aubu.,Beauvais&Needle-Work Tap 2,660 5,546,586
+58061000 Narrow Woven Pile Fabrics And Chenille Fabrics 17,953 41,345,913
+58062000 Narrow Woven Fabrics, Width >=5% Elastomeric Yarn Or Rubber Thread 1,324,933 1,837,923,294
+58063100 OTHER WOVEN FABRICS OF COTTON 60,339 73,066,125
+58063200 731,868 343,709,425
+58063900 Narrow Woven Fabrics Of Other Textiles, Nes 408,746 466,369,103
+58064000 Fabrics With Warp Without Weft Assembled By An Adhesive (Bolducs) 40,149 57,890,650
+58071000 Labels, Badges... Of Textiles, Woven, In Piece..., Not Embroidered 178,800 914,933,312
+58079000 Labels, Badges... Of Textiles, Unwoven, In Piece..., Not Embroidered 198,737 566,023,863
+58081000 Braids, In The Piece 255 535,322
+58089000 Ornamental Trimmings In The Piece; Tassels, Pompons, Etc, Nes(Excl.Braids) 1,271 4,283,013
+58090000 Woven Fabrics Of Metal Thread And Woven Fabrics Of Metallized Yarn, Nes 661 542,164
+58101000 Embroidery Without Visible Ground 7,627 58,594,276
+58109100 Cotton Embroidery, In The Piece, In Strips Or In Motifs 108,344 241,137,756
+58109200 Embroidery Of Man-Made Fibres, In The Piece, In Strips Or In Motifs 27,680 67,723,155
+Page 17 of 35
+HSCODE Tarrif Description Net_WT (kg) Assess Value (Tk)
+58109900 Embroidery Of Other Textiles, In The Piece, In Strips Or In Motifs 32,010 106,535,854
+58110000 Quilted Tex.Produ.In The Piece(Excl.Embroi.Of 58.10)One Or More Layers Tax 261,351 195,532,800
+59011000 Tex.Fab.Coated With Gum/Amyla.. Substances For Other Convers Or Books Etc 10,950 5,101,120
+59019000 Tracing Cloth; Prepared Painting Canvas; Buckram, Etc 178,354 112,250,896
+59021000 Tyre Cord Fabric Of High Tenacity Yarn Of Nylon Or Other Polyamides 3 1,879
+59031010 Fusing Interlining Mate.(Tex.Mat.For Stiffening Cuffs&Col.With Poly V.Chlo 835,315 720,261,653
+59031090 Other Fabrics Impregnated...With Polyvinyl Chloride 884,488 387,344,624
+59032010 Fusing Interlining Mat.(Tex.Mat.For Stiffening Cuffs&Col. With Poly Ureth. 816,883 687,130,689
+59032090 Other Textile Fabrics Impregnated....With Polyurethane 4,431,103 4,391,834,475
+59039010 Textile fabrics impregnated... with plastics, nes 6,183 5,915,039
+59039090 Textile fabrics impregnated... with plastics, nes 1,246,093 1,280,422,636
+59061000 Adhesive Tape Of A Width =<20cm 8,952 23,077,075
+59069100 Knitted Or Crocheted Rubberized Textile Fabrics (Excl. Adhesive Tape) 5,271 5,278,544
+59069910 REFLECTIVE TAPE 104,439 207,553,216
+59069990 RUBBERIZED TEXTILE FABRICS EXCLUDING REFLECTIVE TAPE, KNITTED OR CROCHETED & ADHESIVE TA 1,207 4,363,877
+59070000 Textile Fabrics Otherwise Impregnated... ; Painted Canvas... 297,470 344,375,483
+59090000 Textile... Tubing, With Or Without Lining, Etc, Of Other Materials 649 589,555
+59100000 Transmission Or Conveyor Belts Or Belting, Of Textile Material 641 1,174,276
+59111090 Other 30,070 51,122,715
+59112000 Bolting Cloth Whether Or Not Made Up 771 4,868,552
+59114000 Straining Cloth Of A Kind Used In Oil Presses, Etc 48 60,102
+59119000 Textile Articles For Technical Uses, Nes, As Specified In Chapter Note 7 1,175 634,338
+60011000 Long Pile Fabrics, Knitted Or Crocheted 159,894 105,705,121
+60012100 Looped Pile Fabrics Of Cotton, Knitted Or Crocheted 569,036 335,576,343
+60012200 Looped Pile Fabrics Of Man-Made Fibres, Knitted Or Crocheted 308,683 179,591,299
+60012900 Looped Pile Fabrics Of Textile Materials, Knitted Or Crocheted 62,187 49,063,884
+60019100 Pile Fabrics Of Cotton, Nes, Knitted Or Crocheted 1,456,803 909,620,621
+60019200 Pile Fabrics Of Man-Made Fibres, Nes, Knitted Or Crocheted 5,455,020 3,620,857,976
+60019900 Pile Fabrics Of Textile Materials, Nes, Knitted Or Crocheted 91,358 68,565,950
+60024000 CONTAINING BY WEIGHT 5%OR MORE ELASTOMERIC YARN BUT NOT CONTNG.RUBER THRED 298 415,429
+60029000 KNITTED OR CROCHETED FABRICS OF A WIDTH <30CM,CONTAINING BY WEIGHT 5%..NES 29,946 23,471,473
+60032000 KNITTED OR CROCHETED FABRICS OF A WIDTH <30CM.. OF COTTON 5,385 3,565,404
+60033000 KNITTED OR CROCHETED FABRICS OF A WIDTH <30CM,OF SYNTHETIC FIBRES 32,136 26,966,015
+60034000 KNITTED OR CROCHETED FABRICS OF WIDTH <30CM,OF ARTIFICIAL FIBRES 224 2,734,323
+60039000 KNITTED/CROCTD.FBRCS.OF A WIDTH <30CM,OTH THAN THOSE OF HD60.01/60.02,NES 119 166,881
+60041000 CONTING. BY WEIGHT 5%OR MORE OF ELASTOMERIC YARN BUT NOT CONT.RUBER THRED 9,669,660 8,128,632,718
+60049000 CONTNG.BY WEIGHT 5%OR MORE ELSTMRC.YARN BUT NOT CONTAINING RUBR.THREAD,NES 215,694 330,478,717
+60052200 WRAP KNIT FABRICS OF COTTON,DYED 57,495 69,439,459
+60052300 WRAP KNIT FABRICS OF COTTON,OF YARNS OF DIFFERENT COLOURS 3,577 1,581,310
+60052400 WRAP KNIT FABRICS,OF COTTON PRINTED 14,330 15,342,055
+60053500 Fabrics specified in Subheading Note 1 to this Chapter 3,631 3,798,880
+60053600 Other, unbleached or bleached 180,664 96,797,169
+60053700 Of synthetic fibres other dyed 926,081 690,168,389
+60053800 Synthetic fibres Other of yarns of different colours 16,001 14,168,487
+60053900 Other, of yarns of different colours other printed 26,723 16,453,910
+60054100 WRAP KNIT FABRICS OF ARTIFICIAL FIBRES,UNBLEACHED OR BLEACHED 15,158 19,912,267
+60054200 WARP KNIT FABRICS,OF ARTIFICIAL FIBRES DYED 13,246 13,908,880
+60054300 WARP KNIT FABRICS,OF ARTIFICIAL FIBRES OF YARN OF DIFFERENT COLOURS 123,795 185,178,319
+60059010 WARP KNIT FABRICS OF ARTIFICIAL FIBRES, NES 2 16,110
+60059090 WARP KNIT FABRICS OF ARTIFICIAL FIBRES, NES 25,592 15,509,260
+60061000 OTHER KNITTED OR CROCHETED FABRICS OF WOOL OR FINE ANIMAL HAIR 26,030 91,592,552
+60062100 OTHER KNITED OR CROCHETED FABRICS OF COTTON UNBLEACHED OR BLEACHED 268,484 155,810,262
+60062200 OTH.KNITTED OR CROCHETED FABRICS OF COTTON DYED 3,687,303 2,732,938,871
+60062300 OTH.KNITTED OR CROCHETED FABRICS OF COTTON, OF YARNS OF DIFFERENT COLOURS 161,121 131,869,691
+60062400 OTH.KNITTED OR CROCHETED FABRICS OF COTTON PRINTED 515,064 382,785,732
+60063100 OTH.KNITTED OR CROCHETED FABRICS. OF SYNTHETIC FIBRES,UNBLEACHED OR BLEACH 184,666 94,251,386
+60063200 OTH.KNITTED OR CROCHETED FABRICS OF SYNTHETIC FIBRES,DYED 6,808,702 4,400,576,073
+60063300 OTH.KNITTED OR CROCHETED FABRICS OF SYNTH. FIBRES OF YARNS OF DIFF.COLOUR 163,880 109,656,073
+60063400 OTH KNITTED OR CROCHETED FABRICS OF SYNTHETIC FIBRES PRINTED 737,373 477,783,659
+60064100 OTH.KNITTED OR CROCHETED FIBRICS OF ARTIFICIAL FIBRES,UNBLEACHED/BLEACHED 37,216 35,393,983
+60064200 OTH.KNITTED OR CROCHETED FABRICS OF ARTIFICIAL FIBRES,DYED 424,699 298,138,935
+60064300 OTH.KNITTED OR CROCHETED FABRICS OF ARTFCL.FIBRES OF YARNS OF DIFF.COLOUR 20,070 13,808,681
+Page 18 of 35
+HSCODE Tarrif Description Net_WT (kg) Assess Value (Tk)
+60064400 Printed 54,966 32,316,354
+60069000 OTH.KNITTED OR CROCHETED FABRICS OF ARTIFICIAL FIBRES,NES 340,215 316,938,563
+61012000 Men'S Or Boys' Over/Car Coats, Etc, Of Cotton, Knitted Or Crocheted 19 54,708
+61019000 Men'S Or Boys' Over/Car Coats, Etc, Of Other Textiles,Knitted Or Crocheted 8 18,781
+61021000 Woman'S Or Girls' Over/Car Coats,Etc, Of Wool..., Knitted Or Crocheted 8 10,017
+61022000 Woman'S Or Girls' Over/Car Coats, Etc, Of Cotton, Knitted Or Crocheted 0 626
+61023000 Woman'S Or Girls' Over/Car Coats,Etc,Of Man-Made Fibres,Knitted/Crocheted 1 2,967
+61031000 Men's or boys' Suits, Excl. Sports out fit for sports shooting 2 3,737
+61032200 Men'S Or Boys' Ensembles Of Cotton, Knitted Or Crocheted 8 28,184
+61033100 Men'S Or Boys' Jackets And Blazers Of Wool..., Knitted Or Crocheted 2 18,160
+61033200 Men'S Or Boys'Jackets And Blazers Of Cotton, Knitted Or Crocheted 60 121,588
+61033300 Men'S Or Boys' Jackets... Of Synthetic Fibres, Knitted Or Crocheted 60 92,519
+61033900 Men'S Or Boys' Jackets... Of Other Textiles, Nes, Knitted Or Crocheted 36 80,871
+61034100 Men'S Or Boys' Trousers, Etc, Of Wool..., Knitted Or Crocheted 17 17,933
+61034200 Men'S Or Boys' Trousers, Etc, Of Cotton, Knitted Or Crocheted 39 74,282
+61034300 Men'S Or Boys' Trousers, Etc, Of Synthetic Fibres, Knitted Or Crocheted 5 24,999
+61034900 Men'S Or Boys' Trousers, Etc, Of Other Textiles, Knitted Or Crocheted 3 8,442
+61043300 Women'S Or Girls' Jackets, Of Synthetic Fibres, Knitted Or Crocheted 4 7,820
+61043900 Woman'S Or Girls' Jackets, Of Other Textiles, Knitted Or Crocheted 1 1,878
+61044200 Dresses Of Cotton, Knitted Or Crocheted 7 17,655
+61044300 Dresses Of Synthetic Fibres, Knitted Or Crocheted 2 3,652
+61044900 Dresses Of Other Textile Material, Nes, Knitted Or Crocheted 5 15,889
+61045200 Skirts And Divided Skirts Of Cotton, Knitted Or Crocheted 3 6,262
+61045300 Skirts And Divided Skirts Of Synthetic Fibres, Knitted Or Crocheted 1 2,532
+61046100 Women'S Or Girls' Trousers, Etc, Of Wool..., Knitted Or Crocheted 4 8,763
+61046200 Women'S Or Girls' Trousers, Etc, Of Cotton, Knitted Or Crocheted 9 31,451
+61046300 Women'S Or Girls' Trousers, Etc, Of Synthetic, Knitted Or Crocheted 19 43,445
+61046900 Women'S Or Girls' Trousers, Etc, Of Other Textile, Knitted Or Crocheted 27 53,475
+61051000 Men'S Or Boys' Shirts Of Cotton, Knitted Or Crocheted 67 136,370
+61052000 Men'S Or Boys' Shirts Of Man-Made Fibres, Knitted Or Crocheted 9 61,042
+61059000 Men'S Or Boys' Shirts Of Other Textiles, Nes, Knitted Or Crocheted 6 10,974
+61061000 Women'S Or Girls' Blouses, Etc, Of Cotton, Knitted Or Crocheted 4 12,814
+61062000 Women'S Or Girls' Blouses, Etc, Of Man-Made Fibres, Knitted Or Crocheted 7 19,436
+61069000 Women'S Or Girls' Blouses Etc. Of Other Textiles Nes, Knitted Or Crocheted 1 3,757
+61071100 Men'S Or Boys' Underpants And Briefs Of Cotton, Knitted Or Crocheted 7 65,361
+61071200 Men'S Or Boys' Underpants, Etc, Of Man-Made Fibres, Knitted Or Crocheted 3 17,506
+61072100 Men'S Or Boys' Night Shirt Pyjamas Of Cotton, Knitted Or Crocheted 5 16,218
+61081100 Women'S Or Girls' Slips, Etc, Of Man-Made Fibres, Knitted Or Crocheted 1 1,853
+61082100 Women'S Or Girls' Briefs And Panties Of Cotton, Knitted Or Crocheted 9 82,495
+61082200 Women'S Or Girls' Briefs, Etc, Of Man-Made Fibres, Knitted Or Crocheted 2 6,824
+61083200 Women'S Or Girls' Pyjamas,Night Dresses Of Man-Made Fibres,Knitted/Croched 1 1,252
+61089200 Women'S Or Girls'Negliges Dressing Gowns Of Man-Made Fibre,Knitted/Croch. 1 939
+61089900 Women'S/Girls' Negliges Dressing Gowns.. Of Other Tex.,Nes,Knitted/Croche. 9 93,869
+61091000 T-Shirts, Singlets And Other Vests, Of Cotton, Knitted Or Crocheted 240 792,216
+61099000 T-Shirts, Singlets, Etc, Of Other Textiles, Nes, Knitted Or Crocheted 24 74,616
+61101100 OF WOOL OR FINE ANIMAL HAIR. OF WOOL 5 7,424
+61101900 OF WOOL OR FINE ANIMAL HAIR,NES 0 632
+61102000 JERSEYS, PULLOVERS, CARDIGANS, WAISTCOATS & SIMILAR ART., KNITTED OR CROCHETED OF COT 267 855,202
+61103000 JERSEYS,PULLOVERS,CARDIGANS,WAISTCOATS.., KNITTED OR CROCHETED OF MAN-MADE FIBRE 78 240,958
+61109000 JERSEYS, PULLOVERS, CARDIGANS, WAISTCOATS.. ,KNITTED OR CROCHETED OF OTH. TEXT. MATER 42 131,936
+61112000 Babies' Garments, Etc, Of Cotton, Knitted Or Crocheted 17 130,563
+61119000 Babies' Garments, Etc,Of Other Textiles Materials,Nes Knitted Or Crocheted 1 2,504
+61123900 MEN'S OR BOY'S SWIMWEAR, OF OTHER TEXTILE MATERIALS 3 5,263
+61124100 Women'S Or Girls' Swimwear Of Synthetic Fibres, Knitted Or Crocheted 2 6,622
+61142000 Garments Of Cotton, Knitted Or Crocheted, Nes 7 13,726
+61143000 Garments Of Man-Made Fibres, Knitted Or Crocheted, Nes 1 5,776
+61159500 Panty hose,tights,stockings,sock..., inclu.grad.Comp.hos.Of Cotton, NES 74 196,004
+61159600 Panty hose,tights,stockings,sock..., inclu.grad.Comp.hos.Of synthetic fibres 1,573 3,625,527
+61159900 Hosiery And Footwear Without Soles Of Other Tex., Knitted Or Crochete, Nes 982 1,058,155
+61169200 Gloves, Mittens And Mitts, Of Cotton, Knitted Or Crocheted 13,076 10,526,062
+61169300 Gloves, Mittens And Mitts, Of Synthetic Fibres, Knitted Or Crocheted 10,689 7,791,353
+61169900 Gloves, Mittens And Mitts, Of Other Textiles, Knitted Or Crocheted 342 44,693
+Page 19 of 35
+HSCODE Tarrif Description Net_WT (kg) Assess Value (Tk)
+61171000 SHAWLS, SCARVES, MUFFLERS, MANTILLAS, VEILS AND THE LIKE 1,108 1,015,722
+61178010 Other Clothing Accessories, Knitted Or Crocheted, Nes, Of Cotton 2,540 1,717,071
+61178090 Other clothing accessories, knitted or crocheted, nes 65,924 65,049,761
+61179000 Parts Of Garments Or Clothing Accessories, Knitted Or Crocheted 111,115 175,110,495
+62012000 Overcoat, raing coat, car-coat capes, cloaks and similar..Of wool or fine animal hair 1 614
+62014000 Other Of man-made fibres 15 39,385
+62023000 Womens or girls overcoat , car-coad capes, cloaks, anoraks ...Of cotton 5 10,121
+62024000 Womens or girls overcoat , car-coad capes, cloaks, anoraks ...Of man-made fibres 11 25,231
+62029000 Woent or gilrs overcoat, raincot car-coat capes, ......Of other textile materials 2 3,210
+62033100 Men'S Or Boys' Jackets And Blazers Of Wool Or Fine Animal Hair 34 64,315
+62033200 Men'S Or Boys' Jackets And Blazers Of Cotton 66 149,325
+62033300 Men'S Or Boys' Jackets And Blazers Of Synthetic Fibres 59 131,530
+62033900 Men'S Or Boy'S Jackets And Blazers Of Other Textiles,(Exl.Wool,Syn.Fab,Cot 149 368,574
+62034200 Men'S Or Boys' Bib & Brace Trousers, Breeches, Shorts, Of Cotton 995 2,010,255
+62034300 Men'S Or Boys' Bib & Brace Trousers, Breeches & Shorts Of Synthetic Fibres 66 153,400
+62034900 Men'S Or Boys' Bib&Brace Trousers,Breeches & Shorts Of Other Textiles,Nes 18 42,159
+62042300 Women's or girls' ensembles of synthetic fibres 0 614
+62042900 Women'S Or Girls' Ensembles Of Other Textiles, (Exl.Wool,Cotton,Syn.Fibre) 6 11,598
+62043100 Women'S Or Girls' Jackets And Blazers Of Wool Or Fine Animal Hair 8 10,018
+62043200 Women'S Or Girls' Jackets And Blazers Of Cotton 49 86,685
+62043300 Women'S Or Girls' Jackets And Blazers Of Synthetic Fibres 21 41,992
+62043900 Women'S Or Girls' Jackets&Blazers Of Oth.Tex.,(Exl.Wool,Cotton,Syn.Fibre) 3 24,821
+62044200 Dresses Of Cotton 46 102,102
+62044300 Dresses Of Synthetic Fibres 18 51,645
+62044900 Dresses Of Other Textiles, (Exl.Wool,Cotton,Syn./Arti.Fibre) 0 1,002
+62045100 Skirts And Divided Skirts Of Wool Or Fine Animal Hair 10 14,165
+62045200 Skirts And Divided Skirts Of Cotton 11 29,431
+62045300 Skirts And Divided Skirts Of Synthetic Fibres 10 39,674
+62045900 Skirts And Divided Skirts Of Other Textiles, (Exl.Wool,Cotton,Syn.Fibre) 1 1,710
+62046100 Women'S Or Girls' Trousers, Breeches, Etc, Of Wool Or Fine Animal Hair 100 110,134
+62046200 Women'S Or Girls' Trousers, Breeches, Etc, Of Cotton 293 654,188
+62046300 Women'S Or Girls' Trousers, Breeches, Etc, Of Synthetic Fibres 26 82,001
+62046900 Women'S/Girl'S Trousers,Breeches,Etc,Of Oth.Tex.,(Exl.Wool,Cotton,Syn.Fib. 32 57,244
+62052000 Men'S Or Boys' Shirts Of Cotton 183 428,477
+62053000 Men'S Or Boys' Shirts Of Man-Made Fibres 9 29,050
+62059000 Men'S Or Boy'S Shirts Of Other Textiles,(Exl.Wool,Cotton,Man Made Fibre) 18 42,772
+62061000 Women'S Or Girl'S Blouses, Shirts/Blouses Of Silk Or Silk Waste 3 6,284
+62062000 Women'S Or Girl'S Blouses, Shirts/Blouses Of Wool Or Fine Animal Hair 38 25,792
+62063000 Women'S Or Girls' Blouses, Shirts/Blouses Of Cotton 17 63,726
+62064000 Women'S Or Girl'S Blouses, Shirts/Blouses Of Man-Made Fibres 11 22,448
+62069000 Women/Girl'S Blouses,Shirts/Blouses Of Oth.Tex.(Exl.Silk,Wool,Of Man M.Fib 1 1,503
+62072100 Men'S Or Boys' Nightshirts And Pyjamas Of Cotton 1 9,414
+62079100 Men'S Or Boys' Singlets,Vests Dressing Gowns, Etc, Of Cotton 1 2,468
+62079900 Mens/Boy'S Singlets,Vests Dressing Gowns,Etc,Of Oth.Tex.(Exl.Cot.Man M.Fib 1 1,840
+62089200 Women'S Or Girls' Dressing Gowns, Panties, Etc, Of Man-Made Fibres 1 6,009
+62092000 Babies' Garments And Clothing Accessories Of Cotton 7 48,887
+62093000 Babies' Garments And Clothing Accessories Of Synthetic Fibres 0 2,280
+62099000 Babies Garments&Clothing Accessories Of Oth.Tex.(Exl.Wool,Cotton,Syn.Fib) 102 587,588
+62102000 Garments Of 6201.11 To 19, Made Up Of Fabrics Of 59.03, 59.06 Or59.07 0 265
+62103000 Garments Of 6202.11 To 19, Made Up Of Fabrics Of 59.03, 59.06 Or 59.07 1 614
+62104000 Men'S Or Boys' Garments Made Up Of Fabrics Of 59.03, 59.06 Or 59.07 2 5,009
+62111100 Men'S Or Boys' Swimwear 3 11,592
+62111200 Women'S Or Girls' Swimwear 10 58,663
+62113200 Men's or boys' garments of cotton, nes 6 9,997
+62113300 Men's or boys' garments of man-made fibres, nes 9 10,405
+62113900 Men's or boys' garments of other textiles, nes 1 46,672
+62114200 Women's or girls' garments of cotton, nes 12 12,823
+62114300 Women's or girls' garments of man-made fibres, nes 0 1,940
+62114900 Women's or girls' garments of other textiles, nes 3 4,997
+62121000 Brassisres 436 780,905
+62122000 Girdles And Panty-Girdles 1 5,008
+62123000 Corselettes 1 626
+Page 20 of 35
+HSCODE Tarrif Description Net_WT (kg) Assess Value (Tk)
+62129000 Corsets, Braces, Garters, Suspenders And Similar Articles 319,347 979,892,923
+62132000 Handkerchiefs Of Cotton 280 438,213
+62139000 Handkerchiefs Of Other Textiles, (Exl. Silk/Silk Waste,Cotton). 91 624,336
+62143000 Shawls,Scarves,Mufflers,Mantillas,Veils,Etc & The Like Of Synthetic Fibres 241 1,405,271
+62149000 Shawls,Scrvs.,Mflrs.,Mntls.,Veils,Etc,Of Oth.Textls.(Exl.Silk/Wool,Syn/Art 0 626
+62151000 Ties, Bow Ties And Cravats Of Silk Or Silk Waste 241 1,989,762
+62152000 Ties, Bow Ties And Cravats Of Man-Made Fibres 2,638 68,424,836
+62159000 Ties, Bow Ties And Cravats Of Other Textiles,Nes(Excl.Silk Man Made Fibre) 2,051 25,890,253
+62160000 Gloves, Mittens And Mitts 2,320 2,603,968
+62171000 Clothing Accessories, Nes 693,800 550,852,077
+62179000 Parts Of Garments Or Clothing Accessories, Nes 35,847 76,608,957
+63013000 Blankets (Excl. Electric Blankets) And Travelling Rugs, Of Cotton 0 1,878
+63026000 Toilet Linen And Kitchen Linen, Of Terry Fabrics, Of Cotton 5 3,591
+63039900 Curtains&Intror.Blinds;Curtain/Bed Valances Of Oth.Txtls.(Exl.Knitted/Croc 25 61,815
+63052000 Sacks And Bags, Used For Packing Goods, Of Cotton 1,796 3,999,275
+63053300 Sacks And Bags,For Packing Goods,Of Polyethylene/Polypropylene Strip Nes 59,731 11,289,982
+63053900 Sacks And Bags, Used For Packing Goods, Of Man-Made Textile Fibres, Nes 2,669 2,018,843
+63059000 Sacks And Bags, Used For Packing Goods, Of Other Textiles, Nes 269 728,523
+63061200 Tarpaulins, Awnings And Sunblinds, Of Synthetic Fibres 25 6,260
+63061900 Tarpaulins, Awnings And Sunblinds, Of Other Textiles, Nes 3,880 1,370,640
+63062200 Tents Of Synthetic Fibres 354 250,355
+63064000 Tents: Pneumatic mattresses 10,829 4,181,746
+63069000 Other camping goods 20 9,604
+63071000 Floor-Cloths, Dish-Cloths, Dusters And Similar Cleaning Cloths 136 863,649
+63079000 Made Up Articles (Incl. Dress Patterns), Nes 4,685 6,245,984
+63101000 USED OR NEW RAGS, SCRAP TWINE, CORDAGE, ROPE AND CABLES AND WORN OUT ART..,SORTED 20,001 196,554
+63109000 USED OR NEW RAGS, SCRAP TWINE, CORDAGE, ROPE AND CABLES AND WORN OUT ART..,EXCL. SORTED 2,742,979 18,059,520
+64019200 Waterproof Footwear Covering The Ankle But Not The Knee 13 8,450
+64021900 Sport Footwear, Nes, Of Rubber Or Plastics 5 10,017
+64022000 Footwear With Upper Straps/Thongs Plugged Into Soles,Of Rubber Or Plastics 18,799 11,913,559
+64029100 Footwear, Nes, Covering The Ankle Of Rubber Or Plastics 7 11,638
+64029900 Footwear, Nes, Exl. Covering The Ankle, Of Rubber Or Plastics 3,483 2,772,405
+64032000 Footwear With Leather Soles And Straps (Over Instep, Around Big Toe) 58 22,336
+64035100 Footwear With Leather Soles And Uppers, Covering The Ankle 7,064 5,837,197
+64039100 Footwear With Rubber... Soles And Leather Uppers, Covering The Ankle,Nes 31 25,183
+64039900 Footwear With Rubber... Soles, Leather Uppers, Not Covering The Ankle 30 18,986
+64041100 Sports Shoes, Etc, With Rubber Or Plastic Soles And Textile Uppers 1 3,505
+64041900 Sports Footwear, With Rubber Or Plastic Soles And Textile Uppers 241 375,676
+64042000 Footwear With Leather Or Composition Leather Soles And Textile Uppers 134 182,529
+64051000 Footwear, Nes, With Leather Or Composition Leather Uppers 4,102 5,622,073
+64059000 Footwear, Nes 7,219 2,339,457
+64061000 61,332 120,290,134
+64062000 Outer soles and heels, of rubber or plastics 1,779,217 1,250,711,481
+64069000 Other Parts of footwear 1,310,805 1,072,365,620
+65010000 Hat-Forms, Hat Bodies And Hoods Of Felt; Plateaux And Manchons Of Felt 5,023 6,991,813
+65040000 Hats And Other Headgear, Plaited Or Assembled By Strips Of Any Material 413 394,427
+65050000 Hats and other headgear, knitted or crocheted, . trimmed; hair-nets of any material, wh 8,196 7,209,585
+65061000 Safety Headgear 57 227,017
+65069100 Hats And Other Headgear, Of Rubber Or Plastics 1 1,227
+65070000 Head-Bands, Linings, Covers, Hat Foundations, Etc, For Headgear 104,324 36,318,547
+67010000 Skins Of Birds With Feathers Or Down, Feathers, Etc 3,930 28,333,187
+67021000 Artificial Flowers, Foliage And Fruit And Articles Thereof Of Plastics 850 4,097,167
+67029000 Artificial Flowers, Foliage, Etc And Articles Thereof Of Other Materials 187 1,045,970
+67030000 Human Hair, Dressed, Etc; Animal Hair And Synthetic Materials For Wigs 650,638 669,071,110
+67041900 False Beards, Eyebrows And Eyelashes, Etc, Of Synthetic Fibres 18,719 9,394,067
+67049000 Wigs,False Beards,Eyebrows,Etc Of Animal Hair Or Text,Material 16,596 43,631,272
+68021010 Tiles, Cubes...; artificially coloured granules, chippings and powder 37,240 1,466,135
+68022300 Granite, Cut/Sawn, With Flat/Even Surface 161,040 6,043,853
+68029900 Monumental/Building Stone, Nes, Worked 4 2,932
+68041000 Millstones And Grindstones For Milling, Grinding Or Pulping 440 1,067,943
+68042100 Millstones, etc, of agglomerated synthetic or natural diamond 8 402,984
+68042200 Millstones, etc, of other agglomerated abrasives or of ceramics 18,325 3,937,614
+Page 21 of 35
+HSCODE Tarrif Description Net_WT (kg) Assess Value (Tk)
+68042300 Millstones, etc, of natural stone 509 190,761
+68043000 Hand Sharpening Or Polishing Stones 1,002 1,204,819
+68051000 NATURAL OR ARTIFICIAL ABRASIVE POWDER OR GRAIN..,ON A BASE OF WOVEN TEXTILE FABRIC ON 6 138,214
+68052000 Natural Or Artificial Abrasive Powder/Grain, On Paper/Paperboard 2,821 2,717,930
+68053000 Natural Or Artificial Abrasive Powder/Grain, On A Base Of Materials, Nes 87 1,846,108
+68062000 Exfoliated Vermiculite, Expanded Clays, Etc (Incl. Intermixtures) 2,926 1,034,597
+68069000 OTH. WOOL,EXCL.SLAG WOOL,ROCK WOOLAND SIMILAR, EXFOLIATED VERMICULITE, EXPANDED CLAYS.. 8 1,334
+68071000 Articles Of Asphalt Or Of Similar Material, In Rolls 21,689 2,536,863
+68080000 Panels, Boards..., Of Wood Waste, Etc, Agglomerated With Cement, Etc 26,421 1,811,185
+68091100 Boards..., Of Plaster..., Reinforced With Paper Or Paperboard Only 3,500 78,878
+68091900 Boards..., Of Plaster Or Compositions Based On Plaster, Nes 2,594 162,384
+68099000 Articles Of Plaster Or Compositions Based On Plaster, Nes 57,050 1,714,517
+68101100 Building Blocks And Bricks, Of Cement Or Artificial Stone Or Concrete 6,949,351 31,641,833
+68109900 Articles Of Cement, Concrete Or Artificial Stone, Nes 6,521,748 50,067,846
+68129100 Clothing, clothing accessories, footwear and headgear, Excl. Of crocodile 2,835 2,161,663
+68138100 Friction material and articles thereof ..not Containing asbestos Brake linings 3 599,954
+68151000 Non-Electrical Articles Of Graphite Or Other Carbon (Incl. Carbon Fibres) 4,342 14,607,818
+68151100 Articles of stone or of other mineral substance ...Carbon fibres 3,310 17,614,995
+68151200 Articles of stone or of other mineral substance ...Fabrics of carbon fibres 517 4,681,879
+68151900 Articles of stone or of other mineral substance .. NES 26 41,948
+68159900 Articles Of Stone Or Other Mineral Substances, Nes 526 781,268
+69039090 Refactory Ceramic Goods, Nes 0 751
+69041000 Ceramic Building Bricks 38,600 2,692,822
+69072100 Of a water absorption coefficient by weight not exceeding 0.5 % 21,120 1,771,683
+69074000 Finishing ceramics 517,234 28,846,270
+69109000 Ceramic Sinks, Wash Basins, Baths... And Other Sanitary Fixtures, Nes 1,716 350,348
+69119000 Household And Toilet Articles, Nes, Of Porcelain Or China 16 201
+69120000 Ceramic Tableware... Other Household Articles (Excl. Porcelain Or China) 245 90,522
+70021000 Balls Of Glass, Unworked 311 1,095,063
+70023110 Neutral Glass Tubes For The Manufacture Of Ampoules And Vials 1,434 468,657
+70049000 Unworked Drawn/Blown Glass (Excl. Coloured, Opacified, Etc) 1,966 166,501
+70051000 Nonwired Unworked Sheets Of Float/Ground/Polished Glass,Wth Absorbnt Layer 23,994 2,356,735
+70052990 Excl. Ultra clear glass imported by VAT registered refrigerator or freezer manf. ind. 1,349 270,344
+70099190 Unframed Glass Mirrors (Excl.Spherical & Cylinderical Only For Lab Use) 2,928 536,777
+70102000 Stoppers, Lids And Other Closures Of Glass 2 11,060
+70181000 Glass Smallware (Incl. Beads, Imitation Pearls/Stones, Etc) 16,550 40,126,640
+70189000 Glass Statuettes And Other Ornaments Of Lamp-Worked Glass, Nes 2,939 11,850,130
+70191200 Rovings Of Glass Fibres 20,791 2,244,257
+70191900 OTH. YARN AND STRANDS, EXCL.(CHOPPED STRANDS, OF A LENGTH OF NOT >50MM, ROVINGS) 4,707 5,891,873
+70196300 Closed woven fabrics, plain weave, of yarns, not coated or laminated 44 31,508
+70196590 Open woven fabrics of a width not exceeding 30 cm 165 429,626
+70197110 Glass fiber in sheet form imp. by Ind.IRC VAT compliant 336 1,733,100
+70198000 Glass wool and articles of glass wool 8,718 1,738,622
+70199090 GLASS FIBRES (INCL. GLASS WOOL) AND ARTICLES THEREOF (EG WOVEN FABRICS), NES 673,436 155,336,323
+70200090 Other articles of glass, Excl. Glass inners for vacuum flasks or for other vac 300 9,483
+71131900 Articles Of Jewellery And Parts Thereof Of Precious Metal (Excl. Silver) 24 681,534
+71171100 Cuff-Links And Studs Of Base Metal (Incl. Plated) 150 2,008,488
+71171900 Imitation Jewellery Of Base Metal (Incl. Plated), Nes 6,477 2,116,846
+72083800 528,310 33,860,077
+72083900 Of a thickness of less than 3 mm 19,724,050 1,211,549,710
+72085100 2,061 370,020
+72085300 2,775 216,974
+72085400 19,165 1,894,468
+72091790 Flat/Coldrolled Iron/Steel,In Coils,Width >=600mm, >=0.5mm But <=1mm Thick 13,646 5,180,730
+72092700 Flat/Coldrolled Iron/Steel,Not In Coils,Wid>=600mm,>=0.5mm But <=1mm Thick 11,958 1,177,659
+72101100 Flatrolled Iron/Steel, Width>=600mm, >= 0.5mm Thick,Clad,Plated...With Tin 1,865 2,685,700
+72101200 Flat-Rolled Iron/Steel, Width >=600mm, <0.5mm Thick, Plated... With Tin 373,468 63,139,132
+72103000 Electrolytically plated or coated with zinc 8,360 2,510,961
+72104100 Flatrolld Iron/Steel,Wid.>=600mm,Plated Wth Zinc(Exc.Electroplatd)Corrugtd 55,637 6,355,398
+72104910 Flat rolled prod. of a thickness => 0.4 mm Imp.VAT reg. Refri. & Pre. Fab.bu.Industry 58,693 6,842,172
+72104990 Flat rolled products, NES 64,167 8,553,498
+72106190 Ro.Iron/Steel,..Excl. thi.=< 0.4 mm imp.by reg. & pre-fabr. building mfg industry 117,340 14,836,862
+Page 22 of 35
+HSCODE Tarrif Description Net_WT (kg) Assess Value (Tk)
+72106910 Other plated or coated Of a thickness of 0.4 mm or more 60,520 8,572,776
+72106990 Ro.Iron/Steel,Of a thi. 0.4 mm or more Excl. imp.by reg. & pre-fabr. Buil. mfg ind. 12,000 595,076
+72107010 Of a thickness of 0.3 mm or more 19,660 3,735,989
+72109000 Rolled Iron/Steel, Width >=600mm, Otherwise Clad,Plated Or Coated Nes 8,160 1,664,745
+72111400 Flat/Hotrolled Iron/Steel,Wid<600mm,>=4.75mm Thick,Not Clad/Plated Etc Nes 115 5,569
+72119000 Flatrolled Iron/Nonalloy Steel,Wid<600mm,Nes(Inc.Furthr Worked Than Rolled 333,483 25,469,204
+72125010 Steel plate of a thickness of 0.25 mm to 0.50 mm 1 41,506
+72132000 Hot-rolled bars & rods of free-cutting steel, in coils 211 38,635
+72142000 Iron/steel bars & rods, hot-rolled...,twisted, or with deformations from rolling proc 3,448,875 249,417,887
+72149100 639 472,031
+72149900 Iron/steel bars and rods, hot-rolled, hot-drawn or hot extruded, nes 4,518 1,696,513
+72162100 L Sections Of Iron/Steel, Hot-Rolled..., <80mm High 5,829 422,533
+72163100 U Sections Of Iron/Steel, Hot-Rolled..., >=80mm High 17,541 1,197,913
+72163300 H Sections Of Iron/Steel, Hot-Rolled..., >=80mm High 14,122 808,886
+72164000 L Or T Sections Of Iron/Steel, Hot-Rolled..., >=80mm High 105,301 5,221,848
+72165000 Angles/Shapes/Sections Of Iron/Steel,Not Furthr Worked Than Hot-Rolled Nes 595 111,741
+72166100 Angles,Shapes.. Of Iron/Steel,No More Workd Thn Cold-Formed,From Flat Rol. 15,352 6,593,474
+72169900 Angles, Shapes And Sections Of Iron Or Non-Alloy Steel, Nes 35,435 2,531,141
+72171000 Wire Of Iron/Non-Alloy Steel,Not Plated/Coated,Whether Or Not Polished 168,796 17,164,593
+72172000 Wire Of Iron Or Non-Alloy Steel,Plated Or Coated With Zinc 1,425 581,899
+72179000 Wire Of Iron Or Non-Alloy Steel, Nes 21,429 6,094,787
+72191100 Hot-Rolled Stainless Steel, In Coils, >=600mm By >10mm 23,343 9,060,108
+72191300 Of a thickness of 3 mm or more but less than 4.75 mm 33,738 2,274,540
+72192100 Hot-Rolled Stainless Steel, Uncoiled, >=600mm By >10mm 395 148,367
+72192200 Hot-Rolled Stainless Steel, Uncoiled, >=600mm By 4.75-10mm 10 6,706
+72192400 Hot-Rolled Stainless Steel, Uncoiled, >=600mm By <3mm 3,560 1,154,229
+72193400 Cold-Rolled Stainless Steel, Uncoiled, >=600mm By 0.5-1mm 3,126 467,238
+72193500 Cold-Rolled Stainless Steel, Uncoiled, >=600mm By <0.5mm 17,930 5,317,866
+72201290 Hot-Rolled Stainless Steel (Excl.Thickness Less Than 0.125mm) 1,542 544,629
+72202090 Not Further Worked Than Cold-Rolled(Cold-Reduced)Excl.Thickness <0.125 Mm 42,692 15,308,650
+72209000 Rolled products stainless steel, <600mm wide, nes 2,189 2,713,133
+72210000 Stainless Steel Bars & Rods, Hot-Rolled, In Irregularly Wound Coils 1,200 299,095
+72221900 Stainlss Steel Bars/Rods,Not Furthr Workd Than Hotrolld,Not Circ.X-Section 1 8,260
+72223000 Stainless Steel Bars And Rods, Nes 36,000 1,785,228
+72224000 Angles, Shapes And Sections Of Stainless Steel 1,707 105,870
+72230000 Wire Of Stainless Steel 91,575 61,180,975
+72251900 Flatrolled Prods Of Siliconelectric.Steel,>=600mm Wide,(Excl.Grainoriented 99,945 18,657,710
+72269990 Flat-Rolled Products Of Other Alloy Steel, <600mm Wide, Nes 13,283 3,535,191
+72286000 Bars And Rods Of Alloy Steel, Nes 3,517 1,023,803
+73012000 Angles, Shapes And Sections Of Iron Or Steel 17,257 5,843,686
+73029000 Railway Track Construction Material Of Iron Or Steel, Etc, Nes 2,367 706,781
+73030000 Tubes, Pipes And Hollow Profiles, Of Cast Iron 2,709 456,083
+73041110 Line pipe of a kind used for oil or gas pipelines : Of stainless steel, Exceed 16,223 1,323,843
+73041910 Line pipe of a kind used for oil or gas pipelines:Excl.Of stainless steel, Exc 73,350 13,297,220
+73042320 Casing,tubing & drill pipe,Excl.Drill pipe of stainless steel: Exceed. 8 inch d 302 249,416
+73042420 Casing, tubing and drill pipe..Other, of stainless steel , 8 inch dia or less 10,713 804,785
+73043100 Seamless Iron/Steel Tubes/Pipes/Profiles, Circular, Cold-Drawn/Rolled 1,310 122,950
+73043900 Other Circular cross section of iron or non alloy steel (Excl cold drawn or cold rol) 3,066 2,185,196
+73044190 Capillary Tube (Excl.16 Bwg To 29 Bwg), Of S.Steel, Circular Cross Section 2,198 184,382
+73049000 Seamless Iron/Steel Tubes/Pipes/Profiles Of Non-Circular X-Section 165,786 25,561,392
+73062120 Casing and tubing of a kind used in the dril for oil/gas,Welded,of stainless st 5,673 490,684
+73063000 Other, welded, of circular cross-section of iron or non-alloy steel 22,173 2,918,947
+73066100 Othr,weld, of non-circu.cr.section Of square or rec.cross-sec., NES 94,991 9,765,650
+73069000 Tubes, pipes and hollow profiles, riveted, of iron or steel, nes 102,110 18,685,982
+73071900 Cast Tube Or Pipe Fittings Of Iron,Oth.Than Non-Malleable Steel 1,151 318,028
+73072100 Flanges Of Stainless Steel 12,745 4,787,764
+73072200 Threaded Elbows, Bends And Sleeves Of Stainless Steel 19,643 3,578,450
+73072900 Tube Or Pipe Fittings Of Stainless Steel, Nes 14,353 5,874,393
+73079100 Flanges Of Iron Or Steel (Excl. Stainless) 23,147 5,854,270
+73079290 Threaded Elbows, Bends And Sleeves Of Iron Or Steel (Excl. Stainless) 3,471 1,386,133
+73079990 Tube Or Pipe Fittings Of Iron Or Steel (Excl. Stainless), Nes 70,025 14,612,445
+73083000 Doors, Window-Frames And Thresholds For Doors Of Iron Or Steel 77,456 58,673,065
+Page 23 of 35
+HSCODE Tarrif Description Net_WT (kg) Assess Value (Tk)
+73084000 Equipment For Scaffolding,Shuttering,Propping Or Pitpropping Of Iron/Steel 149 37,383
+73089010 Door co-ordinator 9,084 2,034,052
+73089020 Industrial .. System Imp. by Ind. IRC Holder VAT ... 100% Exp. Oriented Garments ind. 11,805 3,251,847
+73089091 Structures And Parts Of Structures, Nes, Of Iron Or Steel 12,564 2,571,669
+73089099 Structures And Parts Of Structures, Nes, Of Iron Or Steel 1,042,976 121,696,245
+73102190 Cans Closed By Soldering And Crimping (Excl.Tin Plated Cans) 347,911 90,943,656
+73121000 Stranded Wire, Cables Of Iron Or Steel, Not Electically Insulated 0 2,766
+73129000 Plaited Bands, Slings, Etc, Of Iron Or Steel, Not Electically Insulated 420 262,645
+73141200 Stainless Steel Woven Cloth Endless Bands For Machinery 120 92,024
+73143900 Iron/Steel Grill, Netting & Fencing, Welded At Intersection, Nes 213 96,586
+73151110 Roller chain of iron or steel Of a kind used exclusively ..or automotive vehicles , nes 11,436 6,824,827
+73151120 Roller Chain Of Iron/Steel Of A Kind Used Exclusively In Motor Cycles 4 9,989
+73151190 Roller Chain Of Iron Or Steel, Nes 9 44,630
+73151200 Articulated Link Chain (Excl. Roller Chain) Of Iron Or Steel 11,675 13,977,314
+73158900 Chain, Nes, Of Iron Or Steel 3,385 20,183,929
+73159000 Parts Of Chains, Nes, Of Iron Or Steel 463 820,786
+73170000 Nails, tacks, drawing pins, ...erial, but excluding such articles with heads of copper. 43,304 31,005,844
+73181100 Threaded Coach Screws Of Iron Or Steel 15,506 2,961,050
+73181200 Threaded Wood Screws (Excl. Coach Screws) Of Iron Or Steel 635 192,613
+73181300 Threaded Screw Hooks And Screw Rings Of Iron Or Steel 43,104 11,898,728
+73181400 Threaded Self-Tapping Screws Of Iron Or Steel Imp by pre-fab. Buil. industry 761 637,570
+73181510 Threaded Screws&Bolts Of Iron Or Steel,Nes Whether Or Not With Nuts/Washer 136 81,886
+73181590 Threaded Screws&Bolts Of Iron Or Steel,Nes Whether Or Not With Nuts/Washer 16,496 11,907,489
+73181600 Threaded Nuts Of Iron Or Steel 4,802 2,222,958
+73181900 Threaded Articles, Nes, Of Iron Or Steel 11,683 4,717,178
+73182100 Non-Threaded Spring Washers And Other Lock Washers Of Iron/Steel 172 642,854
+73182200 Other washers 1,021 1,153,180
+73182390 Rivets, Nes 29,447 21,412,342
+73182400 Cotters And Cotter-Pins Of Iron/Steel 192 428,195
+73182990 Screw,bolts,nuts,coach,screws,screw hooks,river,cotters,cotter-pins,washers..,NES 60,795 17,247,905
+73194000 Safety pins and other pins 394 805,813
+73199000 Knitting needles, bodkins, crochet hooks, etc, of iron or steel 331 2,825,733
+73201000 LEAF SPRINGS AND LEAVES THERE FOR 0 4,882
+73202000 Helical springs of iron or steel 205 616,810
+73209000 Springs, nes, of iron or steel 5,718 7,542,144
+73211100 Cooking Appliances, Plate Warmers, For Gas Fuel... Of Iron Or Steel 10 314
+73239100 Table, Kitchen Or Household Articles... Of Cast Iron, Not Enamelled 50 751
+73241000 Sinks And Wash Basins, Of Stainless Steel 334 128,807
+73242900 Baths Of Iron (Excl. Cast) Or Steel 3 2,234
+73249000 Sanitary Ware And Parts Of Sanitary Ware Of Iron Or Steel 14 25,343
+73251000 Other Cast Articles Of Non-Malleable Cast Iron, Nes 14 15,024
+73259900 Cast articles of iron or steel, nes 10,230 1,416,909
+73261900 Forged Or Stamped Articles Of Iron Or Steel, Nes 184 351,090
+73262090 Other Articles Of Ironor Steel Wire( Excl.Bead Wire For Cycle Tyres) 50,004 19,248,934
+73269010 Steel bobbin 2 13,837
+73269090 Other Articles Of Iron Or Steel, Nes(Excl.S.S.Screen, Burette Stand) 1,170,436 279,561,470
+74020000 Unrefined Copper; Copper Anodes For Electrolytic Refining 930 1,777,981
+74032200 Copper-Tin Base Alloys (Bronze), Unwrought 58 15,872
+74050000 Master Alloys Of Copper 280 90,593
+74072190 Bars,rods and profiles of brass 112,000 148,077,545
+74072900 Bars, rods and profiles of copper alloys, nes 712 1,094,459
+74081100 Wire Of Refined Copper, Maximum Cross-Sectional Dimension >6mm 683 761,183
+74081900 Other 78,767 93,625,646
+74082100 Wire Of Brass 130,748 159,957,147
+74082200 Wire Of Cupro-Nickel Or Nickel Silver 4,369 3,249,662
+74082900 Wire Of Copper Alloy, Nes 51 485,123
+74091100 Plates, Sheets And Strip, Of Refined Copper, In Coils, >0.15mm Thick 7,543 12,631,200
+74091900 Plates, Sheets And Strip, Of Refined Copper, Uncoiled, >0.15mm Thick 3,768 6,664,351
+74092100 Plates, sheets and strip, of brass, in coils, >0.15mm thick In coils 215,409 251,801,914
+74092900 Plates, Sheets And Strip, Of Brass, Uncoiled, >0.15mm Thick 4,202 6,709,006
+74093100 Plates, Sheets And Strip, Of Bronze, In Coils, >0.15mm Thick 107 300,420
+74094000 Plates, Sheets And Strip, Of Cupro-Nickel/Nickel Silver, >0.15mm Thick 1,387 1,719,530
+Page 24 of 35
+HSCODE Tarrif Description Net_WT (kg) Assess Value (Tk)
+74112200 Tubes And Pipes Of Cupro-Nickel Or Nickel Silver 2,146 4,617,129
+74121000 Tube Or Pipe Fittings Of Refined Copper 2,088 3,350,107
+74122000 Tube Or Pipe Fittings Of Copper Alloys 3,224 664,079
+74130000 Stranded Wire, Cables... Of Copper, Not Electrically Insulated 4,140 6,132,631
+74151000 Nails And Tacks, Drawing Pins, Staples, Etc, Of Copper Or Partly Copper 5,329 12,995,181
+74152100 Washers Of Copper (Including Spring Washers) 37 199,556
+74152900 Non-Threaded Articles Such As Rivets, Cotters, Cotter-Pins... Of Copper 73 26,200
+74153390 SCREWS;BOLTS AND NUTS, EXCLUDING SCREWS FOR WOOD 6 18,761
+75022000 Unwrought Nickel Alloys 25 15,619
+75062000 Plates, sheets, strip and foil of nickel alloys 3 9,090
+75072000 Tubes Or Pipe Fittings Of Nickel 7,640 2,656,597
+76011000 Aluminium, not alloyed 50,682 20,191,616
+76020000 Aluminium Waste And Scrap 70,009 6,466,576
+76041000 Bars, rods and profiles of aluminium, not alloyed 8,270 13,394,081
+76042100 Hollow Profiles Of Aluminium Alloys 25,744 15,151,851
+76042900 Bars, rods and profiles of aluminium alloys 39,643 33,451,609
+76051900 Wire of aluminium, not alloyed, maximum cross-sectional dimension =<7mm 5,152 3,473,909
+76052900 Wire of aluminium alloys, maximum cross-sectional dimension =<7mm 80 179,412
+76061100 Rectangular (Incl. Square) Plates... Of Aluminium, Not Alloyed, >0.2mm 96 11,913
+76061200 Of Aluminium, alloys 96,784 44,337,626
+76069190 Plates... (Excl. Rectangular) Of Aluminium, Not Alloyed, >0.2mm Thick 9,364 6,512,458
+76069200 Plates...(Excl. Rec) of aluminium alloys,>0.2mm thick NES Of aluminium alloys 1,979 1,049,112
+76071100 Rolled but not further worked 21,368 10,410,159
+76072099 Aluminium foil backed, NES 5,495 2,412,815
+76081000 Tubes And Pipes Of Aluminium, Not Alloyed 249 327,121
+76082000 Tubes And Pipes Of Aluminium Alloys 83,098 77,806,058
+76090000 Aluminium Tube Or Pipe Fittings 5,434 6,576,542
+76101000 Doors, Windows And Their Frames And Thresholds For Doors, Of Aluminium 28,489 15,104,830
+76109010 Aluminium Structure And Parts Of Structures..., Nes 43 114,831
+76109090 Aluminium Structure And Parts Of Structures..., Nes 1,642 404,942
+76110000 Aluminium Reservoirs, Tanks, Etc, (Excl. For Gas) >=300 L 5 2,191
+76141000 Cables... of aluminium, with steel core, not electically insulated 597 244,661
+76161000 Nails, Tacks, Staples, Screws, Bolts, Nuts... Of Aluminium 19,435 19,864,275
+76169100 Cloth, Grill, Netting And Fencing, Of Aluminium Wire 255 95,818
+76169900 Articles of aluminium, nes 42,537 39,084,527
+78011000 Refined Lead, Unwrought 150,638 42,968,943
+78019100 Unwrought Lead, Containing Antimony As The Principale Other Element 98,561 35,534,343
+78019900 Unwrought Lead (Excl. Refined And Containing Antimony) 171,380 57,767,658
+78060090 Other Articles Of Lead Nes 19 567,862
+79011190 Zinc, Not Alloyed, >=99.99% Pure, Nes 38,984 13,359,178
+79012000 Zinc alloys 495,423 238,724,979
+79040000 Zinc Bars, Rods, Profiles And Wire 3 18,781
+79050000 Zinc Plates, Sheets, Strip And Foil 14,918 10,292,011
+79070090 Other Articles Of Zinc, Nes 352 553,670
+80011000 Tin, Not Alloyed, Unwrought 398 2,981,639
+80012000 Tin Alloys, Unwrought 200 450,733
+80030000 Tin bars, rods, profiles and wire 49 18,480
+81019400 UNWROUGHT TUNGSTEN, INCLUDING BARS AND RODS OBTAINED SIMPLY BY SINTERING 64 802,700
+81089000 Articles Of Titanium, Nes 2 195,508
+82021000 Hand Saws 3 7,250
+82022000 Band Saw Blades 12 125,681
+82023100 Circular Saw Blades With Working Part Of Stl(Inc.Slittng/Slottng Saw Blade 1 7,769
+82023900 Circular Saw Blades(Inc.Slitting Blades)Excl.With Steel Working Part;Parts 1 13,435
+82031010 Files For Cutting Ampoules 0 16,679
+82031090 Files, Raspsand Similar Tools Nes. 10 40,983
+82032000 Tweezers, Pliers, Pincers And Similar Tools 8 97,924
+82041100 Non-Adjustable, Hand-Operated Spanners And Wrenches 385 524,270
+82041200 Adjustable, Hand-Operated Spanners And Wrenches 0 13,748
+82051000 Drilling, Threading Or Tapping Hand Tools 524 923,237
+82052000 Hammers And Sledge Hammers 33 43,785
+82054000 Screwdrivers 0 3,751
+82055990 HAND TOOLS, NES (INCL. GRAZIERS' DIAMONDS) EXCLUDING FIBRE OPTIC CABLE FUSION SLICER 592 2,360,345
+Page 25 of 35
+HSCODE Tarrif Description Net_WT (kg) Assess Value (Tk)
+82057000 Vices, Clamps And The Like 1,471 614,528
+82059000 Other,incl.sets of articles of two or more of sub-headings of this heading 122 160,127
+82060000 Tools Of Two Or More Of 82.02 To 82.05, Put Up In Sets For Retail Sale 193 58,678
+82072000 Dies For Drawing Or Extruding Metal 711 4,409,415
+82073000 Interchangeable Tools For Pressing, Stamping Or Punching 1,539 8,399,241
+82074000 Interchangeable Tools For Tapping Or Threading 31 494,630
+82075000 Interchangeable Tools For Drilling, Other Than For Rock Drilling 249 552,954
+82077000 Interchangeable Tools For Milling 45 933,707
+82079000 Other Interchangeable Tools For Hand Or Machine-Tools, Nes 801 125,432
+82081000 Knives And Cutting Blades, For Metal Working Machines 2 252,544
+82089000 Knives And Cutting Blades, For Machines Or Mechanical Appliances Nes 2,825 18,577,551
+82090000 Plates, Sticks... For Tools, Unmounted, Of Metal Carbides Or Cermet 1 109,211
+82111000 Sets Of Assorted Knives, Nes 165 430,844
+82119200 Other Knives With Fixed Blades (Excl. Table Knives) 10 189
+82119300 Knives(Excl. With Fixed Blades) 4,055 1,640,945
+82130000 Scissors, Tailors' Shears And Similar Shears, And Blades Therefor 349 190,744
+82159900 Spoons, Forks, Ladles, Skimmers... Or Similar Tableware, Nes 50 1,567
+83011000 Padlocks Of Base Metal 3,345 4,831,874
+83013000 Locks For Furniture Of Base Metal 28 17,209
+83014010 Other locks 75 56,342
+83014090 Other locks 1,257 8,480,864
+83015000 Clasps And Frames With Clasps, Incorporating Locks Of Base Metal 713 870,569
+83016000 Parts Of Padlocks And Locks Of Base Metals 1,823 716,666
+83021000 Hinges Of Base Metal 664 299,248
+83022000 Castors Of Base Metal 66 10,330
+83024210 Magnatic door holder....Suitable for furniture 33 22,965
+83024290 Mountings, Fittings, Etc, Suitable For Furniture, Of Base Metal, Nes 893 513,536
+83024910 OTHR MOUNTING, FIT.&SIMILAR ARTICLES, DEV. /FITTINGS FOR BARR.WIND. & OR PANIC EXIT DOOR 261 1,124,005
+83024991 OTR MOUNTING FITTINGS &SIMILAR ARTI.EXCL. DEVICE/FIT.FOR BARRED WINDOWS & OR PANIC EXIT 72,221 26,504,064
+83024999 OTR MOUNTING FITTINGS &SIMILAR ARTI.EXCL. DEVICE/FIT.FOR BARRED WINDOWS & OR PANIC EXIT 18,205 14,578,176
+83025000 Hat-Racks, Hat-Pegs, Brackets And Similar Fixtures Of Base Metal 83 62,670
+83030000 Armoured Or Reinforced Safes, Strong-Boxes And Doors... Of Base Metal 1,230 651,299
+83051000 Fittings For Loose-Leaf Binders Or Files Of Base Metal 18 75,122
+83052000 Staples In Strips, Of Base Metal 269 112,683
+83059000 Office Artcls.Such As Ltr.Clips,Ltr.Corners..Of Base Metal Incldng.Parts 473 2,694,956
+83061000 Bells, Gongs, Etc, Non-Electric, Of Base Metal Containing more than 99.99 % of bismut 3,486 5,751,213
+83062100 Statuettes And Other Ornaments Of Base Metal, Plated With Precious Metal 13 8,389
+83062900 Statuettes and other ornaments of base metal (excl. plated) 450 360,424
+83063000 Photograph, Picture Or Similar Frames; Mirrors Of Base Metal 2 1,912
+83071000 Flexible Tubing Of Iron Or Steel 105 828,247
+83079000 Flexible Tubing Of Other Base Metal (Excl. Iron Or Steel) 4,587 1,294,024
+83081000 Hooks, Eyes And Eyelets Of Base Metal 394,086 526,700,725
+83082000 Tubular Or Bifurcated Rivets Of Base Metal 71,222 284,079,450
+83089000 Clasps, Buckles... Beads Andspangles Of Base Metal (Incl. Parts) 295,740 528,037,071
+83099010 Lug Caps 16 172,390
+83099020 Container Seal 615 773,167
+83099030 Combination seal for vials 681 3,205,674
+83099091 Stoppers, caps and lids.. excl.Crown corks nes, 578 2,541,088
+83099099 Stoppers, caps and lids.. excl.Crown corks nes, 150,632 68,382,559
+83100000 Sign-Plates, Name-Plates, Address-Plates, Etc, Of Base Metal(Ex.Hsno-94.05 17,867 62,587,716
+83111090 Coat electrode of base metal, for elec arc-weld, ExWeld wire imp by VAT reg com. manu 1,160 292,094
+83113000 Coated rods and cored wire of base metal, for soldering, brazing... 12,468 14,987,279
+83119000 Wires, Rods... Of Base Metal, Coated/Cored (Incl. Powder For Sprays) Nes 936 472,313
+84021900 Other Vapour Generating Boilers, Nes (Incl. Hybrid Boilers) 27,545 24,099,630
+84029000 Parts Of Sheam On Oth.Vapour Genrtng.Boilers & Super-Heated Water Boiles 140 134,343
+84031000 Central Heating Boilers For Oth.Than Hs Code No-84.02 16,425 5,636,306
+84081000 Marine propulsion engines 3,621 27,764,655
+84099910 For Engines of Industrial use and fishing trawler 149 3,985,080
+84099990 Parts For Compression-Ignition Internal Combustion Engines, Nes 5 82,088
+84119100 Parts Of Turbo-Jets Or Turbo-Propellers 16 14,003,887
+84122100 Hydraulic Power Engines And Motors, Linear Acting (Cylinders) 6 143,032
+84122900 Hydraulic Power Engines And Motors (Excl. Linear Acting) 5 12,428,082
+Page 26 of 35
+HSCODE Tarrif Description Net_WT (kg) Assess Value (Tk)
+84123100 Pneumatic Power Engines And Motors, Linear-Acting (Cylinders) 60 1,410,119
+84123900 Pneumatic Power Engines And Motors (Excl. Linear Acting) 14 682,643
+84129010 Parts Of Engines And Motors Of 8412.10 To 8412.80 For Aircraft Engines 2 5,155,637
+84129090 Parts Of Engines And Motors Of 8412.10 To 8412.80, Nes 7 139,214
+84131900 Pumps For Liquids, With Or Designed To Be Fitted With A Measuring Device 3,136 5,554,518
+84136000 Rotary Positive Displacement Pumps 403 1,578,610
+84137000 Other Centrifugal Pumps 1,487 1,448,741
+84138100 Other Liquid Elevatos Pumps 288 4,990,229
+84139100 Parts of Pumps for liq. whts or not fitted with fitted with meas. dev.liquied elev. 50 654,157
+84141000 Vacuum Pumps 812 220,109
+84142000 Hand Or Foot-Operated Air Pumps 4,430 2,458,058
+84143010 Compressors For Refrigerating Equipment For Industrial Use 692 1,337,926
+84144000 Air Compressors Mounted On A Wheeled Chassis For Towing 2 65,664
+84145100 Table, floor, wall, window, ceiling or roof fans, with a....output not exceeding 125W 1,530 159,619
+84145910 Venlating exhaust fan with blade rotating diameter of 24 inch or mere 10,431 11,836,510
+84145990 Otherv Fans, Nes 2,557 22,042,854
+84146000 Hoods Incorporating A Fan Having A Maximum Horizontal Side =<120cm 45 41,070
+84148010 Air Compressors 5,033 9,327,565
+84148090 Other Air Pumps; Air Or Gas Compressors; Hoods With A Fan, Nes 818 1,016,785
+84149010 Parts Of Fan 5 166,759
+84149020 Parts...Of compressor 87 89,964,123
+84149090 Parts Of Air/Vacum Pumps, Of Air/Gas Compressors, Nes 953 2,381,001
+84152010 AIR CON.MCH >200,000BTU,OR EQV.USE FOR PRSN IN MOTOR VEHI.IMP.BY VAT REG.BUS BDY BLD. 13,016 21,525,021
+84158320 For textile requiring more than 200,000 BTU or equivalent 855 3,260,039
+84159090 Parts of other Air Conditioning Machine 2 2,792
+84162000 Other Furnace Burners For Solid Fuel Or Gas (Incl. Combination Burners) 50 29,376
+84169000 Parts Of Furnace Burners For Liquid/Solid/Gas Fuel; Mechanical Grates... 1 107,531
+84179000 Parts Of Industrial Or Laboratory Furnaces And Ovens 1,750 616,002
+84182900 Household refrigerators, nes 38 1,837,363
+84186110 Indstrl.Refrigeration/Freezing Equipment,Compression Type..Heat Excharger) 100 162,765
+84186910 Refrigerating Or Freezing Equipment,Heat Pumps, Industrial 247,057 34,259,956
+84186999 Freezers of the upright type, (Excl.) exceeding 900 L or 800L capacity 1,155 3,998,559
+84189900 Parts for imported by VAT registered refrigerator and freezer manufacturers 6 108,811
+84192000 Medical, Surgical Or Laboratory Sterilizers 4,744 1,858,023
+84193900 Non-Domestic Dryers, Nes 3,020 2,367,954
+84194090 Water Rectifying Plant 650 726,182
+84195000 Heat Exchange Units 3,438 14,079,699
+84198100 Non-Domestic Equipment, For Cooking Or Heating Food 158 142,785
+84199000 Parts Of Non-Domestic Heating/Cooling Equipment 150 1,809,544
+84209100 Cylinders For Calendering Or Other Rolling Machines 61 988,837
+84209900 Parts Of Calendering Or Other Rolling Machines, Nes 35 104,931
+84212120 Domestic type water purifying apparatur and machine. 988 1,194,413
+84212300 Oil Or Petrol-Filters For Internal Combustion Engines 373 5,766,687
+84212910 Cartrdg./Membr. filt. imp. by VAT reg. pharma. & water purif. mach./apprts. manf. ind 16 114,198
+84212990 Filtering or purifying machinery and apparatus for liquids, NES 166 706,075
+84213100 Intake Air Filters For Internal Combustion Engines 17 942,312
+84213920 Industrial filter for air or other gases; overhead travelling .. cyclone of industria 237 2,566,590
+84213990 Other 9 228,499
+84219910 Parts Of Machinery... For Filtering/Purifying Liquids Or Gases 12 57,469
+84219990 Parts Of Machinery... For Filtering/Purifying Liquids Or Gases 122 2,048,240
+84223000 Machinery For Filling,Closing...Etc.Bottles,Cans Etc,& Aerating Drinks 300 112,683
+84224000 Oth.Packing/Wrapping Machinery, (Incl. Heat-Shrink Wrapping Machinery)Nes 7,103 1,459,750
+84229000 Parts Of Machinery Of 8422.11 To 8422.40 141 85,341
+84232000 Scales For Continuous Weighing Of Goods On Conveyors 70 149,005
+84238210 Weighting Capacity Exceeding 200KG 8 2,111
+84239000 Weighing Machine Weights Of All Kinds; Parts Of Weighing Machinery 4 125,204
+84241000 Fire Extinguishers, Whether Or Not Charged 362 1,900,073
+84242010 Spray Guns And Similar Appliances Of Industrial Use 143 558,161
+84242030 SPRINKLER SYSTEM AND EQUIPMENTS 153,524 39,326,463
+84248900 Mechanical Appliances For Projecting/Dispersing/Spraying Liquids/Powders 29,561 36,972,701
+84249000 Parts Of Machinery And Apparatus Of 8424.10 To 8424.89 150 1,537,470
+84251100 Pulley Tackle And Hoists..., Powered By Electric Motor 1,196 804,985
+Page 27 of 35
+HSCODE Tarrif Description Net_WT (kg) Assess Value (Tk)
+84253900 Winches, Capstans, Nes 50 50,642
+84261900 Transporter Cranes,Gantry Cranes/Bridge Cranes,Overhd Travellng Cranes Nes 648 139,325
+84271000 Self-Propelled Works Trucks Powered By An Electric Motor 23,665 11,598,392
+84272000 Self-Propelled Works Trucks (Excl. Electic) 8,125 4,034,901
+84279000 Other Works Trucks Fitted With Lifting Or Handling Equipment, Nes 352 193,131
+84281000 Lifts And Skip Hoists 141,678 57,170,551
+84283300 Continuous-Action Elevators And Conveyors, Belt Type, Nes 3,369 2,388,340
+84283900 Continuous-Action Elevators And Conveyors, Nes 2,250 1,324,900
+84312000 Parts Of Machinery Of 84.27 78 179,430
+84313100 Parts Of Lift, Skip Hoists Or Escalators 3 7,335
+84313900 Parts Of Machinery Of 84.28 (Excl. Lift, Skip Hoists Or Escalators) 10 36,492
+84314900 Parts of machinery of 84.26, 84.29 and 84.30, nes 7 17,513
+84368000 Agricultural... Forestry Or Bee-Keeping Machinery, Nes 80 33,143
+84401000 Book-Binding Machinery (Incl. Book-Sewing Machines) 165 150,244
+84411000 Cutting Machines 12,527 14,193,153
+84419000 Parts Of Machinery For Making Up Paper Pulp, Paper Or Paperboard, Nes 153 380,783
+84423000 Machinery, apparatus and equipment for pre. or making plates, ..comp. Machiner 832 2,372,986
+84425020 PRINTING PLATES 4,384 3,626,797
+84425090 Other Printing Type,Blocks,Plates,Cylinders...Other Printing Components 63 17,452
+84431300 Other offset printing machinery 41,543 33,579,634
+84431600 Flexographic printing machinery 37 653,783
+84431900 Other printing components(excl.Offset printing machinery, Letterpress printing 13,246 50,267,082
+84433100 Machines which perform two or more of the functions of printing, copying or fa 9 26,919
+84433290 Other printer (excl. computer printer) 1,001 559,453
+84433910 Inkjet printer 55 225,367
+84433991 Copying machine & fax machine 68 156,563
+84433999 Other printing machine,nes 1,520 996,184
+84439100 Parts & acces.of printing m/c used for print. by means of plates, cylinders an 2,072 1,928,103
+84439920 Other parts for Computer Printer 209 2,686,121
+84439990 Parts & accessories other than compuet printer 1,021 23,714,594
+84440000 Machines For Extruding, Drawing... Or Cutting Man-Made Textile Materials 250,699 484,538,419
+84454000 Textile Winding (Incl. Weft-Winding) Or Reeling Machines 3,106 738,824
+84472000 Flat Knitting Machines; Stitch-Bonding Machines 9,552 16,024,654
+84479000 Machines For Making Gimped Yarn, Tulle, Lace, Embroidery, Trimmings, Etc 118,596 77,797,172
+84482090 Parts And Accessories Of Machines Of 84.44 Or Their Auxiliary Machinery 5,744 17,243,247
+84483200 Parts And Accessories Of Machines For Preparing Textile Fibres, Nes 4,015 11,442,538
+84483900 Parts And Accessories Of Machines Of 84.45, Etc, Nes 629 1,816,736
+84484290 Other Reeds For Looms Healds And Heald-Frames 342 2,459,041
+84484900 Parts And Accessories Of Weaving Machines (Looms), Nes 715 8,234,215
+84485100 Sinkers, needles and other articles used in forming stitches 75 5,264,777
+84485900 Other Parts And Accessories Of Machines Of 84.47, Etc, Nes 50 739,905
+84502090 Washing Machines, Household/Laundry Type, Capacity >10kg 1,700 1,096,279
+84511000 Dry-Cleaning Machines 4,000 491,425
+84512900 Drying Machines, Of A Dry Linen Capacity >10kg 8,101 2,953,157
+84513000 Ironing Machines And Presses (Incl. Fusing Presses) 15,368 16,704,739
+84514000 Washing, Bleaching Or Dyeing Machines, Nes 82,044 209,560,121
+84515000 Machines For Reeling, Unreeling, Folding, Cutting... Textile Fabrics 28,555 65,260,104
+84518000 Machines For Wringing, Dressing, Finishing... Textile Yarns, Fabrics... 23,039 46,194,773
+84519000 Parts Of Machines For Cleaning, Drying, Ironing, Etc 10,077 53,816,171
+84522100 Automatic Sewing Machines 273,305 514,699,055
+84522990 Sewing Machines Of Industrial Type (Excl. Automaic Units ) Nes. 30,674 79,305,695
+84523000 Sewing Machine Needles 960 17,170,481
+84529090 Other parts of sewing machines 4,984 46,333,489
+84532000 Machinery For Making Or Repairing Footwear 1,850 5,707,655
+84538000 Machinery For Making/Repairing Articles Of Hides, Skins Or Leather, Nes 398 648,302
+84539000 Parts Of Machinery For Preparing ... Leather, Making Footware, Etc 346 767,612
+84542000 Ingot Moulds, Ladles Used In Metallurgy Or In Metal Foundries 2,147 4,261,622
+84549000 Parts Of Converters, Ladles... Casting Machines 1,655 5,417,530
+84561100 Operated by laser or other light or photon beam processes,Operated by laser 2,490 5,306,143
+84562000 Machine-Tools Operated By Ultrasonic Processes 168 1,082,339
+84564000 Operated by plasma arc processes 157 118,010
+84569000 Other m/c-tools(excl. laser or other light or photon beam, ultra-sonic, electr 2 74,695
+Page 28 of 35
+HSCODE Tarrif Description Net_WT (kg) Assess Value (Tk)
+84581900 Horizontal Lathes For Removing Metal (Excl. Numerically Controlled) 3,000 2,330,542
+84592900 Drilling Machines For Removing Metal, Nes 465 579,657
+84595900 Milling Machines, Knee-Type, For Metal (Excl. Numerically Controlled) 3,800 3,204,714
+84603100 Sharpening (Tool Or Cutter Grinding) Machines, Numerically Controlled 296 71,366
+84609000 Other Machines For Deburring, Grinding, Polishing, Etc, Metal, Nes 1,562 2,663,441
+84615000 Sawing Or Cutting-Off Machines For Working Metal Or Cermets 1,360 666,584
+84622300 Numerically controlled press brakes 12,720 5,000,568
+84622500 Numerically controlled roll forming machines 1,833 2,306,753
+84622900 Bending, Folding, Straightening Or Flattening Machines (Incl. Presses) 2,398 1,351,600
+84623200 Slitting lines and cut-to-length lines 9,450 2,388,331
+84626100 Cold metal working presses : Hydraulic presses 15,040 4,785,475
+84629000 Machine-tools (Including presses) for working metal by... not specified above NES 150 129,631
+84632000 Thread Rolling Machines For Working Metal, Without Removing Material 80 22,344
+84633000 Machines For Working Wire, Without Removing Material 24,950 9,318,626
+84642000 Grinding Or Polishing Machines, For Working Stone, Ceramics, Etc 2,716 1,411,619
+84649000 Machine-Tools For Working Stone, Ceramics, Concrete, Etc 117 8,182
+84659300 Grinding, Sanding Or Polishing Machines For Working Wood, Cork, Etc 3,946 2,235,590
+84659400 Bending Or Assembling Machines For Working Wood, Cork, Bone, Etc 1,000 685,616
+84659900 Other Machine-Tools, Nes, For Working Wood, Cork, Bone, Hard Rubber, Etc 7,796 10,415,720
+84661000 Tool Holders And Self-Opening Dieheads 0 78,503
+84662000 Work Holders For Machine-Tools 1 6,619
+84663000 Dividing Heads And Other Special Attachments For Machine-Tools 0 34,807
+84669200 Parts And Accessories For Machines Of 84.65 645 410,156
+84669300 Parts And Accessories For Machines Of 84.56 To 84.61 204 11,309,826
+84669400 Parts And Accessories For Machines Of 84.62 To 84.63 6 926,347
+84671100 Pneumatic Tools, Rotary Type, For Working In The Hand 1 59,271
+84671900 Pneumatic Tools (Excl. Rotary Type), For Working In The Hand 9 147,281
+84672100 DRILLS OF ALL KINDS;WITH SELF CONTAINED ELECTRIC MOTOR 32 55,587
+84672900 TOOLS FOR WORKING IN THE HAND;EXCLUDING DRILLS AND SAWS 37 525,496
+84678900 Tools for working in the hand, with non-electric motor, nes 16 69,929
+84679900 Parts Of Hand-Tools, With Non-Electric Motor, Nes 12 8,671
+84688000 Machinery And Apparatus For Soldering, Brazing Or Welding, Nes 89 72,434
+84713000 Portable Digital Adp Machines,Wt<=10 Kg,Comp.At Least Cpu,Keyboard&Display 34 382,648
+84714100 Nonportable Adp Machines,Comprisng At Least Cpu & I/O Unit In Same Housing 47 35,828,251
+84716090 Adp Input/Output Units Whether/Not Containg. Storage Units In Same Housing 2 105,059
+84718000 Other Units Of Automatic Data Processing Machines Nes 66 354,444
+84719000 Magnetic or optical readers; machines for transcribing data onto data media...nes 179 3,137,982
+84729090 Office machines (incl. coin-sorting/counting/wrapping machines...) , nes 16 30,776
+84733000 Parts And Accessories Of The Machines Of 84.71 2 96,544
+84748000 Other Machinery For Earth, Stone, Ores, Etc, Nes 17 159,914
+84759000 Parts Of Machines Of 84.75 90 164,164
+84771000 Injection-Moulding Machines For Working Rubber Or Plastics, Etc 22,308 73,828,399
+84772000 Extruders For Working Rubber Or Plastics And Making Products Thereof 4,043 6,585,204
+84774000 Vacuum Moulding Machines And Other Thermoforming Machines For Rubber... 1,140 1,072,695
+84778000 Other Machinery For Working Rubber/Plastics Or Making Products Thereof,Nes 28,555 22,606,343
+84779000 Parts Of Machinery For Working Rubber Or Plastics, Etc 1,466 5,940,914
+84795000 Industrial Robots, Nes 22,820 42,598,088
+84796000 Evaporative Air Coolers 730 281,815
+84798200 Machines For Mixing,Kneading,Crushing,Grinding,Having Individual Functions 16,266 11,744,135
+84798900 Machines, having individual functions, nes 17,208 106,123,890
+84799000 Parts Of Machines Having Individual Functions Of Hs Heading 8479 1,220 29,665,588
+84802000 Mould Bases 202,693 163,100,101
+84803000 Moulding Patterns 17 162,765
+84804100 Injection Or Compression Type Moulds For Metal Or Metal Carbides 129 969,840
+84804900 Moulds For Metal Or Metal Carbides (Excl. Injection Or Compression) 1,873 3,154,638
+84806000 Moulds For Mineral Materials 531 697,128
+84807100 Injection Or Compression Type Moulds For Rubber Or Plastics 31,731 56,530,569
+84807900 Moulds For Rubber Or Plastics (Excl. Injection Of Compression) 34,100 44,474,060
+84811011 Pressure-reducing valves,... not exceeding 1 inch Pressure regulator/valve for LPG 5 32,664
+84811019 Pressure-reducing valves,... not exceed 1 inch, Excl. Press. regulator/valve for LPG 64 276,718
+84811090 Exclu. Inner Diameter not exceeding 1 inch 73 685,267
+84812010 Valves for oleohydraulic or pneumatic transmission, inner diameter not exceeding 1 inch 67 310,933
+Page 29 of 35
+HSCODE Tarrif Description Net_WT (kg) Assess Value (Tk)
+84812090 Valves for oleohydraulic or pneumatic transmissions,Excl.Inner diameter not excee. 1 inc 74 830,205
+84813019 Check (nonreturn) valves, inner diameter <= 1 inch. 20 141,792
+84813090 Check (nonreturn) valves, Excl. Inner Diameter <= 1 inch. 11,385 7,259,354
+84814019 Safety or relief valves, Inner dia. <= 1 inch., Excl. Safety or relief valve for LPG 13 6,765,082
+84814090 Safety or relief valves, Excl. diameter <= 1 Inch 20 235,977
+84818029 Hand diaphragm valve 128 8,553,863
+84818090 Inner Diameter <1 inch,nes 2,039 46,016,590
+84819010 Parts of taps and cocks 4 2,506
+84819090 Parts of taps and cocks, NES 26 3,273,671
+84821000 Ball Bearings 35 595,774
+84822000 Tapered Roller Bearings, Including Cone And Tapered Roller Assemblies 200 1,622,108
+84823000 Spherical Roller Bearings 3 26,899
+84824000 Needle Roller Bearings 58 244,372
+84825000 Other Cylindrical Roller Bearings (Excl. Needle) 5 37,561
+84828000 Ball Or Roller Bearings (Incl. Combined Ball/Roller Bearings), Nes 1,735 604,381
+84829100 Balls, Needles And Rollers 1 49,262
+84829900 Parts Of Ball Or Roller Bearings (Excl. Balls, Needles And Rollers) 39 303,245
+84831000 Transmission shafts (incl. cam and crank shafts) and cranks 88 2,036,489
+84833000 Bearing Housings, Nes; Plain Shaft Bearings 53 344,819
+84834000 Gears and gearing; ball or roller screws; gear boxes and other speed changers... 22 632,199
+84835000 Flywheels And Pulleys (Incl. Pulley Blocks) 40 547,868
+84836000 Clutches And Shaft Couplings (Incl. Universal Joints) 245 4,778,116
+84839000 Parts Of Transmission Shafts, Cranks, Bearing Housings, Gears, Etc 167 746,609
+84841000 Gaskets... Of Metal Combined With Other Materials Or >1 Metal Layer 262 1,340,061
+84849000 Sets Or Assortments Of Gaskets And Similar Joints 75 3,326,447
+84879000 Machinery Parts other than ships' or boats' propellers and blades therefore 109 1,670,298
+85011090 Motors Of An Output =<37.5 W 105 535,367
+85012091 Motors of an output not exceeding 37.5 W but not exceeding 750 W 44 228,314
+85012099 Excluding Motors of an output not exceeding 37.5 W but not exceeding 750 W 3 92,395
+85013100 Oth DC motors; DC generators, other than photovoltaic genera <=750 W 3,888 12,804,930
+85013200 Oth DC motors; DC generators, other than photovoltaic generators : >1200 W But <=75 Kw 4 150,433
+85014010 Ac motors, single-phase.. Of an output not exceeding 750 W 90 1,362,400
+85014020 Ac motors, single-phase...Of an output exceeding 750 W but not exceeding 75 KW 6 193,286
+85014090 Ac motors, single-phase...Excl. Of an output not exceeding 750 W 10 51,142
+85015100 Ac Motors, Multi-Phase, Of An Output =<750 W 201 2,164,192
+85016100 AC generators (alternators), other than photovoltaic generators :<=75 Kva 1 55,373
+85017100 Photovoltaic DC generators : Of an output not exceeding 50 W 1 1,878
+85017230 Photovoltaic DC generators : Of an output exceeding 75 kW not exceeding 375 kW 16,382 10,655,827
+85017240 Photovoltaic DC generators : Of an output exceeding 50 W : 129,420 75,268,924
+85021100 Generating Sets With Compression-Ignition Engines, =<75 Kva 680 106,463
+85021300 Generating Sets With Compression-Ignition Engines, >375 Kva 51,345 69,732,700
+85030020 PARTS OF OTHER GENERATOR 21 3,751,272
+85030030 Rotor/Motor bush/Casing for electric motors 2 128,379
+85030093 Others parts of motor 2 13,717
+85041000 Ballasts For Discharge Lamps Or Tubes 5 25,041
+85042100 Liquid Dielectric Transformers, Power Handling Capacity =<650 Kva 0 4,759
+85042390 Liquid Dielectric Transformers, Power Handling Capacity >10000 Kva 699 128,129
+85043100 Transformers, Nes, Power Handling Capacity =<1 Kva 505 2,440,196
+85043200 Transformers, Nes, Power Handling Capacity =>1 Kva But <=16 Kva 7 39,344
+85043300 Transformers, Nes, Power Handling Capacity 16-500 Kva 109 235,621
+85043400 Transformers, Nes, Power Handling Capacity >500 Kva 7,300 4,194,324
+85044010 Mobile battery charger(less than 6V) 1 44,321
+85044030 Voltage stabilizer (capacity upto 2,000 VA) 1,653 5,819,720
+85044090 Other Static converters 12,001 21,946,839
+85045000 Inductors, Nes 459 1,352,165
+85051100 Permanent Magnets And Articles Becoming Permanent Magnets Of Metal 1,179 718,248
+85051900 Permanent Magnets And Articles Becoming Permanent Magnets (Excl. Metal) 20 14,250
+85052000 Electro-Magnetic Couplings, Clutches And Brakes 31 88,194
+85059000 Other Electro-Magnetic Or Permanent Magnet Chucks,Etc;Incl.Parts Of Magnet 15 405,394
+85065000 Primary Cells And Primary Batteries Of Lithium 11 37,561
+85069090 Parts Of Primary Cells And Primary Batteries,Excl.Separator, Nes 3,046 966,259
+85076000 Lithium-ion 4,942 19,353,668
+Page 30 of 35
+HSCODE Tarrif Description Net_WT (kg) Assess Value (Tk)
+85078090 Electric Accumulators,Seperators(Excl.Lead-Acid,Nickel-Cadmium/Nickel-Iron 15 3,015,626
+85079010 Separators 9,926 4,145,844
+85086010 Other vacuum cleaners, Industrial type 156 170,033
+85099000 Parts Of Electro-Mechanical Domestic Appliances 8 23,538
+85111090 Sparking Plugs 22 1,690,124
+85112000 Ignition magnetos; magneto-dynamos; magnetic flywheels 25 39,839
+85113000 Distributors; Ignition Coils 0 18,180
+85114000 Starter motors and dual purpose starter-generators 294 33,689,181
+85121000 Lighting Or Visual Signalling Equipment For Bicycles 4,150 22,592,247
+85123000 Sound Signalling Equipment For Cycles Or Motor Vehicles 0 100,688
+85129000 Parts Of Vehicle Lighting/Signalling, Etc, Equipment Of 85.12 1 12,531
+85141900 Resistance heated furnaces and ovens : Excluding Hot isostatic presses 13,971 4,178,502
+85143900 Other furnaces and ovens , NES 125 719,795
+85151100 Soldering Irons And Guns 479 321,678
+85151900 Brazing Or Soldering Machines And Apparatus, Nes 10 45,450
+85152100 Machines For Resistance Welding Of Metal, Fully Or Partly Automatic 89 22,537
+85152900 Machines And Apparatus For Resistance Welding Of Metal, Not Automatic 0 75,792
+85158000 Machines And Apparatus For Welding/Spraying Of Metals, Nes 96 37,578
+85159000 Parts Of Soldering, Brazing, Welding, Etc, Machines/Apparatus Of 85.15 45 363,231
+85161090 Other than water heater with insulated storage tank 14 242,699
+85162900 Electric space heating and soil heating apparatus, nes 1 56,591
+85164010 Industrial Steam Iron 3,182 8,302,832
+85168000 Electric Heating Resistors (Excl. Those Of 85.45) 892 2,286,691
+85169000 Parts Of Electro-Thermic Appliances Of 85.16 301 503,435
+85171800 Telephone set for other wireless networks 48 651,304
+85176220 Telephonic or telegraphic switching apparatus 4 16,992
+85176250 WI-FI WIMAX LAN Card Access point,Security Dev 3 1,078,604
+85176290 Other reception, transmission app.(excl. modem, telephonic/telegraphic switch. 8 31,946,446
+85177900 Parts : NES 9 12,520
+85181000 Microphones And Stands Therefor 1 1,133,343
+85182900 Loudspeakers, Not Mounted In Encloseurs 109 365,617
+85189000 Parts Of Apparatus Of 85.18 0 540
+85219020 Vdo Rcding./Reprod.Appa.,With/Without Vdo Tuner,Exc.Mag.Tape Type In Cbu 36 29,225,797
+85229090 Parts & acc. for use with apparatus of 85.19 to 85.21, (excl.pick-up cartridges),nes 6 563,417
+85232100 Cards incorporating a magnetic stripe 1,165 1,394,596
+85234921 Database; os; development tools; productivity; communication or collaboration soft. 0 44,489
+85235190 Solid-state non-volatile storage devices, excl flash memory 0 5,008
+85235200 Smart cards 9 65,647
+85235910 Proximity Cards and tags 69,917 421,303,380
+85235920 RFID TAG 442,451 5,390,270,969
+85235990 Semiconductor media : Excl. Proximity Cards and tags 20,683 54,284,130
+85241190 Flat panel display module Without drivers or control circuits :Of liquid crystals : 420 13,151
+85249900 Flat panel display modules, whether or not incorporating touch-sensitive screens,NES 2 3,385,659
+85258900 Flat panel display modules, whether or not incorporating touch-sensitive screens. NES 70 43,195
+85261000 Radar Apparatus 39 154,060
+85285290 Other Monitor, excluding Computer monitor size not exceeding 22 inch 2 32,093
+85285900 Other Monitor, excl, of a kind solely or principally?.an automatic data proc.. 5 3,566,646
+85286900 Other Projections, excl. of a kind solely or prin?.an automatic data proc..sys 159 45,431
+85291000 Aerials And Aerial Reflectors Of All Kinds And Parts Thereof 5 413,172
+85299010 Parts of apparatus of Heading 85.27 16 25,041
+85299030 39 8,181,118
+85299090 Parts Of Apparatus Of Heading No. 85.25 & 85.26 19 13,446
+85311000 Electrical Burglar Or Fire Alarms And Similar Apparatus 1,781 14,095,898
+85312000 ndicator panels incorp. liquid crystal devices (LCD) or light-emitting diodes (LED) 12 661,075
+85318000 Electrical Apparatus For Sound Or Visual Signalling, Nes 32,448 137,621,638
+85319000 Parts Of Apparatus Of 85.31 68,213 104,919,717
+85321000 Fixed Capacitors For 50/60 Hz Circuits Having Power Capacity >=0.5kvar 9 91,649
+85322200 Aluminium electrolytic 1 34,757
+85322300 Fixed Electrical Capacitors Of Ceramic Dielectric, Single Layer 4 247,957
+85322910 Fixed electrical capacitors, nes, capacitors imp by VAT reg comp. manu. 1 155,002
+85322990 Fixed electrical capacitors, nes, Excl capacitors imp by VAT reg comp. manu. 404 211,570
+85323000 Electrical Variable Or Adjustable (Pre-Set) Capacitors 336 1,447,920
+Page 31 of 35
+HSCODE Tarrif Description Net_WT (kg) Assess Value (Tk)
+85329000 Parts Of Electrical Capacitors Of 85.32 0 107,715
+85331000 Fixed Carbon Resistors, Composition Or Film Types 156 678,144
+85332900 Other Fixed Resistors For A Power Handling Capacity >20w 0 4,638
+85333900 Wirewound Variable Resistors For A Power Handling Capacity >20 W 4 116,287
+85334000 Variable Resistors, Nes (Incl. Rheostats And Potentiometers) 2 10,860
+85339000 Parts Of Electrical Resistors, Rheostats And Potentiometers 90 251,216
+85340000 Printed Circuits 3,202 11,753,950
+85353000 Isolating Switches And Make-And-Break Switches, >1000 V 0 56,431
+85359090 Other Apparatus For Switching... Electrical Circuits, >1000 V, Nes 82 1,676,515
+85361000 Fuses, =<1000 V 125 1,178,020
+85362000 Automatic Circuit Breakers, =<1000 V 4 12,903
+85363090 Apparatus For Protecting Electrical Circuits, Nes, =<1000 V 6 50,583
+85364100 Relays For A Voltage =<60 V 7 170,751
+85364910 Relays For A Voltage 60-1000 V 22 21,701
+85364990 Relays For A Voltage 60-1000 V 19 2,052,121
+85365000 Other switches 140 1,019,257
+85366100 Lamp-Holders, =<1000 V 0 15,891
+85366900 Other 264 5,657,260
+85367000 Connectors for optical fibres, optical fibre bundles or cables 54 534,928
+85369010 Apparatus For Switching... Electrical Circuits, Nes, =<1000 V 75 756,255
+85369090 Apparatus For Switching... Electrical Circuits, Nes, =<1000 V 1,781 2,995,592
+85371010 BUSBAR TRUNKING SYSTEM 5,740 6,890,260
+85371020 Electric panel 6,679 10,867,244
+85371090 Other 1,767 155,079,190
+85372000 Boards...Equipped With Two/More Apparatus Of 85.35/85.36, Voltage > 1000v 12,475 15,897,427
+85381000 Boards... Desks, Cabinets And Other Bases For Goods Of 85.37, Not Equipped 183 1,312,105
+85389000 Parts Of Apparatus Of 85.35 To 85.37, Nes 44 4,489,774
+85392190 Other Tungsten Halogen Filament Lamps (Excl.Ultra-Violet Or Infra-Red)Nes. 163 712,198
+85392910 Indicator pilot lamp 6V-60V/5 Watt 1 20,659
+85392990 Elec.filmnt.or discharge lamps,incl. sealed beam..excl.Indicator pilot lamp 6V-60V/5 wa 1 12,820
+85393120 T5 tube light 406 289,779
+85393190 Discharge Lamp other than Ultra-Violet Lamps, Fluorescent, Hot Cathode 472 1,143,514
+85394990 Other Ultra-Violet Or Infra-Red Lamps Nes. 33 61,382
+85395200 Light-emitting diode (LED) light sources :Light-emitting diode (LED) lamps 7,735 17,302,143
+85399010 Base Cap For Lamps 5 222,816
+85401100 Colour 470 556,529
+85408900 Other Valves And Tubes, Nes 29 380,620
+85411000 Diodes, other than photosensitive or light-emitting diodes (LED) 352 19,595,584
+85412100 Transistors (Excl. Phototransistors), With A Dissipation Rate <1w 0 22,816
+85412900 Transistors (Excl. Phototransistors), With A Dissipation Rate >=1w 51 3,950,321
+85414100 Photosensitive semi-conductor devices, including....Light-emitting diodes (LED) 352 2,865,224
+85414900 Other --- Photosensitive semi-conductor devices,..light-emitting diodes (LED) NES 1 58,939
+85415100 Other semi-conductor devices , Semiconductor-based transducers 0 1,197
+85423990 Electronic integrated circuits,nes 110 4,470,267
+85429000 Parts 25 1,183,187
+85433000 Machines/Apparatus For Electroplating, Electrolysis Or Electrophoresis 1,814 1,085,629
+85437090 Other machines & appa., Excl. Remote control for electronic and electrical appa. 783 4,451,824
+85439090 Parts excluding Electronic Cigarattes and Similar personal electric vaporising device 228 1,553,033
+85441100 Of copper 328 9,022,425
+85441990 Other Winding Wire (Excl Wire Of Copper & Cotton Braided Electric Cables) 685 727,786
+85442000 Co-Axial Cable And Other Co-Axial Electric Conductors 2,055 5,918,606
+85443000 Ignition Wiring Sets And Other Wiring Sets For Vehicles, Aircraft... 14 25,406,772
+85444200 Other electric conductors for a voltage not exceeding 1,000 V: Fitted with conn 6,495 14,935,688
+85444900 Electric Conductors, Nes, For A Voltage <=80 V, Not Fitted With Connectors 81,362 115,465,429
+85446000 Other electric conductors, for a voltage exceeding 1000V 2 130,111
+85447000 Optical Fibre Cables Made Up Of Individually Sheathed Fibres 1 45,491
+85451990 Carbon electrodes (excl. for furnaces), nes 1 81,695
+85452000 Carbon Brushes 1 19,351
+85459020 Carbon rod 13 22,537
+85469000 Electrical Insulators (Excl. Of Glass Or Ceramics) 20 35,558
+85479000 Insulating Fittings, Nes, For Electrical Machines...; Conduit Tubing... 51 19,418
+85480000 Electrical parts of machinery or apparatus, not specified or included elsewhere in th 2 580,529
+Page 32 of 35
+HSCODE Tarrif Description Net_WT (kg) Assess Value (Tk)
+87088000 Suspension shock absorbers 1 4,131
+87089900 Parts and accessories, nes, for vehicles of 87.01 to 87.05 104 4,324,414
+87141090 Parts and acce. Of Motorcycles, EXCLUDING Saddles 1 1,578
+87142000 Parts And Accessories Of Invalid Carriages 0 93
+87149100 Frames and forks, and parts thereof 268,104 272,073,362
+87149210 Wheel Rims & Spokes Of Bicycles & Other Cycles, Not Motorised 56,365 50,604,052
+87149290 Wheel Rims & Spokes Of Bicycles & Other Cycles (Excl. Not Motorised) 9,191 3,120,514
+87149311 Hubs, other Than Coaster Braking Hubs & Hub ... Free-wheel sprocket-wheels of bicycle 50,067 107,700,142
+87149319 Hubs, other Than Coaster Braking Hub excluding Free-wheel sprocket-wheels of bicycle 64,377 99,004,032
+87149390 Hubs,Other Than Coaster Braking Hubs & ....Of Bicycles (Excl.Not Motorised 9,194 2,953,754
+87149410 Brakes,Including Coaster Braking Hubs & Hubs...Of Bicycles, Not Motorised 81,615 169,211,302
+87149490 Brakes,Including Coaster Braking Hubs &..Of Bicycle (Excl.Not Motorised) 17,862 32,763,048
+87149510 Saddles Of Bicycles & Other, Not Motorised 42,006 46,078,242
+87149610 Pedals & Crank-Gear Of Bicycles & Other, Not Motorised 102,560 111,182,103
+87149690 Pedals & Crank-Gear Of Bicycles & Other (Excl. Not Motorised) 21,057 4,779,976
+87149900 Parts and accessories of cycles, nes 411,512 461,979,238
+87168000 Vehicles, Not Mechanically Propelled, Nes 597 99,546
+87169000 Parts Of Trailers, Semi-Trailers, Etc, Of 87.16 2,199 6,319,357
+88051000 Aircraft Launching Gear, Deck-Arrestors... And Parts Thereof 2,000 60,009,246
+88073090 Other parts of aeroplanes, helicopters or unmanned aircraft : 1,457 213,344,403
+90015000 Spectacle Lenses (Excl. Of Glass) 13,339 8,138,080
+90019010 Blanks And Demos Of Plastic 730 3,039,378
+90019090 Oth. Prisms, Mirrors And Other Optical Elements, Unmounted, Nes 1,659 10,363,235
+90021100 Mounted Objective Lenses, Of Any Material, For Cameras, Projectors, Etc 288 13,788,427
+90029000 Oth. Mounted Lenses, Prisms, Mirrors, Etc, Of Any Material, Nes 420 10,909,594
+90031100 Frames And Mountings For Spectacles, Goggles Or The Like, Of Plastics, TV 20 248,105
+90031900 Frames And Mountings For Spectacles, Goggles Or The Like, Nes, TV 207 5,958,461
+90039000 Other Parts Of Frames And Mountings For Spectacles, Goggles Or The Like 3,048 40,468,352
+90041000 Sunglasses, TV 3,889 7,227,741
+90049000 Spectacles, Goggles And The Like (Excl. Sunglasses), TV 2 41,359
+90069100 Parts And Accessories For Cameras (Not Cine-) 11 653,570
+90089000 Parts And Accessories Of Image Projectors, Photo Enlargers/Reducers 277 3,587,843
+90106000 Projection Screens 260 19,967,493
+90111000 Stereoscopic Microscopes 5 36,358
+90118000 Other Optical Microscopes, Nes 11 60,121
+90142000 Instruments/Apparatus For Aeronautical/Space Navigation (Excl Compasses) 15 62,528,476
+90158090 Other Instruments And Appliances For Meteorological... Purposes, Nes 131 23,171,480
+90160000 Balances Of A Sensitivity Of 5cg Or Better, With Or Without Weights 8 74,371
+90173000 Micrometers, Calipers And Gauges 11 124,513
+90178090 Other Instruments 11 52,363
+90179000 Parts And Accessories Of Drawing/Measuring Instruments Of 90.17 3 41,386
+90183130 Plastic syringe with or without needles 0 12,776
+90183200 Tubular Metal Needles And Needles For Sutures, For Medical... Sciences 0 449
+90200000 Other Breathing Appliances And Gas Masks 16 19,990
+90211000 ORTHOPAEDIC OR FRACTURE APPLIANCES 4,446 12,494,168
+90230000 Instruments, Apparatus And Models Designed For Demonstrational Purposes 9,487 4,200,790
+90241000 Machines/Appliances For Testing The Hardness, Strength... Of Metals 449 538,403
+90248090 Other Machines/Appliances For Testing... Materials (Excl. Metals) 1,297 7,831,152
+90251900 Thermometers/Pyrometrs,Not Comb.With Other Instrumts,Not Liquid-Filled Nes 14 402,321
+90258000 Oth.Instruments Hydrometers,Pyrometers, Hygrometers, Etc, And Combinations 5 112,656
+90261000 Instruments... For Measuring/Checking The Flow Or Level Of Liquids, Nes 36 1,616,734
+90262000 Instruments... For Measuring Or Checking Pressure 22 3,077,449
+90268000 Oth.Instruments... For Measuring Or Checking Variables Of Liquids Or Gas 7 75,098
+90269000 Parts And Accessories Of Instruments For Measuring Flows... Of 90.26 11 31,502,865
+90273000 Spectrometers, Spectrophotometers... Using Optical Radiations 101 30,890,761
+90278900 Other instruments and apparatus, OTHER Excl. Mass spectrometers 2 22,787
+90279000 Parts And Accessories Of Instruments For Analysis Of 90.27 1 124,358
+90291090 Revolution Or Producton Counters,Taximeters,Mileometers,Pedometers, Nes 2 325,658
+90292000 Stroboscopes; speed indicators and tachometers 2 39,912
+90303300 Other inst and appt, for measr or chk volt, cur., resis.or power : Multim. wit 21 289,931
+90314900 Optical Instruments And Appliances For Measuring Or Checking, Nes 60 1,264,105
+90318000 Instruments, Appliances And Machines For Measuring Or Checking, Nes 354 1,541,025
+Page 33 of 35
+HSCODE Tarrif Description Net_WT (kg) Assess Value (Tk)
+90319000 Parts And Accessories Of Measuring Instruments... Nes, Of 90.31 36 1,348,284
+90321000 Thermostats 79 1,736,651
+90328900 Automatic Regulating Or Controlling Instruments And Apparatus, Nes 62 2,414,143
+90329000 Parts And Accessories Of Automatic Regulating Devices Of 90.32 1 7,858
+90330090 Parts And Accessories, Nes, For Machines, Appliances, Etc, Of Chapter 90 647 5,122,144
+91061000 Time-Registers; Time-Recorders 1 2,446
+94013900 Swivel seats with variable height adjustment :OTHER 6,994 3,349,826
+94016100 Upholstered Seats, With Wooden Frames 62 31,413
+94017100 Upholstered Seats, With Metal Frames 30 15,775
+94017900 Seats With Metal Frames, Not Upholstered 17 8,418
+94018000 Seats, Nes 443 423,248
+94019900 Seats (Other Then 94.02) Whether or not cnvrt. into beds, and parts :Parts : others 12,990 60,127,585
+94031000 Metal Furniture Of A Kind Used In Offices (Excl. Seats) 24,246 9,163,270
+94032030 Cutting table of kind used with cutting machine 11,034 6,072,546
+94033000 Wooden Furniture Of A Kind Used In Offices (Excl. Seats) 9,109 3,467,422
+94037000 Furniture (Excl. Seats) Of Plastics 1,319 446,985
+94038900 Furniture of other material, including cane,osier or similar materials: Excl b 23,962 4,240,616
+94039900 Others Furniture and Parts Thereof :Parts, OTHERS 14 9,577
+94042100 Mattresses Of Cellular Rubber Or Plastics 135 87,343
+94043000 Sleeping Bags 9 15,989
+94049000 Articles Of Bedding, Stuffed, Etc (Excl. Mattresses And Sleeping Bags) 98 10,407,038
+94051900 Designed for use solely with light-emitting diode (LED) light sources,NES 342 7,136,335
+94053900 Lighting sets of a kind used for Christmas trees,OTHER 1,860 11,094,294
+94054190 Photovoltaic, dsgn. use solely with light-emitting diode (LED) light sources 726 1,490,901
+94054200 Oth.elec.lum. &..Other, designed for use solely light-emitting diode (LED) light sour 7 547,616
+94054990 Other electric luminaires and lighting fittings,NES 1,472 5,301,052
+94056100 Designed for use solely with light-emitting diode (LED) light sources 1 406,911
+94056900 Illuminated signs, illuminated name-plates and the like,OTHER 1 119,374
+94059200 Luminating and lighting fittings including searchlights .........Parts of Plastic 4 366,596
+94059900 Parts, NES 2 146,568
+94069090 Prefabricated buildings. nes 4,871 1,326,861
+95030090 Tricycl, scotr, pedal car and simlr whel toy; dolls? carg..Excl puzzles 25 170,785
+95051000 Articles For Christmas Festivities 52 21,284
+95063900 Golf Equipment, Nes 441 6,840,800
+95066200 Inflatable Balls 169 145,236
+95069900 Other articles and equipment for sport and open-air games, nes 3,630 4,216,241
+95072000 Fish-Hooks, Wheather Or Not Snelled 101 1,030,353
+95079000 Line fishing tackle, fish landing nets, butterfly and similar nets... 1 1,640
+96019000 Worked Bone, Tortoise-Shell, Horn... And Articles Thereof, Nes 1 634
+96031000 Brooms And Brushes, Of Twigs Or Other Vegetable Material Bound Together 186 3,494
+96032900 Oth. Brushes For Shaving, Hair, Nail, Eyelash, Toilet Brushes 50 626
+96033000 Artists', Writing Brushes And Brushes For The Application Of Cosmetics 31 103,865
+96034000 Paint, Distemper, Varnish Or Similar Brushes; Paint Pads And Rollers 84 69,219
+96035000 Brushes Constituting Parts Of Machines, Appliances Or Vehicles, Nes 580 1,013,394
+96039000 Hand-Operated Floor Sweepers, Mops, Feather Dusters, Etc, Nes 1,242 2,108,314
+96061000 Press-Fasteners, Snap-Fasteners And Press-Studs And Parts Therefor 260,650 773,654,361
+96062100 Buttons Of Plastics, Not Covered With Textile Material 148,433 464,892,834
+96062200 Buttons Of Base Metal, Not Covered With Textile Material 222,165 615,502,255
+96062900 Oth. Buttons, Nes 63,171 182,625,321
+96063000 Button moulds and other parts of buttons; button blanks: 45,936 100,578,045
+96071100 Slide Fasteners Fitted With Chain Scoops Of Base Metal 1,110,918 2,295,840,160
+96071900 Slide Fasteners Not Fitted With Chain Scoops Of Base Metal 1,041,040 2,066,828,663
+96072000 Slide Fastener Parts 691,371 949,901,780
+96082000 Felt-Tipped And Other Porous-Tipped Pens And Markers 846 4,147,747
+96089990 Duplicating Stylos; Pen/Pencil Holders; Parts Of Pens, Nes 68 11,586
+96091000 Pencils And Crayons, With Leads Encased In A Rigid Sheath 0 626
+96110000 Date, Sealing Or Numbering Stamps, Etc, For Use In The Hand....Sticks 1 16,405
+96121010 Ribbons (Computer Printers Ribbons) 1,465 3,529,899
+96121090 Other Ribbons(excl.computer printer ribbons) 14,798 52,907,230
+96140000 Smoking pipes (including pipe bowls) and cigar or cigarette holders, and parts 182 585,326
+96151100 Combs, Hair-Slides And The Like Of Hard Rubber Or Plastics 741 499,716
+96151900 Combs, Hair-Slides And The Like Of Other Materials, Nes 3,596 4,657,333
+Page 34 of 35
+HSCODE Tarrif Description Net_WT (kg) Assess Value (Tk)
+96159000 Hairpins; Curling Pins, Curling Grips, Etc, And Parts Thereof 1,114 2,576,699
+96162000 Powder-Puffs And Pads For The Application Of Cosmetics, Etc 10 5,950
+96180000 Tailors' Dummies, Etc; Automata And Other Animated Displays 1,383 13,273,046
+Grand Total 1,372,437,827 284,732,728,306
+Page 35 of 35

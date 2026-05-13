@@ -1,0 +1,30 @@
+{
+  "survey_2023_24": {
+    "status": "downloaded",
+    "size_kb": 12780.81640625
+  },
+  "survey_2022_23": {
+    "status": "downloaded",
+    "size_kb": 11755.0625
+  },
+  "survey_2021_22": {
+    "status": "downloaded",
+    "size_kb": 11108.6474609375
+  },
+  "survey_2020_21": {
+    "status": "downloaded",
+    "size_kb": 10686.8486328125
+  },
+  "survey_2019_20": {
+    "status": "downloaded",
+    "size_kb": 13868.3583984375
+  },
+  "survey_2018_19": {
+    "status": "downloaded",
+    "size_kb": 9802.869140625
+  },
+  "survey_2017_18": {
+    "status": "downloaded",
+    "size_kb": 2673.150390625
+  }
+}

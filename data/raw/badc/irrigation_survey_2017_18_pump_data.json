@@ -1,0 +1,61 @@
+{
+  "status": "completed",
+  "year": "2017-18",
+  "has_embedded_text": true,
+  "total_pages": 17,
+  "pages_with_text": 16,
+  "equipment_trend": [],
+  "irrigated_area": [],
+  "division_equipment": [
+    {
+      "division": "Dhaka",
+      "dtw": 3244,
+      "stw": 186280,
+      "llp": 21351
+    },
+    {
+      "division": "Mymensingh",
+      "dtw": 4376,
+      "stw": 155778,
+      "llp": 11287
+    },
+    {
+      "division": "Rajshahi",
+      "dtw": 16501,
+      "stw": 279420,
+      "llp": 10035
+    },
+    {
+      "division": "Rangpur",
+      "dtw": 7677,
+      "stw": 391645,
+      "llp": 2124
+    },
+    {
+      "division": "Khulna",
+      "dtw": 3153,
+      "stw": 262406,
+      "llp": 35902
+    },
+    {
+      "division": "Sylhet",
+      "dtw": 191,
+      "stw": 22543,
+      "llp": 42107
+    },
+    {
+      "division": "Total",
+      "dtw": 37538,
+      "stw": 1355852,
+      "llp": 181469
+    }
+  ],
+  "division_area": [],
+  "dtw_stw_area_by_division": [],
+  "key_metrics": {
+    "year_label": "2017-18",
+    "total_equipment": 1574859,
+    "groundwater_pct": 73.44
+  },
+  "processed_at": "2026-05-13T14:13:15.316959"
+}

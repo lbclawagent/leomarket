@@ -1,0 +1,29 @@
+{
+  "$schema": "https://docs.openclaw.ai/schema/openclaw.json",
+  "workspace": {
+    "root": "~/.openclaw/workspace/leopump",
+    "context_files": ["SOUL.md", "AGENTS.md", "SKILL_market_landscape.md"]
+  },
+  "sandbox": {
+    "backend": "local",
+    "isolation": "user",
+    "permissions": ["network", "browser", "filesystem_write"]
+  },
+  "tools": {
+    "browser": {
+      "enabled": true,
+      "max_open_tabs": 2,
+      "navigation_timeout_ms": 30000,
+      "headless": true,
+      "browser_args": [
+        "--disable-gpu",
+        "--no-sandbox",
+        "--disable-dev-shm-usage",
+        "--disable-background-networking"
+      ]
+    }
+  },
+  "gateway": {
+    "enabled": false
+  }
+}

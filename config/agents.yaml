@@ -1,0 +1,20 @@
+agents:
+  - id: planner
+    purpose: Generate HS-code anchored search queries
+    model: fast_extract
+
+  - id: browser_research
+    purpose: Execute web searches, scrape raw text/PDFs from BADC/NBR/IDCOL
+    model: fast_extract
+
+  - id: parser
+    purpose: Clean scrapes, extract structured JSON, translate Bengali
+    model: fast_extract
+
+  - id: reasoner
+    purpose: Triangulate import/local signals, synthesize Bangladesh insights
+    model: cloud_reasoning
+
+  - id: report_writer
+    purpose: Compile markdown reports with confidence labels & executive summaries
+    model: cloud_reasoning

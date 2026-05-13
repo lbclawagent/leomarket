@@ -1,0 +1,46 @@
+default_provider: deepseek
+
+providers:
+  deepseek:
+    type: openai-compatible
+    base_url: ${DEEPSEEK_BASE_URL}
+    api_key_env: DEEPSEEK_API_KEY
+    context_length: 8192
+  zlm_api:
+    type: anthropic-compatible
+    base_url: ${ZLM_BASE_URL}
+    api_key_env: ZLM_API_KEY
+    context_length: 8192
+
+models:
+  fast_extract:
+    provider: deepseek
+    name: ${DEEPSEEK_FAST_MODEL}
+    use_for:
+      - chunk_cleaning
+      - metadata_extraction
+      - field_mapping
+      - browser_navigation
+      - bengali_translation
+      - price_normalization
+    params:
+      temperature: ${DEEPSEEK_TEMPERATURE}
+      response_format: { type: "json_object" }
+
+  cloud_reasoning:
+    provider: zlm_api
+    name: ${ZLM_REASONING_MODEL}
+    use_for:
+      - multi-document_synthesis
+      - insight_generation
+      - longform_summary
+      - competitor_comparison
+      - market_triangulation
+    params:
+      temperature: 0.3
+      max_tokens: ${ZLM_MAX_TOKENS}
+
+routing:
+  parser_default: fast_extract
+  summary_default: cloud_reasoning
+  failover: halt

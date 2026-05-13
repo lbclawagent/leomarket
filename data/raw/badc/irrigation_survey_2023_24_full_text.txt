@@ -1,0 +1,2643 @@
+
+============================================================
+PAGE 1 (981 chars)
+============================================================
+Minor Irrigation Survey Report
+2023-2024
+Volume - I
+Agriculture is Prosperity
+Using Smart Irrigation Technology 
+Ensure Sustainable Environment and Food Security
+Optimize Irrigation, Maximize Crop Production
+Minor Irrigation Survey Report 2023-2024 Volume - I
+0
+200000
+400000
+600000
+800000
+1000000
+1200000
+1400000
+1600000
+1800000
+ 1982-83
+1983-84
+1984-85
+1985-86
+1986-87
+1987-88
+1988-89
+1989-90
+1990-91
+1991-92
+1992-93
+1994-95
+1995-96
+1996-97
+1997-98
+1998-99
+1999-00
+2000-01
+2001-02
+2002-03
+2003-04
+2004-05
+2005-06
+2006-07
+2007-08
+2008-09
+2009-10
+2010-11
+2011-12
+2012-13
+2013-14
+2014-15
+2015-16
+2016-17
+2017-18
+2018-19
+2019-20
+2020-21
+2021-22
+2022-23
+2023-24
+Number of Irrigation Equipments
+Development of Different Types of Irrigation Equipment in Bangladesh 
+DTW STW LLP
+September 2024
+Bangladesh Agricultural Development Corporation (BADC)
+Ministry of Agriculture
+Government of the People's Republic of Bangladesh
+
+============================================================
+PAGE 2 (592 chars)
+============================================================
+Government of the People's Republic of Bangladesh
+Ministry of Agriculture
+Minor Irrigation Survey Report 2023-2024
+(Rabi Season)
+Survey Conducted by
+Bangladesh Agricultural Development Corporation (BADC) 
+Department of Agriculture Extension (DAE)
+Barind Multipurpose Development Authority (BMDA)
+Centre for Environmental and Geographic Information Services (CEGIS)
+Report Prepared by
+Bangladesh Agricultural Development Corporation (BADC)
+Office of the Additional Chief Engineer (MI), Western, BADC,
+Shech Bhaban, 22 Manik Mia Avenue, Sher-e-Bangla Nagar,
+Dhaka-1207.
+June, 2024
+
+============================================================
+PAGE 3 (2 chars)
+============================================================
+ii
+
+============================================================
+PAGE 4 (1008 chars)
+============================================================
+iii
+CONTRIBUTORS TO THIS REPORT
+Editor : Khan Faisal Ahmed 
+Additional Chief Engineer (MI) C:C, Western, 
+BADC, Shech Bhaban, 22 Manik Mia Avenue, 
+Sher-e-Bangla Nagar, Dhaka.
+Data Validation & Graphics : Dr. Musammat Shahinara Begum 
+Executive Engineer (MI),
+Office of the Additional Chief Engineer (MI), 
+Western, BADC, Shech Bhaban, 22 Manik Mia 
+Avenue, Sher-e-Bangla Nagar, Dhaka.
+: Md. Jahangir Alam Khan
+Additional Chief Engineer (cc), BMDA, Rajshahi.
+: Dr. Md. Monirul Islam
+Deputy Director (Seed & Other Inputs), 
+Field Services Wing, DAE, Khamarbari, Dhaka.
+Data Processing & Compilation : Center for Environmental and Geographic 
+Information Services (CEGIS)
+F-14/E, Administrative Area, Dhaka 1207
+Copy Right : Additional Chief Engineer (MI), Western, BADC,
+Shech Bhaban, 22 Manik Mia Avenue, Sher-e￾Bangla Nagar, Dhaka.
+Publisher : Additional Chief Engineer (MI), Western, BADC,
+Shech Bhaban, 22 Manik Mia Avenue, Sher-e￾Bangla Nagar, Dhaka.
+Date of Publication :
+Price :
+
+============================================================
+PAGE 5 (2 chars)
+============================================================
+iv
+
+============================================================
+PAGE 6 (1781 chars)
+============================================================
+v
+ Foreword
+Irrigation development is pivotal for enhancing food security, agricultural productivity, and 
+climate resilience in Bangladesh through sustainable water use and farming practices. Since its 
+inception in 1961, the Bangladesh Agricultural Development Corporation (BADC) has promoted 
+minor irrigation advancements by expanding irrigated areas, installing various irrigation 
+equipment, and meticulously collecting and monitoring irrigation-related data. I am pleased to 
+announce the publication of a comprehensive report on Minor Irrigation Equipment Survey 2023-
+2024 under the "Digitalization of Survey and Monitoring for the Development of Minor Irrigation" 
+Project. 
+This report includes key insights into Bangladesh's minor irrigation systems, covering annual and 
+time-series data on irrigated areas, irrigation equipment used, power sources and benefited 
+farmers. It provides detailed data on various irrigation systems, including low-lift pumps, deep 
+tube wells, shallow tube wells, rubber dams, solar pumps & dug-wells, traditional methods, 
+gravity flow irrigation, and agency-specific evaluations. Furthermore, the report addresses 
+crucial aspects such as the present state of groundwater levels, salinity intrusion in coastal 
+regions, and the potential utilization of surface water resources through GIS mapping. These 
+findings will significantly support sustainable water resource management and serve as a 
+valuable resource for planners, researchers, and policymakers in developing and enhancing 
+irrigation strategies.
+I would like to thank my colleagues in the Minor Irrigation Wing of BADC and the teams from 
+BMDA, DAE, and CEGIS, whose dedication made this report possible.
+Abdullah Sazzad ndc
+Chairman (Grade-1), BADC.
+
+============================================================
+PAGE 7 (2 chars)
+============================================================
+vi
+
+============================================================
+PAGE 8 (2693 chars)
+============================================================
+vii
+ Preface
+We are pleased to announce the publication of the Minor Irrigation Survey Report 2023-24, 
+prepared under the recently completed Digitalization of Survey and Monitoring for Development of 
+Minor Irrigation Project. Since 2005, the BADC, BMDA, and DAE have conducted regular surveys of 
+minor irrigation equipment to assess the irrigation status, trend and identify development potentials 
+across the country. To enhance these routine evaluations with in-depth analysis and more detailed 
+reporting, BADC engaged the Center for Environmental and Geographic Information Services (CEGIS) 
+to prepare a comprehensive report on the irrigation state in Bangladesh.
+Since its establishment in 1961, BADC has led the way in introducing, developing, and expanding 
+minor irrigation across the country. Currently, minor irrigation accounts for approximately 95% of 
+the country’s irrigated land, playing a vital role in boosting food production. The report reveals that 
+during the Rabi season, Bangladesh’s total irrigation coverage is approximately 5.77 million hectares, 
+with 72.07% (4.16 million hectares) reliant on groundwater and 27.93% (1.61 million hectares) 
+dependent on surface water.
+This report provides a comprehensive overview of irrigation practices in Bangladesh during the 2023-
+2024 Rabi season, with detailed data on equipment, irrigated areas, surface & groundwater usage, and 
+irrigation methods. It highlights the increasing dependence on groundwater for irrigation, especially 
+in northern regions where deep and shallow tube wells are prevalent. This practice raises concerns 
+about groundwater depletion and in southern regions increased saline water intrusion.
+To address these challenges, BADC is implementing a comprehensive water management strategy 
+encompassing promoting sustainable practices like alternate wetting and drying, improving efficient 
+conveyance systems, and adopting climate-smart technologies, including solar operated dug-well, 
+drip, and sprinkler irrigation. Additionally, BADC is expanding surface water irrigation through canal 
+excavation and the construction of rubber dams.
+These insights will prove invaluable for the Government in developing more efficient irrigation 
+policies and plans. Additionally, planners, policymakers, researchers, academics, and administrators 
+will find this report valuable for understanding irrigation trends and challenges in Bangladesh.
+I extend my heartfelt gratitude to the CEGIS, BADC, BMDA, and DAE officials for their dedicated efforts 
+in preparing and publishing this important report.
+Muhammad Badiul Alam Sarker
+Chief Engineer (Minor Irrigation)
+BADC, Dhaka
+
+============================================================
+PAGE 9 (4 chars)
+============================================================
+viii
+
+============================================================
+PAGE 10 (2827 chars)
+============================================================
+ix
+ Preface
+I am pleased to announce the publication of the "Minor Irrigation Survey Report 2023-24," a 
+comprehensive assessment of minor irrigation systems across Bangladesh. This report provides an 
+in-depth analysis of the current state of minor irrigation, covering key aspects such as the types of 
+irrigation equipment used, the total irrigated area, the number of farmers benefiting, and the quality 
+of irrigation water. It also evaluates the potential of surface water resources for irrigation, identifies 
+groundwater stress zones, and highlights regions vulnerable to saline water intrusion. This crucial 
+data will assist in formulating sustainable water management strategies by addressing climate change 
+and rising water demands in agriculture sector. 
+The task adopted a robust, multifaceted approach to achieve its objectives. Extensive field surveys 
+were meticulously conducted across all 64 districts, gathering detailed data on various irrigation 
+equipment, including low-lift pumps, deep and shallow tube wells, solar pumps, dug wells and gravity 
+flow methods. This primary data was supplemented with secondary information from key partners 
+such as BADC, BMDA, and DAE. Advanced statistical techniques and GIS software were used to analyze 
+the data, revealing trends, patterns, and correlations in irrigation practices nationwide.
+The Centre for Environmental and Geographic Information Services (CEGIS) played an indispensable 
+role in the execution of this survey and the compilation of the report, with invaluable support provided 
+by BADC, BMDA, and DAE field offices. Furthermore, a dedicated validation workshop convened in 
+Dhaka ensured the report's accuracy and relevance by incorporating feedback from a diverse array of 
+stakeholders, including representatives from relevant ministries and esteemed agricultural research 
+institutions.
+I extend my heartfelt thanks to the CEGIS team and my colleagues, both in the field and at the project 
+office, for their dedication to this publication. I am especially grateful to Dr. Md. Monirul Islam, Deputy 
+Director of DAE, and Md. Jahangir Alam Khan, Additional Chief Engineer of BMDA, for their committed 
+efforts in preparing the report.
+My sincere appreciation goes to the Chief Engineers of the Irrigation Wing and the Member Director 
+(MI) of BADC for their valuable suggestions and guidance.
+I sincerely thank Mr. Abdullah Sazzad, NDC, Chairman of Bangladesh Agricultural Development 
+Corporation, for his unwavering support and valuable feedback throughout the survey. I am equally 
+thankful to Md. Tajul Islam Patwary, Director General of DAE, and Md. Shafiqul Islam, Executive 
+Director of BMDA, for their significant contributions.
+Khan Faisal Ahmed 
+Additional Chief Engineer (MI), Western
+BADC, Dhaka
+
+============================================================
+PAGE 11 (1 chars)
+============================================================
+x
+
+============================================================
+PAGE 12 (3682 chars)
+============================================================
+xi
+Executive Summary
+For over six decades, the Bangladesh Agricultural Development Corporation (BADC) has been a 
+leading organization in agricultural advancement, earning farmers' trust through its commitment to 
+expanding irrigation areas, transferring modern technology, and efficiently utilizing ground and 
+surface water resources. BADC plays a crucial role in disseminating high-yielding seed varieties and 
+quality fertilizers, while actively promoting minor irrigation techniques such as LLP, DTW, STW, 
+floating pumps, solar pumps, dug wells, rubber dams, and gravity flow systems. Since 2005, the BADC, 
+BMDA, and DAE have conducted regular surveys of minor irrigation equipment to assess the irrigation 
+status, trend and identify development potentials across the country.
+With technical support from the Centre for Environmental & Geographical Information Services 
+(CEGIS), a Public Trust under the Ministry of Water Resources, BADC had developed the Bangladesh 
+Irrigation Equipment Survey & Monitoring (BIESM) software. CEGIS has been entrusted with 
+publishing the latest Minor Irrigation Survey Report for 2023-24, further solidifying BADC's 
+commitment to informed agricultural practices.
+The report provided the annual irrigation coverage by agency for the nation as well as time series of 
+the irrigation area, operational irrigation equipment, power sources, farmers' participation in 
+irrigation activities, and the trend of surface and ground water consumption.
+The main objectives of this report to update database of BIESM software and prepare Minor Irrigation 
+Survey Report 2023-24 (Rabi Season). Field data collectors have surveyed irrigation equipment at the 
+Upazila level, collaborating with officials from BADC, BMDA, and DAE. The survey has been conducted 
+on Boro, Wheat, Potato, Maize, Spices and vegetables. Draft data sheets have been prepared, and a 
+regional level meeting was validate the data, with representatives from relevant organizations 
+providing valuable comments and suggestions. A validation workshop was then arranged at Sech 
+Bhaban, Dhaka, with representatives from the MoA, Mop, BADC, BMDA, BRRI, BARI, and other relevant 
+stakeholder organisations in attendance. The report included comments and suggestions from the 
+validation workshop.
+The survey showed that about 5.77 Mha of crop land have the irrigation facilities, with 27.93% surface 
+water and 72.07% ground water. Approximately 28.59% of NCA, comprising mostly hilly, coastal, and 
+char regions, currently lacks irrigation facilities. A total of 207368 LLPs, 34040 DTWs, 1479266 STWs, 
+3128 solar pumps, 930 solar dug wells, 73 rubber dams were in operation and benefiting 20248566 
+farmers. Surface water irrigation was performed by LLP, solar pump, floating pump, rubber dam, 
+gravity flow method and traditional methods. DTW, STW, solar pump, dug well, artesian well, and 
+manual methods were used for ground water irrigation. The North-West and North-Central 
+hydrological zones have a scarcity of surface water; therefore, crop production depends on ground 
+water irrigation. In the hydrological zones of the North East, South Central, and South West, there are 
+abundance of surface water resources available to farmers for the production of agricultural products.
+The findings of the report will aid the government in developing policy choices for minor irrigation 
+planning, which is essential to boosting food grain production. In order to plan efficiently in minor 
+irrigation subsectors, this report will provide the planner, policy makers, researchers, and 
+administrators with the information and data they need. 
+
+============================================================
+PAGE 13 (3 chars)
+============================================================
+xii
+
+============================================================
+PAGE 14 (4 chars)
+============================================================
+xiii
+
+============================================================
+PAGE 15 (3 chars)
+============================================================
+xiv
+
+============================================================
+PAGE 16 (5189 chars)
+============================================================
+xv
+Table of Contents
+Preface ...................................................................................................................................................................... vii
+Preface ........................................................................................................................................................................ix
+List of Tables.........................................................................................................................................................xvii
+List of Figures ........................................................................................................................................................ xix
+Abbreviations and Acronyms ........................................................................................................................xxiii
+1. Introduction......................................................................................................................................................1
+1.1 Background .................................................................................................................................................................1
+1.2 Relevance of Survey.................................................................................................................................................2
+1.3 Study Area....................................................................................................................................................................3
+1.4 Objectives and Outcomes ......................................................................................................................................4
+2. Review of Related Information of Survey ..............................................................................................5
+2.1 Policy and Plan of Irrigation.................................................................................................................................5
+2.1.1 National Policies and Plan ..........................................................................................................................5
+2.1.2 International Policies and Plan.............................................................................................................. 10
+2.2 Past History.............................................................................................................................................................. 11
+2.3 Trend of Minor Irrigation................................................................................................................................... 12
+2.3.1 Operational Equipment and Irrigated Area ..................................................................................... 13
+2.3.2 Comparative Study of Area Coverage (ha) per Equipment (DTW, STW, LLP).................. 17
+3. Approach and Methodology ..................................................................................................................... 21
+3.1 Study Approach ...................................................................................................................................................... 21
+3.2 Methodology............................................................................................................................................................ 23
+3.2.1 Preparatory/Inception Phase ................................................................................................................ 23
+3.2.2 Detailed Assessment Phase..................................................................................................................... 24
+3.2.3 Reporting Phase........................................................................................................................................... 28
+4. Irrigation Water Availability/Irrigation Water Potential............................................................. 31
+4.1 Groundwater Zoning............................................................................................................................................ 31
+4.2 Groundwater quality............................................................................................................................................ 35
+5. Irrigation Status Report 2023-24........................................................................................................... 39
+5.1 Surface water........................................................................................................................................................... 46
+5.1.1 Low lift Pump................................................................................................................................................ 49
+5.1.2 Rubber Dam................................................................................................................................................... 54
+5.1.3 Gravity Flow Irrigation ............................................................................................................................. 56
+
+============================================================
+PAGE 17 (1859 chars)
+============================================================
+xvi
+5.1.4 Traditional Irrigation................................................................................................................................. 58
+5.2 Groundwater............................................................................................................................................................ 59
+5.2.1 Deep Tubewell.............................................................................................................................................. 62
+5.2.2 Shallow Tubewell........................................................................................................................................ 66
+5.2.3 Dug well........................................................................................................................................................... 68
+5.2.4 Manually Operated Pump in well ......................................................................................................... 70
+5.2.5 Artesian well.................................................................................................................................................. 71
+5.3 Power Source........................................................................................................................................................... 72
+5.4 BIESM.......................................................................................................................................................................... 75
+6. Conclusion ...................................................................................................................................................... 85
+7. References ...................................................................................................................................................... 87
+
+============================================================
+PAGE 18 (1093 chars)
+============================================================
+xvii
+List of Tables
+Table 2.1: Trend of Minor Irrigation Equipment 1961-62 to 2023-24............................................................. 13
+Table 2.2: Trend of Irrigated Area by Different Minor Irrigation Mode (1961-62 to 2023-24)............. 15
+Table 2.3: Comparative Study of Area Coverage Hectare per Equipment (DTW, STW & LLP)............... 17
+Table 5.1: Surface and Ground water Irrigation by Different Modes in Rabi 2023-24 .............................. 39
+Table 5.2: Division-wise irrigation equipment used in Rabi 2023-24............................................................... 41
+Table 5.3: Division wise Irrigated Area (ha) in Rabi 2023-24. ............................................................................. 43
+Table 5.4: Area irrigated by Surface water in eight divisions of Bangladesh, Rabi 2023-24................... 46
+Table 5.5: Area Irrigated by DTWs and STWs in Eight Divisions of Bangladesh, 2023-24 ...................... 60
+Table 5.6: Division Wise Irrigation Equipment and Irrigated Area based on Power Source .................. 72
+
+============================================================
+PAGE 19 (5 chars)
+============================================================
+xviii
+
+============================================================
+PAGE 20 (4684 chars)
+============================================================
+xix
+List of Figures
+Figure 1.1: Map Showing Districts of the Study Area...................................................................................................3
+Figure 2.1: Development of Different Types of Irrigation Equipment in Bangladesh ................................ 14
+Figure 2.2: Trend of Minor Irrigation Equipment in last Fifteen Rabi season (2009-10 to 23-2024). 15
+Figure 2.3: Area Coverage per Irrigation Equipment during Rabi 1982-83 to 2023-2024...................... 19
+Figure 2.4: Trend of Irrigated Area (ha) during Rabi 1982-83 to 2023-2024............................................... 20
+Figure 3.1: Brief Approach and Methodology .............................................................................................................. 22
+Figure 3.2: Steps of Past Initiatives and Policy Directives ...................................................................................... 23
+Figure 3.3: Different Stages of Data Collection Phase............................................................................................... 24
+Figure 3.4: Process of Software Upgradation............................................................................................................... 27
+Figure 4.1: Ground Water Zoning Map, 2023............................................................................................................... 34
+Figure 4.2: Salinity Affected Area ...................................................................................................................................... 36
+Figure 4.3: Ground water Salinity Map ........................................................................................................................... 37
+Figure 5.1: Source wise Irrigated Area (ha) in Rabi 2023-24 ............................................................................... 40
+Figure 5.2: Area Covered by Different Irrigation Mode in Rabi 2023-24......................................................... 40
+Figure 5.3: Distribution of minor irrigation equipment in Bangladesh............................................................ 42
+Figure 5.4: Division wise Irrigation Equipment in Rabi 2023-24........................................................................ 43
+Figure 5.5: Division wise Irrigated Area (ha) in Rabi 2023-24............................................................................. 44
+Figure 5.6: Net Cultivated Area, Total Irrigated Area and Non-irrigated Area.............................................. 45
+Figure 5.7: Division wise Area Irrigated by Surface Water in Rabi 2023-24.................................................. 47
+Figure 5.8: Irrigated Area by Surface Water................................................................................................................. 48
+Figure 5.9: LLP with Buried Pipe, Sadar Upazila, Manikganj by BADC.............................................................. 49
+Figure 5.10: Solar LLP at Sonatola Upazila, Bogra by BADC.................................................................................. 49
+Figure 5.11: Solar LLP at Khanshama Upazila, Dinajpur by BADC...................................................................... 49
+Figure 5.12: Solar LLP at Sadullapur Upazila Gaibandha by BADC..................................................................... 49
+Figure 5.13: 25 Cusec Floating Pump at Atpara Upazila, Netrokona by BADC .............................................. 50
+Figure 5.14: 10 Cusec Floating Pump at Adarsha Sadar Upazila, Cumilla by BADC .................................... 50
+Figure 5.16: Barge Mounted Floating LLP at Godagari Upazila, Rajshahi by BMDA ................................... 50
+Figure 5.17: 5.0 cusec LLP at Sunamganj by BADC.................................................................................................... 50
+Figure 5.18: Solar LLP at Rajshahi by BMDA................................................................................................................ 50
+Figure 5.19: Distribution of LLP in Bangladesh........................................................................................................... 51
+Figure 5.20: Location of LLP with Buried Pipe ............................................................................................................ 52
+Figure 5.21: Location of Floating Pump.......................................................................................................................... 53
+Figure 5.22: Kaledha Khal Rubber Dam at Nalchity, Jhalakathi by BADC........................................................ 54
+
+============================================================
+PAGE 21 (5193 chars)
+============================================================
+xx
+Figure 5.23: Sonai River Rubber Dam at Chatak, Sunamganj by BADC............................................................. 54
+Figure 5.24: Mohanpur Rubber Dam at Sadar upazila, Dinajpur by LGED...................................................... 54
+Figure 5.25: Pekua Rubber Dam at Pekua Upazila, Cox’s bazar by BWDB. ..................................................... 54
+Figure 5.26: Location of Rubber Dam.............................................................................................................................. 55
+Figure 5.27: Gravity flow irrigation at Ashuganj-Polash agro-irrigation project by BADC ...................... 56
+Figure 5.28: Gravity Flow Irrigation at Tista Barrage at Nilphamari by BWDB............................................ 57
+Figure 5.29: Doan ..................................................................................................................................................................... 58
+Figure 5.30: Swing Basket..................................................................................................................................................... 58
+Figure 5.31: Different Types of Traditional Irrigation Methods .......................................................................... 58
+Figure 5.32: Area irrigated by DTWs and STWs in Rabi, 2023-24...................................................................... 60
+Figure 5.33: Irrigated Area by Groundwater................................................................................................................ 61
+Figure 5.34: BADC Deep Tubewell at Lakhai Upazila, Habiganj........................................................................... 62
+Figure 5.35: BADC Deep Tubewell at Damurhuda Upazila, Chuadanga............................................................ 62
+Figure5.36: BADC Solar Deep Tubewell at Derai Upazila, Sunamganj .............................................................. 62
+Figure 5.37: BADC Deep Tubewell at Lakhai Upazila, Habiganj........................................................................... 63
+Figure 5.38: BMDA DTW in Baliadangi Upazila, Thakurgaon ............................................................................... 63
+Figure 5.39: BMDA DTW at Tanor Upazila, Rajshahi ................................................................................................ 63
+Figure 5.40: Private DTW at Sherpur Upazila, Bogra................................................................................................ 63
+Figure 5.41: BMDA Solar DTW at Joypurhat District ................................................................................................ 63
+Figure 5.42: Solar DTW at Birampur Upazila, Dinajpur........................................................................................... 63
+Figure 5.43: Distribution of DTW in Bangladesh........................................................................................................ 64
+Figure 5.44: Location of Deep Tubewell......................................................................................................................... 65
+Figure 5.45: Shallow Tubewell at Hossainpur Upazila, Kishoreganj.................................................................. 66
+Figure 5.46: Electrified Shallow Tubewell at Sadar Upazila, Mymenshigh ..................................................... 66
+Figure 5.47: Shallow Tubewell (pit) at Patnitola Upazila, Naogaon................................................................... 66
+Figure 5.48: Shallow Tubewell with Fita pipe at Sadar Upazila, C. Nawabganj............................................. 66
+Figure 4.49: Portable Solar system for STW operated by BADC at Char area of Rangpur........................ 66
+Figure 5.50: Distribution of STW in Bangladesh......................................................................................................... 67
+Figure 5.51: BADC Solar operated Dug well at Gangni Upazila, Meherpur ..................................................... 68
+Figure 5.52: BADC Solar operated Dug well at Pakundia Upazila, Kishoreganj. ........................................... 68
+Figure 5.53: BADC Solar operated Dug well at Alamdanga, Chuadanga........................................................... 68
+Figure 5.54: BMDA Solar operated Dug well at Bagatipara Upazila, Natore................................................... 68
+Figure 5.55: Location of Dug Well ..................................................................................................................................... 69
+Figure 5.56: Treadle Pump................................................................................................................................................... 70
+Figure 5.57: Diaphragm Pump............................................................................................................................................ 70
+Figure 5.58: Hand Pump........................................................................................................................................................ 70
+
+============================================================
+PAGE 22 (2393 chars)
+============================================================
+xxi
+Figure 5.59: Artesian well, BADC....................................................................................................................................... 71
+Figure 5.60: Artesian well, Private.................................................................................................................................... 71
+Figure 5.61: Diagram of Artesian Aquifer ...................................................................................................................... 71
+Figure 5.62: Bar Diagram showing Number of Electrical and Diesel Operated Equipment’s and 
+Irrigated Area (ha) in Rabi 2023-24................................................................................................................................. 72
+Figure 5.63: Location of Solar Irrigation Equipment................................................................................................ 73
+Figure 5.64: Irrigated Area by Power Sources............................................................................................................. 74
+Figure 5.65: Homepage of BIESM software................................................................................................................... 77
+Figure 5.66: User Login page of BIESM software........................................................................................................ 79
+Figure 5.67: Modules of the BIESM software................................................................................................................ 79
+Figure 5.68: Information of software at a glance........................................................................................................ 79
+Figure 5.69: Data entry form for BIESM software...................................................................................................... 80
+Figure 5.70: Brief Data analysis capacity of BIESM software................................................................................ 81
+Figure 5.71: Location information extracted from BIESM software .................................................................. 82
+Figure 5.72: Union level data extracted from BIESM software............................................................................. 83
+Figure 5.73: Distance measurement between irrigation equipment from BIESM software.................... 83
+
+============================================================
+PAGE 23 (4 chars)
+============================================================
+xxii
+
+============================================================
+PAGE 24 (958 chars)
+============================================================
+xxiii
+Abbreviations and Acronyms
+Agri Agricultural 
+ATIA Assisting Transformation to Irrigated Agriculture 
+AWD Alternate Wetting and Drying
+BADC Bangladesh Agricultural Development Corporation
+BARI Bangladesh Agricultural Research Institute
+BBS Bangladesh Bureau of Statistics
+BIESM Bangladesh Irrigation Equipment Survey and Monitoring System 
+BMDA Barind Multipurpose Development Authority
+BPDB Bangladesh Power Development Board
+BRRI Bangladesh Rice Research Institute
+BRDB Bangladesh Rural Development Board
+BWDB Bangladesh Water Development Board
+CEGIS Center for Environmental and Geographic Information Services
+DAE Department of Agriculture Extension
+DTW Deep Tube well
+FW Fresh Water
+FY Financial Year
+GIS Geographical Information System
+GWT Ground Water Table
+HYV High Yielding Variety
+LGED Local Government Engineering Department
+LLP Low Lift Pump
+Mha Million Hectare
+MoA Ministry of Agriculture
+MoP Ministry of Planning
+
+============================================================
+PAGE 25 (173 chars)
+============================================================
+xxiv
+NAP National Adaptation Plan
+NCA Net Cultivated Area
+PVC Polyvinyl Chloride
+REB Rural Electrification Board
+SDG Sustainable Development Goal
+STW Shallow Tube well
+
+============================================================
+PAGE 26 (3740 chars)
+============================================================
+1
+1. Introduction
+1.1 Background
+Agriculture is the largest employment sector in Bangladesh. As of 2023, it employs 45.33% of total 
+labor force and comprises 11.38% (FY 2022-23) of the country's GDP (BBS 2022). Irrigation 
+development in Bangladesh has been pivotal in the country's agricultural progress and economic 
+growth. About 95% of irrigated land of the country is covered by minor irrigation. Introduction of 
+minor irrigation has increased food grain production about three times in last six decades. It is playing 
+a significant role in increase of food production during Rabi season. Different types of irrigation 
+equipment like Deep Tube Wells (DTWs), Shallow Tube Wells (STWs), Low Lift Pumps (LLPs), Dug￾well, Floating Pump, Solar Operated Pump and Rubber Dam, Weir Diversion Structure are used for 
+irrigation. Modern technologies like puried pipe, sprinkler, drip etc. are used in the crop land to convey 
+and apply irrigation water. The data about total irrigated area, irrigation equipment used in Rabi 
+season are important for policy planning, development and expansion of minor irrigation. 
+Bangladesh Agricultural Development Corporation (BADC) has been pioneering in utilization, 
+expansion and development of minor irrigation throughout the country. It has mastered experience 
+on irrigation activities and developed vast resourceful data/information storage. Different projects on 
+minor irrigation at Government and non-Government level are being prepared on the basis of these 
+data/information. In 1961, BADC began its irrigation activity, fielding 1555 Low Lift Pumps. Deep tube 
+wells were later installed in 1967–1968 for irrigation in areas with scare surface water. Similar 
+installations were made for the same reasons in shallow tube wells in 1973–1974, floating pumps in 
+1987–1988, rubber dam and solar pumps in 2011–2012, and dug wells in 2015–2016. In addition to 
+these technologies, irrigation work is carried out in some parts of the country using gravity flow, 
+conventional methods, manual pumps, and artesian wells.
+The Bangladesh Agricultural Development Corporation (BADC) has been collecting data on irrigation 
+equipment since 2000 and published annual reports from 2000 to 2004. Following a directive from 
+the Ministry of Agriculture, BADC has been publishing minor irrigation survey report collaborating 
+with the Department of Agricultural Extension (DAE) and the Barind Multipurpose Development 
+Authority (BMDA) to conduct these surveys. The annual minor irrigation survey report published by 
+BADC are important for the government's decision-making process, particularly for effective planning 
+in minor irrigation, which significantly impacts food grain production. In 2018, the BADC engaged the 
+Center for Environmental and Geographic Information Services (CEGIS) to develop the Bangladesh 
+Irrigation Equipment Survey & Monitoring (BIESM) web application as part of the Digitalization of 
+Survey and Monitoring for Development of Minor Irrigation. 
+Considering the technological advancement of information arena all existing and surveyed 
+information regarding minor irrigation sources can be integrated into a Web-enabled System for 
+making information available to every level of users from decision makers to the general users with 
+proper authentication. The BIESM software contains detailed information on approximately eighteen 
+lakh irrigation equipment, including location, specifications (make, model, pump capacity), energy 
+source, power supply, irrigation canals, and seasonal and crop-wise irrigation areas. It also details 
+operating hours, irrigation costs, and information about the farmers who benefit from these schemes. 
+
+============================================================
+PAGE 27 (4334 chars)
+============================================================
+Introduction
+2
+1.2 Relevance of Survey
+The amount of agricultural land has been decreasing due to urbanization, constructing roads 
+infrastructure industrial facilities with many other factors; while the country's population is growing 
+at a pace of 1.12% annually (BBS 2022), cultivable agricultural land is declining at a rate of 0.5% 
+annually (Yearbook of Agricultural Statistics 2022). For this expanding population, the production of 
+food is a significant concern. In order to increase agricultural output, progressive irrigation 
+management is required because average irrigation efficiency is only 37% (Mu et al., 2009). Water 
+resources are becoming scarce worldwide, and Bangladesh is no exception. Surface water supply is 
+decreasing day by day while demand for irrigation is increasing. The country receives a huge amount 
+of surface water during monsoon. However, this water flows down to the Bay of Bengal due to a lack 
+of planned storage and efficient infrastructure. Thus, the irrigation demand scored at its top in the 
+Rabi season. For proper management of the irrigation water considering both surface and ground 
+water availability understanding of present irrigation status is mandate.
+The irrigation related information plays a vital role to aligning the agriculture as well as food security
+with the Sustainable Development Goals (SDGs), Bangladesh Delta Plan 2100, National Adaptation 
+Plan (NAP) 2023–2050, the Eighth Five-Year Plan (2020-2025), Perspective Plan (2021-2041), and 
+the Integrated Minor Irrigation Policy-2017. The SDGs emphasize key areas such as ending poverty 
+(SDG 1), achieving food security and improved nutrition, and promoting sustainable agriculture (SDG 
+2). Along with this, it focuses on ensuring the availability and sustainable management of water and 
+sanitation for all (SDG 6). The Bangladesh Delta Plan 2100, with its Fresh Water (FW) Strategies, aims 
+to ensure water availability by balancing supply and demand. This includes optimal water resources 
+management (FW 1.1), the introduction of new irrigation schemes for major rivers (FW 1.2), 
+excavation of local water reservoirs (FW 1.3), and preservation of groundwater levels (FW 1.7). The 
+National Adaptation Plan (NAP 2022) aims to develop climate-resilient agriculture for food, nutrition, 
+and livelihood security, with an investment plan focused on augmenting surface water for irrigation 
+and multipurpose use.
+Irrigation water is a vital resource for agricultural development. Every season, more and more 
+information on irrigation is required for demand-based planning in the irrigation subsector to 
+enhance the irrigated area and ensure the country's sustainable food grain production. A database, 
+GIS maps, reports, and pertinent information on irrigation systems must be prepared for future use.
+Bangladesh Agricultural Development Corporation (BADC) played a key role collecting, analysis, 
+storing and publishing irrigation data/information through survey. The survey would meet the 
+requirement of some basic information on irrigated agriculture covered by Low Lift Pumps, Deep Tube 
+Wells, Shallow Tube Wells, Solar Operated Pumps, Dug-wells, Artesian Wells, Manually Operated 
+Pumps, Traditional and by Gravity flow.
+The findings of the survey report will help the Government in formulation of decisions for effective 
+minor irrigation planning which played a key role in the production of food grains. This report will 
+furnish the planners, researchers and administrators necessary irrigation related data for effective 
+planning in irrigation sub-sector. Beside this, the BIESM software contains detailed information on 
+approximately eighteen lakh irrigation equipment, including location, specifications (make, model, 
+pump capacity), energy source, power supply, irrigation canals, and seasonal and crop-wise irrigation 
+areas. The user (BADC officials, planners, researchers and administrators) of this software can easily 
+generate the analytical table, graph, pai-chart etc., which is very fruitful work of BADC for national 
+research and planning.
+Due to the dynamic nature of this data, this database requires annual updating. Consequently, it is vital 
+to update the BIESM database and publish the minor irrigation survey report for 2023-24.
+
+============================================================
+PAGE 28 (209 chars)
+============================================================
+Introduction
+3
+1.3 Study Area
+The survey of the study covered 8 divisions and 64 districts of the entered country. The area is 
+presented in Figure 1.1.
+Figure 1.1: Map Showing Districts of the Study Area
+
+============================================================
+PAGE 29 (1928 chars)
+============================================================
+Introduction
+4
+1.4 Objectives and Outcomes
+Bangladesh is one of the world's biggest deltaic country. Compared to its population, it has a small 
+amount of arable land. There is an abundance of water throughout the wet season (June to 
+September), but a scarcity during the Rabi season (October to March). The primary tool for raising 
+production from agriculture is irrigation. In Bangladesh, small-scale irrigation is essential for 
+increasing the irrigated area, producing more food for the nation's food security. Plan for agricultural 
+development, adequate and reliable statistical data about the number and types of irrigation 
+equipment (both diesel and electric), irrigated area, irrigation cost and benefiting farmers are very 
+much essential. The main outcomes of this study are to update the BIESM software with the latest 
+information and prepare the Minor Irrigation Survey Report for 2023-24.
+The specific objectives of the minor irrigation survey 2023-24 are outlined below:
+• To collect information on minor irrigation equipment, irrigated areas, benefited farmers;
+• To assess irrigation water quality for identifying saline zones
+• To identify groundwater stress areas and surface water potential for zoning.
+• To prepare the Minor Irrigation Survey Report for 2023-2024.
+This report will include comprehensive databases that cover irrigation equipment statistics, such as 
+the number of irrigation equipment categorized by power source and area coverage. It will also 
+provide beneficiary data detailing the information on farmers who directly benefit from the irrigation 
+systems. Additionally, the report will feature key mapping with visual representations of potential 
+surface water lifting areas, salinity levels, groundwater stress zones, and other relevant zoning maps. 
+These resources will offer a clear and up-to-date understanding of Bangladesh's current irrigation 
+status.
+
+============================================================
+PAGE 30 (2849 chars)
+============================================================
+ 
+5
+2. Review of Related Information of Survey 
+2.1 Policy and Plan of Irrigation
+A good number of national and international policies related to agriculture, irrigation and water 
+resources management have been formulated by the government and international agencies to boost 
+food production as well as food security. The key features of some relevant policies are reviewed in 
+bellow:
+2.1.1 National Policies and Plan
+National Agriculture Policy 2018
+The National Agriculture Policy was formulated in 1999 to make the country self-sufficient in food by 
+increasing the production of all crops, including cereals, and ensuring a reliable food security system. 
+It was amended in 2013 to address other challenges, including the adverse impact of climate change 
+on the agricultural sector. The new agriculture policy (2018) emphasizes investment in irrigation 
+management, agricultural cooperatives and marketing, safe and nutritious food production, 
+information and communication technology, etc. It has a separate section on irrigation and water 
+management, primarily focusing on increasing irrigation efficiency and water productivity. Increasing 
+irrigation demand and limiting groundwater use are essential for maintaining environmental balance 
+and reducing irrigation costs. Ongoing activities to increase the availability and utilization of 
+groundwater include the construction of rubber dams in small and medium rivers. To increase the 
+groundwater level and to get enough water for irrigation during the dry season, monsoon is being 
+prioritized for the preservation of groundwater along with rainwater. The brief of the policy related 
+to the irrigation and water management is presented below-
+• Increase irrigation efficiency and water productivity using pipelines instead of irrigation 
+drains in all possible areas;
+• Emphasize the balanced use of groundwater and encourage the cultivation of less water￾consuming crops in drought-prone areas; 
+• Conservation of rainwater to enhance surface water availability for irrigation;
+• Expansion of Aus, Aman, and vegetable cultivation, coupled with the introduction of water￾saving crops, by increasing supplementary irrigation;
+• Excavation of canals, ponds, and wetlands to preserve and optimize the use of surface water; 
+• Prioritizing reasonably priced electricity for irrigation systems and promoting solar energy 
+for irrigation;
+• Development of an irrigation management zoning plan, considering the assessment of surface 
+water availability, geographical characteristics of various areas, and future water demands 
+across different sectors;
+• Use the water balance model to determine the quantity of surface and groundwater and future 
+water demand for different sectors, including agriculture, considering future extension of 
+irrigable areas.
+
+============================================================
+PAGE 31 (2953 chars)
+============================================================
+Review of Related Information of Survey
+6
+Integrated Minor Irrigation Policy 2017
+The policy has been formulated to ensure food security and alleviate poverty within the country. It 
+aims to increase crop production while reducing irrigation costs by modernizing the irrigation system 
+and enhancing capacity building. The policy mentions increasing surface water use for irrigation 
+purposes and suggests extending irrigation facilities in remote agricultural lands by constructing 
+irrigation canals, infrastructure, and installing high-capacity pumps. Additionally, a strong emphasis 
+is on harnessing and conserving rainwater to decrease dependence on groundwater. Where 
+groundwater usage is inevitable, the policy recommends positioning tube wells in such a way that it 
+can supply irrigation water to at least two sides simultaneously. It also recommended the construction 
+of recharge wells to augment groundwater replenishment. Brife of this policies presented bellow:
+• Build an area-based irrigation systems i.e. floodplain, char, haor, barind, hilly and costal area 
+for increased crop production;
+• Re-excavate water bodies, construct embankments, irrigation infrastructure and promote fish 
+cultivation where appropriate;
+• Use medium/high capacity pumps to withdraw sureface water for irrigation;
+• Ensure proper repair and maintenance of all irrigation infrastructure and equipment;
+• Installation of buried pipeline, drip and sprinkler irrigation system to enhance convence and 
+water use efficiancy.
+• Increase use of surface water rather than groundwater for irrigation; 
+• Enphasis use of renewable energy (solar/wind power) for irrigation pumps
+• Construct reservoirs for rainwater/flood water conservation by dredging or re-excavating 
+rivers, khals, beels, haors, and baors.
+• Construct the necessary infrastructure to conserve excess rainwater during the monsoon and 
+utilize it during the dry season.
+• Conserve monsoon water for irrigation during the dry season, take the necessary steps to 
+construct submerged weirs, rubber dams, hydraulic elevated dams, embankments, etc.;
+• Update the groundwater zoning map every 3 to 5 years to predict future groundwater demand 
+and guide the establishment of irrigation infrastructure and instruments;
+• Promote the extension of irrigation areas through rainwater conservation and sureface water.
+• Promote use of conjunctive use of sureface and ground water for irrigation
+• Ensure that AWD (alternate wetting and drying) technology is utilized for optimal irrigation 
+water use and to decrease crop production costs;
+• Encourage everyone to establish new water sources, promote conservation, and minimize 
+water wastage;
+• Introduce Geographic Information System (GIS) and Remote Sensing (RS) for data collection 
+and analysis; 
+• Introduce micro smart irrigation practice for climate smart agriculture.
+• Strengthen upazila irrigation committee
+
+============================================================
+PAGE 32 (3279 chars)
+============================================================
+Review of Related Information of Survey
+7
+Bangladesh Water Act 2013
+The Water Act 2013 is based on the National Water Policy 1999, and designed for integrated 
+development, management, extraction, distribution, usage, protection and conservation of water 
+resources in Bangladesh. As per this Act, all forms of water (e.g., surface water, ground water etc.) 
+within the territory of Bangladesh belong to the government on behalf of the people. A worthwhile 
+initiative is the requirement for permits/ licenses for large scale water withdrawal by individuals and 
+organizations beyond domestic use. Without prior permission issued by the Executive Committee, no 
+individual or organization will be allowed to extract, distribute, use, develop, protect, and conserve 
+water resources, nor they will be allowed to build any structure that impede the natural flow of water 
+course. 
+National Water Policy, 1999
+The National Water Policy (NWP) was adopted in 1999 to guide both public and private actions, 
+ensuring the optimal development and management of water for the benefit of individuals and society. 
+Notably, this policy highlighted the significance of groundwater and surface water irrigation facilities. 
+It emphasized the need to enhance water use efficiency through methods such as drainage-water 
+recycling, rotational irrigation (where feasible), and the conjunctive use of groundwater and surface 
+water. Specifically, the government's policy aims to encourage and promote the ongoing development 
+of minor irrigation and the prospective utilization of groundwater for irrigation by both public and 
+private sectors. Moreover, it seeks to strengthen crop diversification programs for efficient water use. 
+Irrigation related tasks are presented in section 4.7 (water and Agriculture). Brief is presented 
+below-
+• Encourage and promote the continued development of minor irrigation, where feasible, 
+without compromising drinking water supplies.
+• Enhance water resource utilization efficiency through the conjunctive use of surface water 
+and groundwater for irrigation and urban water supply.
+Bangladesh Delta Plan 2100
+The Bangladesh Government approved the Bangladesh Delta Plan 2100 (BDP 2100) on September 4, 
+2018, to achieve a 'safe, climate-resilient, and prosperous Delta' by 2100. The plan's backbone 
+emphasizes the sustainable use of water resources and the prevention of water-related natural 
+disasters. Two national strategies have been formulated to aid in water resource management: i) the 
+Flood Risk Management Strategy and ii) the Freshwater Strategy. The freshwater strategies consist of 
+two distinct but related strategies: Water Availability and Water Quality. Each strategy addresses 
+three key aspects: Infrastructure, Institutions, and Innovation. 
+Strategy FW 1: Ensure Water Availability by Balancing Supply and Demand for
+Sustainable and Inclusive Growth
+The freshwater strategy ensures water availability by balancing supply and demand for sustainable 
+and inclusive growth. 
+Sub Strategy 1.1 Supply management and additional irrigation
+Agriculture sector is the key beneficiary of this strategy where Sustainable O&M of irrigation systems 
+is particularly an essential feature of this strategy.
+
+============================================================
+PAGE 33 (3105 chars)
+============================================================
+Review of Related Information of Survey
+8
+Sub-strategy FW 1.2: Demand management and efficient water use
+It focused on mixed interventions consisting of less water-consuming crops to more efficient irrigation 
+and more effective management and pricing. The plan suggested conjunctive use of surface and 
+groundwater, based on multi-annual groundwater reservoir management, a series of small- and 
+medium-sized storage and diversion schemes, productive aquifer storage and recovery techniques 
+and efficient irrigation technology, reuse of wastewater for irrigation purposes to ensure effective and 
+efficient use of our scare water resources.
+National Adaptation Plan of Bangladesh, (2023-2050) 
+In 2022, Bangladesh has approved its National Adaptation Plan, which outlines essential adaptive 
+initiatives and strategies to focus on climate action adaptation (CCA). Notably, within Volume II, 
+Chapter 03, under the heading 'Adaptation Priorities for Combating Adversities of Climate Change' 
+found on Page 50, the plan also covers concerns in the irrigation sector. The plans are detailed out in 
+Volume-III, Chapter-03 Investment portfolio on Page 106. Details are presented below￾CSA 01: Extension of climate-smart technologies for increasing irrigation water use efficiency
+• Major activities involved￾o Improvement of water conveyance and use efficiency, 
+o Extension of AWD, 
+o Introduction of sprinkler and drip etc.
+CSA 02: Augmentation of surface water for irrigation and multipurpose use
+• Major activities involved￾o Rehabilitation of existing surface water irrigation projects, particularly Muhuri, Manu, 
+Bhola, Barisal, Chandpur, Meghna-Dhonogoda, Testa, and Ganges-Kobadak (GK) 
+Irrigation Project. 
+o Implementation of Padma Barrage and North Rajshahi Irrigation Project,
+o Rainwater harvesting through periodic re-excavation of perennial water bodies 
+(ponds, beels, canals, rivers, etc.) for the round year surface water availability etc.
+Bangladesh Perspective Plan (2021-2041)
+Bangladesh Perspective Plan (2021-2041) states all the aspects towards achieving a higher income 
+country. Chapter 6 discusses irrigation water management, which is considered the second most 
+crucial driver of agricultural development. To achieve sustainability goals, the plan highlights several 
+key issues. Among these, the economical use of groundwater and enhanced water use efficiency are 
+deemed essential. Brief is presented below-
+• Modernized irrigation methods, such as smart and sensor-based irrigation, will be 
+introduced to farmers to enhance irrigation efficiency. These methods are particularly 
+beneficial for horticultural crop production as alternatives to flood irrigation. 
+• Sustainable use of both surface and groundwater. 
+8th Five Year Plan (2020-2025)
+Water sector planning on the 8th Five-year plan is prepared based on vision 2041 and Bangladesh 
+Delta Plan, 2100. The main goals are to increase proportionate water conservation and management 
+practices and implement more comprehensive integrated water management, including flood control 
+
+============================================================
+PAGE 34 (3577 chars)
+============================================================
+Review of Related Information of Survey
+9
+and prevention planning, flood early warning systems, improvement of irrigation systems, and on￾demand management. The proposed project is prepared to increase the use of surface water. The 
+similarities with the proposed project are stated on Page-325 and Page 259-283. Brief is presented 
+below-
+• Increasing the efficiency of irrigation in crop production and increasing the use of surface 
+irrigation water;
+• Ensuring coordinated use of surface and groundwater for permanent irrigation, securing 
+groundwater conservation;
+• Adopting climate change mitigation strategies;
+• Rainwater harvesting;
+• Strengthening institutional capacity in water resource management (Pages-282, 283);
+• Ensuring sustainable agricultural growth through more efficient and balanced use of land, 
+water and other resources and encouraging the use of groundwater for irrigation by 
+reducing groundwater use through existing irrigation systems and associated 
+infrastructure development (Page-259);
+• Ensuring efficient management of natural resources including groundwater, with special 
+emphasis on groundwater availability and use (Page-260);
+• Providing necessary skills and awareness training to farmers to make them interested in 
+using modern technology (Page-261).
+Bangladesh Climate Change Strategy and Action Plan (2009)
+The Bangladesh Climate Change Strategy and Action Plan (BCCSAP) (2009) is a 10-year program 
+(2009-2018) to build the capacity and resilience of the country to meet the challenges of climate 
+change. The BCCSAP has six main pillars with several related programs and objectives. Under the 
+theme T1 Food Security, Social Protection and Health, the programme P2 focuses on developing a 
+climate-resilient cropping system appropriate for different agro-climatic regions and sub-regions. 
+Climate change will result in increasingly frequent and severe flooding and flash floods in the north￾eastern and eastern parts of Bangladesh, where farmers may need to modify their current cropping 
+system. Under the theme T5, Mitigation of Low Carbon Development, several programs are linked to 
+issues related to the water sector. Under this theme, Program P5 focuses on raising agricultural land's 
+productivity and lowering methane emissions through efficient use of water and land-use practices.
+National Water Management Plan (NWMP) 2001
+The National Water Management Plan (NWMP) was formulated in 2001 and set forth development 
+indicators for the subsequent 50 years. This plan is structured as a rolling 25-year strategy divided 
+into three phases. The short-term phase (2000-05) is considered a firm plan, the medium-term phase 
+(2006-10) as an indicative plan, and the long-term phase (2011-25) is regarded as a perspective plan. 
+The implementation of the NWMP will undergo regular monitoring and updates every five years. The 
+primary purpose of the NWMP is to bring into action the directives established in the National Water 
+Policy, aligning with the Government Development Strategy.
+Within the context of Agriculture and Water Management, the NWMP suggests the expansion and 
+support of minor irrigation development. The expansion of tube well irrigation will persist in areas 
+where over-exploitation is not a concern and where arsenic contamination does not pose a health risk 
+when the water is utilized for irrigation. Financing for minor irrigation development and structural 
+components of on-farm water management will be the responsibility of the private sector and the 
+
+============================================================
+PAGE 35 (2821 chars)
+============================================================
+Review of Related Information of Survey
+10
+farmers. In this sector, the NWMP recommends eight programs. Out of these, four are centered on 
+irrigation management, and three specifically focus on surface water irrigation management.
+• Promotion of Expanded Minor Irrigation and Improved On-farm Water 
+Management: This program involves the improvement of irrigation pumping efficiency, 
+promotion of lower-cost force-mode tube well pumps, and a farmer education/training 
+component to improve on-farm water management and the wise use of water;
+• Improved Performance of Existing Public Surface Water Irrigation Scheme: This 
+program is intended to ensure full participation of beneficiaries, command area 
+development, conjunctive use of surface and groundwater, rehabilitation, etc.
+• New Public Surface Water Irrigation Schemes: This program intends to reduce demand 
+for groundwater abstraction;
+• New Public Deep Tubewell Irrigation Schemes: This program will deal with installing 
+an estimated 2000 new deep tube wells through subsidized DTW irrigation development 
+in socially deprived areas where irrigation is unaffordable, drilling is difficult or costly and 
+where surface water is limited.
+2.1.2 International Policies and Plan
+Sustainable Development Goals (SDG)
+The 2030 Agenda for Sustainable Development was adopted in 2015 by all United Nations Member 
+States. This agenda sets forth 17 Sustainable Development Goals and 169 targets, building upon the 
+Millennium Development Goals and aiming to accomplish what these goals have yet to achieve. These 
+goals encompass and balance the three dimensions of sustainable development: economic, social, and 
+environmental. The Goals and targets are intended to guide action through the next fifteen years, 
+culminating in 2030. Among these 17 goals is the objective of achieving Zero Hunger, which 
+emphasizes ensuring sustainable food production systems. This goal also promotes the 
+implementation of resilient agricultural practices, bolstering the capacity for adaptation to climate 
+change, extreme weather events, droughts, floods, and other related disasters. Brief is presented 
+below-
+• Target 2.3: By 2030, double the agricultural productivity and incomes of small-scale food 
+producers, in particular women, indigenous peoples, family farmers, pastoralists and 
+fishers, including through secure and equal access to land, other productive resources and 
+inputs, knowledge, financial services, markets and opportunities for value addition and 
+non-farm employment.
+• Target 6.4: By 2030, substantially increase water-use efficiency across all sectors and 
+ensure sustainable withdrawals and supply of freshwater to address water scarcity and 
+substantially reduce the number of people suffering from water scarcity.
+
+============================================================
+PAGE 36 (4391 chars)
+============================================================
+Review of Related Information of Survey
+11
+2.2 Past History 
+The irrigation system in Bangladesh underwent a significant transformation in the 1950s. Large-scale 
+water resources development in Bangladesh began in the early 1950s with the construction of dams, 
+barrages, reservoirs and other irrigation structures, embankments and drainage channels for bulk 
+water supply to communities and irrigation. BWDB is the pioneer/founder organization in Bangladesh 
+for both surface and groundwater resources development leading to major canal irrigation, DTW and 
+LLP irrigation in the early sixties. Over the past six decades, the Bangladesh Agricultural Development 
+Corporation (BADC) has been unwavering in its support for the irrigation system in Bangladesh. This 
+support has manifested in various ways, including the fielding of advanced irrigation equipment and 
+technologies, expansion of irrigation areas, optimal utilization of surface water resources, judicial 
+management of groundwater resources, and the enhancement of irrigation efficiency to boost 
+agricultural productivity. BADC actively engages in minor irrigation initiatives, employing methods 
+such as Low Lift Pumps (LLP), rubber dams, floating pumps, solar pumps, dug wells, Deep Tube Wells 
+(DTW), Shallow Tube Wells (STW), and gravity flow systems. 
+In 1961, the Bangladesh Agricultural Development Corporation (BADC) initiated its irrigation 
+endeavours with 1,555 low-lift pumps. From 1967 to 1968, deep tube wells were established by BADC 
+due to surface water shortages (https://badc.gov.bd/). After the 1971 liberation war, BADC and 
+BWDB prioritized modernizing their irrigation to enhance agricultural production and ensure food 
+security by constructing dams, barrages, and embankments. These infrastructures ensure consistent 
+water supply during droughts and reduce flood impacts in the monsoon. BADC's subsequent 
+introductions were shallow tube wells (1973-74), floating pumps (1987-88), rubber dams and solar 
+pumps (2011-12), and dug wells (2015-16). In addition to these techniques, various parts of the nation
+use manual and artesian wells, traditional methods, and gravity flow techniques for irrigation. Modern 
+methods like drip and sprinkler irrigation have gained popularity due to their emphasis on water 
+efficiency and conservation. While sprinkler systems simulate natural rainfall, drip irrigation delivers 
+water directly to the plant roots, minimizing water waste. However, to ensure proper monitoring and 
+strategic planning of the irrigation development, comprehensive survey reports are indispensable to 
+assess the historical development, present trends and status of minor irrigation systems. 
+Presently, BADC releases an annual minor irrigation survey report as part of its routine activities. 
+Since 1999-2000, BADC has consistently conducted the Survey of Minor Irrigation equipment, power 
+sources, benefited farmers, irrigation area, and related costs to foster sustainable agricultural 
+development by effectively harnessing surface and groundwater resources. The "Survey of Minor 
+Irrigation Equipment in Rabi season" is part of the Digitalization of Survey and Monitoring for the 
+Development of Minor Irrigation (Phase IV) Project, aimed at continuing the progress of minor 
+irrigation development programs. After completion of project (Phase IV) survey of minor irrigation 
+equipment in Rabi season has been continuing from revenue budget of ministry of agriculture leaded 
+by BADC.
+This survey work has been conducted collaboratively by three organizations - Bangladesh Agricultural 
+Development Corporation (BADC), Barind Multipurpose Development Authority (BMDA), and 
+Department of Agricultural Extension (DAE) since the 2004-05 period up until now. Moreover, BADC 
+has taken significant strides by developing the Bangladesh Irrigation Equipment Survey & Monitoring 
+(BIESM) software, with technical assistance from the Centre for Environmental & Geographical 
+Information Services (CEGIS), a Public Trust under the Ministry of Water Resources, facilitating more 
+efficient data management and analysis in irrigation-related activities.
+Since the launch of the BIESM software, a significant portion of Deep Tube Wells (DTW), 75,000 
+Shallow Tube Wells (STW), and a segment of solar equipment and dug wells were identified and 
+
+============================================================
+PAGE 37 (4031 chars)
+============================================================
+Review of Related Information of Survey
+12
+recorded with GPS coordinated along with relevant information in 2018. Throughout the survey 
+period of 2021-22, the remaining DTWs and solar equipment (including DTWs, STWs and dug wells) 
+underwent comprehensive updates, with special attention to DTW locations for complete integration 
+into the BIESM software. Progressing into the 2022-23 survey cycle, a focused initiative targeted 
+collecting data on all government-owned Low Lift Pumps (LLP) with buried pipe locations, 
+encompassing those managed by BADC and BMDA, alongside pertinent information. Moreover, the 
+recording of solar-powered LLP locations and the remaining solar-powered STWs, DTWs, and dug 
+wells was conducted, significantly enhancing the completeness and accuracy of the database within 
+the BIESM software.
+2.3 Trend of Minor Irrigation
+Bangladesh, a primarily agrarian country, mainly depends on agriculture as a vital sector for both its 
+economy and food security. In spite of its extensive river system and mostly flat geography, the nation 
+is well-suited for agricultural pursuits. However, agricultural production and food security have 
+historically been hampered by the difficulty of providing reliable and efficient irrigation. The use of 
+Low Lift Pump (LLP) irrigation systems is one potential solution for this problem. In Bangladesh, Low￾Lift Pump (LLP) irrigation systems have become increasingly popular since 1961.
+One of the most notable benefits of LLP irrigation systems is their cost-effectiveness. LLPs are 
+relatively inexpensive compared to other irrigation technologies such as DTW, STW, double lifting or 
+high-lift pumps. LLP systems are especially useful in sureface water potential areas, which enable 
+efficient use of these pumps. Their cost-effectiveness, adaptability, and energy efficiency make them a 
+valuable tool for small-scale farmers. Since small and marginal farmers make up a significant portion 
+of Bangladesh's agricultural population, they can afford them and find them simple to use. Presently, 
+207,368 LLPs are working in Bangladesh to provide water for irrigation purposes. LLP irrigation 
+supports improved lives and increased food security by empowering these farmers to water their 
+crops more effectively.
+With the development of high-yielding rice varieties ideal for Boro rice in Bangladesh during the 
+1980s and 1990s, these rice types responded well to fertilizer and irrigation. The focus was shifted to 
+the development of groundwater resources because the Teesta, Brahmaputra-Jamuna, and Ganges 
+River floodplains all have favorable aquifer conditions. Deep tube well (DTW) construction began in 
+the late 1960s, but it picked up steam in the late 1980s. BADC installed over 25,500 DTWs across the 
+country up to 1992. Presently, 34,040 DTWs are working in Bangladesh to provide water for irrigation 
+purposes. Those are installed by BADC, BMDA and private sectors. Discharge capacity of DTWs is 28-
+56 lit/sec mostly. Considering the climate change issues and environmental condition of Bangladesh, 
+government discouraged ground water used for irrigation and approved Ground Water Management 
+Act -2018 in parliament, because in some area of Bangladesh excessive groundwater withdrawal is 
+found. Now the installation of new DTW by the government fund is suspended. 
+Following the growth of DTWs, shallow tube wells (STWs) with discharge capacities ranging from 10 
+to 21 lit/sec were developed since 1973-74. However, limitations on tube well spacing prevented 
+STWs from being implemented initially, despite the obvious advantages of groundwater irrigation. 
+Following the destructive 1988 floods and the cyclones that followed in the early 1990s, it became 
+clear that agricultural machinery was necessary to get farming economics back on track. Since 
+Irrigation by STW is totally driven by private sector. Presently, 1,479,266 STWs are working in 
+Bangladesh to provide water for irrigation purposes.
+
+============================================================
+PAGE 38 (2321 chars)
+============================================================
+Review of Related Information of Survey
+13
+The government lifted all restrictions and embargos on the import of irrigation equipment. 
+Consequently, local markets were flooded with inexpensive and easy to operate irrigation pumps and 
+small engines (<12 HP), mainly imported from India and China. 
+2.3.1 Operational Equipment and Irrigated Area
+The trend of operational irrigation equipment and irrigated area from 1961-62 to 2023-24 is shown 
+in Table 2.1 and Table 2.2.
+Table 2.1: Trend of Minor Irrigation Equipment 1961-62 to 2023-24
+Boro/Rabi 
+Season
+Annual Operating (Nos.) Annual Change in Percentage (%)
+DTW STW LLP DTW STW LLP
+1961-62 1555 0.00
+1962-63 2024 30.16
+1963-64 2477 22.38
+1964-65 2239 -9.61
+1965-66 3420 52.75
+1966-67 3990 16.67
+1967-68 102 6558 0.00 64.36
+1968-69 380 10852 272.55 65.48
+1969-70 980 17846 157.89 64.45
+1970-71 796 24483 -18.78 37.19
+1971-72 906 24243 13.82 -0.98
+1972-73 1237 32917 36.53 35.78
+1973-74 1494 998 35243 20.78 0.00 7.07
+1974-75 2699 1029 35534 80.66 3.11 0.83
+1975-76 3828 2162 36382 41.83 110.11 2.39
+1976-77 4461 3045 28361 16.54 40.84 -22.05
+1977-78 7453 6447 36730 67.07 111.72 29.51
+1978-79 9329 8379 35895 25.17 29.97 -2.27
+1979-80 9795 11280 37389 5.00 34.62 4.16
+1980-81 10131 20931 35951 3.43 85.56 -3.85
+1981-82 11491 42955 41153 13.42 105.22 14.47
+1982-83 13800 93100 35500 20.09 116.74 -13.74
+1983-84 15500 120300 36000 12.32 29.22 1.41
+1984-85 16900 147000 37000 9.03 22.19 2.78
+1985-86 17900 146900 37500 5.92 -0.07 1.35
+1986-87 18700 160300 40600 4.47 9.12 8.27
+1987-88 20300 188700 42300 8.56 17.72 4.19
+1988-89 22400 235900 50800 10.34 25.01 20.09
+1989-90 22600 260000 51000 0.89 10.22 0.39
+1990-91 21500 270300 51600 -4.87 3.96 1.18
+1991-92 25500 309300 50300 18.60 14.43 -2.52
+1992-93 25700 348900 52200 0.78 12.80 3.78
+1993-94 24500 359200 52600 -4.67 2.95 0.77
+1994-95 26700 488900 57100 8.98 36.11 8.56
+1995-96 27300 571200 60600 2.25 16.83 6.13
+1996-97 25200 629800 62900 -7.69 10.26 3.80
+1997-98 25300 664700 66300 0.40 5.54 5.41
+1998-99 26700 736100 72900 5.53 10.74 9.95
+1999-00 23530 707570 58050 -11.87 -3.88 -20.37
+2000-01 23180 865210 71310 -1.49 22.28 22.84
+2001-02 23000 893360 77000 -0.78 3.25 7.98
+2002-03 23430 924020 79870 1.87 3.43 3.73
+2003-04 24720 925150 77790 5.51 0.12 -2.60
+
+============================================================
+PAGE 39 (1406 chars)
+============================================================
+Review of Related Information of Survey
+14
+Boro/Rabi 
+Season
+Annual Operating (Nos.) Annual Change in Percentage (%)
+DTW STW LLP DTW STW LLP
+2004-05 27180 1128990 99250 9.95 22.03 27.59
+2005-06 28280 1182520 119130 4.05 4.74 20.03
+2006-07 29170 1202720 107290 3.15 1.71 -9.94
+2007-08 31300 1304970 138630 7.30 8.50 29.21
+2008-09 32170 1374580 146790 2.78 5.33 5.89
+2009- 10 32910 1425140 150610 2.30 3.68 2.60
+2010- 11 33670 1549150 173670 2.31 8.70 15.31
+201 1-12 34050 1498390 177220 1.13 -3.28 2.04
+2012-13 35320 1523610 170570 3.73 1.68 -3.75
+2013-14 36034 1563791 171041 2.02 2.64 0.28
+2014-15 36566 1549711 167175 1.48 -0.90 -2.26
+2015-16 36979 1417008 173179 1.16 -9.36 3.46
+2016-17 37175 1398960 176478 0.53 -1.27 1.90
+2017-18 37538 1355852 181469 0.98 -3.08 2.83
+2018-19 37634 1357532 187188 0.26 0.12 3.15
+2019-20 37007 1398706 199914 -1.67 3.03 6.80
+2020-21 36955 1409689 204391 -0.14 0.79 2.24
+2021-22 33896 1469980 205212 -8.28 4.28 0.40
+2022-23 33968 1477454 206548 0.21 0.51 0.65
+2023-24 34040 1479266 207368 0.21 0.12 0.40
+Note: Data from 1961-62 to 1981-82 Taken from Year wise Progress Report of BADC, data from 1982-83 to 1999-2000 taken from Census 
+of Irrigation in Bangladesh by ATIA Project and data from 2000-01 to 2023-24 taken from Minor Irrigation Survey Report of BADC.
+Figure 2.1: Development of Different Types of Irrigation Equipment in Bangladesh 
+
+============================================================
+PAGE 40 (1146 chars)
+============================================================
+Review of Related Information of Survey
+15
+Figure 2.2: Trend of Minor Irrigation Equipment in last Fifteen Rabi season (2009-10 to 23-
+2024)
+Table 2.2: Trend of Irrigated Area by Different Minor Irrigation Mode (1961-62 to 2023-24) Irrigation Season DTW STWLLP Manual & Artesian Well Traditional Method Gravity Flow Method Solar Pump Dug Well Total
+1961-62 29928 29928
+1962-63 53864 53864
+1963-64 63462 63462
+1964-65 53547 53547
+1965-66 70248 70248
+1966-67 91136 91136
+1967-68 1667 130373 132040
+1968-69 6510 180620 187130
+1969-70 13004 273227 286231
+1970-71 12984 373230 386214
+1971-72 11874 369745 381619
+1972-73 15287 508715 524002
+1973-74 24881 1806 565477 592164
+1974-75 47716 2726 576963 627405
+1975-76 62246 5220 603425 670891
+1976-77 66477 7168 519479 593124
+1977-78 137034 27929 708959 873922
+1978-79 204186 35827 820470 1060483
+1979-80 235748 55400 894775 1185923
+1980-81 259557 99029 912099 1270685
+1981-82 323152 202180 1089873 1615205
+1982-83 234000 371000 337000 16000 405000 160000 1523000
+1983-84 263000 480000 342000 16000 372000 136000 1609000
+1984-85 287000 586000 351000 16000 384000 147000 1771000
+
+============================================================
+PAGE 41 (2780 chars)
+============================================================
+Review of Related Information of Survey
+16
+Irrigation 
+Season
+DTW
+STW
+LLP
+Manual & 
+Artesian 
+Well
+Traditional 
+Method
+Gravity Flow 
+Method
+Solar Pump
+Dug Well
+Total
+1985 -86 304000 586000 356000 16000 314000 163000 1739000
+1986-87 318000 639000 386000 16000 326000 155000 1840000
+1987-88 345000 753000 402000 16000 433000 115000 2064000
+1988-89 380000 941000 482000 16000 391000 170000 2380000
+1989-90 384000 1037000 484000 16000 478000 176000 2575000
+1990-91 365000 1078000 513000 18000 498000 316000 2788000
+1991-92 434000 1234000 500000 19000 316000 251000 2754000
+1992-93 437000 1392000 496000 22000 323000 291000 2961000
+1993-94 389000 1388000 458000 29000 348000 326000 2938000
+1994-95 502000 1638000 538000 25000 250000 352000 3305000
+1995-96 540000 2004000 568000 51000 207000 355000 3725000
+1996-97 475000 2159000 570000 38000 186000 333000 3761000
+1997-98 465000 2182000 622000 64000 201000 285000 3819000
+1998-99 507000 2522000 628000 101000 232000 358000 4348000
+1999-00 529640 2122510 581800 18650 76520 227400 3556520
+2000-01 538260 2295660 603280 6530 71730 250850 3766310
+2001-02 530290 2355030 628750 7460 36900 286010 3844440
+2002-03 587930 2409410 664020 11710 32510 309650 4015230
+2003-04 589490 2429130 630670 13340 25570 355670 4043870
+2004-05 654190 3159900 838380 1250 24250 109380 4787350
+2005-06 700660 3120610 803170 2110 26130 107040 4759720
+2006-07 725260 3196120 810020 2250 12150 137060 4882860
+2007-08 785680 3197180 903870 5210 19040 138800 5049780
+2008-09 790115 3245143 957035 15448 43965 75145 5126851
+2009-10 773323 3336652 964902 17412 40186 85151 5217626
+2010-11 719206 3505287 1009981 6381 3814 19071 5263740
+2011-12 758963 3418147 1084594 11858 28326 20447 5322335
+2012-13 934342 3242440 1035736 34560 28320 97707 5373105
+2013-14 876803 3278838 1083535 33778 28318 101060 5402332
+2014-15 962039 3235184 1106705 27718 20232 96274 5448152
+2015-16 1194177 2954949 1164603 29718 18336 128564 5490347
+2016-17 1063486 3079001 1187823 27518 14553 154885 5527266
+2017-18 1072539 2981646 1220879 26856 12769 241925 5556614
+2018-19 1076141 2994466 1248616 8780 8065 238871 11960 583 5587482
+2019-20 1084245 3001120 1269661 7852 6825 242356 14524 1015 5627598
+2020-21 1085431 3006076 1287013 6752 6124 245136 16524 1735 5654791
+2021-22 1038113 3070155 1310917 6552 5824 247636 9939 444 5689580
+2022-23 1045582 3081813 1327972 6332 5414 253996 26406 1019 5748534
+2023-24 1048042 3085919 1350542 6303 5444 244092 27813 1118 5769273
+Note: Data from 1961-62 to 1981-82 Taken from Year wise Progress Report of BADC, data from 1982-83 to 1999-2000 taken from Census 
+of Irrigation in Bangladesh by ATIA Project and data from 2000-01 to 2023-24 taken from Irrigation Equipment Survey Report of BADC.
+
+============================================================
+PAGE 42 (2191 chars)
+============================================================
+Review of Related Information of Survey
+17
+2.3.2 Comparative Study of Area Coverage (ha) per Equipment (DTW, STW, LLP) 
+A comparative study of area coverage (ha) per equipment (DTW, STW & LLP) is given below in the 
+Table 2.3.
+Table 2.3: Comparative Study of Area Coverage Hectare per Equipment (DTW, STW & LLP)
+Irrigation 
+season
+Irrigated Area ('000 ha)
+Operational Equipment 
+('000 No.)
+Area Coverage per 
+Equipment
+DTW STW LLP DTW STW LLP DTW STW LLP
+1982-83 234 371 337 13.8 93.1 35.5 16.96 3.98 9.49
+1983-84 263 480 342 15.5 120.3 36 16.97 3.99 9.50
+1984-85 287 586 351 16.9 147 37 16.98 3.99 9.49
+1985-86 304 586 356 17.9 146.9 37.5 16.98 3.99 9.49
+1986-87 318 639 386 18.7 160.3 40.6 17.01 3.99 9.51
+1987-88 345 753 402 20.3 188.7 42.3 17.00 3.99 9.50
+1988-89 380 941 482 22.4 235.9 50.8 16.96 3.99 9.49
+1989-90 384 1037 484 22.6 260 51 16.99 3.99 9.49
+1990-91 365 1078 513 21.5 270.3 51.6 16.98 3.99 9.94
+1991-92 434 1234 500 25.5 309.3 50.3 17.02 3.99 9.94
+1992-93 437 1392 496 25.7 348.9 52.2 17.00 3.99 9.50
+1994-95 502 1638 538 26.7 488.9 57.1 18.80 3.35 9.42
+1995-96 540 2004 568 27.3 571.2 60.6 19.78 3.51 9.37
+1996-97 475 2159 570 25.2 629.8 62.9 18.85 3.43 9.06
+1997-98 465 2182 622 25.3 664.7 66.3 18.38 3.28 9.38
+1998-99 507 2522 628 26.7 736.1 72.9 18.99 3.43 8.61
+1999-00 529.64 2122.51 581.8 23.53 707.57 58.05 22.51 3.00 10.02
+2000-01 538.26 2295.66 603.28 23.18 865.21 71.31 23.22 2.65 8.46
+2001-02 530.29 2355.03 628.75 23 893.36 77 23.06 2.64 8.17
+2002-03 587.93 2409.41 664.02 23.43 924.02 79.87 25.09 2.61 8.31
+2003-04 589.49 2429.13 630.67 24.72 925.15 77.79 23.85 2.63 8.11
+2004-05 654.19 3159.9 838.38 27.18 1128.99 99.25 24.07 2.80 8.45
+2005-06 700.66 3120.61 803.17 28.28 1182.52 119.13 24.78 2.64 6.74
+2006-07 725.26 3196.12 810.02 29.17 1202.72 107.29 24.86 2.66 7.55
+2007-08 785.68 3197.18 903.87 31.3 1304.97 138.63 25.10 2.45 6.52
+2008-09 790.12 3245.14 957.04 32.17 1374.55 146.79 24.56 2.36 6.52
+2009-10 773.323 3336.65 964.9 32.91 1425.14 150.61 23.50 2.34 6.41
+2010-11 719.206 3505.287 1009.981 33.67 1549.149 173.669 21.36 2.26 5.82
+2011-12 758.963 3418.147 1084.594 34.045 1498.386 177.216 22.29 2.28 6.12
+
+============================================================
+PAGE 43 (1289 chars)
+============================================================
+Review of Related Information of Survey
+18
+Irrigation 
+season
+Irrigated Area ('000 ha)
+Operational Equipment 
+('000 No.)
+Area Coverage per 
+Equipment
+DTW STW LLP DTW STW LLP DTW STW LLP
+2012-13 934.342 3242.44 1035.736 35.322 1523.609 170.569 26.45 2.13 6.07
+2013-14 876.803 3278.838 1083.535 36.034 1536.791 171.041 24.33 2.13 6.33
+2014-15 962.039 3235.184 1106.705 36.566 1549.711 167.175 26.31 2.09 6.62
+2015-16 1194.177 2954.949 1164.603 36.979 1417.008 173.179 32.29 2.09 6.72
+2016-17 1063.486 3079.001 1187.823 37.175 1398.96 176.478 28.61 2.20 6.73
+2017-18 1072.539 2981.646 1220.879 37.538 1355.852 181.469 28.57 2.20 6.73
+2018-19 1076.141 2994.466 1248.616 37.634 1357.532 187.188 28.59 2.21 6.67
+2019-20 1084.245 3001.12 1269.661 37.007 1398.706 199.914 29.30 2.15 6.35
+2020-21 1085.431 3006.074 1287.013 36.955 1409.649 204.391 29.37 2.13 6.30
+2021-22 1038.113 3070.155 1310.917 33.896 1469.98 205.212 30.63 2.09 6.39
+2022-23 1045.582 3081.813 1327.972 33.968 1477.454 206.548 30.78 2.09 6.43
+2023-24 1048.042 3085.919 1350.542 34.040 1479.266 207.368 30.79 2.09 6.51
+Note: Data from 1982-83 to 1999-2000 taken from Census of Irrigation in Bangladesh by ATIA Project and data from 2000-01 to 2023-
+24 taken from Irrigation Equipment Survey Report of BADC.
+
+============================================================
+PAGE 44 (87 chars)
+============================================================
+ 
+19
+Figure 2.3: Area Coverage per Irrigation Equipment during Rabi 1982-83 to 2023-2024
+
+============================================================
+PAGE 45 (118 chars)
+============================================================
+Review of Related Information of Survey
+20
+Figure 2.4: Trend of Irrigated Area (ha) during Rabi 1982-83 to 2023-2024
+
+============================================================
+PAGE 46 (3090 chars)
+============================================================
+21
+3. Approach and Methodology
+3.1 Study Approach
+The methodology implemented in this study ensured an effective and comprehensive approach, 
+allowing for the successful achievement of the study's objectives. The study collected extensive data 
+on minor irrigation equipment in Bangladesh and updated the BIESM software database. Information 
+was gathered on LLPs, DTWs, STWs, floating pumps, dug wells, solar pumps, and rubber dams. 
+Additionally, maps and graphs illustrating water stress areas and surface water potential were 
+developed, and the groundwater zoning map was updated. The outcome of this effort was the 
+preparation of the "Minor Irrigation Survey Report 2023–2024."
+The study thoroughly assessed and enhanced irrigation management in Bangladesh through a multi￾faceted approach. It began with an exhaustive review of existing literature and data, establishing a 
+conceptual framework for collecting irrigation equipment data and upgrading the BIESM software. 
+This framework was shared with the client and stakeholders to obtain expert opinions, which guided 
+the finalization of the methodology, ensuring full alignment with the study objectives.
+A major task was the collection of primary data through field surveys and secondary data from 
+relevant sources. Primary data, collected through field surveys in all 64 districts, focused on gathering 
+detailed information about irrigation equipment. Secondary data from sources such as BADC, BMDA, 
+and DAE complemented the primary data for analysis and mapping purposes. The field data collection 
+teams, trained in data collection procedures, operated at the Upazila level in collaboration with local 
+authorities. Data validation occurred at the regional level to guarantee accuracy.
+All collected data underwent digitization, cleaning, and verification before analysis and mapping. 
+Statistical techniques and GIS software were employed to identify trends, patterns, and correlations 
+in irrigation practices. Detailed maps were generated to visualize the distribution of irrigation 
+equipment and other pertinent parameters. Additionally, the BIESM software was upgraded to 
+integrate the newly collected data and enhance its functionalities. This included improvements in data 
+integration, user interface, and the addition of features to make the software more informative and 
+user-friendly.
+A final report was prepared, summarizing the study’s findings, analyses, and recommendations. This 
+report provided detailed information on irrigation systems, equipment types, power sources, and 
+beneficiary farmers at various administrative levels. Visual aids such as maps and graphs were 
+included to improve clarity. Furthermore, a one-day training program built the capacity of BADC 
+Executive Engineers in using the BIESM software. A validation seminar was also conducted to ensure 
+the accuracy and relevance of the project outcomes. 
+The study was conducted by following the steps of approaches presented in Figure 3.1 and 
+description of each step has been given in Section 3.2.
+
+============================================================
+PAGE 47 (72 chars)
+============================================================
+Approach and Methodology
+22
+Figure 3.1: Brief Approach and Methodology
+
+============================================================
+PAGE 48 (3067 chars)
+============================================================
+Approach and Methodology
+23
+3.2 Methodology 
+3.2.1 Preparatory/Inception Phase 
+In the preparatory or inception phase, activities included reviewing relevant literature, such as 
+policies, plans, and previous reports related to minor irrigation surveys, along with the development 
+of a conceptual framework for the collection of irrigation equipment data and the updating of the 
+BIESM software. The study's approach involved the review of relevant data sources, the development 
+of data collection and processing techniques, the outlining of data analysis and mapping methods, the 
+methodology for updating the BIESM software, capacity development for relevant stakeholders, and 
+the preparation of a detailed work plan and team composition. The developed framework was shared 
+with the client and relevant stakeholders to gather expert opinions, ensuring that the framework met 
+the study objectives. The methodology was finalized after incorporating the appropriate comments 
+and suggestions.
+Review of Literature, plans, Policies, Guidelines and Available Information
+A comprehensive analysis of past initiatives and policy directives for minor irrigation equipment 
+surveys was undertaken through a multi-faceted approach. This included a thorough review of current 
+and past minor irrigation survey reports, data collection processes, policies, and programs. Engaging 
+with key stakeholders through interviews proved crucial in gathering diverse perspectives on 
+irrigation development. Existing policies and programs were meticulously evaluated to assess their 
+effectiveness and alignment with current needs.
+Data collection was conducted to gather information on current irrigation strategies, plans, policies, 
+and programs. This process included a desk study, which involved reviewing national and sectoral 
+plans, policies, strategies, and other relevant documents.
+Figure 3.2: Steps of Past Initiatives and Policy Directives
+Development of Conceptual Framework 
+A detailed conceptual framework have been developed, incorporating findings from the literature 
+review and outlining how the review, analysis, field data collection method, and sources of 
+information will be integrated into the study. The framework detailed the study's approach and 
+methodology, including the review of relevant data sources, techniques for data collection, processing, 
+and analysis, as well as data visualization and mapping. Additionally, it covered procedures for 
+updating the BIESM software, capacity-building initiatives (such as training and seminars), and the 
+overall plan for implementing the study.
+Compile literature 
+-Past minor 
+irrigation survey 
+initiatives data
+-Existing Irrigation 
+system data of 
+Bangladesh
+-Existing Irrigation 
+related Policy, Plan 
+and Strategic data
+Review and Analysis
+-Review of past 
+initiatives of this 
+project
+-Review and analysis 
+of present and 
+existing irrigation 
+system of 
+Bangladesh
+-Review and analysis 
+of Irrigation related 
+Policy, Plan and 
+Strategic data
+
+============================================================
+PAGE 49 (2753 chars)
+============================================================
+Approach and Methodology
+24
+3.2.2 Detailed Assessment Phase
+Primary data collection from the field
+One of the project's major tasks is to collect primary and secondary irrigation from relevant sources. 
+Primary data will be collected through field surveys, while secondary data will be obtained from 
+appropriate sources. Additionally, secondary data will be used for publishing the report, updating the 
+BIESM database, and producing various maps. These maps will include salinity maps, groundwater 
+zoning maps, groundwater irrigation stress area maps, and prospective surface water irrigation maps. 
+Figure 3.3: Different Stages of Data Collection Phase
+Data Collection Sheet Development and Team Formation
+Before starting the field survey, a data collection sheet was developed based on the previously 
+published “Minor Irrigation Survey Report 2022-23”. This sheet was shared with the Project Director 
+and includes details like the number of irrigation equipment, power sources, irrigated areas, 
+benefitted farmers, and ownership status. After finalization, CEGIS formed a survey team under the 
+guidance of the team leader and deputy team leader. 
+The field data collection team is designed to gather irrigation equipment data from 64 districts across 
+8 divisions. This data will update the BIESM software and the Minor Irrigation Reports 2023-24. The 
+team's size was determined during the study's inception phase. The field team conducts survey work 
+as directed by the team leader, deputy team leader, and data analyst. 
+It is mentioned here that, CEGIS has a substantial number of experienced field data collectors working 
+on various projects. Additionally, CEGIS maintains a pool of data collectors who work on a project 
+basis; these will be engaged in the study. To ensure timely completion, the team will also hire data 
+collectors from the local level.
+Training to the data collector and Field mobilization 
+After field data collectors are appointed, a training program on "how to collect minor irrigation 
+equipment and other irrigation-related data" will be organized. CEGIS has irrigation and agricultural 
+experts, along with GIS experts, who will conduct the training. Additionally, CEGIS has well￾experienced professionals who will be engaged to monitor field data collection for this project. The 
+field data collection progress will also be monitored by the BADC's Executive Engineer office. 
+Following the training, field data collectors will be mobilized with a survey plan to conduct surveys at 
+the upazila level. Each data collector will be equipped with the necessary resources and posted at 
+BADC regional offices. The data collection team will operate under the supervision of the BADC's 
+
+============================================================
+PAGE 50 (3433 chars)
+============================================================
+Approach and Methodology
+25
+Executive Engineer office. An official letter from the PD office (Additional Chief Engineer, Minor 
+Irrigation, Western) of BADC will be issued for the team's identification.
+Team members will carry identity cards specifying their identities. The field team will maintain 
+communication with relevant CEGIS and BADC officials to ensure smooth field activities and to resolve 
+any issues.
+Conduct full scale survey
+Field data collectors will survey the Upazila level. The data collection team will be mobilized at this 
+level with specific forms tailored to the number of irrigation equipment to be surveyed. They will 
+prepare draft data sheets at the Upazila level after consulting with officials from BADC, BMDA, and 
+DAE. Both BADC and CEGIS will cooperate to ensure the team receives any necessary help from 
+governmental, non-governmental organizations, and individuals.
+Data collectors will gather information about DTW, STW, LLP, and other minor irrigation equipment 
+from BADC, BMDA, DAE, other relevant organizations and individuals. 
+Data Validation from BADC Regional/Division office
+A regional/ division level meeting will be arranged to validate the data, with participation from 
+representatives of BMDA, DAE, and other relevant irrigation organizations (if any). These participants 
+will provide valuable comments and suggestions to finalize the data. 
+Data conversion and Geodatabase development
+Information from each surveyed entity (DTW, STW, LLP, and other minor irrigation equipment) will 
+be digitized using a predefined format. After conversion, the field data will undergo a thorough 
+"cleaning" and verification process. Data editing will be performed using Microsoft Access, applying 
+necessary data normalization rules to the non-spatial (tabular or attribute) data.
+In addition to the tabular data, the surveyed entity will be converted into a GIS platform based on 
+available geographic locations. This digital data will then be compatible with GIS analysis and 
+mapping. GIS data will be organized into layers with appropriate symbology. The final map entity 
+symbolization will be determined in consultation with the client to ensure consistency and adherence 
+to standards.
+Secondary Data Collection
+In addition to primary data, various secondary data and information will be collected from relevant 
+organizations and agencies, utilizing both open and proprietary sources. BADC, BMDA, DAE, and all 
+Minor Irrigation Survey Reports will be considered as major secondary data sources. This dataset will 
+be used for generating and updating the GW zoning map, salinity map, stress area of groundwater 
+irrigation map, potential area of surface water irrigation map, and trend analysis of irrigation 
+equipment and area.
+Groundwater level data from BADC monitoring wells across the country will assess groundwater table 
+impacts within the region and contribute to the 2023 GW zoning map. Salinity data, also collected from 
+BADC monitoring wells, will be used for salinity mapping. River network data with associated 
+information will be gathered from available sources to identify potential surface water irrigation 
+areas.
+Before analysis, the reliability, accuracy, and consistency of all data will be rigorously assessed. Time 
+series data will undergo thorough checks for gaps, missing data, or inconsistencies. Missing data will 
+
+============================================================
+PAGE 51 (2049 chars)
+============================================================
+Approach and Methodology
+26
+be filled in through correlation with neighbouring measurement stations, and detected outliers will 
+be eliminated.
+Data Analysis and Mapping
+Data analysis and mapping are major components of this study, providing a deep understanding of the 
+current state of irrigation systems in Bangladesh. This approach will facilitate trend analysis of 
+irrigation equipment and area, assisting irrigation engineers and planners in decision-making. 
+Collected data will be meticulously analysed using statistical techniques and advanced software tools 
+to reveal trends, patterns, and correlations within the irrigation sector.
+Geographic Information Systems (GIS) software (ArcGIS) will be utilized to generate detailed maps 
+that present the spatial distribution of irrigation equipment (DTWs, STWs, LLPs, solar irrigation, etc.), 
+as well as areas of groundwater zoning, stress, salinity, and potential surface water irrigation. The 
+Spatial Analyst tool in ArcGIS will be used for creating raster grids/surfaces on various themes. 
+Additionally, charts (such as pie charts, bar graphs, and line graphs) and tables will be generated to 
+present irrigation system data, enhancing its interpretability and usability.
+The insights derived from this analytical and mapping effort will serve multiple purposes, including 
+trend analysis to inform future projections and planning, supporting the development of effective 
+irrigation policies and strategies, optimizing resource allocation to target areas in need of 
+improvement, and aiding investors and stakeholders in making informed decisions about irrigation 
+projects. These applications highlight the integral role of comprehensive data analysis and effective 
+mapping in shaping the future of irrigation management and development.
+Upgradation of BIESM Software
+Upgrading the BIESM software is the major component of the project, aimed at enhancing its 
+capabilities and integrating newly collected data. This process encompasses several crucial stages:
+
+============================================================
+PAGE 52 (1509 chars)
+============================================================
+Approach and Methodology
+27
+Figure 3.4: Process of Software Upgradation
+Data processing and formatting
+This stage includes data cleaning to remove errors, inconsistencies such as outliers and missing 
+values, and formatting issues. Data validation ensures that all data aligns with expected ranges and 
+formats based on logical rules. Additionally, data is standardized into formats compatible with the 
+BIESM database structure, which involves aligning date formats, unit conversions, and ensuring 
+terminology consistency.
+Update and modification of the database
+The existing database was originally designed based on past requirements. To accommodate the 
+newly collected data, the database schema will be carefully assessed. New data fields or tables may 
+be added if necessary, ensuring they are integrated without compromising existing data relationships. 
+Additionally, the software may be upgraded to support new data types, enable complex calculations, 
+and handle advanced queries.
+Update administrative information (Spatial or Nonspatial) 
+The administrative boundary with associated updated information (spatial or nonspatial) will be 
+incorporated in BIESM software. In this regard, BBS administrative boundary information will be used 
+as the background information. 
+Data Processing and Formatting 
+Update and Modification of Database
+Quality Checking and Testing
+Update Administrative Information 
+(Spatial and non-spatial)
+Hosting and Maintenance
+BIESM updating Phase
+
+============================================================
+PAGE 53 (3135 chars)
+============================================================
+Approach and Methodology
+28
+Quality Checking and Testing
+Rigorous data accuracy checks will be conducted throughout the process to minimize errors. Unit 
+testing is performed on software components to ensure functionality before full integration. Black box 
+testing assesses the software's functionality from a user's perspective by inputting data and verifying 
+outputs, while white box testing delves into the software's internal structure (code) to identify 
+potential errors or vulnerabilities. 
+Hosting and maintenance
+The updated database and software will be deployed to the live server, ensuring all dependencies are 
+properly managed. Regular backups will be created to safeguard against data loss, and ongoing 
+upgrades are planned to accommodate technological advancements or new data collection efforts. 
+Security measures will also be implemented to prevent unauthorized access and data breaches.
+3.2.3 Reporting Phase
+Inception Report
+As partial fulfilment of the ToR, CEGIS has prepared an Inception Report (this report) and delivered it 
+to BADC. The Inception Report describes the objectives, scope of work, methodology, implementation 
+plan and schedule, delivery plan, resources to be utilized and work progress.
+Draft Report
+The draft final report integrated all collected data and analytical results to provide comprehensive 
+insights into various aspects of irrigation. It covered irrigation metrics like inter-administrative area, 
+net cultivated area, irrigated area, groundwater and surface water usage, detailing the numbers and 
+types of irrigation equipment, power sources, and the number of benefiting farmers at the upazila, 
+district, division, and national levels. Visualizations like maps and graphs has illustrated the 
+distribution and location of minor irrigation equipment, groundwater zoning, salinity patterns, 
+potential surface water areas, and groundwater stress areas. Expert input from all team members has 
+been incorporated to refine and enhance the draft “Minor Irrigation Survey Report 2023-24”. 
+Additionally, these analyses has utilized to update the BIESM software's database, ensuring the 
+system's continued effectiveness.
+Capacity Building and Seminar
+A day-long program with two key components will facilitate this goal: capacity building and a 
+validation seminar. The capacity building component will consist of a 3-hour in-class training session 
+in the first session for all BADC Executive Engineers, focusing on the effective use of BIESM software. 
+This training will cover user guidelines for efficient data entry, search functionality, data analysis by 
+different administrative area and information retrieval. Following the training, a validation seminar 
+will be held at the same venue. In collaboration with the Project Director, participants will be selected 
+from BADC, BMDA, DAE, and other relevant irrigation organizations. During the seminar, the draft 
+final "Minor Irrigation Survey Report 2023-24" will be presented, and participant feedback will be 
+incorporated into the final report to ensure its accuracy and relevance.
+
+============================================================
+PAGE 54 (584 chars)
+============================================================
+Approach and Methodology
+29
+Final Report
+This is the final stage of the project, where the comments and suggestions of the project director and 
+seminar participant will be incorporated in the final report. In this stage, a full-length final report will 
+be submitted to the client (BADC) which includes a finalized database and all required documents for 
+the annual report. This report will be published as “Minor Irrigation Survey Report 2023-24”.
+Printing and publication
+Printing of 400 copies of the final “Minor Irrigation Survey Report 2023-24” for submission to BADC. 
+
+============================================================
+PAGE 55 (28 chars)
+============================================================
+Approach and Methodology
+30
+
+============================================================
+PAGE 56 (3686 chars)
+============================================================
+Irrigation Water Availability/Irrigation Water Potential
+31
+4. Irrigation Water Availability/Irrigation Water Potential
+4.1 Groundwater Zoning
+The groundwater zoning map is a crucial tool for the sustainable management, use, and protection of 
+groundwater resources by visually representing the depth of the water table in a specific area. This 
+map illustrates the distance from the ground level to the water table, indicating regions where 
+groundwater extraction may be in suction, critical, or force mode. Typically, it uses color-coding or 
+contour lines to show different depth ranges, making it easier to understand the groundwater 
+availability across the country or hydrological regions.
+The groundwater zoning map is invaluable for the sustainable management and protection of 
+groundwater, particularly in areas such as agriculture, irrigation planning and environmental 
+conservation. This map plays a vital role in Bangladesh, where approximately 72% of irrigation 
+depends on groundwater. It enables the identification of areas with declining water tables, allowing 
+authorities to implement measures that prevent over-exploitation, ensuring long-term groundwater 
+availability and water security. This sustainable approach helps prevent depletion and potential 
+conflicts over water use.
+The groundwater zoning map is essential for monitoring groundwater table fluctuations over time 
+and identifying over-extraction prone and potential recharge areas. It guides the optimal placement 
+of wells and pumps, promotes sustainable irrigation practices, and selects suitable cropping patterns 
+based on water availability. Additionally, this map helps identify safer depths for water extraction, 
+reducing the risk of arsenic exposure in drinking water and highlighting regions vulnerable to 
+saltwater intrusion. Government agencies and policymakers can utilize this map to make informed 
+decisions about water resource management, land use planning, and environmental protection, 
+providing critical data for developing policies aimed at sustainable development.
+The Bangladesh Agricultural Development Corporation has installed a nationwide network of real￾time online groundwater monitoring systems, utilizing data from 460 groundwater observation wells 
+since 2020. This system measures static groundwater levels and water quality through automated 
+data loggers. The groundwater zoning map (2023) was developed using the highest static water level 
+depth recorded in 2023. The Spatial Analyst tool in Geographic Information Systems (GIS) software 
+(ArcGIS) has been utilized to create the raster surface. 
+Based on the irrigation equipment used in Bangladesh, the groundwater extraction zone can be 
+classified into three categories. 
+• Safe Zones (< 7.6 m): This zone is characterized by shallow groundwater with a depth of less 
+than 7.6 meters round the year, which is easily accessible for extraction. 
+• Critical Zones (7.61 m - 11.3 m): In this zone, groundwater is found at a moderate depth of 
+7.61 to 11.3 meters in particular period of the year, requiring the use of deep-set shallow 
+tubewells (STWs) for irrigation. 
+• Force mode Zones (> 11.31 m): This zone represents areas with deep groundwater tables 
+exceeding 11.31 meters round the year, where submersible or vertical turbine pumps are 
+required for pumping.
+The Safe Zone is highly favorable for irrigation due to the shallow water table, which makes water 
+extraction relatively easy and cost-effective, mainly through Shallow Tubewells (STWs). The practical 
+suction limit for centrifugal pumps, commonly used in Bangladesh, is typically around 7.6 meters. 
+
+============================================================
+PAGE 57 (3789 chars)
+============================================================
+Irrigation Water Availability/Irrigation Water Potential
+32
+Beyond this depth, specialized pumps or alternative technologies are required for lifting water, 
+potentially leading to increased irrigation costs. This readily accessible water source has significantly 
+contributed to agriculture in Bangladesh, particularly during the dry seasons when surface water 
+availability is limited. 
+✓ In 2023-24, approximately 1.479 million Shallow Tubewells (STWs) irrigated 30.86 million 
+hectares (53.49%) of the total irrigated area from the Safe Zone in Bangladesh, accounting for 
+about 74.22% of the total groundwater usage for irrigation;
+✓ The quality of groundwater is generally suitable for irrigation, except in coastal regions where 
+salinity poses a significant challenge;
+✓ Around 75% of the Northwest, 65% of the North Central, 73% of the Northeast, and 85% of 
+the Southeast hydrological regions are covered by safe zones for groundwater irrigation;
+✓ Approximately 90% of the Southwest, 95% of the South Central, and 75% of the Eastern Hill 
+hydrological regions are covered by safe zones for groundwater irrigation. However, about 
+1.28 million hectares, primarily in these regions, are unsuitable for irrigation due to 
+groundwater salinity levels reaching up to 3000 µS/cm. The areas affected by groundwater 
+salinity include the major parts of Satkhira, Khulna, Bagerhat, Pirojpur, Barguna, Patuakhali, 
+Bhola, Noakhali, Feni, Chittagong, and Cox's Bazar;
+✓ The groundwater Safe Zones offer significant advantages for irrigation in Bangladesh; 
+however, its long-term viability relies on promoting efficient irrigation practices and 
+implementing effective groundwater management policies. Over-extraction due to ease of 
+access can deplete the water table, potentially transforming these areas into Critical Zones 
+over time; 
+✓ Shallow aquifers are also more susceptible to contamination from surface pollutants, 
+impacting water quality and posing health risks; 
+✓ Moreover, excessive groundwater extraction in coastal areas can lead to saltwater intrusion, 
+making the water unusable for irrigation;
+✓ This area needs continuous monitoring of groundwater level and quality, 
+The Critical Zone for groundwater irrigation in Bangladesh is characterized by a moderate 
+groundwater depth, which presents a more challenging for irrigation compared to the Safe Zones. In 
+these areas, the water table typically ranges between 7.61 meters and 11.3 meters in a particular 
+period of year, requiring the use of more specialized equipment, such as deep-set shallow tubewells 
+(STWs), for effective groundwater extraction. The depth of the groundwater in this zone fluctuates 
+seasonally, remaining within the suction limit during the months of December to March, which allows 
+for relatively easier access. However, from April to May, the groundwater table often drops beyond 
+the suction limit, making it increasingly difficult to extract water and necessitating additional energy 
+and irrigation cost.
+• The Critical Zone is not uniformly distributed across Bangladesh but is concentrated in 
+specific hydrological regions. Approximately 15% of the North West and 12% of the North 
+Central agricultural land falls within this zone. These areas are significant for agricultural 
+production, particularly for the cultivation of Boro rice, which is a staple crop in Bangladesh.
+• This zone encompasses about 19% of the total irrigated area in the country, which is about 
+0.1 million hectares dedicated to Boro rice cultivation. This substantial portion of irrigated 
+land underscores the importance of managing the Critical Zone effectively to ensure the 
+sustainability of rice production, which is vital for the country's food security.
+
+============================================================
+PAGE 58 (2509 chars)
+============================================================
+Irrigation Water Availability/Irrigation Water Potential
+33
+• Despite the challenges associated with groundwater extraction in the Critical Zone, the quality 
+of irrigation water in these areas is generally considered feasible for agricultural use.
+• The moderate depth of the water table in the Critical Zone presents several challenges, 
+particularly in terms of energy consumption and the long-term sustainability of irrigation 
+practices. The deeper water table requires more energy to pump water, leading to increased 
+operational costs for farmers. Additionally, the seasonal fluctuation in groundwater levels 
+exacerbates these challenges, making it difficult to maintain consistent irrigation practices 
+throughout the year.
+The Force Mode zone represent the most significant challenges for groundwater extraction, with 
+water tables deeper than 11.31 meters. In these areas, submersible pumps and vertical turbine pumps 
+are required to pump water from such considerable depths. The Deep tubewell (DTW) irrigation is 
+vital for supporting agricultural production in Bangladesh, particularly in regions where surface water 
+is scarce. However, this method demands high energy consumption to pump water from these depths, 
+leading to increased operational costs that can burden smallholder farmers. Over-extraction of 
+groundwater is another critical concern, as it can cause a rapid decline in water tables, threatening 
+the sustainability of irrigation and leading to long-term environmental consequences. Besides, the 
+significant fluctuation in groundwater levels, particularly during the dry season, creates water stress 
+for the Boro crop, adversely impacting agricultural productivity.
+• In 2023-24, approximately 34,040 Deep Tubewells (DTWs) irrigated 10.48 million hectares 
+(18.16%) of the total irrigated area from the Force mode Zone in Bangladesh, which is about 
+25.21% of the total groundwater usage for irrigation;
+• The Force Mode zone primarily covers the North West and North Central hydrological regions 
+of Bangladesh. This zone includes major parts of Rajshahi, Naogaon, Chapai Nawabganj, and 
+some parts of the Pabna district in the North West hydrological region. Additionally, it 
+includes significant portions of Mymensingh, Tangail, Gazipur, Sherpur, Narshindi, 
+Kishoreganj, Netrakona, and Dhaka district in the North Central hydrological region.
+• In the Force Mode zone, the overall irrigation cost is higher than in other parts of the country.
+
+============================================================
+PAGE 59 (103 chars)
+============================================================
+Irrigation Water Availability/Irrigation Water Potential
+34
+Figure 4.1: Ground Water Zoning Map, 2023
+
+============================================================
+PAGE 60 (4096 chars)
+============================================================
+Irrigation Water Availability/Irrigation Water Potential
+35
+4.2 Groundwater quality
+Salinity poses a significant threat to agriculture and irrigation in Bangladesh, particularly in coastal 
+regions. This issue is driven by factors such as tidal water intrusion, sea-level rise, and reduced 
+upstream freshwater flow during the dry season, which are further exacerbated by anthropogenic 
+activities. Coastal areas experience severe salinization, which significantly hampers agricultural 
+productivity. The increased concentration of salts in soil and water sources hinders crop growth and 
+reduces yields, impacting staple crops like rice, wheat, maize, and vegetables (Haque & Rahman, 
+2023). Due to these adverse conditions, farmers are compelled to switch to salt-tolerant crops, such 
+as certain rice varieties, sunflower, and watermelon, as traditional crops struggle to thrive under high 
+salinity levels (Mondal et al., 2019).
+Moreover, using saline water for irrigation leads to the gradual accumulation of salt in soils, 
+deteriorating soil structure and reducing plants' water uptake efficiency, lowering crop yields and 
+posing a significant threat to sustainable agriculture in these regions (Haque et al., 2020). Additionally, 
+salinity intrusion limits the freshwater availability for irrigation, thereby intensifying water scarcity 
+and compounding the detrimental effects on agricultural productivity (CCC, 2010). The complexity of 
+this challenge is amplified by the demand for irrigation water, which is significantly influenced by both 
+the extent of salinity intrusion in surface water and the accumulation of salt within the soil's root zone 
+(Gowing & Islam, 2015).
+The BADC has installed 760 ICT-based groundwater monitoring wells throughout the country. Of 
+these, 60 are nested wells (clusters of 5 wells at a single location) specifically placed in saline zones to 
+monitor salinity levels at various depths. Groundwater salinity data were collected from 37 of these 
+nested wells at a depth of 100 meters from January 2023 to December 2023, and the yearly maximum 
+salinity event was analyzed. The Spatial Analyst tool in ArcGIS was used to generate salinity raster 
+grids/surfaces and visualize the spatial distribution of groundwater salinity levels in the coastal 
+region.
+Ayers and Westcot (FAO, 1985) conducted a comprehensive review of water quality data for irrigation 
+and subsequently developed practical guidelines to evaluate its suitability. These guidelines provide 
+a preliminary assessment of key water quality factors, such as salinity and specific ion toxicity, which 
+can significantly impact both irrigation practices and crop production. The author specifies that water 
+with an electrical conductivity (EC) exceeding 3000 µS/cm faces severe restrictions in its usability for 
+irrigation, as high salinity levels can hinder water uptake by plants, leading to reduced growth, lower 
+yields, and potential soil degradation. Based on the literature and existing irrigation practices, the 
+following salinity classification has been established:
+1. None (<1200 µS/cm) - No restrictions for irrigation.
+2. Moderate (1200 µS/cm to 3000 µS/cm) - Limited use, with slight yield reduction possible.
+3. Severe (>3000 µS/cm) - High restrictions, leading to significant adverse effects on crop 
+growth.
+The map illustrating groundwater salinity distribution reveals that, excluding the Sundarbans, salinity 
+is prevalent across 19 coastal districts of Bangladesh, encompassing approximately 43,245 sq km. 
+Approximately 7% of the area exhibits groundwater salinity levels below 1200 µS/cm, indicating 
+suitability for irrigation.
+Moderate salinity levels (1200 to 3000 µS/cm) are found in approximately 38% of the area, primarily 
+in parts of Jashore, Narail, Gopalganj, Shariatpur, Chandpur, Lakshmipur, Barisal, Pirojpur, and 
+Jhalokathi districts. In these moderately saline regions, slight yield reductions can occur as salinity 
+affects crop water absorption, leading to stunted growth and reduced productivity.
+
+============================================================
+PAGE 61 (2423 chars)
+============================================================
+Irrigation Water Availability/Irrigation Water Potential
+36
+Figure 4.2: Salinity Affected Area
+Severe salinity-prone areas, covering about 55% of the coastal districts, extend across major parts of 
+Satkhira, Khulna, Bagerhat, Barguna, Patuakhali, Bhola, Noakhali, Feni, Laksmipur, Chattogram, and 
+Cox's Bazar. In these regions, groundwater salinity levels exceed 3000 µS/cm, severely affecting crop 
+growth. The high salt concentration in irrigation water leads to salt accumulation in the soil, disrupting 
+its structure and reducing its permeability. This makes it difficult for roots to absorb water and 
+nutrients, resulting in stunted growth, lower yields, and reduced crop quality. Furthermore, 
+prolonged exposure to saline water can degrade the soil and decrease its fertility.
+Traditional staple crops (rice, wheat, maize, and vegetables) are particularly vulnerable to high 
+salinity, especially during the critical ripening stage. Consequently, farmers have adopted cultivation 
+strategies that prioritize salt-tolerant rice varieties and less water-intensive crops like pulses, 
+watermelon, sunflower, and groundnuts. These adaptations enhance resilience to salinity stress and 
+reduce reliance on irrigation, often supplemented by manually sourcing from canals and ponds. 
+However, even with salt-tolerant varieties, farmers experience lower-than-expected yields, as salinity 
+affects the critical phases of crop development, such as flowering and grain filling.
+Beyond its direct impact on crops, salinity presents challenges for irrigation infrastructure. The use 
+of saline water for irrigation exacerbates soil salinization and accelerates the corrosion of equipment 
+and drainage structures, increasing maintenance costs and reducing operational efficiency. The 
+scarcity of freshwater necessitates the implementation of alternative irrigation strategies, including 
+drip, sprinkler, rainwater harvesting, canal and pond re-excavation and efficient water management 
+practices.
+The consequences of salinity are profound for coastal communities in Bangladesh. Reduced 
+agricultural yields lead to lower incomes and economic hardship. The increased labor and costs 
+associated with managing salinity add to their burden. Farmers face the added pressure of investing 
+in costly salt-tolerant seeds and adapting traditional farming practices, often with limited economic 
+returns. 
+
+============================================================
+PAGE 62 (99 chars)
+============================================================
+Irrigation Water Availability/Irrigation Water Potential
+37
+Figure 4.3: Ground water Salinity Map
+
+============================================================
+PAGE 63 (60 chars)
+============================================================
+Irrigation Water Availability/Irrigation Water Potential
+38
+
+============================================================
+PAGE 64 (3028 chars)
+============================================================
+39
+5. Irrigation Status Report 2023-24
+The practice of artificially watering crops with the use of canals, pipes, sprinklers, or any other man￾made infrastructure, rather than to only relying on rainfall, is known as irrigation 
+(www.studysmarter.co.uk). When there isn't enough water for plant growth, irrigation is usually 
+necessary. This can be because of drought, seasonal rainfall, or other climatic factors. Even regions 
+with moderate rainfall can benefit from irrigation in order to maintain stable soil moisture levels. 
+Given that climate change and global warming are still big problems and will alter worldwide rainfall 
+patterns, irrigation's importance in agriculture and food production is probably only going to increase.
+A minor irrigation system is made up of non-mechanized, semi-mechanized, and mechanized 
+irrigation systems. The non-mechanized irrigation systems include conventional systems like swing 
+baskets and doans. The category of semi-mechanized irrigation systems includes gravity flow systems 
+and manually operated pumps like hand tube wells, treadle pumps, artesian wells, etc.; mechanized 
+irrigation systems include low lift pumps, shallow and deep tube wells, solar pumps, floating pump 
+and rubber dams. Mechanized systems mostly used solar, electricity, or diesel power for irrigation 
+equipment. 
+In 1961, BADC began its irrigation operations, fielding 1555 Low Lift Pumps. Deep tube wells were 
+later installed in 1967–1968 for irrigation in areas with scare surface water. Similar installations were 
+made for the same reasons in shallow tube wells in 1973–1974, floating pumps in 1987–1988, rubber 
+dam and solar pumps in 2011–2012, and dug wells in 2015–2016. In addition to these techniques, 
+irrigation work is carried out in some parts of the country using gravity flow, conventional methods, 
+manual pumps, and artesian wells. Table 5.1 summarizes irrigation using various modes of surface 
+and groundwater utilization.
+Table 5.1: Surface and Ground water Irrigation by Different Modes in Rabi 2023-24
+SL Methods/Modes of 
+Irrigation
+No of 
+Equipment
+Area 
+Irrigated 
+(ha)
+Percent
+age (%)
+of
+% of 
+Total 
+Irrigated 
+Area
+Area 
+Irrigated per 
+equipment 
+(ha)
+A By Surface water Surface 
+Water
+1 Low Lift pump 207,368 1,350,542 83.82 23.41 6.51
+2 Gravity flow 244,092 15.15 4.23
+3 Traditional method 5,444 0.34 0.09
+4 Solar pump 977 11,125 0.69 0.19 11.39
+Sub Total 208,345 1,611,203 100.00 27.93
+B By Ground water 
+1 Deep tube well 34,040 1,048,042 25.21 18.17 30.79
+2 Shallow tube well 1,479,266 3,085,919 74.22 53.49 2.09
+3 Manual & Artesian Well 6,303 0.15 0.11
+4 Solar Pump 2,151 16,688 0.40 0.29 7.76
+5 Dug Well 930 1,118 0.03 0.02 1.20
+Sub Total 1,516,387 4,158,070 100.00 72.07
+Grand Total 1,724,732 5,769,273 100.00
+From Table 5.1, it is revealed that during the Rabi 2023-24, total 17,24,732 numbers of irrigation 
+equipment's are used for irrigation in the country which is 0.17% higher than that of 2022-23 Rabi 
+
+============================================================
+PAGE 65 (1023 chars)
+============================================================
+Irrigation Status Report 2023-24
+40
+season in which 17,21,834 nos. of irrigation equipment were operated. On the other hand, irrigated 
+area was 5.77 million ha in Rabi 2023-24 which is also 0.36 % higher than that of 2022-2023 Rabi 
+season irrigated area was 5.75 million hectares. Out of total 5.77 million hectares irrigated area, 5.48 
+million ha irrigated by DTW, STW & LLP and 0.28 million ha irrigated by Manual and Artesian well, 
+traditional method, gravity flow, solar pump and dug well. Out of total 5.77 million ha Irrigated area 
+4.16 million ha through the utilization of groundwater i.e. 72.07% of total Irrigated area and 1.61 
+million ha through utilization of surface water i.e. 27.93% of total Irrigated area.
+The groundwater and surface water irrigated area are shown in Figure 5.1.
+Figure 5.1: Source wise Irrigated Area (ha) in Rabi 2023-24
+Distribution of irrigated area during the Rabi 2023-24 is shown in Figure 5.2.
+Figure 5.2: Area Covered by Different Irrigation Mode in Rabi 2023-24
+
+============================================================
+PAGE 66 (685 chars)
+============================================================
+Irrigation Status Report 2023-24
+41
+Distribution of irrigation equipment's used during Rabi 2023-24 is shown in bellows￾Table 5.2: Division-wise irrigation equipment used in Rabi 2023-24
+Name of Division
+Nos. of Irrigation equipment in Rabi 2023-24
+DTW STW LLP Solar Dug Well Total
+Dhaka 2,145 208548 25,951 152 25 236,821
+Mymensingh 4,115 184,935 12,439 83 61 201,633
+Rajshahi 15,030 307,366 12,880 617 632 336,525
+Rangpur 7,904 391,042 2,648 1,319 77 402,990
+Chattogram 1,561 80,423 47,063 256 42 129,345
+Khulna 3,116 281,473 33,075 579 91 318,334
+Sylhet 169 25,322 46,365 56 2 71,914
+Barishal - 157 26,947 66 - 27,170
+Total 34,040 1,479,266 207,368 3,128 930 1,724,732
+
+============================================================
+PAGE 67 (106 chars)
+============================================================
+Irrigation Status Report 2023-24
+42
+Figure 5.3: Distribution of minor irrigation equipment in Bangladesh
+
+============================================================
+PAGE 68 (519 chars)
+============================================================
+Irrigation Status Report 2023-24
+43
+Figure 5.4: Division wise Irrigation Equipment in Rabi 2023-24
+Distribution of irrigation area during Rabi 2023-24 are shown bellows￾Table 5.3: Division wise Irrigated Area (ha) in Rabi 2023-24.
+Division
+Irrigation Year 2023-24
+Irrigated Area (ha) % of Total Area
+Dhaka 765,153 13.26
+Mymensingh 619,777 10.74
+Rajshahi 1,214,341 21.05
+Rangpur 1,081,714 18.75
+Chattogram 651,736 11.30
+Khulna 784,943 13.61
+Sylhet 425,902 7.38
+Barishal 225,706 3.91
+Total 5,769,273 100.00
+
+============================================================
+PAGE 69 (99 chars)
+============================================================
+Irrigation Status Report 2023-24
+44
+Figure 5.5: Division wise Irrigated Area (ha) in Rabi 2023-24
+
+============================================================
+PAGE 70 (114 chars)
+============================================================
+Irrigation Status Report 2023-24
+45
+Figure 5.6: Net Cultivated Area, Total Irrigated Area and Non-irrigated Area 
+
+============================================================
+PAGE 71 (3428 chars)
+============================================================
+Irrigation Status Report 2023-24
+46
+5.1 Surface water
+In Bangladesh, surface water, sourced mainly from rivers, creeks, and reservoirs, is vital for irrigation. 
+Although, abundant in the rainy season, it become scarce in the dry period. To enhance surface water 
+availability, the government of Bangladesh has initiated multiple projects through agencies like the 
+Bangladesh Agricultural Development Corporation (BADC), the Bangladesh Water Development 
+Board (BWDB), and the Barind Multipurpose Development Authority (BMDA). These projects 
+encompass canal excavation, river dredging, and rubber dam construction. While groundwater 
+remains the prevalent source for farmers, surface water irrigation contributes to 27.93% of the total 
+irrigated land during the Rabi season. The South-Central, South-East, and North-East hydrological 
+zones, primarily in the Barishal, Chattogram, and Sylhet divisions, experience the most frequent use 
+of surface water. Barishal and parts of the Chattogram division act as the major discharge points for 
+the Ganges-Brahmaputra-Meghna (GBM) basin which ensure fresh water for Rabi season irrigation. 
+The Eastern hill hydrological zones also offer abundant fresh surface water for agricultural purposes 
+in rivers and estuaries.
+Surface water irrigation is less expensive and crop friendly than groundwater. Currently, diesel engine 
+is used for operation of 88.86% of LLPs. BADC and BMDA fielded 2-5 cusec LLP to farmers for surface 
+water irrigation. Moreover, floating irrigation pump is also supplied by BADC to double-lifting 
+irrigation schemes. Seventy-three numbers Rubber dam/ Hydraulic elevator dam are constructed by 
+BADC, BMDA, BWDB, LGED in perennial rivers and creeks to make available surface water for 
+irrigation. Besides this, excavation/ re-excavation of canal is done by the government to increase 
+surface water availability. By increasing the availability of electricity, this cost might be further 
+reduced. Diesel pumps usually have higher costs and lower water extraction capacity than electric. 
+But despite subsidies on electricity, some cases diesel pumps are preferred by farmers due to low 
+capital costs and mobility ease within small and fragmented farm lands. 
+Surface water irrigation requires less amounts of energy than ground water. In the Rabi season 2023-
+24 about 184265 LLPs are diesel operated; the rest 23103 are electrically operated. In the South￾central and North-east, diesel operated LLPs are used primarily for irrigating Boro rice, and partially 
+for supplementary irrigation to T. Aman, Aus and other crops. Division-wise irrigated area (ha) of 
+different method of surface water irrigation in the Rabi Season is shown in the Table 5.4.
+Table 5.4: Area irrigated by Surface water in eight divisions of Bangladesh, Rabi 2023-24
+Name of 
+Division
+Irrigated Area (ha) 
+by LLP
+Irrigated Area (ha) 
+by Traditional 
+Method
+Irrigated 
+Area (ha) by 
+Gravity Flow
+Irrigated 
+Area (ha) 
+by Solar
+Total 
+Irrigated 
+Area (ha)
+Dhaka 227,443 1,387 10,312 1,639 240,781
+Mymensingh 114,336 502 7,028 847 122,713
+Rajshahi 85,848 76 2,970 5,501 94,395
+Rangpur 30,448 233 16,420 10,997 58,098
+Chittagong 321,634 1,472 62,499 2,688 388,293
+Khulna 122,471 701 38,248 4,866 166,286
+Sylhet 269,656 709 61,767 601 332,733
+Barishal 178,705 364 44,848 674 224,591
+Total 1,350,542 5444 244,092 27,813 1,627,891
+
+============================================================
+PAGE 72 (111 chars)
+============================================================
+Irrigation Status Report 2023-24
+47
+Figure 5.7: Division wise Area Irrigated by Surface Water in Rabi 2023-24
+
+============================================================
+PAGE 73 (81 chars)
+============================================================
+Irrigation Status Report 2023-24
+48
+Figure 5.8: Irrigated Area by Surface Water
+
+============================================================
+PAGE 74 (959 chars)
+============================================================
+Irrigation Status Report 2023-24
+49
+5.1.1 Low lift Pump
+A Low Lift Pump (LLP) is one in which water is lifted between two open water surfaces through a 
+pump total head up to about 10m. Pump is coupled with an electrical or diesel-driven power source. 
+Mostly centrifugal pump is used for LLP with a capacity of 14-140 L/sec. In 2023-24, about 207368 
+nos. of LLP were operated for irrigation purpose and 1.35 million ha irrigated which is 23.41% of total 
+irrigated area. Of the 207368 LLPs, 9481 were operated by BADC and 638 by BMDA under various 
+projects, irrigating 232207 ha and 16524 ha of land, respectively. Division wise irrigated areas in Rabi 
+2023-24 are shown in Table 5.4.
+Figure 5.9: LLP with Buried Pipe, Sadar 
+Upazila, Manikganj by BADC
+Figure 5.10: Solar LLP at Sonatola Upazila, 
+Bogra by BADC
+Figure 5.11: Solar LLP at Khanshama Upazila, 
+Dinajpur by BADC
+Figure 5.12: Solar LLP at Sadullapur Upazila 
+Gaibandha by BADC
+
+============================================================
+PAGE 75 (371 chars)
+============================================================
+Irrigation Status Report 2023-24
+50
+Figure 5.13: 25 Cusec Floating Pump at Atpara 
+Upazila, Netrokona by BADC
+Figure 5.14: 10 Cusec Floating Pump at 
+Adarsha Sadar Upazila, Cumilla by 
+BADC
+Figure 5.16: Barge Mounted Floating LLP at 
+Godagari Upazila, Rajshahi by BMDA
+Figure 5.17: 5.0 cusec LLP at Sunamganj by 
+BADC
+Figure 5.18: Solar LLP at Rajshahi by BMDA
+
+============================================================
+PAGE 76 (84 chars)
+============================================================
+Irrigation Status Report 2023-24
+51
+Figure 5.19: Distribution of LLP in Bangladesh
+
+============================================================
+PAGE 77 (83 chars)
+============================================================
+Irrigation Status Report 2023-24
+52
+Figure 5.20: Location of LLP with Buried Pipe
+
+============================================================
+PAGE 78 (76 chars)
+============================================================
+Irrigation Status Report 2023-24
+53
+Figure 5.21: Location of Floating Pump
+
+============================================================
+PAGE 79 (655 chars)
+============================================================
+Irrigation Status Report 2023-24
+54
+5.1.2 Rubber Dam
+Rubber Dam is a hydraulic structure usually built to river/creeks perpendicular to flow direction and 
+store surface water for irrigation/ recharge/ salinity control/ recreation/ flood control purpose. A 
+total 73 Rubber Dam is constructed in Bangladesh. These dam ware constructed by LGED, BADC, 
+BWDB and BMDA. 
+Figure 5.22: Kaledha Khal Rubber Dam at 
+Nalchity, Jhalakathi by BADC
+Figure 5.23: Sonai River Rubber Dam at 
+Chatak, Sunamganj by BADC
+Figure 5.24: Mohanpur Rubber Dam at 
+Sadar upazila, Dinajpur by LGED.
+Figure 5.25: Pekua Rubber Dam at Pekua
+Upazila, Cox’s bazar by BWDB.
+
+============================================================
+PAGE 80 (73 chars)
+============================================================
+Irrigation Status Report 2023-24
+55
+Figure 5.26: Location of Rubber Dam
+
+============================================================
+PAGE 81 (858 chars)
+============================================================
+Irrigation Status Report 2023-24
+56
+5.1.3 Gravity Flow Irrigation
+In gravity flow irrigation, a dam, barrage, weir, or other water holding and controlling structure is 
+used to provide water head. Surface water is the main source of gravity flow irrigation, in some part 
+of the country, irrigation carried out by gravity flow through major irrigation projects. This type of 
+irrigation projects mainly implemented and operated by BWDB, LGED and BADC. Some of the irrigated 
+areas under gravity flow are also covered by constracring earthen dam by individual farmers. It has 
+been observed that during 2023-24 irrigation seasons, 244092 ha of land were irrigated by gravity 
+flow method. Division wise irrigated area (ha) by Gravity Flow is shown in Table 5.4.
+Figure 5.27: Gravity flow irrigation at Ashuganj-Polash agro-irrigation project by BADC
+
+============================================================
+PAGE 82 (113 chars)
+============================================================
+Irrigation Status Report 2023-24
+57
+Figure 5.28: Gravity Flow Irrigation at Tista Barrage at Nilphamari by BWDB
+
+============================================================
+PAGE 83 (733 chars)
+============================================================
+Irrigation Status Report 2023-24
+58
+5.1.4 Traditional Irrigation 
+Bangladesh was dependent on traditional means of irrigation, up to 1960s, when irrigation was 
+applied by swing basket, shewty, doan etc. Swing basket or shewty is capable of lifting water up to 3 
+feet approximately and doans up to 5 feet. After introduction of modern irrigation technology, the use 
+of traditional method irrigation is decreasing day by day. During 2023-24 Rabi season, 5444 ha of land 
+has been irrigated by traditional method. Division-wise irrigated area (ha) by Traditional Method in 
+the Rabi Season is shown in the Table 5.4.
+Figure 5.29: Doan Figure 5.30: Swing Basket
+Figure 5.31: Different Types of Traditional Irrigation Methods
+
+============================================================
+PAGE 84 (3638 chars)
+============================================================
+Irrigation Status Report 2023-24
+59
+5.2 Groundwater 
+Bangladesh's shallow (unconfined) and deep (confined, semi-confined) aquifers are the country's 
+sources of groundwater. There are medium sand to gravel in these aquifers. The hydraulic 
+conductivity and storage capacity are sufficient for groundwater withdrawal. wells sinking to a depth 
+of 30 to 180 metres. DTW, STW, hand tubewel and dugwell are the major equipments used for 
+withdraw groundwater. The Rajshahi Division has the highest concentration of deep tube wells 
+(44.15%), followed by Rangpur, Mymensingh, Khulna, and Dhaka Division. Rangpur Division has the 
+highest concentration of STW, followed by Rajshahi, Khulna, Dhaka, and Mymensingh Divisions. About 
+73.86% of the total groundwater is used in four divisions in the North-Central and North-Western 
+hydrological zones i.e. Dhaka, Mymensingh, Rajshahi and Rangpur division. It is probable that 
+groundwater irrigation in the North-West will persist until land limitations or sustainable 
+groundwater withdrawals are accomplished. A sufficient recharge during the five-month monsoon 
+period is necessary for groundwater irrigation during the seven-month dry period. Over the course of 
+the year, irrigation by groundwater accelerate depletion of water table and cause an unsustainable fall 
+in water levels if recharge is not greater than or at least equal to discharge. However, due to increasing 
+groundwater extraction in the former zones, it is discovered that groundwater recharge is higher in 
+the North-West than in the South and North-East, respectively. These regions' farmers have already 
+begun to transition to less water-intensive and more profitable crops including vegetables, wheat, and 
+maize.
+In Bangladesh, diesel engines power almost 70.21% of the pumps. Most of the STW operated by diesel 
+engine, the remaining 28.55% use electricity and 0.24% solar energy. Electric pumps are typically less 
+expensive than diesel ones. However, in certain instances, farmers favour diesel pumps over other 
+types because of their lower initial costs and ease of mobility in tiny, dispersed farmlands, even in the 
+face of power cuts. Farmers' preferences for diesel pumps may also be influenced by the prevalence 
+of power cuts and the generally poor electricity network in many rural locations. The owners of STWs 
+irrigate not just their own land but also those of their neighbors for a set seasonal charge that can be 
+paid in cash or by growing crops.
+Groundwater irrigation requires large amounts of energy to lift water from underlying aquifers. In the 
+Rabi 2023-24 about 33261 DTWs are electrified; the rest 779 are diesel operated. Out of the 1.48 
+million STWs in Bangladesh, only 0.44 million are electrified whereas the remaining 1.04 million are 
+diesel operated. In the North-west, diesel operated STWs are used primarily for irrigating Boro rice, 
+and partially for supplementary irrigation to Aman and Aus rice and other crops. Since there is little 
+genetic and agronomic potential to boost rice yield, rising irrigation costs will lower farmers' net 
+profits.
+During the Rabi 2023-24, DTWs and STWs covered irrigated area were 1.05 million ha and 3.09
+million ha respectively. In the previous Rabi season 2022-243, total of 1.05 million DTWs and STWs 
+were in operation and 3.08 million ha land were irrigated. Deep Tube Well contributed 18.17% and 
+Shallow Tube Well is contributed 53.48% of the total area irrigated during Rabi 2023-24. Division￾wise Irrigation by DTWs & STWs is shown in Table 5.5 along with graphical representation in Figure 
+23.
+
+============================================================
+PAGE 85 (597 chars)
+============================================================
+Irrigation Status Report 2023-24
+60
+Table 5.5: Area Irrigated by DTWs and STWs in Eight Divisions of Bangladesh, 2023-24
+Division
+Irrigation Year 2023-24
+Area Irrigated (ha) by 
+DTW
+Area Irrigated (ha) by 
+STW
+Total Irrigated 
+Area (ha)
+Dhaka 63,890 459,335 523,225
+Mymensingh 134,194 362,493 496,687
+Rajshahi 488,895 630,097 1,118,992
+Rangpur 240,360 782,975 1,023,335
+Chattogram 46,156 216,484 262,640
+Khulna 69,379 548,452 617,831
+Sylhet 5,168 85,677 90,845
+Barishal - 406 406
+Total 1,048,042 3,085,919 4,133,961
+Figure 5.32: Area irrigated by DTWs and STWs in Rabi, 2023-24
+
+============================================================
+PAGE 86 (80 chars)
+============================================================
+Irrigation Status Report 2023-24
+61
+Figure 5.33: Irrigated Area by Groundwater
+
+============================================================
+PAGE 87 (1299 chars)
+============================================================
+Irrigation Status Report 2023-24
+62
+5.2.1 Deep Tubewell
+Well with electricity or diesel driven pump lifts water from aquifer. Deep Tubewells (DTW) are of 
+large well diameter (15.24-20.32 cm) and pumped water by a submersible turbine pump having 
+capacity 20-56 L/sec mostly. DTWs are called deep wells not because of large depth but because of 
+the type of pump (force mode) used, the capacity of the well and position of groundwater table (>7.0 
+m). 
+Total 34040 number of Deep Tubewells are operated in 2023-24 Rabi season for irrigation in 
+agricultural land. About 1.05 million ha of land is irrigated by Deep Tubewell, which is 25.21 percent 
+of ground water irrigation and 18.17 percent of total irrigated area of Bangladesh. The average 
+irrigated area coverage of DTW is 30.79 ha. Irrigation by deep tubewells decreasing because many 
+DTWs are installed in the decade of seventy-eighty with 80’ housing pipe. Those became technically 
+unfit for lift water due to depletion of groundwater level. Details of irrigated area of Deep Tubewells 
+are presented in Table 5.5 and Figure 23.
+Figure 5.34: BADC Deep Tubewell at Lakhai
+Upazila, Habiganj
+Figure 5.35: BADC Deep Tubewell at 
+Damurhuda Upazila, Chuadanga
+Figure5.36: BADC Solar Deep Tubewell at Derai Upazila, Sunamganj
+
+============================================================
+PAGE 88 (372 chars)
+============================================================
+Irrigation Status Report 2023-24
+63
+Figure 5.37: BADC Deep Tubewell at Lakhai 
+Upazila, Habiganj
+Figure 5.38: BMDA DTW in Baliadangi 
+Upazila, Thakurgaon
+Figure 5.39: BMDA DTW at Tanor Upazila, 
+Rajshahi
+Figure 5.40: Private DTW at Sherpur
+Upazila, Bogra
+Figure 5.41: BMDA Solar DTW at Joypurhat 
+District
+Figure 5.42: Solar DTW at Birampur Upazila, 
+Dinajpur
+
+============================================================
+PAGE 89 (84 chars)
+============================================================
+Irrigation Status Report 2023-24
+64
+Figure 5.43: Distribution of DTW in Bangladesh
+
+============================================================
+PAGE 90 (76 chars)
+============================================================
+Irrigation Status Report 2023-24
+65
+Figure 5.44: Location of Deep Tubewell
+
+============================================================
+PAGE 91 (1136 chars)
+============================================================
+Irrigation Status Report 2023-24
+66
+5.2.2 Shallow Tubewell
+Shallow tubewell (STW), mostly used for irrigation have 5.08-10.16 cm well diameter with a capacity 
+of 10-21 liter/sec and abstract water from aquifer with the help of land based electrical/ diesel driven 
+centrifuged pump when groundwater table lies within 7.0 m from ground surface. A total of 1.48 
+million shallow tubewells are operated in rabi season of 2023-2024. The irrigated area of shallow 
+tubewell was about 3.09 million ha, 2.09 ha average per STW. About 74.22 percent of ground water 
+irrigation is covered with Shallow Tubewells, which is 53.49 percent of total irrigated area of 
+Bangladesh. Division-wise irrigated area coverage of STW is presented in Table 5.5 and Figure 23.
+Figure 5.45: Shallow Tubewell at 
+Hossainpur Upazila, Kishoreganj
+Figure 5.46: Electrified Shallow Tubewell at 
+Sadar Upazila, Mymenshigh
+Figure 5.47: Shallow Tubewell (pit) at
+Patnitola Upazila, Naogaon
+Figure 5.48: Shallow Tubewell with Fita pipe 
+at Sadar Upazila, C. Nawabganj
+Figure 4.49: Portable Solar system for STW operated by BADC at Char area of Rangpur
+
+============================================================
+PAGE 92 (84 chars)
+============================================================
+Irrigation Status Report 2023-24
+67
+Figure 5.50: Distribution of STW in Bangladesh
+
+============================================================
+PAGE 93 (933 chars)
+============================================================
+Irrigation Status Report 2023-24
+68
+5.2.3 Dug well
+Dug well is a well for lift water, constructed by excavating a large-diameter (mostly 122-132 cm) 
+and installing a casing with opening. Water pumped from the well by an electrically operated 
+submersible pump. Rain water is harvested and stored in dug well by a funnel-type structure with 
+solar panel placed on the upper face of the structure. In recent years, dug well irrigation is becoming 
+popular adoptive options in the water-scarce areas especially in Barind Tract, hilly and vegetable 
+growing areas. A total of 930 Dug wells are operated in rabi season of 2023-2024.
+Figure 5.51: BADC Solar operated Dug well 
+at Gangni Upazila, Meherpur
+Figure 5.52: BADC Solar operated Dug well 
+at Pakundia Upazila, Kishoreganj.
+Figure 5.53: BADC Solar operated Dug well 
+at Alamdanga, Chuadanga.
+Figure 5.54: BMDA Solar operated Dug well 
+at Bagatipara Upazila, Natore
+
+============================================================
+PAGE 94 (71 chars)
+============================================================
+Irrigation Status Report 2023-24
+69
+Figure 5.55: Location of Dug Well
+
+============================================================
+PAGE 95 (510 chars)
+============================================================
+Irrigation Status Report 2023-24
+70
+5.2.4 Manually Operated Pump in well
+Manual irrigation systems are easy to handle, require no technical equipment and are therefore 
+generally cheap. But these types of pumps need high labor inputs. A common and very simple 
+technique for manual irrigation is Treadle pump, Diaphragm Pump, and Hand Pump etc. These types 
+of pump mainly used for low water demand crops in small farm land. 
+Figure 5.56: Treadle Pump Figure 5.57: Diaphragm Pump
+Figure 5.58: Hand Pump
+
+============================================================
+PAGE 96 (1003 chars)
+============================================================
+Irrigation Status Report 2023-24
+71
+5.2.5 Artesian well
+A water table higher than the well ensures water pressure will consistently force water from an 
+artesian aquifer. An artesian aquifer is an underground layer which holds groundwater under 
+pressure. This causes the water level in the well to rise to a point where the pressure is equal to the 
+weight of water putting it under pressure. Water may even reach the ground surface if the natural 
+pressure is high enough, in which case the well Is called a flowing artesian well. An aquifer is a geologic 
+layer which can hold water such as sand and gravel, limestone, or sandstone, through which water 
+flows and is stored. An artesian aquifer is trapped between rocks or clay which causes pressure. Water 
+returns to the aquifers when the water table at Its recharge zone is at a higher elevation than the head 
+of the well.
+Figure 5.59: Artesian well, BADC Figure 5.60: Artesian well, Private 
+Figure 5.61: Diagram of Artesian Aquifer
+
+============================================================
+PAGE 97 (1502 chars)
+============================================================
+Irrigation Status Report 2023-24
+72
+5.3 Power Source
+During the 2023-24 Rabi season, 1720674 number of power operated irrigation equipment are used 
+all over the country. Power-operated equipment's are operated either by diesel or electricity. Recently 
+solar energy is used to generate electricity to operate the small capacity irrigation pumps. A total of 
+4058 solar-powered equipment was found, including Dug-well 930. The survey has been made to 
+determine number of diesel or electricity-operated various types of equipment's used all over the 
+country. Irrigation equipment based on Power Source are shown in Table 5.6 and graphical 
+presentation in Figure 58
+Table 5.6: Division Wise Irrigation Equipment and Irrigated Area based on Power Source 
+Division
+Electric Diesel Total
+Number Area (ha) Number Area (ha) Number Area (ha)
+Dhaka 85,604 344,440 151,040 406,228 236,644 750,668 
+Mymensingh 75,316 309,222 126,173 301,801 201,489 611,023 
+Rajshahi 108,387 769,534 226,889 435,306 335,276 1,204,840 
+Rangpur 114,230 507,966 287,364 545,817 401,594 1,053,783 
+Chittagong 46,456 285,260 82,591 299,014 129,047 584,274 
+Khulna 49,524 227,089 268,140 513,214 317,664 740,303 
+Sylhet 11,261 61,014 60,595 299,487 71,856 360,501 
+Barishal 1,702 21,191 25,402 157,920 27,104 179,111 
+Total 492,480 2,525,716 1,228,194 2,958,787 1,720,674 5,484,503 
+Figure 5.62: Bar Diagram showing Number of Electrical and Diesel Operated Equipment’s 
+and Irrigated Area (ha) in Rabi 2023-24
+
+============================================================
+PAGE 98 (89 chars)
+============================================================
+Irrigation Status Report 2023-24
+73
+Figure 5.63: Location of Solar Irrigation Equipment
+
+============================================================
+PAGE 99 (82 chars)
+============================================================
+Irrigation Status Report 2023-24
+74
+Figure 5.64: Irrigated Area by Power Sources
+
+============================================================
+PAGE 100 (4336 chars)
+============================================================
+Irrigation Status Report 2023-24
+75
+5.4 BIESM 
+Since 1999, BADC has conducted surveys and monitored several aspects of the country's agricultural 
+sector, including pump capacity, source of power, irrigation mode, irrigated area, irrigation 
+equipment, and benefits to farmers. Enumerators and field staff from BADC, BMDA, and DAE were 
+appointed in order to carry out the survey. The government and legislators have received technical 
+support and recommendations for the development and implementation of minor irrigation policies 
+through the publication of Annual Survey Reports based on the data gathered over the past 22 years.
+The preparation of a GIS database, which includes maps and 3D geometrical maps for surface water 
+and ground water sources of irrigation, is crucial in the age of digitization for processing, preserving, 
+or storing the aforementioned collected information and data. Additionally, web-based software 
+development and database creation are essential for surveying and monitoring minor irrigation 
+activities. Primary information such as tables, graphs, maps, and GIS databases are required for 
+updating database.
+Digitalization of Survey & Monitoring for Development of Minor Irrigation Project under BADC has 
+been taken a program named Irrigation Equipment Survey & Monitoring System to establish a 
+database on about 1.72 million irrigation equipment through questionnaire incorporated with 49 
+columns needful information's and also develop a web base software to meet necessary queries about 
+irrigation. Under this program, BADC appointed CEGIS a trusty board of the Water Resources Ministry 
+as a consulting firm to accomplish the above assignment. Under this task, the database and Bangladesh 
+Irrigation Equipment Survey and Monitoring System (BIESM) software were prepared. Although the 
+database has a compact and unique dataset but it still needs some attention interims of data 
+consistency. Moreover, a few more features have been suggested by experts and stakeholders during 
+the disclosure meeting. Therefore, an updating has been carried out to strengthen the database as well 
+as the BIESM software. 
+In 2021-2022, The Bangladesh Irrigation Equipment Survey and Monitoring System (BIESM) software 
+were update with all DTW, rubber dam, solar pump (DTW, STW, LLP) and dug-well location data. The 
+Suggestion of experts and BADC officials were also incorporated in the software. 
+During 2022-2023, the BIESM software is updated with all low lift pump those where buried pipe line 
+installed, rubber dam, solar pump (DTW, STW, LLP), floating pump and dug-well location data as per 
+ToR. With this location data BIESM software also updated with collected details data of minor 
+irrigation equipment, which is required to publish as Minor Irrigation Report 2022-2023. The 
+searching option of software is updated. The region office of BADC is added in the searching option. 
+Except this the yearly data was also separated and past year data can be finding out by this BIESM 
+software. The report is also updated with new picture, graph, map and arrangement. The reporting 
+system of BIESM is also updated in this phase. Now user can generate all kind of irrigation data related 
+pie chart, graph, table up to union or mouza level. 
+The updated software has all the datasets to meet any queries about irrigation. It has also had the 
+ability to analyze data and present it to the audience. The homepage is presented in Figure 5.65. Each 
+user must have a password and user ID in order to log in to this software Figure 5.66. The database 
+has four major modules that are presented in Figure 5.67. As mentioned earlier, a number of data and 
+information will be available for any user which is ranging from equipment type and location to 
+benefited farmer and labor level data (Figure 5.68). Data was collected by 49 columns questionnaire 
+to gather all the information related to irrigation and every specific equipment (Figure 5.69). A 
+glimpse of the analysis capacity of the software is presented in Figure 5.70. Some unique features are 
+added to this software. These are- i) irrigation equipment data could be visible with its picture and 
+brief information (Figure 5.71), ii) Overall irrigation equipment and related information could be 
+
+============================================================
+PAGE 101 (576 chars)
+============================================================
+Irrigation Status Report 2023-24
+76
+viewed even at union level (Figure 5.72), iii) distance between the equipment is being measured 
+(Figure 5.73). 
+In this year 2023-2024, database is update with some new features. These are- i) to monitor user level 
+information, a user log-in system is introduced, ii) Administrative data is updated as per present 
+administrative unit, iii) Those LLP scheme where buried pipe line installed, iv) Solar and Dug well 
+scheme of BADC, BMDA, SREDA and other agencies, v) Location of Floating pumps and Rubber dam is 
+also updated etc. 
+
+============================================================
+PAGE 102 (77 chars)
+============================================================
+Irrigation Status Report 2023-24
+77
+Figure 5.65: Homepage of BIESM software 
+
+============================================================
+PAGE 103 (36 chars)
+============================================================
+Irrigation Status Report 2023-24
+78
+
+============================================================
+PAGE 104 (179 chars)
+============================================================
+Irrigation Status Report 2023-24
+79
+Figure 5.66: User Login page of BIESM software
+Figure 5.67: Modules of the BIESM software 
+Figure 5.68: Information of software at a glance 
+
+============================================================
+PAGE 105 (85 chars)
+============================================================
+Irrigation Status Report 2023-24
+80
+Figure 5.69: Data entry form for BIESM software 
+
+============================================================
+PAGE 106 (97 chars)
+============================================================
+Irrigation Status Report 2023-24
+81
+Figure 5.70: Brief Data analysis capacity of BIESM software 
+
+============================================================
+PAGE 107 (101 chars)
+============================================================
+Irrigation Status Report 2023-24
+82
+Figure 5.71: Location information extracted from BIESM software 
+
+============================================================
+PAGE 108 (151 chars)
+============================================================
+1. 83
+Figure 5.72: Union level data extracted from BIESM software 
+Figure 5.73: Distance measurement between irrigation equipment from BIESM software 
+
+============================================================
+PAGE 109 (36 chars)
+============================================================
+Irrigation Status Report 2023-24
+84
+
+============================================================
+PAGE 110 (1952 chars)
+============================================================
+1. 85
+6. Conclusion
+This survey's primary goal was to determine the number of different irrigation equipment in use, the 
+area that was irrigated, and the beneficiaries. BADC, DAE, BMDA and CEGIS-appointed field staffs are 
+collected the information. We are aware that the lack of a set technique for calculating the area made 
+it very difficult to determine the area accurately. Thus, information was gathered by interviewing with 
+farmers who might benefit from the equipment and by the owners' statements. It is claimed that the 
+amount of land that is irrigated per piece of equipment can differ depending on the equipment 
+capacity, conveyance system, the location as well as type of irrigated crop.
+The main findings of this survey report are:
+• In the 2023-24 Rabi season, total irrigated area was 5.77 million ha, of which groundwater 
+irrigation covered 4.16 million ha (72.07% of the total irrigated area); while surface water 
+irrigation covered 1.61 million ha (27.93% of total irrigated area). To compare with the 
+previous year, Surface water used for irrigation is increased in the Rabi season.
+• During the Rabi 2023–2024, there was a noticeable increase in the use of low lift pumps 
+(0.40%), shallow tube wells (0.12%), and deep tube wells (0.21%) in comparison to the 
+previous year.
+• The irrigated area increased by 0.36% in Rabi 2023–2024 over the previous year. 
+• About 97.71% (33,261) DTWs were operated by electric motors and 2.29% (779) DTWs were 
+operated by diesel engines. In case of shallow tube wells, 29.48% (436,116) STWs were 
+operated by electric motors and 70.52% (1,043,150) STWs were operated by diesel engines. 
+• Low Lift Pumps were mainly operated by diesel engines, which is 88.86% (184,265) and the 
+rest were operated by electric motors, which is only 11.14% (23,103).
+• The average area under each low lift pump was 6.51 hectares, 2.09 hectares for STW, and 
+30.79 hectares for DTW. 
+
+============================================================
+PAGE 111 (14 chars)
+============================================================
+Conclusion
+86
+
+============================================================
+PAGE 112 (2904 chars)
+============================================================
+1. 87
+7. References
+1. ATIA. “Census of Minor Irrigation in Bangladesh,”; DAE, MoA, FAO; Dhaka, June 1995.
+2. BADC. “Minor Irrigation Survey Report 2021-22,”; Digitalization of Survey and Monitoring for 
+Development of Minor Irrigation Project, Sech Bhaban, Dhaka, June 2022
+3. BADC. “Minor Irrigation Survey Report 2020-21,”; Digitalization of Survey and Monitoring for 
+Development of Minor Irrigation Project, Sech Bhaban, Dhaka, June 2021
+4. BBS. “Year Book of Agricultural Statistics-2022,”; Statistics and Informatics Division (SID), 
+Ministry of Planning, May 2023.
+5. BWDB (2020), cvwb Dbœqb †ev‡W©i †mP cªK‡íi Ae`vb: "‡cªw¶Z evsjv‡`‡ki K„wl I cwi‡ek"; 
+evcvD†ev, XvKv, wW‡m¤^i 2020
+6. SREDA. “Project/System Details National Database of Renewable Energy”; sreda.gov.bd, June 
+2023 
+7. BBS2022; Year Book of Agricultural Statistics 2022
+8. BBS2022; Population and Housing Census 2022; National Report (Volume 1)
+9. Dipangkar Kundu (2009) Assessment of Irrigation Equipments and Irrigated Area in 
+Bangladesh under Minor Irrigation Project using GIS. Geospatial World
+10. M. Wakilur RAHMAN, Lovely PARVIN (2009). Impact of Irrigation on Food Security in 
+Bangladesh for the Past Three Decades. J. Water Resource and Protection, 2009, 3, 216-225
+11. Acharjee, T.K., Shariot-Ullah, M. 2021. Irrigation Requirement and Possibility of High￾temperature Stress of Wheat for Different Planting Dates under Climate Change in Bogura, 
+Bangladesh. Journal of Bangladesh Agricultural University, 19(2): 277–286.
+12. Mu, J., Khan, S., Hanjra, M. A., and Wang, H., 2008. A food security approach to analyse 
+irrigation efficiency improvement demands at the country level. The journal of the 
+International Commission on Irrigation and Draniage. Volume 58, February 29, 2009.
+13. https:// www.studysmarter.co.uk/ explanations/ human-geography/ agricultural￾geography/ irrigation/
+14. Haque, M. Z., & Rahman, M. M. (2023). Soil salinity management practices in coastal area of 
+Bangladesh: A review. Agriculture, Livestock and Fisheries, 10(1), 1-7.
+15. Mondal, M. S., Jalil, M. A., & Khan, M. S. A. (2019). Salinity Intrusion and Its Impact on 
+Agriculture: A Case Study from Bangladesh. Journal of Environmental Management, 241, 494-
+504. doi:10.1016/j.jenvman.2019.03.065
+16. Haque, M. A., Clarke, D., & Aalto, J. (2020). Effects of Salinity on Irrigation Practices and 
+Agricultural Production in Coastal Bangladesh. Agricultural Water Management, 240, 106295. 
+doi:10.1016/j.agwat.2020.106295
+17. CCC. (2010). Climate Change, Coastal Zone Management and Livelihood Security: A Case Study 
+on Kutubdia Island, Cox's Bazar, Bangladesh. Comprehensive Disaster Management 
+Programme (CDMP).
+18. Gowing, J. W., & Islam, M. R. (2015). Salinity Intrusion in Interior Coast of Bangladesh: 
+Challenges to Agriculture in South-Central Coastal Zone. Scientific Research Publishing.

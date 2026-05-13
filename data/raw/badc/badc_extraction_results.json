@@ -1,0 +1,1673 @@
+{
+  "started": "2026-05-13T14:13:15.147234",
+  "pipeline_version": "3.0",
+  "reports": {
+    "2023_24": {
+      "status": "completed",
+      "year": "2023-24",
+      "has_embedded_text": true,
+      "total_pages": 112,
+      "pages_with_text": 98,
+      "equipment_trend": [
+        {
+          "season": "1961-62",
+          "dtw": 1555,
+          "pct_changes": [
+            0.0
+          ]
+        },
+        {
+          "season": "1962-63",
+          "dtw": 2024,
+          "pct_changes": [
+            30.16
+          ]
+        },
+        {
+          "season": "1963-64",
+          "dtw": 2477,
+          "pct_changes": [
+            22.38
+          ]
+        },
+        {
+          "season": "1964-65",
+          "dtw": 2239,
+          "pct_changes": [
+            -9.61
+          ]
+        },
+        {
+          "season": "1965-66",
+          "dtw": 3420,
+          "pct_changes": [
+            52.75
+          ]
+        },
+        {
+          "season": "1966-67",
+          "dtw": 3990,
+          "pct_changes": [
+            16.67
+          ]
+        },
+        {
+          "season": "1967-68",
+          "dtw": 102,
+          "stw": 6558,
+          "pct_changes": [
+            0.0,
+            64.36
+          ]
+        },
+        {
+          "season": "1968-69",
+          "dtw": 380,
+          "stw": 10852,
+          "pct_changes": [
+            272.55,
+            65.48
+          ]
+        },
+        {
+          "season": "1969-70",
+          "dtw": 980,
+          "stw": 17846,
+          "pct_changes": [
+            157.89,
+            64.45
+          ]
+        },
+        {
+          "season": "1970-71",
+          "dtw": 796,
+          "stw": 24483,
+          "pct_changes": [
+            -18.78,
+            37.19
+          ]
+        },
+        {
+          "season": "1971-72",
+          "dtw": 906,
+          "stw": 24243,
+          "pct_changes": [
+            13.82,
+            -0.98
+          ]
+        },
+        {
+          "season": "1972-73",
+          "dtw": 1237,
+          "stw": 32917,
+          "pct_changes": [
+            36.53,
+            35.78
+          ]
+        },
+        {
+          "season": "1973-74",
+          "dtw": 1494,
+          "stw": 998,
+          "llp": 35243,
+          "pct_changes": [
+            20.78,
+            0.0,
+            7.07
+          ]
+        },
+        {
+          "season": "1974-75",
+          "dtw": 2699,
+          "stw": 1029,
+          "llp": 35534,
+          "pct_changes": [
+            80.66,
+            3.11,
+            0.83
+          ]
+        },
+        {
+          "season": "1975-76",
+          "dtw": 3828,
+          "stw": 2162,
+          "llp": 36382,
+          "pct_changes": [
+            41.83,
+            110.11,
+            2.39
+          ]
+        },
+        {
+          "season": "1976-77",
+          "dtw": 4461,
+          "stw": 3045,
+          "llp": 28361,
+          "pct_changes": [
+            16.54,
+            40.84,
+            -22.05
+          ]
+        },
+        {
+          "season": "1977-78",
+          "dtw": 7453,
+          "stw": 6447,
+          "llp": 36730,
+          "pct_changes": [
+            67.07,
+            111.72,
+            29.51
+          ]
+        },
+        {
+          "season": "1978-79",
+          "dtw": 9329,
+          "stw": 8379,
+          "llp": 35895,
+          "pct_changes": [
+            25.17,
+            29.97,
+            -2.27
+          ]
+        },
+        {
+          "season": "1979-80",
+          "dtw": 9795,
+          "stw": 11280,
+          "llp": 37389,
+          "pct_changes": [
+            5.0,
+            34.62,
+            4.16
+          ]
+        },
+        {
+          "season": "1980-81",
+          "dtw": 10131,
+          "stw": 20931,
+          "llp": 35951,
+          "pct_changes": [
+            3.43,
+            85.56,
+            -3.85
+          ]
+        },
+        {
+          "season": "1981-82",
+          "dtw": 11491,
+          "stw": 42955,
+          "llp": 41153,
+          "pct_changes": [
+            13.42,
+            105.22,
+            14.47
+          ]
+        },
+        {
+          "season": "1982-83",
+          "dtw": 13800,
+          "stw": 93100,
+          "llp": 35500,
+          "pct_changes": [
+            20.09,
+            116.74,
+            -13.74
+          ]
+        },
+        {
+          "season": "1983-84",
+          "dtw": 15500,
+          "stw": 120300,
+          "llp": 36000,
+          "pct_changes": [
+            12.32,
+            29.22,
+            1.41
+          ]
+        },
+        {
+          "season": "1984-85",
+          "dtw": 16900,
+          "stw": 147000,
+          "llp": 37000,
+          "pct_changes": [
+            9.03,
+            22.19,
+            2.78
+          ]
+        },
+        {
+          "season": "1985-86",
+          "dtw": 17900,
+          "stw": 146900,
+          "llp": 37500,
+          "pct_changes": [
+            5.92,
+            -0.07,
+            1.35
+          ]
+        },
+        {
+          "season": "1986-87",
+          "dtw": 18700,
+          "stw": 160300,
+          "llp": 40600,
+          "pct_changes": [
+            4.47,
+            9.12,
+            8.27
+          ]
+        },
+        {
+          "season": "1987-88",
+          "dtw": 20300,
+          "stw": 188700,
+          "llp": 42300,
+          "pct_changes": [
+            8.56,
+            17.72,
+            4.19
+          ]
+        },
+        {
+          "season": "1988-89",
+          "dtw": 22400,
+          "stw": 235900,
+          "llp": 50800,
+          "pct_changes": [
+            10.34,
+            25.01,
+            20.09
+          ]
+        },
+        {
+          "season": "1989-90",
+          "dtw": 22600,
+          "stw": 260000,
+          "llp": 51000,
+          "pct_changes": [
+            0.89,
+            10.22,
+            0.39
+          ]
+        },
+        {
+          "season": "1990-91",
+          "dtw": 21500,
+          "stw": 270300,
+          "llp": 51600,
+          "pct_changes": [
+            -4.87,
+            3.96,
+            1.18
+          ]
+        },
+        {
+          "season": "1991-92",
+          "dtw": 25500,
+          "stw": 309300,
+          "llp": 50300,
+          "pct_changes": [
+            18.6,
+            14.43,
+            -2.52
+          ]
+        },
+        {
+          "season": "1992-93",
+          "dtw": 25700,
+          "stw": 348900,
+          "llp": 52200,
+          "pct_changes": [
+            0.78,
+            12.8,
+            3.78
+          ]
+        },
+        {
+          "season": "1993-94",
+          "dtw": 24500,
+          "stw": 359200,
+          "llp": 52600,
+          "pct_changes": [
+            -4.67,
+            2.95,
+            0.77
+          ]
+        },
+        {
+          "season": "1994-95",
+          "dtw": 26700,
+          "stw": 488900,
+          "llp": 57100,
+          "pct_changes": [
+            8.98,
+            36.11,
+            8.56
+          ]
+        },
+        {
+          "season": "1995-96",
+          "dtw": 27300,
+          "stw": 571200,
+          "llp": 60600,
+          "pct_changes": [
+            2.25,
+            16.83,
+            6.13
+          ]
+        },
+        {
+          "season": "1996-97",
+          "dtw": 25200,
+          "stw": 629800,
+          "llp": 62900,
+          "pct_changes": [
+            -7.69,
+            10.26,
+            3.8
+          ]
+        },
+        {
+          "season": "1997-98",
+          "dtw": 25300,
+          "stw": 664700,
+          "llp": 66300,
+          "pct_changes": [
+            0.4,
+            5.54,
+            5.41
+          ]
+        },
+        {
+          "season": "1998-99",
+          "dtw": 26700,
+          "stw": 736100,
+          "llp": 72900,
+          "pct_changes": [
+            5.53,
+            10.74,
+            9.95
+          ]
+        },
+        {
+          "season": "1999-00",
+          "dtw": 23530,
+          "stw": 707570,
+          "llp": 58050,
+          "pct_changes": [
+            -11.87,
+            -3.88,
+            -20.37
+          ]
+        },
+        {
+          "season": "2000-01",
+          "dtw": 23180,
+          "stw": 865210,
+          "llp": 71310,
+          "pct_changes": [
+            -1.49,
+            22.28,
+            22.84
+          ]
+        },
+        {
+          "season": "2001-02",
+          "dtw": 23000,
+          "stw": 893360,
+          "llp": 77000,
+          "pct_changes": [
+            -0.78,
+            3.25,
+            7.98
+          ]
+        },
+        {
+          "season": "2002-03",
+          "dtw": 23430,
+          "stw": 924020,
+          "llp": 79870,
+          "pct_changes": [
+            1.87,
+            3.43,
+            3.73
+          ]
+        },
+        {
+          "season": "2003-04",
+          "dtw": 24720,
+          "stw": 925150,
+          "llp": 77790,
+          "pct_changes": [
+            5.51,
+            0.12,
+            -2.6
+          ]
+        },
+        {
+          "season": "2004-05",
+          "dtw": 27180,
+          "stw": 1128990,
+          "llp": 99250,
+          "pct_changes": [
+            9.95,
+            22.03,
+            27.59
+          ]
+        },
+        {
+          "season": "2005-06",
+          "dtw": 28280,
+          "stw": 1182520,
+          "llp": 119130,
+          "pct_changes": [
+            4.05,
+            4.74,
+            20.03
+          ]
+        },
+        {
+          "season": "2006-07",
+          "dtw": 29170,
+          "stw": 1202720,
+          "llp": 107290,
+          "pct_changes": [
+            3.15,
+            1.71,
+            -9.94
+          ]
+        },
+        {
+          "season": "2007-08",
+          "dtw": 31300,
+          "stw": 1304970,
+          "llp": 138630,
+          "pct_changes": [
+            7.3,
+            8.5,
+            29.21
+          ]
+        },
+        {
+          "season": "2008-09",
+          "dtw": 32170,
+          "stw": 1374580,
+          "llp": 146790,
+          "pct_changes": [
+            2.78,
+            5.33,
+            5.89
+          ]
+        },
+        {
+          "season": "2009-10",
+          "dtw": 32910,
+          "stw": 1425140,
+          "llp": 150610,
+          "pct_changes": [
+            2.3,
+            3.68,
+            2.6
+          ]
+        },
+        {
+          "season": "2010-11",
+          "dtw": 33670,
+          "stw": 1549150,
+          "llp": 173670,
+          "pct_changes": [
+            2.31,
+            8.7,
+            15.31
+          ]
+        },
+        {
+          "season": "2012-13",
+          "dtw": 35320,
+          "stw": 1523610,
+          "llp": 170570,
+          "pct_changes": [
+            3.73,
+            1.68,
+            -3.75
+          ]
+        },
+        {
+          "season": "2013-14",
+          "dtw": 36034,
+          "stw": 1563791,
+          "llp": 171041,
+          "pct_changes": [
+            2.02,
+            2.64,
+            0.28
+          ]
+        },
+        {
+          "season": "2014-15",
+          "dtw": 36566,
+          "stw": 1549711,
+          "llp": 167175,
+          "pct_changes": [
+            1.48,
+            -0.9,
+            -2.26
+          ]
+        },
+        {
+          "season": "2015-16",
+          "dtw": 36979,
+          "stw": 1417008,
+          "llp": 173179,
+          "pct_changes": [
+            1.16,
+            -9.36,
+            3.46
+          ]
+        },
+        {
+          "season": "2016-17",
+          "dtw": 37175,
+          "stw": 1398960,
+          "llp": 176478,
+          "pct_changes": [
+            0.53,
+            -1.27,
+            1.9
+          ]
+        },
+        {
+          "season": "2017-18",
+          "dtw": 37538,
+          "stw": 1355852,
+          "llp": 181469,
+          "pct_changes": [
+            0.98,
+            -3.08,
+            2.83
+          ]
+        },
+        {
+          "season": "2018-19",
+          "dtw": 37634,
+          "stw": 1357532,
+          "llp": 187188,
+          "pct_changes": [
+            0.26,
+            0.12,
+            3.15
+          ]
+        },
+        {
+          "season": "2019-20",
+          "dtw": 37007,
+          "stw": 1398706,
+          "llp": 199914,
+          "pct_changes": [
+            -1.67,
+            3.03,
+            6.8
+          ]
+        },
+        {
+          "season": "2020-21",
+          "dtw": 36955,
+          "stw": 1409689,
+          "llp": 204391,
+          "pct_changes": [
+            -0.14,
+            0.79,
+            2.24
+          ]
+        },
+        {
+          "season": "2021-22",
+          "dtw": 33896,
+          "stw": 1469980,
+          "llp": 205212,
+          "pct_changes": [
+            -8.28,
+            4.28,
+            0.4
+          ]
+        },
+        {
+          "season": "2022-23",
+          "dtw": 33968,
+          "stw": 1477454,
+          "llp": 206548,
+          "pct_changes": [
+            0.21,
+            0.51,
+            0.65
+          ]
+        },
+        {
+          "season": "2023-24",
+          "dtw": 34040,
+          "stw": 1479266,
+          "llp": 207368,
+          "pct_changes": [
+            0.21,
+            0.12,
+            0.4
+          ]
+        }
+      ],
+      "irrigated_area": [
+        {
+          "season": "1961-62",
+          "dtw": 29928,
+          "stw": 29928
+        },
+        {
+          "season": "1962-63",
+          "dtw": 53864,
+          "stw": 53864
+        },
+        {
+          "season": "1963-64",
+          "dtw": 63462,
+          "stw": 63462
+        },
+        {
+          "season": "1964-65",
+          "dtw": 53547,
+          "stw": 53547
+        },
+        {
+          "season": "1965-66",
+          "dtw": 70248,
+          "stw": 70248
+        },
+        {
+          "season": "1966-67",
+          "dtw": 91136,
+          "stw": 91136
+        },
+        {
+          "season": "1967-68",
+          "dtw": 1667,
+          "stw": 130373,
+          "llp": 132040
+        },
+        {
+          "season": "1968-69",
+          "dtw": 6510,
+          "stw": 180620,
+          "llp": 187130
+        },
+        {
+          "season": "1969-70",
+          "dtw": 13004,
+          "stw": 273227,
+          "llp": 286231
+        },
+        {
+          "season": "1970-71",
+          "dtw": 12984,
+          "stw": 373230,
+          "llp": 386214
+        },
+        {
+          "season": "1971-72",
+          "dtw": 11874,
+          "stw": 369745,
+          "llp": 381619
+        },
+        {
+          "season": "1972-73",
+          "dtw": 15287,
+          "stw": 508715,
+          "llp": 524002
+        },
+        {
+          "season": "1973-74",
+          "dtw": 24881,
+          "stw": 1806,
+          "llp": 565477,
+          "manual_artesian": 592164
+        },
+        {
+          "season": "1974-75",
+          "dtw": 47716,
+          "stw": 2726,
+          "llp": 576963,
+          "manual_artesian": 627405
+        },
+        {
+          "season": "1975-76",
+          "dtw": 62246,
+          "stw": 5220,
+          "llp": 603425,
+          "manual_artesian": 670891
+        },
+        {
+          "season": "1976-77",
+          "dtw": 66477,
+          "stw": 7168,
+          "llp": 519479,
+          "manual_artesian": 593124
+        },
+        {
+          "season": "1977-78",
+          "dtw": 137034,
+          "stw": 27929,
+          "llp": 708959,
+          "manual_artesian": 873922
+        },
+        {
+          "season": "1978-79",
+          "dtw": 204186,
+          "stw": 35827,
+          "llp": 820470,
+          "manual_artesian": 1060483
+        },
+        {
+          "season": "1979-80",
+          "dtw": 235748,
+          "stw": 55400,
+          "llp": 894775,
+          "manual_artesian": 1185923
+        },
+        {
+          "season": "1980-81",
+          "dtw": 259557,
+          "stw": 99029,
+          "llp": 912099,
+          "manual_artesian": 1270685
+        },
+        {
+          "season": "1981-82",
+          "dtw": 323152,
+          "stw": 202180,
+          "llp": 1089873,
+          "manual_artesian": 1615205
+        },
+        {
+          "season": "1982-83",
+          "dtw": 234000,
+          "stw": 371000,
+          "llp": 337000,
+          "manual_artesian": 16000,
+          "traditional": 405000,
+          "gravity": 160000,
+          "solar": 1523000
+        },
+        {
+          "season": "1983-84",
+          "dtw": 263000,
+          "stw": 480000,
+          "llp": 342000,
+          "manual_artesian": 16000,
+          "traditional": 372000,
+          "gravity": 136000,
+          "solar": 1609000
+        },
+        {
+          "season": "1984-85",
+          "dtw": 287000,
+          "stw": 586000,
+          "llp": 351000,
+          "manual_artesian": 16000,
+          "traditional": 384000,
+          "gravity": 147000,
+          "solar": 1771000
+        },
+        {
+          "season": "1985-86",
+          "dtw": 304000,
+          "stw": 586000,
+          "llp": 356000,
+          "manual_artesian": 16000,
+          "traditional": 314000,
+          "gravity": 163000,
+          "solar": 1739000
+        },
+        {
+          "season": "1986-87",
+          "dtw": 318000,
+          "stw": 639000,
+          "llp": 386000,
+          "manual_artesian": 16000,
+          "traditional": 326000,
+          "gravity": 155000,
+          "solar": 1840000
+        },
+        {
+          "season": "1987-88",
+          "dtw": 345000,
+          "stw": 753000,
+          "llp": 402000,
+          "manual_artesian": 16000,
+          "traditional": 433000,
+          "gravity": 115000,
+          "solar": 2064000
+        },
+        {
+          "season": "1988-89",
+          "dtw": 380000,
+          "stw": 941000,
+          "llp": 482000,
+          "manual_artesian": 16000,
+          "traditional": 391000,
+          "gravity": 170000,
+          "solar": 2380000
+        },
+        {
+          "season": "1989-90",
+          "dtw": 384000,
+          "stw": 1037000,
+          "llp": 484000,
+          "manual_artesian": 16000,
+          "traditional": 478000,
+          "gravity": 176000,
+          "solar": 2575000
+        },
+        {
+          "season": "1990-91",
+          "dtw": 365000,
+          "stw": 1078000,
+          "llp": 513000,
+          "manual_artesian": 18000,
+          "traditional": 498000,
+          "gravity": 316000,
+          "solar": 2788000
+        },
+        {
+          "season": "1991-92",
+          "dtw": 434000,
+          "stw": 1234000,
+          "llp": 500000,
+          "manual_artesian": 19000,
+          "traditional": 316000,
+          "gravity": 251000,
+          "solar": 2754000
+        },
+        {
+          "season": "1992-93",
+          "dtw": 437000,
+          "stw": 1392000,
+          "llp": 496000,
+          "manual_artesian": 22000,
+          "traditional": 323000,
+          "gravity": 291000,
+          "solar": 2961000
+        },
+        {
+          "season": "1993-94",
+          "dtw": 389000,
+          "stw": 1388000,
+          "llp": 458000,
+          "manual_artesian": 29000,
+          "traditional": 348000,
+          "gravity": 326000,
+          "solar": 2938000
+        },
+        {
+          "season": "1994-95",
+          "dtw": 502000,
+          "stw": 1638000,
+          "llp": 538000,
+          "manual_artesian": 25000,
+          "traditional": 250000,
+          "gravity": 352000,
+          "solar": 3305000
+        },
+        {
+          "season": "1995-96",
+          "dtw": 540000,
+          "stw": 2004000,
+          "llp": 568000,
+          "manual_artesian": 51000,
+          "traditional": 207000,
+          "gravity": 355000,
+          "solar": 3725000
+        },
+        {
+          "season": "1996-97",
+          "dtw": 475000,
+          "stw": 2159000,
+          "llp": 570000,
+          "manual_artesian": 38000,
+          "traditional": 186000,
+          "gravity": 333000,
+          "solar": 3761000
+        },
+        {
+          "season": "1997-98",
+          "dtw": 465000,
+          "stw": 2182000,
+          "llp": 622000,
+          "manual_artesian": 64000,
+          "traditional": 201000,
+          "gravity": 285000,
+          "solar": 3819000
+        },
+        {
+          "season": "1998-99",
+          "dtw": 507000,
+          "stw": 2522000,
+          "llp": 628000,
+          "manual_artesian": 101000,
+          "traditional": 232000,
+          "gravity": 358000,
+          "solar": 4348000
+        },
+        {
+          "season": "1999-00",
+          "dtw": 529640,
+          "stw": 2122510,
+          "llp": 581800,
+          "manual_artesian": 18650,
+          "traditional": 76520,
+          "gravity": 227400,
+          "solar": 3556520
+        },
+        {
+          "season": "2000-01",
+          "dtw": 538260,
+          "stw": 2295660,
+          "llp": 603280,
+          "manual_artesian": 6530,
+          "traditional": 71730,
+          "gravity": 250850,
+          "solar": 3766310
+        },
+        {
+          "season": "2001-02",
+          "dtw": 530290,
+          "stw": 2355030,
+          "llp": 628750,
+          "manual_artesian": 7460,
+          "traditional": 36900,
+          "gravity": 286010,
+          "solar": 3844440
+        },
+        {
+          "season": "2002-03",
+          "dtw": 587930,
+          "stw": 2409410,
+          "llp": 664020,
+          "manual_artesian": 11710,
+          "traditional": 32510,
+          "gravity": 309650,
+          "solar": 4015230
+        },
+        {
+          "season": "2003-04",
+          "dtw": 589490,
+          "stw": 2429130,
+          "llp": 630670,
+          "manual_artesian": 13340,
+          "traditional": 25570,
+          "gravity": 355670,
+          "solar": 4043870
+        },
+        {
+          "season": "2004-05",
+          "dtw": 654190,
+          "stw": 3159900,
+          "llp": 838380,
+          "manual_artesian": 1250,
+          "traditional": 24250,
+          "gravity": 109380,
+          "solar": 4787350
+        },
+        {
+          "season": "2005-06",
+          "dtw": 700660,
+          "stw": 3120610,
+          "llp": 803170,
+          "manual_artesian": 2110,
+          "traditional": 26130,
+          "gravity": 107040,
+          "solar": 4759720
+        },
+        {
+          "season": "2006-07",
+          "dtw": 725260,
+          "stw": 3196120,
+          "llp": 810020,
+          "manual_artesian": 2250,
+          "traditional": 12150,
+          "gravity": 137060,
+          "solar": 4882860
+        },
+        {
+          "season": "2007-08",
+          "dtw": 785680,
+          "stw": 3197180,
+          "llp": 903870,
+          "manual_artesian": 5210,
+          "traditional": 19040,
+          "gravity": 138800,
+          "solar": 5049780
+        },
+        {
+          "season": "2008-09",
+          "dtw": 790115,
+          "stw": 3245143,
+          "llp": 957035,
+          "manual_artesian": 15448,
+          "traditional": 43965,
+          "gravity": 75145,
+          "solar": 5126851
+        },
+        {
+          "season": "2009-10",
+          "dtw": 773323,
+          "stw": 3336652,
+          "llp": 964902,
+          "manual_artesian": 17412,
+          "traditional": 40186,
+          "gravity": 85151,
+          "solar": 5217626
+        },
+        {
+          "season": "2010-11",
+          "dtw": 719206,
+          "stw": 3505287,
+          "llp": 1009981,
+          "manual_artesian": 6381,
+          "traditional": 3814,
+          "gravity": 19071,
+          "solar": 5263740
+        },
+        {
+          "season": "2011-12",
+          "dtw": 758963,
+          "stw": 3418147,
+          "llp": 1084594,
+          "manual_artesian": 11858,
+          "traditional": 28326,
+          "gravity": 20447,
+          "solar": 5322335
+        },
+        {
+          "season": "2012-13",
+          "dtw": 934342,
+          "stw": 3242440,
+          "llp": 1035736,
+          "manual_artesian": 34560,
+          "traditional": 28320,
+          "gravity": 97707,
+          "solar": 5373105
+        },
+        {
+          "season": "2013-14",
+          "dtw": 876803,
+          "stw": 3278838,
+          "llp": 1083535,
+          "manual_artesian": 33778,
+          "traditional": 28318,
+          "gravity": 101060,
+          "solar": 5402332
+        },
+        {
+          "season": "2014-15",
+          "dtw": 962039,
+          "stw": 3235184,
+          "llp": 1106705,
+          "manual_artesian": 27718,
+          "traditional": 20232,
+          "gravity": 96274,
+          "solar": 5448152
+        },
+        {
+          "season": "2015-16",
+          "dtw": 1194177,
+          "stw": 2954949,
+          "llp": 1164603,
+          "manual_artesian": 29718,
+          "traditional": 18336,
+          "gravity": 128564,
+          "solar": 5490347
+        },
+        {
+          "season": "2016-17",
+          "dtw": 1063486,
+          "stw": 3079001,
+          "llp": 1187823,
+          "manual_artesian": 27518,
+          "traditional": 14553,
+          "gravity": 154885,
+          "solar": 5527266
+        },
+        {
+          "season": "2017-18",
+          "dtw": 1072539,
+          "stw": 2981646,
+          "llp": 1220879,
+          "manual_artesian": 26856,
+          "traditional": 12769,
+          "gravity": 241925,
+          "solar": 5556614
+        },
+        {
+          "season": "2018-19",
+          "dtw": 1076141,
+          "stw": 2994466,
+          "llp": 1248616,
+          "manual_artesian": 8780,
+          "traditional": 8065,
+          "gravity": 238871,
+          "solar": 11960,
+          "dug_well": 583,
+          "total": 5587482
+        },
+        {
+          "season": "2019-20",
+          "dtw": 1084245,
+          "stw": 3001120,
+          "llp": 1269661,
+          "manual_artesian": 7852,
+          "traditional": 6825,
+          "gravity": 242356,
+          "solar": 14524,
+          "dug_well": 1015,
+          "total": 5627598
+        },
+        {
+          "season": "2020-21",
+          "dtw": 1085431,
+          "stw": 3006076,
+          "llp": 1287013,
+          "manual_artesian": 6752,
+          "traditional": 6124,
+          "gravity": 245136,
+          "solar": 16524,
+          "dug_well": 1735,
+          "total": 5654791
+        },
+        {
+          "season": "2021-22",
+          "dtw": 1038113,
+          "stw": 3070155,
+          "llp": 1310917,
+          "manual_artesian": 6552,
+          "traditional": 5824,
+          "gravity": 247636,
+          "solar": 9939,
+          "dug_well": 444,
+          "total": 5689580
+        },
+        {
+          "season": "2022-23",
+          "dtw": 1045582,
+          "stw": 3081813,
+          "llp": 1327972,
+          "manual_artesian": 6332,
+          "traditional": 5414,
+          "gravity": 253996,
+          "solar": 26406,
+          "dug_well": 1019,
+          "total": 5748534
+        },
+        {
+          "season": "2023-24",
+          "dtw": 1048042,
+          "stw": 3085919,
+          "llp": 1350542,
+          "manual_artesian": 6303,
+          "traditional": 5444,
+          "gravity": 244092,
+          "solar": 27813,
+          "dug_well": 1118,
+          "total": 5769273
+        }
+      ],
+      "division_equipment": [
+        {
+          "division": "Dhaka",
+          "dtw": 2145,
+          "stw": 208548,
+          "llp": 25951,
+          "floating_pump": 152,
+          "solar_pump": 25,
+          "total": 236821
+        },
+        {
+          "division": "Mymensingh",
+          "dtw": 4115,
+          "stw": 184935,
+          "llp": 12439,
+          "floating_pump": 83,
+          "solar_pump": 61,
+          "total": 201633
+        },
+        {
+          "division": "Rajshahi",
+          "dtw": 15030,
+          "stw": 307366,
+          "llp": 12880,
+          "floating_pump": 617,
+          "solar_pump": 632,
+          "total": 336525
+        },
+        {
+          "division": "Rangpur",
+          "dtw": 7904,
+          "stw": 391042,
+          "llp": 2648,
+          "floating_pump": 1319,
+          "solar_pump": 77,
+          "total": 402990
+        },
+        {
+          "division": "Chattogram",
+          "dtw": 1561,
+          "stw": 80423,
+          "llp": 47063,
+          "floating_pump": 256,
+          "solar_pump": 42,
+          "total": 129345
+        },
+        {
+          "division": "Khulna",
+          "dtw": 3116,
+          "stw": 281473,
+          "llp": 33075,
+          "floating_pump": 579,
+          "solar_pump": 91,
+          "total": 318334
+        },
+        {
+          "division": "Sylhet",
+          "dtw": 169,
+          "stw": 25322,
+          "llp": 46365,
+          "floating_pump": 56,
+          "solar_pump": 2,
+          "total": 71914
+        },
+        {
+          "division": "Barishal",
+          "dtw": 157,
+          "stw": 26947,
+          "llp": 66,
+          "floating_pump": 27170
+        },
+        {
+          "division": "Total",
+          "dtw": 34040,
+          "stw": 1479266,
+          "llp": 207368,
+          "floating_pump": 3128,
+          "solar_pump": 930,
+          "total": 1724732
+        },
+        {
+          "division": "Dhaka",
+          "dtw": 85604,
+          "stw": 344440,
+          "llp": 151040,
+          "floating_pump": 406228,
+          "solar_pump": 236644,
+          "total": 750668
+        },
+        {
+          "division": "Mymensingh",
+          "dtw": 75316,
+          "stw": 309222,
+          "llp": 126173,
+          "floating_pump": 301801,
+          "solar_pump": 201489,
+          "total": 611023
+        },
+        {
+          "division": "Rajshahi",
+          "dtw": 108387,
+          "stw": 769534,
+          "llp": 226889,
+          "floating_pump": 435306,
+          "solar_pump": 335276,
+          "total": 1204840
+        },
+        {
+          "division": "Rangpur",
+          "dtw": 114230,
+          "stw": 507966,
+          "llp": 287364,
+          "floating_pump": 545817,
+          "solar_pump": 401594,
+          "total": 1053783
+        },
+        {
+          "division": "Khulna",
+          "dtw": 49524,
+          "stw": 227089,
+          "llp": 268140,
+          "floating_pump": 513214,
+          "solar_pump": 317664,
+          "total": 740303
+        },
+        {
+          "division": "Sylhet",
+          "dtw": 11261,
+          "stw": 61014,
+          "llp": 60595,
+          "floating_pump": 299487,
+          "solar_pump": 71856,
+          "total": 360501
+        },
+        {
+          "division": "Barishal",
+          "dtw": 1702,
+          "stw": 21191,
+          "llp": 25402,
+          "floating_pump": 157920,
+          "solar_pump": 27104,
+          "total": 179111
+        },
+        {
+          "division": "Total",
+          "dtw": 492480,
+          "stw": 2525716,
+          "llp": 1228194,
+          "floating_pump": 2958787,
+          "solar_pump": 1720674,
+          "total": 5484503
+        }
+      ],
+      "division_area": [
+        {
+          "division": "Dhaka",
+          "irrigated_area_ha": 765153,
+          "pct_of_total": 13.26
+        },
+        {
+          "division": "Mymensingh",
+          "irrigated_area_ha": 619777,
+          "pct_of_total": 10.74
+        },
+        {
+          "division": "Rajshahi",
+          "irrigated_area_ha": 1214341,
+          "pct_of_total": 21.05
+        },
+        {
+          "division": "Rangpur",
+          "irrigated_area_ha": 1081714,
+          "pct_of_total": 18.75
+        },
+        {
+          "division": "Chattogram",
+          "irrigated_area_ha": 651736,
+          "pct_of_total": 11.3
+        },
+        {
+          "division": "Khulna",
+          "irrigated_area_ha": 784943,
+          "pct_of_total": 13.61
+        },
+        {
+          "division": "Sylhet",
+          "irrigated_area_ha": 425902,
+          "pct_of_total": 7.38
+        },
+        {
+          "division": "Barishal",
+          "irrigated_area_ha": 225706,
+          "pct_of_total": 3.91
+        },
+        {
+          "division": "Total",
+          "irrigated_area_ha": 5769273,
+          "pct_of_total": 100.0
+        }
+      ],
+      "dtw_stw_area_by_division": [
+        {
+          "division": "Dhaka",
+          "values": [
+            63890,
+            459335,
+            523225
+          ]
+        },
+        {
+          "division": "Mymensingh",
+          "values": [
+            134194,
+            362493,
+            496687
+          ]
+        },
+        {
+          "division": "Rajshahi",
+          "values": [
+            488895,
+            630097,
+            1118992
+          ]
+        },
+        {
+          "division": "Rangpur",
+          "values": [
+            240360,
+            782975,
+            1023335
+          ]
+        },
+        {
+          "division": "Chattogram",
+          "values": [
+            46156,
+            216484,
+            262640
+          ]
+        },
+        {
+          "division": "Khulna",
+          "values": [
+            69379,
+            548452,
+            617831
+          ]
+        },
+        {
+          "division": "Sylhet",
+          "values": [
+            5168,
+            85677,
+            90845
+          ]
+        },
+        {
+          "division": "Total",
+          "values": [
+            1048042,
+            3085919,
+            4133961
+          ]
+        }
+      ],
+      "key_metrics": {
+        "year_label": "2023-24",
+        "total_irrigated_area_million_ha": 5.77,
+        "total_equipment": 1721834,
+        "groundwater_pct": 72.07,
+        "latest_season": "2023-24",
+        "latest_dtw": 34040,
+        "latest_stw": 1479266,
+        "latest_llp": 207368
+      },
+      "processed_at": "2026-05-13T14:13:15.260072"
+    },
+    "2022_23": {
+      "status": "scanned_needs_ocr",
+      "year": "2022-23",
+      "has_embedded_text": false,
+      "total_pages": 77,
+      "pages_with_text": 0,
+      "processed_at": "2026-05-13T14:13:15.267300"
+    },
+    "2021_22": {
+      "status": "scanned_needs_ocr",
+      "year": "2021-22",
+      "has_embedded_text": false,
+      "total_pages": 66,
+      "pages_with_text": 0,
+      "processed_at": "2026-05-13T14:13:15.271401"
+    },
+    "2020_21": {
+      "status": "completed",
+      "year": "2020-21",
+      "has_embedded_text": true,
+      "total_pages": 50,
+      "pages_with_text": 50,
+      "equipment_trend": [],
+      "irrigated_area": [],
+      "division_equipment": [],
+      "division_area": [
+        {
+          "division": "Total",
+          "irrigated_area_ha": 6752,
+          "pct_of_total": 100.0
+        }
+      ],
+      "dtw_stw_area_by_division": [
+        {
+          "division": "Dhaka",
+          "values": [
+            6461,
+            9,
+            396321,
+            460940
+          ]
+        },
+        {
+          "division": "Rajshahi",
+          "values": [
+            509482,
+            6501,
+            95,
+            1159677
+          ]
+        },
+        {
+          "division": "Rangpur",
+          "values": [
+            2391,
+            60,
+            7891,
+            96,
+            1,
+            28356
+          ]
+        },
+        {
+          "division": "Khulna",
+          "values": [
+            62155,
+            537584,
+            599739
+          ]
+        },
+        {
+          "division": "Sylhet",
+          "values": [
+            6825,
+            92142,
+            98967
+          ]
+        },
+        {
+          "division": "Total",
+          "values": [
+            1,
+            85431,
+            1409689,
+            2495120
+          ]
+        }
+      ],
+      "key_metrics": {
+        "year_label": "2020-21",
+        "total_equipment": 3
+      },
+      "processed_at": "2026-05-13T14:13:15.292883"
+    },
+    "2019_20": {
+      "status": "scanned_needs_ocr",
+      "year": "2019-20",
+      "has_embedded_text": false,
+      "total_pages": 75,
+      "pages_with_text": 0,
+      "processed_at": "2026-05-13T14:13:15.297460"
+    },
+    "2018_19": {
+      "status": "scanned_needs_ocr",
+      "year": "2018-19",
+      "has_embedded_text": false,
+      "total_pages": 52,
+      "pages_with_text": 0,
+      "processed_at": "2026-05-13T14:13:15.300137"
+    },
+    "2017_18": {
+      "status": "completed",
+      "year": "2017-18",
+      "has_embedded_text": true,
+      "total_pages": 17,
+      "pages_with_text": 16,
+      "equipment_trend": [],
+      "irrigated_area": [],
+      "division_equipment": [
+        {
+          "division": "Dhaka",
+          "dtw": 3244,
+          "stw": 186280,
+          "llp": 21351
+        },
+        {
+          "division": "Mymensingh",
+          "dtw": 4376,
+          "stw": 155778,
+          "llp": 11287
+        },
+        {
+          "division": "Rajshahi",
+          "dtw": 16501,
+          "stw": 279420,
+          "llp": 10035
+        },
+        {
+          "division": "Rangpur",
+          "dtw": 7677,
+          "stw": 391645,
+          "llp": 2124
+        },
+        {
+          "division": "Khulna",
+          "dtw": 3153,
+          "stw": 262406,
+          "llp": 35902
+        },
+        {
+          "division": "Sylhet",
+          "dtw": 191,
+          "stw": 22543,
+          "llp": 42107
+        },
+        {
+          "division": "Total",
+          "dtw": 37538,
+          "stw": 1355852,
+          "llp": 181469
+        }
+      ],
+      "division_area": [],
+      "dtw_stw_area_by_division": [],
+      "key_metrics": {
+        "year_label": "2017-18",
+        "total_equipment": 1574859,
+        "groundwater_pct": 73.44
+      },
+      "processed_at": "2026-05-13T14:13:15.316959"
+    }
+  },
+  "completed": "2026-05-13T14:13:15.317079"
+}

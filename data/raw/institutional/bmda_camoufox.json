@@ -1,0 +1,34 @@
+{
+  "achievements": {
+    "url": "https://bmda.gov.bd/pages/static-pages/6922dc52933eb65569e0fb93",
+    "error": "invalid literal for int() with base 10: ''"
+  },
+  "annual_report": {
+    "url": "https://bmda.gov.bd/pages/static-pages/6922e12e933eb65569e2abb8",
+    "error": "invalid literal for int() with base 10: ''"
+  },
+  "ongoing_programs": {
+    "url": "https://bmda.gov.bd/pages/static-pages/6922dd1a933eb65569e1383c",
+    "error": "invalid literal for int() with base 10: ''"
+  },
+  "completed_programs": {
+    "url": "https://bmda.gov.bd/pages/static-pages/6922de9d933eb65569e1c067",
+    "error": "invalid literal for int() with base 10: ''"
+  },
+  "irrigation_mgmt": {
+    "url": "https://bmda.gov.bd/pages/static-pages/6922e08a933eb65569e277be",
+    "error": "invalid literal for int() with base 10: ''"
+  },
+  "irrigation_report": {
+    "url": "https://bmda.gov.bd/pages/notices/6922e142dbfbab28ce079239",
+    "error": "invalid literal for int() with base 10: ''"
+  },
+  "sech_seba": {
+    "url": "http://www.sechseba.gov.bd/",
+    "error": "invalid literal for int() with base 10: ''"
+  },
+  "irrigation_charge": {
+    "url": "http://irrigation.bmdabd.com/",
+    "error": "Page.goto: NS_ERROR_UNKNOWN_HOST\nCall log:\n  - navigating to \"http://irrigation.bmdabd.com/\", waiting until \"load\"\n"
+  }
+}

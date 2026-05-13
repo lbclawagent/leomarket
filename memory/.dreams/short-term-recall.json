@@ -1,0 +1,132 @@
+{
+  "version": 1,
+  "updatedAt": "2026-05-13T08:14:26.661Z",
+  "entries": {
+    "memory:memory/2026-05-05.md:1:32": {
+      "key": "memory:memory/2026-05-05.md:1:32",
+      "path": "memory/2026-05-05.md",
+      "startLine": 1,
+      "endLine": 32,
+      "source": "memory",
+      "snippet": "# 2026-05-05 — Daily Log ## 15:33 - Session Start - Workspace scaffolded: SKILL_market_landscape.md, tools/llm_router.py, requirements.txt, .venv, .env, config/ - Multiple prior sessions failed (assistant turn errors) — appears to be initialization issues - No research output exists yet (no data/ directory, no reports) - Pipeline (llm_router.py) is configured but never executed ## 15:54 - Memory Bootstrap - Created MEMORY.md with project overview, methodology rules, workspace architecture - Filled IDENTITY.md: Name=Leo, Vibe=Direct/data-driven, Emoji=📊 - Updated name to \"Leo\" per user request - USER.md still blank — waiting for user info ## 16:00 - Playwright Tooling Test **Results:** -",
+      "recallCount": 2,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1.6312508144417497,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-05-06T05:51:01.017Z",
+      "lastRecalledAt": "2026-05-13T08:14:26.661Z",
+      "queryHashes": [
+        "b058d8f9b85c",
+        "4608bb78f158"
+      ],
+      "recallDays": [
+        "2026-05-06",
+        "2026-05-13"
+      ],
+      "conceptTags": [
+        "router",
+        "skill-market-landscape.md",
+        "tools/llm-router.py",
+        "requirements.txt",
+        "llm-router.py",
+        "memory.md",
+        "identity.md",
+        "direct/data-driven"
+      ]
+    },
+    "memory:memory/2026-05-05.md:26:59": {
+      "key": "memory:memory/2026-05-05.md:26:59",
+      "path": "memory/2026-05-05.md",
+      "startLine": 26,
+      "endLine": 59,
+      "source": "memory",
+      "snippet": "- Google scraping won't work headless — use web_fetch or direct URL navigation instead - Need `ignore_https_errors=True` context for BADC - Daraz renders fully with `wait_until='networkidle'` - Bengali searches will work via direct site navigation, not Google ## 16:00 - Search Tool Preference - User instructed: DO NOT use Z.ai web search for research - Use Playwright-based direct site scraping only - Saved to TOOLS.md ## 16:04-16:10 - Pilot Research Run: Submersible Pumps ### Data Collected - **Daraz prices (Playwright):** 1HP ৳3,080–৳15,800 (avg ৳8,224), 2HP ৳6,000–৳40,000 (avg ৳18,146), 3HP ৳14,200–৳19,857 (avg ৳16,574) - **IDCOL:** Active solar irrigation pump program confirmed (1,500+",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-05-13T08:14:26.661Z",
+      "lastRecalledAt": "2026-05-13T08:14:26.661Z",
+      "queryHashes": [
+        "4608bb78f158"
+      ],
+      "recallDays": [
+        "2026-05-13"
+      ],
+      "conceptTags": [
+        "network",
+        "web-fetch",
+        "ignore-https-errors",
+        "wait-until",
+        "z.ai",
+        "playwright-based",
+        "tools.md",
+        "04-16"
+      ]
+    },
+    "memory:memory/2026-05-11.md:48:73": {
+      "key": "memory:memory/2026-05-11.md:48:73",
+      "path": "memory/2026-05-11.md",
+      "startLine": 48,
+      "endLine": 73,
+      "source": "memory",
+      "snippet": "- `better-sqlite3` native module breaks when Node.js version changes — needs `npm rebuild` each time - Rebuilt twice this session ### Technical Issues & Plugin Failures (15:08-16:17) - **Plugin System Failures**: - Context-mode plugin failed: better-sqlite3 version mismatch (NODE_MODULE_VERSION 147 vs 143) - ACPX plugin failed during register - Codex plugin failed: missing 'ajv' module - Config recovery warning: openclaw.json restored from backup - **BADC OCR Pipeline Failure**: - irrigation_survey_2023_24: failed | 0 pages | 0 pump-relevant | 0 tables - irrigation_survey_2022_23: failed (same pattern) - PaddleOCR models loading but OCR processing failed - **API Error in LLM",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-05-13T08:14:26.661Z",
+      "lastRecalledAt": "2026-05-13T08:14:26.661Z",
+      "queryHashes": [
+        "4608bb78f158"
+      ],
+      "recallDays": [
+        "2026-05-13"
+      ],
+      "conceptTags": [
+        "backup",
+        "better-sqlite3",
+        "node.js",
+        "08-16",
+        "context-mode",
+        "node-module-version",
+        "openclaw.json",
+        "irrigation-survey-2023-24"
+      ]
+    },
+    "memory:memory/2026-05-06.md:18:25": {
+      "key": "memory:memory/2026-05-06.md:18:25",
+      "path": "memory/2026-05-06.md",
+      "startLine": 18,
+      "endLine": 25,
+      "source": "memory",
+      "snippet": "- BADC irrigation reports (2017-2024) are image-based PDFs — need OCR, not standard PDF parsers - NBR import data has two streams: Bond and Commercial, monthly PDF format - 7+ dealer pricing alternatives to Daraz (BDStall, Othoba, Walton, MEL Mart, esmart, gcart, Pedrollo) - IDCOL data lives on SREDA portal, not IDCOL's own site - RAJUK portal available for urban housing permit proxy data - BSTI certification URL still needs locating - Temporal intelligence is now a first-class pipeline dimension",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-05-13T08:14:26.661Z",
+      "lastRecalledAt": "2026-05-13T08:14:26.661Z",
+      "queryHashes": [
+        "4608bb78f158"
+      ],
+      "recallDays": [
+        "2026-05-13"
+      ],
+      "conceptTags": [
+        "2017-2024",
+        "image-based",
+        "first-class",
+        "badc",
+        "irrigation",
+        "reports",
+        "image",
+        "based"
+      ]
+    }
+  }
+}

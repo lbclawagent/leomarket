@@ -1,0 +1,78 @@
+{
+  "status": "completed",
+  "year": "2020-21",
+  "has_embedded_text": true,
+  "total_pages": 50,
+  "pages_with_text": 50,
+  "equipment_trend": [],
+  "irrigated_area": [],
+  "division_equipment": [],
+  "division_area": [
+    {
+      "division": "Total",
+      "irrigated_area_ha": 6752,
+      "pct_of_total": 100.0
+    }
+  ],
+  "dtw_stw_area_by_division": [
+    {
+      "division": "Dhaka",
+      "values": [
+        6461,
+        9,
+        396321,
+        460940
+      ]
+    },
+    {
+      "division": "Rajshahi",
+      "values": [
+        509482,
+        6501,
+        95,
+        1159677
+      ]
+    },
+    {
+      "division": "Rangpur",
+      "values": [
+        2391,
+        60,
+        7891,
+        96,
+        1,
+        28356
+      ]
+    },
+    {
+      "division": "Khulna",
+      "values": [
+        62155,
+        537584,
+        599739
+      ]
+    },
+    {
+      "division": "Sylhet",
+      "values": [
+        6825,
+        92142,
+        98967
+      ]
+    },
+    {
+      "division": "Total",
+      "values": [
+        1,
+        85431,
+        1409689,
+        2495120
+      ]
+    }
+  ],
+  "key_metrics": {
+    "year_label": "2020-21",
+    "total_equipment": 3
+  },
+  "processed_at": "2026-05-13T14:13:15.292883"
+}

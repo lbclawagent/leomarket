@@ -1,0 +1,3266 @@
+
+============================================================
+PAGE 1 (177 chars)
+============================================================
+*
+3
+rl
+*
+.l I
+Bangladesh Agricultural Development Corporation (BADC)
+Digitalization of Survey and Monitoring for Development of
+Minor lrrigation Project
+Ap "i. ?f :?
+-F
+
+============================================================
+PAGE 2 (566 chars)
+============================================================
+@ Government of the People's Republic of Bangladesh
+Ministry of Agriculture
+,F
+w
+"E ,'M*
+Minor lrrigation Survey Report 2020-21
+(Rabi Season)
+Survey Conducted by
+Bangladesh Agricultural Development Corporation (BADC)
+Department of Agriculture Extension (DAE)
+Barind Nllultipurpose Development Authority (BIVDA)
+Report Prepared by
+BAN G LAD ESH AG RI C U LTU RAL DEVELOPM ENT CORPORATION
+Digitalization of Survey & Monitoring for Development of Minor
+lrrigation Project
+22, It(anikm ia Avenue, Sher-e-Bang la Nagar
+Sech-Bhaban, Dhaka-1207
+April, 2022
+
+============================================================
+PAGE 3 (1087 chars)
+============================================================
+Editor
+Data Validation, Cover Design
+& Graphics
+Data Processing & Compilation
+Copy Right
+Publisher
+Date of Publication
+Jarinut Tamanna
+Assistant Engineer
+Digitalization of Survey and Monitoring for Development
+of Minor lrrigation Project, BADC
+Digitalization of Survey and tr/onitoring for Development of
+Minor lrrigation Project, BADC.
+Project Director
+Digitalization of Survey and tMonitoring for Development
+of Minor Irrigation Prolect
+22,Manik [\4ia Avenue, Sher-e-Bangla Nagar
+BADC, Sech Bhaban, Dhaka-1207 .
+April,2022
+Tk. 2000.00 Only
+CONTRIBUTORS TO THIS REPORT
+Mohammad Zafar Ullah
+Additional Chief Engineer (lVl) Western
+and
+Project Director
+Digitalization of Survey and fVonitoring for
+Development of Minor lrrigation Project, BADC
+Md. Shoukat AliAkhand
+Executive Engineer
+Digitalization of Survey and Monitoring for
+Development of Minor lrrigation Project, BADC
+Manira Jahan
+Executive Engineer, BADC
+Mst. Rubina Khatun
+Executive Engineer, BIVDA.
+: Naznine Khanum
+: Additional Deputy Director (lnputs), Field Service Wing, DAE
+I
+Price
+l1
+
+============================================================
+PAGE 4 (1629 chars)
+============================================================
+TABLE OF CONTENTS
+Contents Page No.
+Foreword
+Preface
+List of Acronyms
+Executive Summary
+Key [Messages
+Objectives of the Survey
+Minor Irrigation Survey 2020-21
+Groundwater lrrigation :
+A. Deep Tube Well (DTW)
+B. Shallow Tube Well (STW)
+C. [Vlanual & Artesian well
+Surface Water lrrigation :
+A. Low Lift Pump (LLP)
+B. Gravitational Flow
+C. Traditional lrrigation Equipment
+Trend in Minor lrrigation :
+A. Operational Equipment & lrrigated Area
+B. Comparative Study of Area Coverage per Equipment
+Power Source of Irrigation Equipment
+Map on lrrigation Survey
+GIS IMap of Bangladesh showing Ground Water Zoning lt[ap 2021
+GIS Map of Bangladesh showing Net Cultivable Area, Non-lrrigated Area
+and Total lrrigated Area in Rabi Season 2020-21
+GIS [\tlap of Bangladesh showing lrrigated Area by
+Power Sources in Rabi Season 2020-21
+GIS IVap of Bangladesh showing Area lrrigated by
+Groundwater in RabiSeason 2020-21
+GIS [t/ap of Bangladesh showing Area lrrigated by Surface
+Water in Rabi Season 2020-21
+Preparation of Data Base and Software Development
+Features of Web Applications
+Groundwater Recharge and Withdrawal Situation for lrrigation Purpose
+Grou ndwater Table HydrograPhs
+Findings of the Survey
+Organization wise Summary Sheet
+Annexure-A: Division wise Data
+Annexure-B: District wise Data
+Annexure-C:Upazila wise DTW Data
+Annexure-D: Upazila wise STW Data
+Annexure-E : Upazila wise LLP Data
+iv
+V
+vi
+1
+2
+3
+4-8
+9-14
+9-1 0
+11-12
+13-14
+15-19
+17
+17
+18
+20-24
+20-22
+23-24
+25
+26-30
+26
+27
+28
+29
+35-42
+30
+31
+32-33
+34
+43
+44
+45-49
+50-61
+62-113
+114-165
+166-217
+111
+
+============================================================
+PAGE 5 (1365 chars)
+============================================================
+FOREWORD
+Bangladesh Agricultural Development Corporation (BADC) has been successfully
+working on collecting and monitoring the irrigation and water related data since its
+inception. Primary data about operation and installation of irrigation equipment
+necessary for both planning and research work could be found from this report.
+It is a great pleasure that Digitalization of Survey and [Vlonitoring for Development of
+It/inor Irrigation Project of BADC is going to publish an informative report on irrigation
+equipment survey 2020-21. I expect that the report would meet the requirement of
+some basic information on irrigation which will cover low lift pumps, deep tube wells,
+shallow tube wells, artesian wells, manually operated pumps, traditional and by gravity
+flow.
+I believe, the findings of the report will help the Government in formulation of policy
+and taking decisions for effective minor irrigation sub-sector which plays a key role in
+the production of agri-produces. I also hope that this report will furnish necessary
+irrigation related data for the planners, researchers and administrators for effective
+planning in irrigation sub-sector.
+I like to extend my thanks to my colleagues of lMinor lrrigation Wing of BADC, BI\4DA
+and DAE who contributed in preparing and publication of the report.
+AFIV Hayatullah
+Chairman, BADC.
+1V
+
+============================================================
+PAGE 6 (2105 chars)
+============================================================
+PREFACE
+Digitalization of Survey and Monitoring for Development of tMinor lrrigation Project is directly
+involved with collection of data regarding groundwater and surface water monitoring, survey of
+irrigation equipment & irrigated area, benefited farmers, groundwater level & irrigation water
+quality, irrigation costs etc. tMain objective of this project is to generate reliable and adequate
+statistical data about minor irrigation development. So, Survey and Monitoring Project has
+been introduced to make the prevailing monitoring system more widened, consolidated,
+stronger and modernized as well as to provide technical support and cooperation to the users.
+lyinor irrigation survey has been being performed by three organizations jointly and the report
+is published on the basis of the information collected by BADC, BIVDA and DAE since Rabi
+season 2004-05.
+I believe that the findings of the report will help the Government in formulation of decisions for
+effective irrigation planning. I also hope that this report will furnish the planners, researchers
+and administrators necessary irrigation related data for effective planning in minor irrigation
+sub-sector.
+I would like to extend my sincere thanks to all my colleagues both in the field and at project
+office for their efforts to publish the report. I am especially grateful to Naznine Khanum,
+Additional Deputy Director, DAE, tMst. Rubina Khatun, Executive Engineer, BTVDA for their
+sincere efforts in composing this report.
+I am very much grateful to Chief Engineers of irrigation wing and also Member Director ([Vl),
+BADC for their valuable suggestions for preparing and publication of this report.
+Special thanks to AFM Hayatullah, Chairman, BADC, tt/d. Asadullah, Director General DAE
+and Md. Abdur Rashid, Executive Director, BIVIDA for their participation and valuable
+suggestions to make this effort successful.
+Nlohammad Zafar Ullah
+Additional Chief Engineer (l\Il) Western
+and
+Project Director
+Digitalization of Survey and lVlonitoring for Development
+of -tMinor lrrigation Project, BADC.
+V
+\---{rrq
+
+============================================================
+PAGE 7 (2777 chars)
+============================================================
+EXECUTIVE SUMMARY
+The main objective of this report was the survey on current agricultural practices by inigation in
+Rabi season. ln 2O2O-21 lrrigation Season total irrigated area is 5654789 hectares of which
+4108254 (72,65%) hectares are through utilization of groundwater and 1546535 (27.350/"1
+hectares through utilization of surface water.Currently, Net Cultivable Area in Bangladesh is
+about 8460950 ha where Total lrrigated Area is 5654789 ha, which is about 66.51% of Net
+Cultivable Area. lncreased groundwater accessibility resulting from the expansion of deep and
+shallow tube wells helped Bangladesh to attain near self-sufficiency in rice. Available evidence
+suggests that the policy focus so far has been largely on "resource development", and not on
+"resource management". This has resulted in serious problems, most notably excessive
+drawdown (declined static water level) in intensively irrigated areas and the deterioration of
+groundwater quality. lncreasing energy prices are also threatening the sustainability of irrigation
+in Bangladesh.
+The forefront challenge, therefore, is to take the necessary corrective measures before the
+problem becomes either insolvable or too costly to remediate. So, attention must be given to the
+development and management of surface water resources to lessen pressure on groundwater.
+ln addition to supply-side solutions, water demand will also need to be curtailed by increasing
+water use efficiency through the adoption of water conserving management practices, for
+example reduced tillage and raised bed planting, improve irrigation water management
+technology and the right choice of appropriate crops. Decreasing water availability both in terms
+of quantity and quality suggested that the unchecked expansion of dry season boro rice
+cultivation is probably not a long-term option for Bangladesh. Therefore cropping patterns need
+to be rationalized considering water availability and the sustainability of aquifers. ln the
+absence of proper institutional arrangements, evaluation of strategic options and monitoring
+national policies implementation for the public water sector will remain a challenge. At present,
+seven different agencies are responsible for the management of groundwater resources. ln
+addition to technical solutions, needs a strong linkages and improved communications between
+different organizations involved in the management of groundwater resources. This report has
+prepared on the basis of the data/information collected through the survey conducted by three
+organizations BADC, DAE and B[\/DA in the Rabi season of 2020-21. The survey has been
+conducted on Boro, Wheat, Potato, Maize, Fruits and Vegetables which has been irrigated
+by minor irrigation equipment.
+1
+
+============================================================
+PAGE 8 (1792 chars)
+============================================================
+1
+Key Messages
+ln the year 2020-21; 36,955 Deep Tube wells, 14,09,6g9 shallow Tube wells
+and 2,04,391 Low Lift Pumps are operated in Bangladesh to provide water for minor
+irrigation. About 72.65% of the total cultivated area'is irrigated by groundwater and
+the remaining27.35o/o area is irrigated by surface water.
+2. About 16,56,1f 3 Nos. of irrigation equipment's are used in irrigation season of
+which 73.53o/o equipment's are operated by diesel engines and about 26.16%
+operated by electricity. Despite subsidies on electricity, diesel pumps are preferred
+by farmers due to low capital cost and mobility ease within small and fragmented
+farm lands.
+3- lmproving water use efficiencies through the adoption of resource conserving
+crop management practices such as alternate wetting and drying (AWD), direc!
+seeded rice, and bed planting could help in reducing groundwater demand for
+agriculture. Fixed-irrigation rates, non-availability of water on needed schedules,
+and lack of technical understanding are the major constraints in the wide scale
+adoption of AWD in Bangladesh.
+4. Groundwater demand for irrigation can also be reduced by rationalizing cropping
+patterns. Decreasing water availability both in terms of quantity and quality
+suggest that the unchecked expansion of dry season rice cultivation is probably not
+a long-term option for Bangladesh.
+5. For sustainable groundwater resource management, integrate water users,
+investments in development water resources and agricultural technologies, irrigation
+charge by developing pre-paid meter system or crop specific pricing.
+6. Facilitate markets for non-rice crops, promotion of alternative cropping patterns, and
+extra support for farmers making transition to less water demanding crops is needed.
+2
+
+============================================================
+PAGE 9 (2327 chars)
+============================================================
+OBJECTIVES OF THE SURVEY
+Bangladesh is one of the largest deltaic countries in the world. lt has limited fertile
+agricultural land in relation to its population. There is abundant water in rainy season but
+limited water in Rabi Season (January to April) when plenty of water is needed for
+inigation purpose. lrrigation is the life blood for increasing agricultural production. ln
+Bangladesh minor irrigation plays the vital role to expand ir:rigated area, increase food
+production and thereby to help insuring food security of the country. For the formulation
+of economic policy and plan for agricultural development, adequate and reliable
+statistical data about the number & types of irrigation equipment (both diesel and
+electric), irrigated area, benefited farmers are very much essential.
+Survey and tMonitoring Project of BADC has been carrying out survey of irrigation
+equipment since its inception in the year 2000. Five survey reports in five consecutive
+years 2000 to 2004 have been prepared and published by this project alone. But as per
+direction of tt/OA the survey is being carried out by BADC, DAE & BTMDA jointly from
+2005 and now on.
+The main objectives of this report are to survey and monitor the minor irrigation
+equipment operated for irrigation by utilizing diesel and electricity, area of land are
+irrigated through utilization of surface water & groundwater and farmers are benefited in
+Rabi season.
+The primary objective of the minor irrigation survey 2O2A-21 is to gather a better
+knowledge about minor irrigation facilities and to know the present trend and status of
+minor irrigation system all over the country
+The detail objectives of the minor irrigation survey 2020-21 are outlined as follows:
+of numbers & types such as Deep Tube Well, Low Lift Pump & Shallow Tube Well
+separately and thereby to help estimating the future requirement of diesel and electricity
+during the next Rabi Season;
+irrigated area (command area) per equipment;
+farmers;
+for effective planning in irrigation sub-sector;
+which plays a key role in the production of food grains and thereby to help ensuring the
+food security of the country;
+on irrigation survey, preparing survey procedures and methodologies for the purpose of
+collecting adequate and accurate data on minor irrigation.
+.-,
+
+============================================================
+PAGE 10 (2149 chars)
+============================================================
+INTRODUGTION
+For proper utilization of valuable water in irrigation, it is necessary to collect related in
+formations regarding irrigation systems from the field, prepare data base, GIS maps &
+report for future use. Necessity of irrigation related information increases day by day for
+demand based planning in irrigation sub-sector to enhance irrigated area for ensuring
+sustainable food grain production in the country.
+[\4inor irrigation consists of mechanized, semi-mechanized and non-mechanized
+systems of irrigation. Low lift pumps, shallow tube wells and deep tube wells are under
+mechanized irrigation system; manually operated pumps such as hand tube wells,
+treadle pumps, artesian wells etc, and gravity flow systems are under semi-mechanized
+irrigation system. Traditional systems such as doans, swing baskets etc come under
+non-mechanized irrigation systems.
+BADC started irrigation activities through utilization of 1555 nos. of Low lift pumps. Later
+on in 1967-68, Deep Tube Wells were installed for irrigation purposes where surface
+water was not available. Similarly in 1973-74 Shallow Tube wells were installed for the
+same purposes. Besides these methods, irrigation activities in some area of the country
+are performed through l/anual & Artesian Well, Traditional [/ethod, and Gravity Flow
+I\4ethod. The summary of irrigation through utilization of surface and groundwater by
+different modes is shown inTable-1.
+Table-l: Summary of Surface water and Groundwater lrrigation by Different
+Modes during Rabi Season2020-21
+Surface water lrrigation by:
+Gravity flow 245136 4.34%
+Solar Pump 2260 8262 0.15%
+% of Ground
+water Groundwater lrrigation by:
+Shallow tube well 1409689 3006074 73.17% 53.16%
+Solar 2263 8262 0.20Yo
+Sub Total 1449462 4108254 100.00% 72.65%
+4
+A.
+1 Low lift pump 204391 1287013 83.22% 22.76Yo 6.30
+2 0 15.85%
+3 Traditional method 0 6124 0.40% 0.12%
+4 0.53%
+Sub Total 206651 1 546535 100.00% 27.35%
+B.
+I Deep tube well 36955 1 085431 26.42Yo 19.19% 29.37
+2 2.13
+3 6752 0.16% 0.12Yo Manual & Artesian
+well 0
+4 0.15o/o
+5 Dug Well 555 1735 0.04% 0.03%
+1656113 5654789 100.000/o
+
+============================================================
+PAGE 11 (2532 chars)
+============================================================
+=,om Table-'1, it is revealed that during the Rabi Season 2020-21, total 1656113 numbers of
+.r gation equipment's are used for irrigation in the country which is 0.99% higher than that of
+n1g-20 Rabi season in which 11639311 nos. of irrigation equipment's were operated. On the
+::her hand, irrigated area was 5654789 hectares in Rabi season 2020-21which is also 0.999'o
+- gher than that of 2019-20 Rabi season irrigated area was 5627598 hectares. Out of total
+56S478g hectares irrigated area, 5597382 hectares irrigated by DTW, STW & LLP and 57407
+-ectares irrigated by tVanual/Artesian well, traditional method, gravity flow, solar pump and dug
+,,,ell. Out of total 5654789 hectares irrigated area 4108254 hectares through utilization of
+;roundwater i.e.,72.65% of total irrigated area and 1546535 hectares through utilization of
+surJace water i.e.,27.35% of total irrigated area. The historical development of different types of
+'ngation equipment's in Bangladesh is shown in Figure-1.
+Historical Development of Different Types of lrrigation Equipments in Bangladesh
+1600000
+F
+!
+c
+I
+z
+gDTWI TSTWS TLLPS
+1400000
+1200000
+1000000
+800000
+600000
+400000
+200000
+0
+,*!L!"!"p'!""!+";".;.t"ii"i'"i",i",-|'-1""i-1"i"-1"-1"-1"-1r-14"f"{.f"'ffi.r}f.'f*'}.-T*{.*T*s
+Figure 1: Historical Development of Different Types of Pumps in Bangladesh
+With the introduction of high yielding rice varieties in 1980-90s that responded favorably
+to irrigation and fertilizer, and which are suitable for boro rice, demand for reliable
+irrigation. Since aquifer conditions were favorable in most parts of the Teesta,
+Brahmaputra-Jamuna and Ganges River floodplain, the attention was diverted to the
+development of groundwater resources. The installation of deep tube wells (DTWs)
+started in the late '1960s, but gained momentum in late 1980s. Within 1992, about
+25,500 DTWs were installed throughout the country by BADC. Currently, 36955 DTWs
+are working in Bangladesh to provide water for irrigation purposes.
+The expansion of DTWs was followed by the development of Shallow Tube Wells
+iSTWs) with discharge capacities of 10-20lit/ sec. However, despite visible benefits of
+groundwater irrigation, STWs were not initially adopted due to restrictions on tube well
+spacing and embargo on the import of all types of diesel engines. After devastating
+floods of 1988 and subsequent cyclones in the early 1990s it is realizing that the need
+for agricultural machinery to kick-off farming economies back into action.
+5
+"yl
+
+============================================================
+PAGE 12 (1132 chars)
+============================================================
+The government lifted all restrictions and embargos on the import of irrigation
+equipment. Consequently, local markets were flooded with inexpensive and easy to
+operate irrigation pumps and small engines (<12 HP), mainly imported from lndia and
+China.
+The groundwater and surface water irrigated area are shown in Figure-2.
+Source wise lrrigated Area (ha) in the Year 2020-21^
+4108254 ha,72.65%
+I Groundwater lrrigation
+I Surface water lrrigation
+L546535 ha,27.35%
+Figure 2: lrrigated Area (ha) of Surface water & Groundwater during Rabi Season 2O2O-21
+Distribution of irrigation equipment's used during Rabi season 2O2O-21 are shown in
+the Table-2 and graphical presentation shown in Figure 3.
+Table 2: Total Area (ha) covered by Different lrrigation Mode during
+Rabi Season 2020-21
+6
+Different Mode of lrrigation
+I rri gation Y ear 2020-21
+lrrigated Area (ha) % of Total Area
+Deep Tube Well 1 085431 19.19%
+Shallow Tube Well 3006074 53.16%
+Low Lift Pump 1287013 22.76%
+Gravity Flow 245136 4.34%
+Solar Pump 16524 0.29%
+lManual & Artesian well 6752 0.12%
+Traditional tMethod 6124 0.11Yo
+Dug Well 1735 0.03%
+
+============================================================
+PAGE 13 (1467 chars)
+============================================================
+Area Covered By Different lrrigation Mode in RabiSeason 2020-2L
+19.19%
+o.o3% 53.L6%
+o.tt%
+o.t2% s lrrigated by DTW
+::::: lrrigated bY STW
+',: lrrigated by LLP
+r lrrigated Area (ha) by Gravity Flow
+lrrigated Area (ha) bY Solar PumP
+lrrigated Area (ha) by Manual & Artesian well
+lrrigated Area (ha) by Traditional Method
+lrrigated Area (ha) bY Dug Well
+0.290/o
+434%
+22.16%
+Figure 3: Total Area Covered by Different lrrigation tVode in Rabi Season 2020-21
+Distribution of irrigation equipment's used during Rabi season 2020-21 are shown in bellows￾Table 3: Division wise distribution of irrigation equipment's (DTW, STW, LLP) used during
+Rabi Season2020'21
+Name of Division
+I raka
+'.'ymensingh
+? ajshahi
+r,angpur
+- r ittagong
+,irulna
+Sr het
+I a risal
+Total
+Division Wise Distribution of lrrigation Equipments in the Year2O2O-2L
+I DTW I STW ffi LLP
+E
+o
+Eq
+E
+U
+E
+.9
+G
+.go :
+o
+o
+E
+z
+420000
+390000
+360000
+330000
+300000
+270000
+240000
+210000
+180000
+150000
+120000
+90000
+60000
+30000
+o
+6
+.=
+E
+E
+'a
+E
+=
+t
+,4
+Year
+Figure 4: Division wise Distribution of lrrigation Equipment's in the Year 2020-21
+1
+Nos- of lrrigation equipment's in the Year 2O2O-21
+DTW STW LLP Solar Dug Well
+2570 172774 25727 345 35
+4292 1 54506 12326 140 42
+17053 302263 12054 389 342
+B'133 393273 2206 765 B9
+2054 46245 461 13
+2640 2A2805 35970 611 16
+212 2ao79 43607 172 10
+1 159 26256 1640 8
+36955 1406989 204391 4523 555
+75826
+
+============================================================
+PAGE 14 (760 chars)
+============================================================
+lrri gation Y ear 2020-21
+Name of Division
+lrrigated Area (ha) % of Total Area
+Dhaka 696697 12.32%
+[t/ymensingh 609570 10.78%
+Rajshahi 1233277 21.82%
+Rangpur 1067345 18.88%
+Chittagong 6451 00 11.41%
+Khulna 790412 13.98%
+Sylhet 425203 7.52%
+Barisal 1 85460 3.29o/o
+Table 4: Division wise distribution of Total Irrigated Area (ha) during Rabi Seas on 2020-21
+Figure 5: Division wise Distribution of lrrigated Area (ha) in Rabi Season 2020-21
+8
+Division wise Distribution of lrrigated Area (ha) in the Rabi seaso n 2020-zL
+::. Dhaka Mymensingh Rajshahi Rangpur Chittagong Khulna *sylhet ; Barisal
+18s460 h
+425203ha,7.52%
+a,3.28%
+696697 ha, L2.32%
+609570 ha,10.78%
+790412ha,13.98%
+1233277 ha,21-.82o/o
+645100 ha,1,1,.41%
+1,067345 ha, 18.88%
+
+============================================================
+PAGE 15 (2478 chars)
+============================================================
+GROU N DWATER IRRIGATION
+-:out 75.42% of the total groundwater is used in four divisions in the North-Central and
+North-Western hydrotbgical zones i.e., Dhaka, lVymensingh, Rajshahi and Rangpur. ln
+the North West, groundwater irrigation is likely to continue until the limits of land or
+sustainable groundwater withdrawals are reached. Dry season groundwater irrigation
+over a seven-month period depends on adequate recharge in the five-month monsoon
+period. lf recharge is not more or at least equivalent to discharge, round the year
+inigation will accelerate groundwater depletion resulting in an excessive decline in
+water levels. On the other hand, it is found that groundwater recharge is higher in the
+North-west than the South and North-east, respectively, a function of increased
+groundwater extraction in the former zones.
+=armers of these regions have already started switching to more profitable and less
+,', ater-intensive crops such as maize, wheat. About 73.53% of the pumps within
+3angladesh are run by diesel engines. The remaining 26.16% use electricity. Diesel
+:.rmps usually have higher costs and lower water extraction capacity than electric. But
+:espite subsidies on electricity, diesel pumps are preferred by farmers due to low
+:apital costs and mobility ease within small and fragmented farm lands. lncreasing
+:ower cuts and the generally poor electricity network in many rural areas comprise
+::her potential reasons for farmers' diesel pump preferences. ln addition to irrigate their
+:,vn lands, the owners of STWs also provide irrigation services to their neighbors for a
+'xed seasonal fee in cash or through payment by producing crops.
+Groundwater irrigation requires large amounts of energy to lift water from underlying
+aquifers. ln the Rabi season 2020-21 about 35,059 DTWs are electrified; the rest 1896
+are diesel operated. Out of the 1.409 million STWs in Bangladesh, only 0.37 million
+are electrified where as the remaining 1031464 are diesel operated. ln the North-west,
+diesel operated STWs are used primarily for irrigating Bororice, and partially for
+supplementary irrigation to Amanand Ausrice and other crops.
+-s the genetic and agronomic scope for yield increase in rice is limited, increasing
+'rigation costs will reduce farmers' net incomes, further threatening the economic
+":undations upon which boro rice production is based. The following are pictures of
+some deep tube wells and shallow tube wells:
+9
+
+============================================================
+PAGE 16 (221 chars)
+============================================================
+Figure 6: Electrically Operated Deep Tube Well and Buried Pipe Line
+Figure9: BIVDA Solar Energised Dug Well in Shapahar Upazila
+10
+Figure 7: BTMDA DTW in Taraganj, Rangpur Upazila Figure 8: Btt/DA DTW in Paba, Rajshahi
+
+============================================================
+PAGE 17 (571 chars)
+============================================================
+Figurel0: Solar Operated Dug Well, Godkhali,Jessore.
+Figure 11: Diesel Operated STW
+-= :he Rabi season 2020-2021, DTWs and STWs covered throughout the country were
+.:rr31 and 3006074 hectares. ln the previous Rabi season2019-20, total 1084245 nos. of
+- s -nd STWs were in operation and 1409689 hectares land were irrigated. Deep Tube Well
+- ' : -:ed 19.19% and Shallow Tube Well is contributed 53.16% of the total area irrigated
+. Rabi season 2020-2021. Division wise lrrigation by DTWs STWs is shown in Table-4
+, .r graphical representation in Figure10.
+-.=€
+11
+
+============================================================
+PAGE 18 (988 chars)
+============================================================
+Name of Division
+lrrigation Year 2020-2021
+Area lrrigated
+(ha) by DTW
+Area lrrigated
+(ha) by STW
+Total Irrigated
+Area (ha)
+Dhaka 6461 9 396321 460940
+[/lymensingh 148861 333590 482451
+Rajshahi 509482 6501 95 1159677
+Rangpur 2391 60 7891 96 1 028356
+Chittagong 54309 206642 260951
+Khulna 62155 537584 599739
+Sylhet 6825 92142 98967
+Barisal 20 404 424
+Total 1 085431 1409689 2495120
+Table-4: Area lrrigated by DTWs and STWs in eight divisions of Bangladesh in Rabi season 2020-2021.
+Figure 12: Area irrigated by DTWs and STWs in Comparison with Total lrrigated Area
+in Rabi season 2O2O-21
+Area lrrigated by DTW and STW in Gomparison with Total
+lrrigated Area in the Year 2O2O-21
+n Area lrrigated (ha) by DTW * Area lrrigated (ha) by STW € TotallrrigatedArea (ha)
+(!
+G
+o)
+E
+o
+6
+9' 'i
+!
+1600000
+1200000
+800000 I
+400000
+:
+o
+U
+=o)
+x￾OJ
+3
+(D
+!.f
+gq
+=
+u
+o)
+OJ
+nOJ
+c/qE
+C
+-
+a)
+=OJ
+oq
+o
+gq
+x
+=- C
+OJ
+lJ'l
+=(D
+@
+OJ
+=.
+OJ
+Division
+t2
+
+============================================================
+PAGE 19 (1283 chars)
+============================================================
+MANUAL & ARTESIAN WELL
+Figure 13: Diaphragm Pump Figure 14: Treadle Pump
+Manual irrigation systems are easy to handle, require no technical equipment and are
+therefore generally cheap. But these types of pumps need high labor inputs. A common
+and very simple technique for manual irrigation is Treadle pump, Diaphragm Pump, and
+Hand Pump etc. for groundwater-based irrigation.
+Figurel5: Artesian Well, BADC Figure 16: Artesian Well, Private
+Aftesian well
+A water table higher than the well ensures water pressure will consistently force water
+into the well. An artesian aquifer is an underground layer which holds groundwater
+under pressure. This causes the water level in the well to rise to a point where the
+pressure is equal to the weight of water putting it under pressure. Water may even
+reach the ground surface if the natural pressure is high enough, in which case the well
+is called a flowing artesian well. An aquifer is a geologic layer which can hold water
+such as sand and gravel, limestone, or sandstone, through which water flows and is
+stored. An artesian aquiferis trapped between rocks or clay which causes the
+pressure. Water returns to the aquifers when the water table at its recharge zone is at
+a higher elevation than the head of the well.
+13
+
+============================================================
+PAGE 20 (529 chars)
+============================================================
+\$at*r ?*hk
+{wl'i***
+t"Jn***ii*e$ Aqr*if*r
+Figure 17: An Artesian Well in Artesian Aquifer
+Division wise irrigated area by l/anual and Artesian well method in Rabi season
+2020-2021are shown in the Table-S.
+Table5: lrrigated Area by Manual Method & Artesian well in 2020-2021.
+Sl. No Division lrrigated Area (ha) % of Total
+1 Dhaka 1119 1425%
+2 lVymensingh 305 3.88%
+3 Rajshahi 230 2.93%
+4 Rangpur 200 2.55%
+5 Chittagong 810 10.32%
+6 Khulna 770 9.81%
+7 Sylhet 2570 32.73%
+8 Barisal 748 9.53%
+Total 6752 100.00%
+t4
+
+============================================================
+PAGE 21 (234 chars)
+============================================================
+SU RFACE WATER IRRIGATION
+Figure 18: Hydraulic Elevated Dam in Anowara, Chottogram
+Figure 19: tVichhakhali Rubber Dam, Bishambhampur, Sunamganj
+Figure 20: 5 Cusec capacities Solar LLP in Sunamganj Sadar Upazila, Sunamganj
+15
+lt--
+
+============================================================
+PAGE 22 (276 chars)
+============================================================
+Figure 21: Chellakhali Rubber Dam,
+Nalitabari, Sherpur.
+Figure 22: Chilai River Rubber Dam
+Doyarabazar Sunamganj
+Figure 23: lntake Point Sluice Gate, B. Baria Figure 24: Submerged Weir, B. Baria
+Figure 25: RCC Channel of Habiganj
+16
+26: Falimari Khal Badarganj, Rangpur
+
+============================================================
+PAGE 23 (1127 chars)
+============================================================
+t
+t-ow Lift Pumps (LLP):
+' 2020-21, about 204391 nos. of LLP was operated for irrigation purpose and'1287013 hectares
+,'ea irrigated which is 22.76% of total irrigated area. Out of 204391 LLPs, BADC operated 8531
+-:s. of LLPs under various projects through which 208288 hectares of land was irrigated. Division
+. se no. of LLPs and irrigated area in Rabi season 2020-2'l are shown in Table-6.
+Figure 27: 0.5 Cusec capacities Solar LLP in Dhamrai Upazila, Dhaka.
+f 'avitational Flow:
+- some part of the country irrigation carried out by gravity flow through major irrigation projects.
+-- s type of irrigation projects mainly implemented and operated by BWDB. Some of the
+. :ated areas under gravity flow also covered by BADC, LGED and private sector. lt has been
+: served that during 2020-2021 irrigation seasons, 245136 hectares of land were irrigated by
+..= , ty flow method. Division wise irrigated area (ha) by Gravity Flow is shown in the Table-6.
+Figure 28: 12.5 Cusec Floating Pump, Shariotpur
+5 Cusec LLP,Chadpur Figure 30: Portable Distribution System in
+Lalmonirhat Char.
+t7
+= gure 29
+a:
+l- -: i￾laI
+
+============================================================
+PAGE 24 (716 chars)
+============================================================
+Traditional lrrigation Equipment:
+Bangladesh was dependent on traditional means of irrigation, up to 1950s, when irrigation
+was applied by swing basket, shewty, doan etc. Swing basket or shewty is capable of lifting
+water up to 3 feet approximately and doans up to 5 feet. After introducing modern irrigation
+technology, the use of traditional method irrigation is decreasing day by day. During Rabi
+Season 2O2O-21, 6124 hectares of land has been irrigated by traditional method. Division
+wise irrigated area (ha) by Traditional tVethod in the Boro Season is shown in the Table-6.
+Figure 31: Don
+Figure 33: Different Types of Traditional lrrigation [Vethods
+18
+Figure 32: Portable Solar LLP at Rangpur Char
+
+============================================================
+PAGE 25 (1292 chars)
+============================================================
+Table-6: Area irrigated by Surface water in eight divisions of Bangladesh in Rabi
+season 2020-21
+\r 3II€ Of
+lr vision
+rensingh
+, 
+-a<a
+r 
+, ^;Pur
+- 
+^ ::agong
+r, shahi
+Area lrrigated by Surface Water lrrigation in Rabi Season 2O2O-21
+::
+:i:it:ii::
+:i.:
+il
+lrrigated Area (ha)
+by LLP
+lrrigated Area (ha)
+by Gravity Flow
+! lrrigated Area (ha)
+byTraditional
+tulethod
+g lrrigated Area (ha)
+by Solar
+Total lrrigated
+Area (ha)
+i': lT: i.lj i:ij ,ii,] :: r{
+r: !1
+t=
+:: ,: , l: ..::-- s
+: li,: ;,i i ll a
+.;, rl *r-
+."" 
+-$.."$ *t'" 
+"-t ""-t- 
+."" t-'"* *P'a
+Division
+= I -'e 34: Division wise Area lrrigated (ha) by Surface Water during Boro Season 2020-21
+t9
+lrrigated
+Area (ha)
+by Solar
+Total lrrigated
+Area (ha)
+lrrigated Area
+(ha) by LLP
+lrrigated Area
+(ha) by
+Traditional
+Method
+lrrigated
+Area (ha)
+by Gravity
+Flow
+'1595 11 53 215601 16289 234638
+1 05870 19782 580 572 126804
+69742 2047 80 1 50 1 73370
+270 20975 14770 2774 38789
+67132 1672 313172 1423 383399
+137787 49256 757 2130 1 89930
+248682 73585 820 579 323666
+410 175184 2275 6419 184288
+1287013 245136 6124 16524 1554797
+: - ^+:t
+a:oooo
+:;,tooo
+:.:tlOO0
+j,30O0
+l:rl0o0
+'rlOO0
+-:rlOO0
+i1000
+0
+:1ll i :t l: l
+i : l':l :: {:1 .:i,i :: ij ; i 1i
+;. .: .;-J".'j
+
+============================================================
+PAGE 26 (1601 chars)
+============================================================
+TREND OF MINOR IRRIGATION
+A. Operational Equipment and lrrigated Area
+The trend of operational irrigation equipment and irrigated area from 1961-621o 2O2O-202i is
+shown in Table-7 and Table-8.
+Table-7: Trend of Minor lrrigation Equipment 1961-62 to 2020-2021
+Boro
+Season
+Boro Season Annual Operating(Nos.) Equipment Annual Change in Percentage(%)
+DTW STW LLP DTW STW LLP
+1961-62 1 555 0.00
+1 962-63 2024 30.1 6
+I 963-64 2477 22.38
+1 964-65 2239 -9.61
+1965-66 3420 52.75
+1 966-67 3990 16.67
+1967-68 102 6558 0.00 64.36
+1 968-69 380 1 0852 272.55 65.48
+1 969-70 980 17846 157.89 64.45
+1970-71 796 24483 37.19
+1971-72 906 24243 13.82 -0.98
+1972-73 1237 32917 36.53 35.78
+1973-74 1494 998 35243 20.78 0.00 7.O7
+2699 1029 35534 80.66 3.11 0.83
+1975-76 3828 2162 36382 41.83 110.11 2.39
+1976-77 4461 3045 28361 16.54 40.84 -22.O5
+1977-78 7453 6447 36730 67.07 111 .72 29.51
+1978-79 9329 8379 35895 25.17 29.97 -2.27
+1 979-80 9795 11280 37389 5.00 34.62 4.16
+1980-81 '10131 20931 35951 3.43 85.56 -3.85
+1981-82 1 1491 42955 41153 13.42 105.22 14.47
+1 3800 931 00 35500 20.09 116.74 -13.74
+1983-84 1 5500 1 20300 36000 12.32 29.22 1.41
+1 984-85 1 6900 147000 37000 9"03 22.19 2.78
+1 985-86 17900 I 46900 37500 5.92 -0.07 1.35
+1 986-87 1 8700 1 60300 40600 4.47 9.12 8.27
+1 987-88 20300 1 88700 42300 8.56 17.72 4.19
+1 988-89 22400 235900 50800 10.34 25.01 20.09
+1 989-90 22600 260000 51 000 0.89 10.22 0.39
+1990-91 21500 270300 51 600 -4.87 3.96 1.18
+1991-92 25500 309300 50300 18.60 14.43 -2.52
+1 992-93 25700 348900 52200 0.78 12.80 3.78
+20
+-18.78
+1974-75
+1982-83
+
+============================================================
+PAGE 27 (1980 chars)
+============================================================
+Equipment Annual Change in Percentage(%) Boro Season Annual Operating(Nos.)
+STW LLP DTW STW LLP DTW
+52600 -4.67 2.95 o.77 24500 359200
+571 00 8.98 36.11 8.56 26700 488900
+2.25 16.83 6.'1 3 27300 571200 60600
+62900 -7.69 10.26 3.80 25200 629800
+66300 0.40 5.54 5.41 25300 664700
+7361 00 72900 5.53 10.74 9.95 26700
+58050 -3.88 -20.37 23530 707570
+-1.49 22.28 22.84 2314O 86521 0 71310
+77000 -o.74 3.25 7.98 23000 893360
+79A70 1.87 3.43 3.73 23430 924020
+77790 5.51 o.12 -2.60 24720 925150
+9.95 22.O3 27.59 27180 1 1 28990 99250
+119130 4.O5 4.74 20.o3 28280 1182520
+1202720 107290 3.15 1.71 -9.94 29170
+1304970 1 38630 7.30 8.50 29.21 31 300
+1374540 146790 2.78 5.33 5.89 32170
+1425140 1 5061 0 2.30 3.68 2.60 32910
+173670 2.31 8.70 15.31 33670 1 5491 50
+1 498390 177220 1.13 -3.28 2.O4 34050
+1523610 170570 3.73 1.68 -3.75 35320
+1563791 17 1041 2.O2 2.64 o.28 36034
+167 17 5 1.48 -0.90 -2.26 36566 1549711
+1417008 173179 1.16 -9.36 3.46 36979
+176478 0.53 -1.27 1.90 37175 1 398960
+1355852 181469 0.98 -3.08 2.83 37538
+1357532 1871a8 o.26 o.12 3.15 37634
+199914 -1.67 3.03 6.80 37007 1 398706
+1 409689 2C4391 o.14 -0.79 -2.24 36955
+Boro
+Season
+393-94
+i94-95
+?95-96
+-?96-97
+?97 -98
+i I8-99
+i I9-00
+: _ l2-03
+- - -)3-O4
+2000-01
+2001-o2
+_ _ t4-05
+_ _ :5-06
+_ '6-07
+_ _ :7-08
+-,_t-09
+___9-10
+0-1 1
+-tz
+- 
+'2-13
+-' 4A
+- i- l+
+-- tc
+:- LO
+6-17
+-lJ
+-,'r-'9
+:-ZU
+l::a from 1961-62 to 1981-82 Taken from Year wise Progress Report of BADC, data from
+- :t2-83 to 1g99-2000 taken from Census of lrrigation in Bangladesh by ATIA Project and
+:::a from 2000-01 to 2O2O-21taken from lVinor lrrigation Survey Report of BADC.
+lrrigation Equipment Annual Change in Percentage (%)
+w Drw
+S STW
+W LLP
+:.._ 2C10.11 2011-12 2A12-13 2013.14 2014-15 2015-16 2016-17 2017-18 2018-19 2019-20 2020-21
+Rabi Season
+Fgure 35: Trend of tVlinor lrrigation Equipment Change in Percentage of Last
+Ten Rabi Seasons (2009 to 2O2'l)
+2l
+-11 .47
+.:|
+
+============================================================
+PAGE 28 (3450 chars)
+============================================================
+Table 8: Trend of lrrigated Area by Different Minor lrrigation Mode (1961 -62 to 2020-211:
+ainH
+Note: Data from '1961-62 to 1981-82 Taken from Year wise Progress Report of BADC, data from 1gg2-g3 to 1999-
+2000 taken from Census of lrrigation in Bangladesh by ATIA Project and data from 2000-01 lo 2020-21 taken
+from lrrigation Equipment Survey Repo( of BADC.
+22
+lrrigation
+Season DTW sTw LLP
+Manual &
+Artesian
+Well
+Traditional
+Method
+Gravity
+Flow
+Method
+Solar
+Pump
+Dug
+Well Total
+1961 -62 29927.9
+1962 -63 5386 3.6
+1963 -64 63461.9
+1 964 -65 53547.4
+1 965 -66 70247.8
+1 966 -67 91 135.6
+1 967 -68 1667 I 30373
+1968 -69 651 0 1 80620
+1 969 -70 1 3004 273227
+1970 -71 12584 373230
+1971 -72 11874 369745
+1972-73 15287 50871 5
+1973 -74 24881 1 806 565477
+1974 -75 47716 2726 576963
+1975 -76 62246 5220 603425
+1976 -77 66477 7168 519479
+1977 -78 137034 27929 708959
+1978 -79 204186 35827 820470
+1979 -80 235748 55400 894775
+'1980 -81 259557 99029 9 1 2099
+1981 -82 323152 202180 1 089873
+1982 -83 234000 371 000 337000 1 6000 405000 1 60000 1 523000
+1983 -84 263000 480000 342000 1 6000 372000 1 36000 1 610000
+1 984 -85 287000 586000 351 000 1 6000 384000 147000 1772000
+1985 -86 304000 586000 356000 1 6000 314000 1 63000 1 739000
+1 986 -87 3 1 8000 639000 386000 1 6000 326000 1 55000 1 840000
+'1987 -88 345000 753000 402000 1 6000 433000 1 1 5000 2064000
+1988 -89 380000 941 000 482000 1 6000 391 000 1 70000 2380000
+1 989 -90 384000 1 037000 484000 1 6000 478000 1 76000 257s000
+'1990 -91 365000 1 078000 5'13000 1 8000 498000 31 6000 2645000
+1991 -92 434000 1234000 500000 1 9000 3 1 6000 251 000 2674000
+1 992 -93 437000 '1392000 496000 22000 323000 291000 2829000
+1 993 -94 389000 1 388000 458000 29000 348000 326000 2767000
+1994 -95 502000 1 638000 538000 25000 250000 352000 3 1 07000
+1995 -96 540000 2004000 568000 51 000 207000 355000 3752000
+1 996 -97 475000 2 1 59000 570000 38000 1 86000 333000 3762000
+1997 -98 465000 2182000 622000 64000 201 000 285000 3833000
+1998 -99 507000 2522000 628000 1 01 000 232000 358000 4349000
+1 999 -00 529640 2122510 581 800 1 8650 76520 227400 3556520
+2000 -01 538260 2295660 603280 6530 71730 250850 3766310
+2001 -02 530290 23550 30 628750 7460 36900 2860 1 0 3849770
+2002 -03 587930 2409410 664020 11710 32510 309650 4018240
+2003 -04 589490 2429130 630670 1 3340 25570 355670 4043860
+2004 -05 6541 90 31 59900 838380 1250 24250 1 09380 4787340
+2005 -06 700660 31 2061 0 8031 70 2110 261 30 107040 4759720
+2006 -07 725260 3196120 81 0020 2250 12150 1 37060 4882870
+2007 -08 785680 31 971 80 903870 5210 1 9040 1 38800 5049780
+2008 -09 750115 3245143 957035 15448 43965 75145 5126 851
+2009 -1 0 773323 3336652 964902 17412 401 86 851 51 5217626
+2010 -11 719206 3505287 1 00998 1 6381 3814 19071 5263740
+2011 -12 758963 3418147 10a4594 11858 28326 20447
+2012 -13 934342 3242440 1 035736 34560 28320 97707 53731 05
+2013 -14 876803 3278838 1 083535 33778 28318 1 01 060 5402332
+2014 -15 962039 3235184 1 1 06705 27718 )n ?) 96274 5448152
+2015 -16 1 194177 2954949 1 1 64603 29718 1 8336 128564 5490347
+2016 -17 '1063486 3079001 1187823 27518 14553 1 54885 5527266
+2017 -18 1072539 2981646 1220879 26856 12769 241925 5556614
+2018 -19 1076141 2994466 1248616 8780 8065 238871 11960 583 5587482
+2019 -20 1084245 3001120 1269661 7852 6825 242356 14524 101 5 5627598
+2020-21 1 085431 3006076 1287013 6752 6124 245136 16524 1735 5654791
+
+============================================================
+PAGE 29 (2816 chars)
+============================================================
+B, Comparative Study of Area Goverage per Equipment (DTW, STW, LLP)
+{. Comparative study of area coverage per equipment (DTW, STW & LLP) is given
+:eilow in the Table-9.
+Table-9: Comparative study of area coverage per equipment (DTW, STW & LLP)
+::: c1
+rr ;:::-
+':- :a : - --)
+: | 1-iJ
+r::-YC
+:: --j
+:: -!l
+,:r.-93
+,:j'95
+, ?5-96
+.:,-97
+r ? 7-98
+:vB-99
+r 3 9-00
+_ _ r0-01
+_'.c1-02
+_ :02-03
+- r03-04
+: r04-05
+-105-06
+: c06-07
+2007-08
+2008-09
+2009-1 0
+2010-11
+2011-12
+2012-13
+2013-14
+lrrigated Area ('000 ha)
+0perational Equipment
+('000 No.)
+Area Coverage per
+Equipment
+DTW STW LLP DTW STW LLP DTW STW LLP
+234 371 337 13.8 93.1 35,5 16.96 398 949
+263 480 342 .L L
+120.3 JO 16 97 3,99 9.50
+287 586 351 16,9 147 37 16 98 399 9,49
+304 586 356 17.9 146.9 37.5 16.98 3.99 q/q
+318 639 386 18.7 160.3 40.6 17.01 3.99 9.51
+345 753 402 20.3 188.7 42.3 17.00 3.99 950
+380 941 482 tl.+ 235.9 50.8 16 96 3.99 9.49
+384 1037 484 22.6 260 51 16.99 399 9.49
+365 1078 513 21.5 270.3 51.6 16.98 3.99 9.94
+434 1234 500 25.5 309,3 50.3 17.02 3.99 9.94
+437 1392 496 25.7 348.9 52.2 17,00 3.99 9.50
+502 1 638 538 to.l 488.9 57.1 18.80 335 9.42
+540 2004 568 27.3 571.2 60.6 19.78 351 9,37
+475 2159 570 25.2 629.8 62.9 18.85 343 9.06
+465 2182 622 25.3 664.7 66.3 18.38 328 938
+507 2522 628 26.7 736.1 72.9 1B 99 J,+J I 61
+529.64 2122.51 581.80 23.53 707.57 58 05 22.51 3.00 10.02
+538.26 2295.66 603.28 23.18 865.21 71.31 23.22 2.65 846
+530.29 2355.03 628.75 23,00 893 36 77.00 23.06 2.64 8.17
+587.93 2409.41 664 02 23.43 924.02 79.87 25 09 2.61 831
+589.49 2429.13 630 67 24.72 925.15 77.79 23.85 l.o3 8.11
+654 1I 3159.90 B3B.3B 27.18 1 128 99 99,25 24.07 2.80 8.45
+700.66 3120.61 803.1 7 28,28 1182.52 1'19.13 24.78 2.64 6.74
+725.26 3196.12 810.02 29.17 1202.72 107.29 24.86 2.66 7,55
+785.68 3197.18 903 87 31 30 1304.97 138.63 25.10 2.45 6.52
+790.12 3245.14 957.04 32.17 1374.55 146.79 24.56 l.Jo 6.52
+773.323 3336,65 964.90 32.91 1425.14 '150.61 23.5 2.34 6.41
+719.206 3505.287 1009.981 336 70 15491.49 1736.69 2.26 5.82
+758.963 3418.147 1 084 594 340.45 1 4983.86 1772.16 22.23 2.28 6.12
+934.342 3242.440 1035.736 353.22 1 5236.09 1705.69 26.45 2.13 6.07
+876.803 3278.838 1083.535 360.34 15367.91 1710.41 24.33 2.10 6.33
+2014-15 962,039 3235.1 84 1 106.705 365,66 15497.11 1671.75 26.30 2.08 6.62
+201 5-1 6 1194.177 2954.949 1 164.603 369 79 '14170 08 173179 32.29 2.08 6.72
+2016-17 1063.486 3079.001 1187.823 371.75 13989,60 1764.78 28.60 2.20 6.73
+2017-18 1072.539 2981.646 1220.879 375.38 13558 52 1814.69 28.57 2.19 6.72
+201 B-1 I 1076.141 2994.466 1248.616 376.34 13575.32 1871.BB 28.59 2.21 6.67
+2019-20 1084.245 3001 I20 1 269 661 370.07 1 3987.06 1 999.1 4 29.30 2.15 635
+2020-21 1085.431 3006.076 1287.013 369.55 '14096.49 2043.91 29.37 2.13 629
+23
+21.36
+
+============================================================
+PAGE 30 (1599 chars)
+============================================================
+==o- FI-J
+06J a&& BBE
+o
+E
+.9
+J
+ct IJ
+o
+CL
+o
+ct)
+G
+o
+o
+o
+G
+V
+6
+o
+o
+E
+o
+o
+.z
+(It
+G,
+CL
+E
+o
+o
+TZ-0ZOZ
+OZ-610Z
+6I.8IOZ
+avLtoz
+Lt-gTOZ
+9l-9TOZ
+st-vloz
+bT-ETOZ
+ET.ZIOZ
+ZT-TTOZ
+IT-OTOZ
+0r-6002
+60-8002
+80-LOOZ
+LO-9002
+90-s002
+s0-r002
+n0-8002
+eo-2002
+zo-looz
+t0'0001
+00-666r
+66-865r
+86-L66r
+L6-9661
+96-S66r
+s5-?56r
+,6-866r
+E6.Z66I
+i z6-1661
+r6-066I
+06-685r
+68-886r
+88-/86r
+t8-985r
+98-S867
+s8-v86r
+,8-t86r
+ea-za6l
+q)eery
+LnOLnO d)cnc{N
+(e
+rn oFl
+g.1O
+NI
+O
+N
+O
+N
+o
+(f)
+@I
+N
+@
+O)
+c
+o
+a
+G
+0) a
+-o(Ut
+o)
+C
+L
+f
+!
+(o
+-
+(o
+0)
+L
+l<E
+o#
+(o
+o)
+L
+L
+;
+o
+E
+C
+oL
+F
+l'-
+c{)
+oL
+f
+.?
+LL
+N
+O
+N
+o
+@
+O) o)
+U) c
+o
+U)
+(E
+o
+a
+E
+(Et
+C
+o)
+F=
+U)
+(EJ
+.=
+c
+o
+E
+.+
+=o'
+ltl
+C
+,Fo
+(s
+o) ,E
+:
+L
+oa
+o
+o) $L
+q)
+o
+O
+(s
+0) L
+(6
+(v)
+c) L
+J
+.9'
+LL
+NI
+I
+O
+NO
+N
+o
+N(o
+I
+(o
+O)
+E
+oL
+ts
+C
+o
+a
+(E
+o
+a
+E
+(E
+d.
+.E
+c) E
+o
+C
+o
+(o
+o) .E
+:
+L
+o
+.=
+c
+0) L
+o)
+q￾i5
+_o
+(6
+.C
+6
+oL
+E
+o
+(E
+O) ,=
+:
+o
+EL
+oL
+l￾o_
+E
+o￾rg
+o
+a
+-o
+o
+-C
+OJ
+=o
+'I
+P
+'=
+(o
+(9
+-o
+o
+-CP
+a.)
+6
+C
+,Eo
+E
+F
+=C.)
+=C
+(! .G
+qJ
+P
+od
+t
+=
+ro
+o￾J
+-l
+=
+Fu't
+=
+F
+o
+TZ.OZOZ
+oz-6T02
+6r-8r02
+8T-LTOZ
+LT.9TOZ
+9T-S\OZ
+ST.NTOZ
+NT-ETOZ
+EI-ZTOZ
+ZI-ITOZ
+rt-otoz
+0T-6002
+60-8002
+80-LOjZ
+L0-9002
+90-s002
+s0-r002
+,0-€002
+eo-2002
+ZO-TOOZ
+r0-0002
+00-666r
+i eo-eo6r
+86-r.66r
+L6-966r
+96-966r
+s6-?66I
+n6'e66I
+€6-266r
+z6-\66r
+r6-066r
+06-686r
+68-886r
+88-1867
+/8-9867
+98-S86r
+s8-f867
+u8-€867
+€8-286I
+BHBEEEEHO
+(eq)eely Pole6url
+2.4
+
+============================================================
+PAGE 31 (1770 chars)
+============================================================
+POWER SOURGE IN IRRIGATION EQUIPMENT
+l:ring 2020-21 Rabi season huge number of power operated irrigation equipment are used
+n over the country. Power operated equipment's are operated either by diesel or electricity.
+trecently solar energy is used for generating electricity to operate the small capacity irrigation
+:-r'tps. Survey has been made to determine number of diesel or electricity operated various
+" :es of equipment's used all over the country. Different modes of irrigation equipment on the
+:;s s of Power Source are shown in the Table-10 and graphical presentation in Figure-29.
+=able-10: Division Wise Distribution of lrrigation Equipment on the basis of Power Source
+Division
+I raka
+'., mensingh
+r alshahi
+r 
+a ngpur
+-' ttagong
+- -Ltlna
+Sylhet
+I arisal
+Division wise lrrigation Equipment and lrrigated Area (ha) on
+the basis of Power Source
+(! I Electric Number I ElectricArea 3 Diesel Number f DieselArea
+G
+o
+o
+(!
+.go
+:
+0.)
+E
+,=
+U
+o
+z
+800000
+700000
+600000
+500000
+400000
+300000
+200000
+100000
+0
+Dhaka Mymensingh Rajshahi Rangpur Chittagong
+Division
+Khulna Sylhet Barisal
+= gure 38: Bar Diagram showing Number of Electrically and Diesel Operated Different types
+of Equipment's and lrrigated Area (ha) during Rabi Season 2020-21
+25
+Electric Diesel
+Number Area (ha) Number Area (ha) Number Area (ha)
+72486 306604 1 28589 369937 201075 676541
+58507 31 1835 112617 276488 171124 588321
+100842 754117 230528 475302 331 370 1229419
+1 06668 4631 83 296944 586148 403612 1 049331
+40977 256244 83148 317879 124125 574123
+1 87960 279904 549566 321415 737526
+1 0865 60275 61 033 287374 71 898 347649
+1 390 18752 25026 1 56856 26416 1 75608
+Total
+Total
+41511
+433246 2358970 1217789 301 9550 1 651 035 5378520
+
+============================================================
+PAGE 32 (540 chars)
+============================================================
+Groundwater Zoning \llap-2020
+Meghalaya
+4ssarn
+91
+(lndia)
+s
+N
+.sr Bengal
+india)
+-3Eend
+. District Headquater
+District Boundary
+--- international Boundary
+Charland
+River
+GW Level (m)
+0 - 5.30
+5.31 - 7.60
+7.61 - 9.80
+r 9.81 - 11 .30
+11 .31 - 15.00
+15.01 - 20.50
+- 20.51 - 26.00
+r 26.01 - 35.50
+r 35.51 - 58.00
+88'1',0"
+(lndia)
+Mizoram
+(lndia)
+Arakan
+(lvlyanmar)
+o
+o
+N
+I
+N
+N
+v
+89'A',0',
+Figure 39: Groundwater Zoning \Aap-2020
+26
+Dinajpur
+Xushti4
+Rajbai
+Jessore
+a
+N
+a:': J 89"4',0' 90"o'0" $'4"0'
+
+============================================================
+PAGE 33 (685 chars)
+============================================================
+88 E9 00' 90 0!' 9l 0't)' 92 o!',
+-
+90 0u' 91 00'
+Bangladesh Agricultural Development Corporation
+Digitalization of Survey and Monitoring for Development of
+Minor Irrigation Project
+j
+.<.)r
+Y
+5025050 EEIIIEn
+Figure 40: Net Cultivable Area
+Tangail
+Gazipur
+Pabna
+Jessore
+Net Cultivable Area, Non-Irrigated Area and
+Total Irrigated Area in Rabi Season 2020-21
+Meghalaya
+(India)
+Sylhet
+Raj Assa.m
+(India)
+West Bengal
+(India)
+Tripura
+(ndia)
+lr
+Arakan
+(Myanmar)
+EI
+G150,000
+Area in ha
+U Net Cultivable Area
+ff Totul Irrigated Area
+ffi Non-Inigated Area
+: Rivcr
+f]No,lata
+88 o!', 89 00,
+27
+92 00'
+Legend
+- 
+District Boundary
+ffi Lrtemational Bomdary
+
+============================================================
+PAGE 34 (667 chars)
+============================================================
+Tanga il
+,.llx
+Gazipur
+Kushtia
+Faridpur
+Jessore
+88 oD', E9 01t'
+E9 00'
+90 0D'
+90 01)'
+91 92 o1)',
+Irrigated Area by Power Sources in
+Rabi Season 2020-21,
+Meghalaya
+(India)
+$s
+Myrensingh
+-re*
+West tsengal
+(India)
+Legend
+"** District Boundary
+.r . InternatioraL Boundary
+Tripura
+(India)
+Assam
+(lndia)
+Arakan
+(Myanmar)
+i
+i
+€l
+-,,,f€: 44.000
+Area in ha
+ffiTotalPo*er
+Ioiesel
+@Etectdcity
+:l:i--=.i River
+lJNo dutu
+88 011', 91 92 01)'
+Bangladesh Agricultural Development Corporation
+Digitalization of Survey and Monitoring for Development of
+Minor Irrigation Project
+Figure 41: Irrigated Area By Power Source
+28
+I
+" 
+-(.1-.
+Y
+
+============================================================
+PAGE 35 (645 chars)
+============================================================
+88 011' 89 90 011' 9t 92 01"
+a
+89 90 00' 9i 0u'
+Bangladesh Agricultural Development Corporation
+Digitalization of Survey and Monitoring for Development of
+Minor Irrigation Project 25
+I
+-<r-,
+Y
+Figure 42 Area lrrigated By Groundwater
+Area Irrigated by Groundwater
+in Rabi Season 2020'21
+Meghalaya
+(India)
+Sylhet
+West Bengal
+(lndia)
+Legend
+- 
+District Borndary
+.- . lnten]ational Boundary
+River
+Area in ha
+0 - 5971
+5912 - 201'76
+20177 - 39568
+Wzgsas - aggas
+ffi ogsso - tt+ots
+ffi tt+ots - teoqts
+tCrcegse - zlztzs
+f]] No dutu
+Tripura
+(ndia)
+Assam
+(India)
+Arakan
+(Myanmar)
+Bandarban
+i
+i
+88 o1)',
+29
+92 00^
+
+============================================================
+PAGE 36 (656 chars)
+============================================================
+Natore
+Jessore
+Area Irrigated by Surface Water
+in Rabi Season 2020-21
+Meghalaya
+(India)
+West Bengal
+(India)
+Legend
+- 
+District Boundala
+.r .r lrtef,rational Boundary
+River
+Area itr ha
+Tripura
+(lndia)
+Assam
+(India)
+Arakan
+(Myanmar)
+0 - 1000
+1001 3000
+3001 - 9000
+9001 l]000
+@ r;oor - roooo
+ffi :ooor - soooo
+ffi sooor - r;ooo
+I noor - r:s+os
+No data
+88 o1)'. 89 00' 90 00' g] OII' 92 00'
+Bangladesh Agricultural I)evelopment Corporation
+Digitalization of Survey and Monitoring for Development of
+Minor Irrigation Project
+I
+-{D-,
+T
+EEm
+Figure 43: Area lrrigated By Surface water
+30
+8E 00' 89 011',
+I
+90 011
+I
+91 00'
+
+============================================================
+PAGE 37 (1945 chars)
+============================================================
+Study on Survey of Minor lrrigation Equipment, Area, Gosting,
+Preparation of Data Base and Development of Software
+BADC has been implementing survey and monitoring activities such as irrigation
+equipment, irrigated area, irrigation cost and crop production cost, source of power,
+pump.capacity, benefitted farmers etc. in all overthe country since 1999. The Survey
+was conducted through appointing enumerator and field employees of BADC, BTVDA
+and DAE. On the basis of these collected data Annual Survey Report has been
+published during last two decades to provide technical assistance and suggestions to
+the government and policy makers for formulation of [/inor lrrigation Policy.
+At the era of Digitalization in processing and preserving or storing the above collected
+information's/data, it is essential to create a database and to develop a web base
+software for survey and monitoring of [Minor lrrigation activities, cardinal information's
+are needed like Table, Graphs, N/aps, GIS database etc. so it is important to prepare
+GIS database including [t4aps and 3D geometrical lVaps for surface water and ground
+water too.
+Digitalization of Survey & t\4onitoring for Development of tVinor lrrigation Project under
+BADC has been taken a program to establish a database on about 16 lac irrigation
+equipment's through questionnaire incorporated with 49 columns needful information's
+and also develop web base software to meet necessary queries about irrigation. Under
+this program BADC appointed CEGIS a trusty board of Water Resources lMinistry as a
+consulting firm to accomplish the above assignment.
+They are working in the field level to collect data and required information's about minor
+irrigation. Hope irrigation equipment's information's database and its web base software
+development will be completed within 2019. Some features of web base applications of
+the Study are shown in Figure 32lo 35 as sample'
+31
+
+============================================================
+PAGE 38 (751 chars)
+============================================================
+ffi *tglg$ g sh $gri*x*tx r* tr **yq-!-*9ryent Corpoia t i o n ( BA D C )
+Figure 44: Fealures of Web Applications
+&m n g I a e3*sl"r &6 ri c u I tr.i t* i *s ve I *p:r:* n t i . c-r r po rmt t cr r r i ltr, A LX" i
+S*6** ,"*tB
+1.;1.,1.r1 j !1,jr:-', ,,i::ri iir,t:i'irLfr,.i
+s{*w€
+e6**
+*s#a
+ffi$
+*ry,r#
+*&!G
+&*d*
+te{*
+&BS*
+q$e{e
+tH*
+&e{*
+w
+ls&i
+ffi
+ffis
+lH*
+se*c
+ffis
+l&*
+:4' *
+&
+*
+*
+*
+B
+&
+&
+1*
+s
+I
+1
+B
+E
+&
+&
+B
+&
+lr &
+s
+s
+&
+s,
+6
+}
+*
+1S
+&8
+*
+g*
+g
+&
+$
+s
+{
+*
+{1
+*
+*
+t
+s
+6
+t *s
+rB
+r{*
++E
+riB
+E
+&
+q
+6
+Bg
+E
+ffi
+&
+g*
+H
+d
+SBB
+n *&
+I 4*S1
+i* *:#
+ss !3 sr
+BS&-
+$ 5*lE
+& **rB
+& * !&r{*
+&* + *
+* # stts
++ * &si*
+Figure 45: Features of Web Applications
+32
+tI
+a--
+:1
+
+============================================================
+PAGE 39 (579 chars)
+============================================================
+Fc*sledqq !r 4s riqr l!!J tel,lqvel qestrlss F0 r-q-tl! tit&D-cl
+.!tr I :l
+*+i+; ffi.r:a ''!'m'
+lfr@&.u*l*@fl?t{t*
+EtrES rtu{e& @
+M$r
+sffi tE
+ryry *&
+HS*
+Hsslldr E3
+rwe'-* ?sE
+sesdB 14&
+ryryry 'r* k!$*k .{s
+:i: t::.
+m ri:: :,.;.;
+l::j.r: :::.
+r: ]:.:iir
+Lao!
+1,1;l;:r;:ra l
+i*urnrl
+Figure 46: Features of Web Application
+S*nql*d*sh A*rieultural **v*l*pr**rrt f*rp*r*ti*n {*ASe}
+i,:ii, ii: r' 111 ,:ii:i:.'i:it:!:t,il,. i.l, li. il!:l ii':ii
+g*rj.!r. * &ii;i! :,:4ti1 l*i*}fs* :r Eq-b{l'i
+Figure 47: Fealures of Web Applications
+JJ
+$!q& ttq{l
+e
+&
+$ il
+
+============================================================
+PAGE 40 (2902 chars)
+============================================================
+Groundwater recharge and withdrawal situation for
+irrigation purpose
+:=^Eladesh is a deltaic country located within the flood plains of the three great rivers.
+- = Brahmaputra, Ganges, and N/eghna and their tributaries. The three major river
+-=.,,,,orks often called the GBIV river system drain to the Bay of Bengal through
+:.-gladesh. The country is under tropical climate with heavy monsoon rain between
+"-= months of IVay- September. About B0% of the total annual rainfall occurs in
+-:.,',,een July- September. The average rainfall is 200 cm. The temperature rises from
+-= month of Februaryto the month of [\/ay and varies 50C - 420C. The overall climate
+, s jitable for production of crops including high yielding variety round the year.
+----1.;ndwater is the water beneath surface of the earth which fills the pore spaces of the
+- -,,ium, soil or rock formation with water and flowing by gravity below the ground
+, - -ace. Aquifer is a saturated permeable geologic formation which can yield significant
+--,rtities of water to wells and springs. Groundwater reservoir is other terms often
+-.:l in place of the word aquifer. Sands constitute an aquifer which contains fresh
+.:er. Groundwater is the most vital natural resources of Bangladesh which contributes
+-,bout73.09%of thetotal irrigatedarea.Thetopof thewaterlevel inthesereservoir
+. 
+,,ater table which liable to variations throughout the year. The static water level is the
+= ":l to which water rises and water stands at rest in a well, when the well is not being
+:-*ped. When the well is pumped, the removal of water from the well (discharge)
+.r-ses a drop in head (drawdown) in the well and waterflows from the aquiferto the
+= and cone of depression expands until the amount of water removed from the well is
+, ' anced by the amount of water draining from the aquifer.
+--= recharge is the resultant of the balances of flow in the unsaturated zone for wet
+-='ods i.e. any addition to the groundwater reservoir by percolation through the land
+:---ace. Groundwater recharging in Bangladesh is occurred by the monsoon rainfall,
+'-,,, from the rivers & canals, lateral groundwater movement and irrigation return.
+'-::ndwater level rises during wet periods by recharging and reached at minimum
+-=:th below the ground surface. With the cessation of recharge, the groundwater
+: =: etion begins by rapid drainage of surface water, response of evapotranspiration and
+.^drawal of groundwater for irrigation in dry season. The level reached at maximum
+- =:th (drawdown) in the dry season by the groundwater losses.
+--: project has been monitoring the groundwater level round the yearfrom 201 nos. of
+--:cmatic Water Level Recorders (AWLR) and 10 nos. of selected tube wells in each
+- -=zila all over the country. So, a unique network of water level recording system has
+: =:n established throughout the country.
+34
+
+============================================================
+PAGE 41 (2179 chars)
+============================================================
+Hydrograph refers to a graph showing the groundwater levels over time in a particular
+year. The data recorded in AWLR's from 2006-2018 are used for preparing the
+hydrographs. ln this report, representative 4 nos. hydrographs of 17 upazilas for 14
+years are incorporated. The hydrographs have reflected the recharging of groundwater
+level and declining level (losses of groundwater) i.e. drawdown due to withdrawal
+groundwater in the dry seasons for irrigation for the years 2006-2018. lt is observed that
+the maximum drawdown occurred at Gazipur Sadar of Gazipur district. The maximum
+depletion of groundwater levels in the dry season was 37.38 m in [Varchl2018
+From the hydrographs it is depicted that the Gazipur Upazila is more critical for
+utilization of groundwater both for irrigation, industrial and domestic purposes. Others
+Upazilas are quite feasible for withdrawal of groundwater for irrigation.
+Grou ndwater Table Hydrographs
+Year Upazila/District No. of
+DTW
+No. of
+STW
+lrrigated Area
+(ha) for Rabi
+crop
+Maximum Depletion
+Groundwater Level (m)
+(Jan-March)
+2005-o6
+Fulbaria Mymensingh
+L773 14474 L3.29
+2006-o7 587 1300 1.4730 L3.L4
+2007-oa 632 1444 21-2L3 11.44
+2008-o9 279 2336 LLL96 L4.26
+2009-1_O 666 L3973 476LL 1-4.O7
+20L0-LL 609 22aO 1.8640 1-2.41-
+20Lt-1-2 641- 2346 24466 10.o6
+625 2404 204s1 12.54
+201-3-1-4 549 4798 20033 L4.2L
+20L4-L5 64L 2447 263c4 L4.39
+20L5-L6 626 2447 26397 14.42
+201-6-1-7 62s 2452 2634s 1-5.O4
+201-7-1-8 624 2542 24067 L5.7L
+20ta-19 595 2694 34467 L2.25
+2005-o6 Modhupur Tangail
+Modhupur Tangail
+66 8234 27233 7.97
+2006-o7 50 4060 1_401_5 4.92
+2007-oa 54 4a2a 1-1-577 5.56
+2008-o9 93 4535 1-1-O42 6.1-9
+2009-10 52 4942 10820 5.47
+20L0-1"1 a7 6203 1-4596 5.98
+20LL-L2 57 6297 14341 5.45
+20L2-L3 57 6297 1-2070 5.51
+2013-L4 51 48s3 13955 5.97
+20L4-L5 57 5657 1_41_1_O 5.47
+20Ls-L6 68 5680 121_90 6.14
+2016-47 68 5680 9LA7 5.86
+20a7-aa 7a 564L 97aa 6.95
+a2 sL97 94L6 6.52
+83 s220 9530 5.47
+2020-2L 83 5520 9530 5.65
+Sadar Gazipur
+181 5837 18.36
+2006-o7 1-62 638 5056 19.93
+2007-oa L43 654 4732
+2008-o9 L92 866 4407
+35
+579
+20L2-L3
+20L8-L9
+20L9-20
+2005-o6 745
+20.57
+23.47
+
+============================================================
+PAGE 42 (1538 chars)
+============================================================
+Year
+2005-o6
+* _ -17-O8
+- , l8-o9
+_ _ l9-10
+_ _ 10-11
+'- -'-t-L2 ' ^2-L3
+_'-3 L4
+-' 1E
+- _ _5-16
+' ': 11
+- _ _7-18
+,_s 19
+_: 2L
+-,_;-06
+- _ a-o7
+-,_--o8
+_,_5-09
+: t-10
+- , _ t-11
+- . _---L2
+_:-13
+'a 1A
+_r-16
+. a-L7
+- 1Q
+_:-19
+-: 20
+_ . -:-21-
+.._r-36 Savar Dhaka
+-:-af
+_ , 
+--08
+: --
+- -:_-0
+, _1
+' ')
+,l--c
+-a-77
+_ _r_19
+_ _3-19
+- -:-2O
+Maximum Depletion
+Groundwater Level (m)
+(Jan-March)
+No. of
+STW
+lrrigated Area
+(ha) for Rabi
+crop
+No. of
+DTW Upazila/District
+745 5A37 18.36
+1,62 638 50s6 19.93
+143 654 4732 20.57
+1,92 a66 a407 23.L7
+'1,23 497 52L7 24.L
+L47 'J,O2a 5911 24.93
+130 L074 36s9 29.75
+98 1181 3816 30
+76 1080 3198 31,.78
+76 647 2060 32.O2
+60 449 2594 33.72
+60 10a7 4271,
+6t 994 3299 32.22
+62 1033 3303 2a.42
+63 1333 34aO 27.43
+63 2940 291,2 52.27
+Sadar Gazipur
+43 3658 6742 6.Os
+45 2762 621,2 6.33
+44 3578 6466 6.L2
+45 421,6 9803 5.97
+47 4374 7554 6.69
+44 5047 11509 s.77
+44 4980 14524 6.23
+4a 4477 5975 5.73
+38 3160 7272 s.77
+43 4253 541,6 s.67
+43 4253 541,6 s.62
+40 3459 523L 5.56
+40 3294 6242 5.54
+40 3316 6so5 6.18
+42 2390 6520 5.62
+42 2432 5.03
+Saturia Manikganj
+Saturia Manikganj
+L45 542 6389 10
+133 475 6225 9.92
+146 49s 4574 8.83
+92 453 291,9 1,O.L4
+124 490 6362 10.24
+1,25 5s5 43o4 L0.s2
+1,L2 485 7536 1,1,.64
+105 436 4664 1,1,.72
+98 425 3608 L2.7
+99 361 53L2 t2.aa
+99 361 64L2 L3.1.4
+91 462 s595 1-3.O2
+77 551 s493 1,2.1
+61 664 4246 1-4.23
+62 11,64 4590 14.4s
+. 62 961 4390 -:21
+36
+_ _ ,15-07
+181
+37.34
+6575
+
+============================================================
+PAGE 43 (1587 chars)
+============================================================
+saFHii:iirEEiEEH RFFHHEHHHHHHHHEH
+0.00
+5.00
+10.00
+15.00
+20.00
+25.00
+30.00
+35.00
+40.00
+E
+6
+o
+o
+(E
+=
+Groundwater level Fluctuation Hydrograph
+(JanuarY- March)
+: Saturia Manikganj
+- 
+Fulbaria Mymensingh
+- 
+Modhupur Tangail
+- 
+$sysp P[3(2
+- 
+Sadar Gazipur
+Figure 48:Changes in the depth of groundwater table (Jan-tVar) over time
+The above figure 48 prepared by the maximum depth of groundwater level over the
+last 13 years (2006-201g) and it is indicating the fluctuation of groundwater level in the
+north central region of Bangladesh. The hydrograph implies that in the dry period
+(January-tr/arch), Gazipur sadar groundwater level found 32.22m in 2018 which is
+5.16m raises than previous year (37.38 m) and in Fulbaria of lVymensingh maximum
+depth is 15.71 m and in Savar of Dhaka groundwater level found 12.10m in 2018 which
+is 0.92m raises than previous year (13.02 m)'
+Grou ndwater Table HYdrograPhs
+JI
+Year U pazila/District No. of DTW No. of STW
+lrrigated
+Area (ha) for
+Rabi croP
+Maximum
+Depletion
+Groundwater
+Level (m)
+(Jan-March)
+2005-o6 Bagmara Rajshahi
+444 4807 33452
+2006-o7 527 4593 36885 10.31
+2007-o8 643 5282 28607 9.89
+2008-09 806 3829 365!2 10.98
+2009-L0 673 3619 1.84a9 9.85
+20LO-11, 794 2572 L8736 11.35
+20LL-L2 602 3222 19419 1-1-.2
+2012-].3 890 2052 48321, 10.66
+2013-L4 904 596 26586 11.01
+869 3345 37313 t1-.!3
+20L4-15
+20L5-16 746 3345 46L83 12.25
+8s4 1350 21245 13.45
+201"6-17
+20j-7-]-8 859 1355 24085 1r-.83
+2078-t9 860 3190 24230 1L.93
+785 25s0 22s40 11.11
+2019-20
+2020-2L 785 2290 24304 12.17
+8.95
+
+============================================================
+PAGE 44 (2242 chars)
+============================================================
+Year
+too5-06
+)006 07
+2007-oa
+2008-o9
+2009 10
+.l o 10-11
+)0LL L2
+)o12-1-3
+2013 14
+I O 14-15
+:o15 16
+-o1,6-L7
+:o17-1-8
+rfla 19
+)oa9-20
+-)20-2-1,
+: lo5-06
+roo6,07
+tooT-o8
+:ooa 09
+: oo9-10
+:o10,11
+1A'J-L-L2
+aaL2-13
+10L3-L4
+I O 14-15
+:r115 16
+2016-17
+:0L7 la
+I O 1a-19
+:o 19-20
+:420 21
+: oo5-06
+:ao6 07
+t ao7,o8
+I OOa-O9
+r oo9-10
+:410 11
+:aa1 12
+to12 13
+:41,3-L4
+to14-15
+r o 15-16
+:aa6-1,7
+: o 17-14
+: o 1a-19
+: I 19-20
+*-)20-2L
+I l05-06
+I lo6-07
+: lo7-o8
+I loa 09
+r lo9-10
+r 110-11
+20L1-L2
+-a)L2-L3
+2043-'L4
+2044-15
+: I 15-16
+aoa6-17
+aotT-L8
+-:18-19
+2A19-20
+UpazilalDistrict No. of DTVV No. of STVV
+lrrigated
+Area (ha) for
+Rabi crop
+Groundwater
+Level (m)
+Maximum
+Depletion
+(Jan-March)
+124 5452 1-901-2 6.1-9
+L76 5674 L7455 7.L4
+214 5674 L9361 6.63
+2a5 5404 11451 7.L7
+2L6 5503 L4227 6.79
+243 5515 19273 6.55
+241 1600 10024 5.97
+222 5542 L7asg 7.06
+226 5015 L4922 6.44
+229 5052 L6229 6.94
+229 5052 L471-2 6.92
+Fulbari Dinajpur
+232 5599 13955 6.23
+237 5604 laaaa 6.a9
+234 6950 23579 6.59
+240 7550 23949 7.87
+Fulbari Dinajpur
+234 4250 24007 7.24
+594 20775 2946L 6.46
+561 632 ..26A32 7.32
+2L4 615 7247 7.23
+574 5404 29422 7-6
+535 647 26436 7.at
+563 735 L4376 a.o1
+556 699 L3692 7 -99
+567 6ao 18110 4.14
+541 a62a 40769 4.5
+545 570 20703 4.63
+61-7 570 24744 4.57
+572 670 25323 9.r2
+574 675 23553 9.15
+632 575 2521-9 a.a5
+644 635 2ss90 4.29
+Kahaloo Bogra
+6L4 1635 22592 4.27
+164 4200 24360 3.37
+434 L04s6 25450 3.3
+1-48 10a36 34603 3-42
+L49 L-t 720 2AAO3 3.91
+L40 12aOO 30925 3-29
+L20 LAO14 45043 3.13
+224 2427L 45LL3 3.67
+209 L904L 36442 3.44
+235 7394 202ss 3.95
+256 15459 4LA46 4.Oa
+267 L4690 44247 4.25
+263 1,43L6 30449 3.5
+264 1-4320 34214 4.L
+314 29L46 44202 4.44
+333 25255 45550 4.1,4
+Mithapukur Rangpur
+Mithapukur Rangpur
+333 25255 45570 3.1,7
+542 L07L3 25595 6.45
+510 4097L 2604o 7.OL
+525 LL554 33736 7.1"7
+549 LL275 30750 7.45
+s6a LL542 32561_ 7.45
+570 14603 47394 6.44
+57L L3540 47754 7.2
+572 15574 33635 6.6
+57L 5580 26066 7.15
+57L L5578 2761,0 7.34
+571 15574 29467 7.45
+57t 3374 29090 8.4s
+575 3345 29472 7.5
+57L 6760 25735 7.4
+5ao 6410 25990 7.55
+Mohadevpur Naogoan
+_420-21, 57L 6410 26090 a.06
+38
+
+============================================================
+PAGE 45 (1563 chars)
+============================================================
+Groundwater level Fluctuation Hydrograph
+(January- March)
+OOOOHidd.iddda--N
+OOOc)OdHdHHHHdJ-N oooooooooooooooo NNNNNNNNNNNNNNNN
+E
+E
+o
+J
+o
+P(!
+=
+2.OO
+4.OO
+6.00
+8.00
+10.00
+1"2.OO
+14.00
+16.00
+* Mithapukur Rangpur
+- 
+Fulbari Dinajpur
+- 
+Kahaloo Bogra
+- 
+Mohadevpur Naogoan
+- 
+Bagmara Rajshahi
+Figure 49:Changes in the depth of groundwater table (Jan-lVar) over time
+The above figure-49 prepared by the maximum depth of groundwater table over the
+last 15 years (2006-2021) is indicating the fluctuation of groundwater table in the north
+western re ion of Banqladesh. The hvdrooraDh imol
+$r.,-..rrr r rro rr) .,, otj,o.ltt ,tttl drv oeriod (Januarv￾or ) lor roo \oor roor )
+ies that in the
+D rroo $lolt lll $lo
+It/arch), Bagmara Rajshahi groundwater table declined and it was about 11.83m in
+2018 which is 1.62m raises than inMarchl2}17 (13.45m). The other Upazila's was
+within the capacity of the suction mode pump.
+Groundwater Table Hydrographs
+Year Upazila/District No. of STW
+lrrigated Area
+(ha) for Rabi crop
+Maximum
+Depletion
+Groundwater
+Level(m) (Jan￾March)
+2005-06 Jhikorgacha Jessore 7025 22409 7.1_3
+2006-o7 8205 18680 6.26
+2007-oa 7932 24064 5.5
+2008-09 7863 21_282 5.44
+2009-10 8501 L9513 5.35
+201,O-1,1_ 9407 281.64 5.76
+201,1-1,2 8298 22282 5.74
+2012-13 4932 15845 6.52
+201,3-L4
+Jhikorgacha Jessore
+9217 23134 5.37
+2014-L5 7967 16665 5.79
+201,5-]-6 8578 1825t 5.85
+2016-17 8226 1,9073 6.2
+2017-78 8230 23426
+201_8-L9 8240 24251. 6.56
+2019-20 a26t 25s20 6.L4
+2020-2L 8261- 22920 5.22
+39
+6.66
+
+============================================================
+PAGE 46 (1490 chars)
+============================================================
+Upazila/District
+2950 1092s
+2526 Lt432
+3674 1,4255
+2650 1,731,3
+2659 14001
+4208 L9!72
+4050 L8241,
+4C48 16156
+4'1,1,6 13967
+4L16 L3967 s.29
+1056 1,4699 5.A4
+2057 17907 5.42
+2392 18383 5.22
+3392 19770 s.25
+3590 2011,O 6.75
+19969 5.01
+Kalaroa Sathkhira
+3590
+6603 12049 6.4
+6903 1_3503 6.09
+6683 13743 5.16
+61-06 L5720 5.9
+6575 L6470 5.6
+71,20 L7596 6.32
+9638 21294 5.46
+8270 1,2564 6.21,
+1,1,47s 1-3733 5.7'1,
+6s10 8488 6.O2
+Sadar Chuadanga
+7030 L3738 6.42
+11558 23633 6.22
+LL573 2543L 5.4
+1-3573 25731, s.35
+L3825 262sO 6.13
+L3825 25250 5.Os
+Sadar Chuadanga
+11500 24073 5.89
+11902 2351s s.93
+1"3L82 29038 4.56
+L2645 24760 5.42
+L2a76 25460 5.27
+L3342 39525 5.67
+10809 261,28 5
+LOO34 17751 4.54
+14239 2461.4 4.9
+11358 L91"70 5.O2
+67s2 1,954s 4.98
+7990 2L2L0 s.03
+8005 21,533 5.04
+7400 2191,O 5.78
+9340 22ass s.85
+2375s s.33
+Sadar Jhenaidah
+9320
+Year
+lrrigated Area
+(ha) for Rabi crop
+Maximum
+Depletion
+Groundwater
+Level (m) (Jan￾March
+2005-o6 6.s2
+2006-o7 7 .32
+zooT-oa 7 .23
+2008-o9 5.89
+2009-10 5.32
+2010-11 5.94
+20LL-12 5.09
+20L2-L3 4.92
+20]-3-14 5.22
+20L4-L5
+2015-16
+20L6-L7
+20L7-48
+2018-19
+20L9-20
+2020-21,
+2005-o6
+2006-07
+2007-oa
+2008-o9
+2009-10
+2010-11
+20Lt-12
+20L2-L3
+20L3-L4
+20L4-15
+2015-L6
+20L6-47
+20L7-L8
+2018-19
+20L9-20
+2020-2L
+2005-o5
+2006-o7
+2007-oa
+2008-o9
+2009-10
+20LO-tt
+20tL-Lz
+20L2-13
+20L3-14
+2014-L5
+201-5-1,6
+2016-L7
+20L7-tA
+2018-19
+2019-20
+2020-21
+40
+No. of STW
+
+============================================================
+PAGE 47 (1676 chars)
+============================================================
+Groundwater level Fluctuation Hydrograph
+(January- March)
+!eEq]qrOiNmstnoN eaooiHidi.iid 38538s=sssig eooooooooooo NNNNNNNN--NN
+@
+r
+N
+o
+@
+O
+N
+o
+N
+N
+O
+N
+o
+N
+o
+N
+4.00
+4.50
+5.00
+5.s0
+6.00
+6.s0
+7.00
+7.50
+8.00
+' Jhikorgacha Jessore
+- 
+Sadar Chuadanga
+,.,.*".....,. Kalaroa Satkh i ra
+-....,- SadarJhenaidah
+E
+E
+o
+o
+P
+G
+=
+Figure S0:Changes in the depth of groundwater table (Jan-lVar) over time
+The above figure-SO prepared by the average depth of groundwater table over the last
+15 years (2006-2021) is indicating the fluctuation of groundwater table in the South￾Western region of Bangladesh. The hydrograph implies that in the dry period (January￾lVarch), all the upazila's water level was within the range of the suction lift pump.
+Groundwater Table Hydrographs
+4.56
+4.O2
+4.OA
+3.O4
+3.36
+3.09
+Year Upazila/District No. of DTW No. of STW
+Irrigated
+Area (ha) for
+boro crop
+Maximum
+Depletion
+Groundwater
+Level (m) (Jan￾March)
+2005-o6
+Chowdagram Comilla
+247 L1_62 10990 5.67
+2006-o7 21,4 LL6L LL1,1,O 5.85
+2007-oa 225 Lt47 1.L344 5.O7
+2008-o9 226 1.467 LL645 s.63
+2009-10 2L7 1,357 LO454 4.43
+21,3 6276 4.Aa
+201,1,-1,2 2L9 L634 8525 5.05
+201,2-1,3 1.76 L438 91-8s 5.13
+20L3-1,4 22L 1395 8935 5.23
+20a4-15 221 L666 8410 5.1_2
+201,5-1,6 222 1600 13 133 5.4s
+20L6-L7 220 1530 9225 6.03
+20L7-'J,a 1-535 13616 4.4
+20L8-'t9 158 1535 L1.61,6 3.8s
+20L9-20 L38 L345 L0620 4.3a
+2020-21 138 9620
+2005-o6 Kachua Chandpur 144 891 8310
+2006-o7 146 934 9544
+2007-oa L46 1,1,O4 8519
+2008-o9 1,46 11-63 7904
+2009-10 L41, 1,2s2 9925
+20L0-'J,1, 1,40 L454 6005
+20L1-1,2 L2A L525 7420
+4t
+3.52
+20L0-'1,1, 1551
+230
+1345
+
+============================================================
+PAGE 48 (1652 chars)
+============================================================
+Yea r
+7011_-L2
+r312-13
+I 3 13-14
+:114-15
+r 115-16
+_)1_6-1.7
+:.)1-7 -la
+: o 18-19
+I O 19-20
+)c20-21
+r lo5-o6
+: lo6-o7
+: lo7-o8
+- lo8-o9
+- 
+l09-10
+_110-11
+_)L]--1_2
+_)12-1_3 5.: -
+-,13-1_4 5.7 t
+-,i 14-15 4.98 _:15-16
+_,L6-17
+- :1_7 -78
+_ _- 18-19
+-,- 19-20
+_ _20-2L
+Groundwater level Fluctuation Hydrograph
+19F-@oroiN OOOc)HHH L! 6@roooloH ooooodd
+ooooooo NNNNNNN
+(January- March)
+iddddd o)od HNN
+c€OrO idN
+ooo NNN
+NOsf
+dHd ooo NNN
+n
+o
+N
+(o
+oN
+r
+o
+N
+- 
+Chowdagram
+Comilla
+J
+2.OO
+2.50
+3.00
+3.50
+4.00
+4.50
+5.00
+5.s0
+6.00
+6.50
+7.00
+- 
+Kachua
+Chandpur
+m $3f,3; B.Baria
+Figure 51:Changes in the depth of groundwater table (Jan-lVar) over time
+--e figure-S1 prepared by the maximum depth of groundwater table over the last 15
+:ars (2006-2021) is indicating the fluctuation of groundwater table in the South-
+:,stern region of Bangladesh. The hydrograph implies that in the dry period (January-
+;'ch), all the upazila's water level was within the range of the suction lift pump to tap
+.- : ',vater for irrigation.
+U pazilalDistrict No. of DTW No. of STW
+lrriea:+:
+Area -= t:.
+boro cr: 
+=
+124 1525 I
+136 1_426
+63 L490
+1-34 1,426
+13s L420 6-:-
+1-40 608 978 -
+1-41- 67_2 8095
+1-37 602 6279
+L44 712 6520
+Kachua Chandpur
+441 712 6206
+1-42 3000 13200
+1-42 3000 13500
+130 3207 1.4226
+L44 4630 15445
+1-52 4626 18360
+10s 1818 709a
+100 1479 7749
+98 1,87L 7770
+101 1458 11585
+1-O2 1869 9560
+to2 1869 4775 5.03
+101 1369 8579 4.55
+L02 1-373 9105 5.3a
+54 1369 4305 5.52
+57 2359 4525 7.1-2
+Sadar B.Baria
+56 2659 7525 6.4
+42
+rl;h$trftwnm
+ryHilmir
+fmrm*um,
+ffi dn' dMUfrn
+
+============================================================
+PAGE 49 (2526 chars)
+============================================================
+FINDINGS OF THE SURVEY
+The main objective of this survey was to find out the number of operated different
+irrigation equipment, area irrigated and beneficiaries. BADC, DAE and BTMDA field
+staffs are collected the above irrigation equipment information's. We know that, the
+accurate area calculation was quite difficult, because there was no specific method to
+calculate the area. So, the information's was collected from the statement of the
+equipment's owners and consultation with beneficiary farmers. lt is mentioned that the
+irrigated area per equipment may vary from location to location as well as farmer to
+farmer.
+The main findings of this survey report are:
+a During this irrigation season 2020-21 the operation of deep tube wells decreased by
+0.14% shallow tube wells and low lift pumps increasedby 0.785% and 2.23%
+respectively which is significant in comparison with the previous year.
+* ln the 2020-21 Rabi season, total irrigated area was 5654789 hectares, of which
+groundwater irrigation covered 4108254 hectares, 72.65% of the total irrigated
+area; while surface water irrigation covered 154653 hectares and 27.35Yo of total
+irrigated area.To comparison with the previous year which is indicates that using of
+groundwater in irrigation activities is discouraging significantly in boro season.
+* The irrigated area during this Rabi season increased by 0.48% than that of the
+previous year 2019-20. The area under DTW decreased by Q.11o/o, STW
+isincreased by 012% and LLP also increased by 1.37% which is acceptable.
+* It is found that about 94.86% (35059) DTWs were operated by electric motors and
+5.13% (1896) DTWs were operated by diesel engines. ln case of shallow tube
+wells, 26.83% (378225) STWs were operated by electric motors and 73.16%
+(1031464) STWs were operated by diesel engines. Low Lift Pumps were mainly
+operated by diesel engines, which is 90.23% (184429) and the rest were operated
+by electric motors which is only 9.70% (19962).
+* The average irrigated area per DTW was 29.37 hectares, per STW was 2.13
+hectares and per Low Lift Pump was 6.30 hectares.
+a The price of rice determines future investment to a considerable degree. The
+producer/farmers will be encouraged to invest in irrigation sector if the Boro price
+goes up unusually.
+a It is very essential to strengthen survey and monitoring activities by providing
+enough skill manpower for collecting and analyzing irrigation related data which will
+help Government for taking future plan & program.
+43
+
+============================================================
+PAGE 50 (2617 chars)
+============================================================
+|o|o
+l'-N
+CO
+]o\t
+u1NN
+NF
+l'. @oN(Y)
+No
+lo|o
+(v)
+o@NooN
+(ortN
+(Y)
+(o@o
+c) loo
+NNt
+@(ot
+|ooF
+o()rtoN
+]o(9N
+tl) (o
+o
+@
+u) (,
+o) \t(oN
+olot6N
+(l) @
+loN$
+o (r| N
+loN@@
+@6o|oNo
+t
+o)
+ro
+|o
+o |o(,€@
+F￾ol NI !+l rl6
+u) \t
+u) NN
+(o
+lo
+(v)
+l'-
+u) lo
+Ntt
+(o
+(a
+l'.
+({) F$NF
+o@
+l'. (|) @
+t-No
+(oN
+F-
+(v)
+o) N
+NN
+!t
+coo(o@
+N(oooF
+o) \t(oN
+(|,) o(r)
+o@(9
+(v)
+(,{@
+ooN
+oN
+\tN
+a)
+(Y)
+to
+d)
+oom
+o=o
+0.
+*$
+?,.o o Ylo
+= 
+I-J (r)
+= <$ H mo
+h;X
+: 6N I EN
+; r# < oF
+tu
+E oo G -(o
+r i:co rr oN c CU 6 q)!Q
+< o:l
+tt o0)
+= Ep v OF
+.Lo
+@(o
+cl)
+(o
+IrI NNooF
+om
+!jo
+.zf
+()x
+I.JJ
+T'
+AV
+\7a
+c)
+TEr.i >5 FEr
+IJJ
+5oo
+i:NEdi c.t io:N
+tOaO6o
+-(E9b) Eo,
+'i0)
+='>
+Io
+<b
+!tr
+3qfo*.NCO9>
+oo
+f(E
+rrr [J *o-
+,Y fi, :(,
+:'=
+;evo
+>o
+!oto;o
+do;i!;
+(oo@N
+o
+@o(9\tlo@N
+to
+l'-lo
+0oNr
+(Y) N@
+o roN
+looo(Y)
+\tt-o(oo.o
+(r,
+t-@
+o
+NN|o
+o) ot
+or @@oo
+\t
+@
+o) N
+o (v) hN
+lo|-(o
+o)
+ot
+loloIr(,o
+lolo
+o ]oNFF
+(oo
+o@
+(o
+o)
+F
+o I
+({)
+lo\fs
+(ooF
+-fl
+(o\t
+(oo
+o
+|oN
+o !o({) Fo
+l'.- $(9
+tot
+(o€t
+(Y)
+o@
+F￾o
+@N
+\t\to
+too
+rfto
+@
+ro
+o o) (oo@N
+c,
+loNN@
+t-(,
+t
+o
+@
+\tN
+\t\f
+c)
+o6
+(9tt
+c)
+Ir)
+o
+r
+ot @(,
+(Y)
+@(9
+co(,
+(r)
+ooo
+o=m
+3a
+({) N
+\tl'-\tN(oo
+\t@{o
+N@o@o
+('
+ooo(ot
+Co
+t@oN
+lo
+l'.l'.N
+l'.NN
+(o
+u) o
+N
+(Y)
+lolo
+lo@to
+tO|oo(o(,
+to('
+c) (oh
+o !t
+c) @No
+o(oo@q) F
+N$
+(oN
+o
+N{(o
+\t@N(r)
+(+)
+N
+00o
+o
+t-{N(oo
+6t
+\ttN(Y)
+t
+(ooN
+lo
+lo(9@
+loFN
+l'.tN
+rOo
+No
+l'.
+(|,)
+lolor
+o
+]o@
+o|oo
+lo
+(Y)
+Nto
+|ot-|ot
+@
+tl
+u') t￾ln(oNN(r)
+o) t.@
+N@o
+ooo
+o=m
+=Fo
+o€
+F. @F
+loo
+oo
+sl
+6) N
+oo
+t,- NN
+(o
+1oo
+!t
+t,- N
+(o
+(') N
+u) \t
+lo(' rN
+oro{o
+o) @
+o) F
+o
+|o@
+l"c)
+lO
+N
+u)
+F. (o
+\tNr
+(o
+@(v)
+rotN
+tN
+!o@F
+to
+c) t.F
+o@
+t,. $|o(o
+lo
+lO
+(r) o
+to@
+o
+o
+o ({) N
+lo\t
+oo
+to
+(oFF
+(o
+|o@
+ooo
+\t(oN
+o
+o
+o
+o
+o o) oot
+(l)Nr
+ol rol |ol ol
+ol
+:lol @l t-f.N
+oo
+oo
+oo
+oo
+oo
+oh
+looFo(r)
+o
+l'.(o
+F. (o
+l'.
+o
+o
+o
+o
+o
+l'-(o
+F. (oF
+l''. o(oo6
+tO
+(r) N
+@(oo@
+ro
+a) N
+o
+o
+o
+o
+(o\tN(Y) (' \t
+o
+o
+o (ortN
+c) (o$
+u) 6o(r) g)
+c,
+o
+o
+o ID@o(,o(l)E
+,5\
+o
+o
+o
+o
+0.+3o+=o
+=o3
+,goo
+od
+(EG=
+Eo
+(, =(E
+,9=t,G
+;o
+lr=(Eo
+oEf
+o-LToo
+=o=!!o
+foo
+oo
+o
+o
+o
+oo
+L
+loINl|ot(oIrt llot6t I l.- l'o
+l'
+sl=
+8l*
+il E
+,l
+slE
+=l
+Eg
+q,E e(! OIL o
+oG' o-c
+Pu !<f
+$l(o (ol6| ol@
+l-I =o!
+(.) o
+lrJ
+.otoG
+(, o
+EsEo
+oi C(! OIL m
+olc) ll)l- lolro rl6) Flt ol6)INII
+pG
+9s
+gu:<
+f
+Fom
+uI tooI
+(ol$
+rf) I 6) o)ll.. lAr I c
+*o6.Eqr$
+Etr G(E zao
+,l
+#iE

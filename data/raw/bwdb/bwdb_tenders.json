@@ -1,0 +1,30 @@
+{
+  "started": "2026-05-10T12:49:46.940566",
+  "cppt_tenders": [
+    {
+      "source": "cppt",
+      "url": "https://www.eprocure.gov.bd/home.jsp",
+      "status": "error",
+      "error": "Page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://www.eprocure.gov.bd/home.jsp\", waiting until \"domcontentloaded\"\n"
+    },
+    {
+      "source": "bwdb",
+      "url": "https://bwdb.gov.bd/",
+      "status": "no_pump_tenders"
+    },
+    {
+      "source": "dasg",
+      "url": "https://www.dpp.gov.bd/",
+      "status": "no_pump_tenders"
+    }
+  ],
+  "newspaper_tenders": [],
+  "egp_tenders": [],
+  "summary": {
+    "cppt_sources_checked": 3,
+    "newspaper_tenders": 0,
+    "egp_tenders": 0,
+    "total_found": 0,
+    "completed": "2026-05-10T12:50:41.580956"
+  }
+}
